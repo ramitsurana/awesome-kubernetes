@@ -13,6 +13,8 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 
 # Useful Articles:
 
+* [Installation on Centos 7](http://www.severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services)
+
 ## Main Resources:
 
 ## Books:
@@ -24,6 +26,11 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 ## People:
 
 ## Interesting Twitter Accounts:
+
+## Amazing People:
+
+* [Bredan Burns](https://twitter.com/brendandburns)
+
 
 
 

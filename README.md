@@ -10,7 +10,6 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 # Starting point:
 
 # Menu:
-* [What is Docker ?](#what-is-docker-)
 * [Starting Point](#where-to-start-)
 * [Useful Articles](#useful-articles)
 * [Main Resources](#main-resources)

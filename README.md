@@ -10,6 +10,15 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 # Starting point:
 
 # Menu:
+* [What is Docker ?](#what-is-docker-)
+* [Starting Point](#where-to-start-)
+* [Useful Articles](#useful-articles)
+* [Main Resources](#main-resources)
+* [Books](#books)
+* [Slide Presentations](#slide-presentations)
+* [Useful videos](#useful-videos)
+* [Interesting Twitter Accounts](#twitter-accounts)
+* [Amazing People](#amazing-people)
 
 # Useful Articles:
 
@@ -22,14 +31,14 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 ## Slide Presentations:
 
 ## Useful Videos:
-
-## People:
+*[Container Orchestration using CoreOS and Kubernetes](https://www.youtube.com/watch?v=tA8XNVPZM2w)
 
 ## Interesting Twitter Accounts:
 
 ## Amazing People:
 
 * [Bredan Burns](https://twitter.com/brendandburns)
+* [Kelsey Hightower](https://twitter.com/kelseyhightower)
 
 
 

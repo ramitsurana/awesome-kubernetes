@@ -10,7 +10,6 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 # Starting point:
 
 # Menu:
-* [Starting Point](#where-to-start-)
 * [Useful Articles](#useful-articles)
 * [Main Resources](#main-resources)
 * [Books](#books)
@@ -22,6 +21,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 # Useful Articles:
 
 * [Installation on Centos 7](http://www.severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services)
+*  [Packaging Multiple Resources together](http://blog.arungupta.me/kubernetes-application-package-multiple-resources-together/)
 
 ## Main Resources:
 
@@ -38,9 +38,5 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 
 * [Bredan Burns](https://twitter.com/brendandburns)
 * [Kelsey Hightower](https://twitter.com/kelseyhightower)
-
-
-
-
-
+* [Arun Gupta](https://twitter.com/arungupta)
 

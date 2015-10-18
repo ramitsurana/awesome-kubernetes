@@ -33,6 +33,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 ## Main Resources:
 
 ## Interesting Github-repos:
+Coming Up Soon...
 
 ## Books:
 Coming Soon ...

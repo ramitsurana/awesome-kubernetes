@@ -22,9 +22,10 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 
 # Useful Articles:
 
-* [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/)
+* [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/) by [Arun Gupta](https://twitter.com/arungupta)
 * [Installation on Centos 7](http://www.severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services)
 *  [Packaging Multiple Resources together](http://blog.arungupta.me/kubernetes-application-package-multiple-resources-together/)
+*  [An Introduction to Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes) by [Justin Ellingwood](https://twitter.com/jmellingwood)
 
 ## Main Resources:
 
@@ -38,7 +39,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
  
 
 ## Useful Videos:
-* [Container Orchestration using CoreOS and Kubernetes](https://www.youtube.com/watch?v=tA8XNVPZM2w)
+* [Container Orchestration using CoreOS and Kubernetes](https://www.youtube.com/watch?v=tA8XNVPZM2w) by [Kelsey Hightower](https://twitter.com/kelseyhightower)
 
 ## Amazing People:
 

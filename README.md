@@ -42,3 +42,19 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 * [Kelsey Hightower](https://twitter.com/kelseyhightower)
 * [Arun Gupta](https://twitter.com/arungupta)
 
+## Contributing:
+Contributions are welcome!
+
+This list is just getting started, please contribute to make it super awesome.
+
+Check out the [Contributing Guidelines](https://github.com/ramitsurana/awesome-kubernetes/blob/master/CONTRIBUTING.md).
+
+##License
+
+  The work done has been licensed under Apache License 2.0.The license file can be found
+  [here](https://github.com/ramitsurana/awesome-kubernetes/blob/master/LICENSE).
+  You can find out more about license,at
+  
+    http://www.apache.org/licenses/LICENSE-2.0
+
+

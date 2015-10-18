@@ -14,11 +14,13 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 # Menu:
 * [Useful Articles](#useful-articles)
 * [Main Resources](#main-resources)
-* [Interesting Github-repos](#interesting github-repos)
+* [Interesting Github-repos](#interesting-github-repos)
 * [Books](#books)
 * [Slide Presentations](#slide-presentations)
 * [Useful videos](#useful-videos)
 * [Amazing People](#amazing-people)
+* [Contributing](#contributing)
+* [License](#license)
 
 # Useful Articles:
 
@@ -33,6 +35,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 ## Interesting Github-repos:
 
 ## Books:
+Coming Soon ...
 
 ## Slide Presentations:
 * [Architecture Overview](http://www.slideshare.net/enakai/architecture-overview-kubernetes-with-red-hat-enterprise-linux-71) by [enakai00](https://www.twitter.com/enakai00/)
@@ -41,6 +44,8 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 
 ## Useful Videos:
 * [Container Orchestration using CoreOS and Kubernetes](https://www.youtube.com/watch?v=tA8XNVPZM2w) by [Kelsey Hightower](https://twitter.com/kelseyhightower)
+* [A Technical Overview of Kubernetes](https://www.youtube.com/watch?v=WwBdNXt6wO4) by [Bredan Burns](https://twitter.com/brendandburns)
+* [Docker Containers and Kubernetes with Brian Dorsey](https://www.youtube.com/watch?v=Fcb4aoSAZ98) by [Brian Dorsey](https://twitter.com/briandorsey)
 
 ## Amazing People:
 
@@ -56,7 +61,7 @@ This list is just getting started, please contribute to make it super awesome.
 
 Check out the [Contributing Guidelines](https://github.com/ramitsurana/awesome-kubernetes/blob/master/CONTRIBUTING.md).
 
-##License
+## License:
 
   The work done has been licensed under Apache License 2.0.The license file can be found
   [here](https://github.com/ramitsurana/awesome-kubernetes/blob/master/LICENSE).

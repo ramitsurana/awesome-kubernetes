@@ -26,6 +26,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 * [Installation on Centos 7](http://www.severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services)
 *  [Packaging Multiple Resources together](http://blog.arungupta.me/kubernetes-application-package-multiple-resources-together/)
 *  [An Introduction to Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes) by [Justin Ellingwood](https://twitter.com/jmellingwood)
+*  [Scaling Docker with Kubernetes](http://www.infoq.com/articles/scaling-docker-with-kubernetes) by [Carlos Sanchez](https://www.twitter.com/csanchez)
 
 ## Main Resources:
 
@@ -46,6 +47,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 * [Bredan Burns](https://twitter.com/brendandburns)
 * [Kelsey Hightower](https://twitter.com/kelseyhightower)
 * [Arun Gupta](https://twitter.com/arungupta)
+* [Carlos Sanchez](https://www.twitter.com/csanchez)
 
 ## Contributing:
 Contributions are welcome!

@@ -12,10 +12,10 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 # Menu:
 * [Useful Articles](#useful-articles)
 * [Main Resources](#main-resources)
+* [Interesting Github-repos](#interesting github-repos)
 * [Books](#books)
 * [Slide Presentations](#slide-presentations)
 * [Useful videos](#useful-videos)
-* [Interesting Twitter Accounts](#twitter-accounts)
 * [Amazing People](#amazing-people)
 
 # Useful Articles:
@@ -26,15 +26,15 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 
 ## Main Resources:
 
+## Interesting Github-repos:
+
 ## Books:
 
 ## Slide Presentations:
 * [Architecture Overview](http://www.slideshare.net/enakai/architecture-overview-kubernetes-with-red-hat-enterprise-linux-71) by [enakai00](https://www.twitter.com/enakai00/)
 
 ## Useful Videos:
-*[Container Orchestration using CoreOS and Kubernetes](https://www.youtube.com/watch?v=tA8XNVPZM2w)
-
-## Interesting Twitter Accounts:
+* [Container Orchestration using CoreOS and Kubernetes](https://www.youtube.com/watch?v=tA8XNVPZM2w)
 
 ## Amazing People:
 

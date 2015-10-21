@@ -70,6 +70,9 @@ Coming Soon ...
 * [Google Cloud Platform](https://twitter.com/googlecloud)
 * [Kube Con](https://twitter.com/kubeconio)
 * [Kismatic](https://twitter.com/kismatic)
+* [Engine Yard](https://twitter.com/engineyard)
+* [Apcera](https://twitter.com/Apcera)
+* [CoreOS](https://twitter.com/coreoslinux)
 
 ## Amazing People:
 
@@ -81,9 +84,10 @@ Coming Soon ...
 * [Joseph Jacks](https://twitter.com/asynchio)
 * [Joe Beda](https://twitter.com/jbeda)
 * [Patrick Reilly](https://twitter.com/preillyme)
+* [Brandon Philips](https://twitter.com/BrandonPhilips)
 
 ## Contributing:
-Contributions are welcome!
+Contributions are most welcome!
 
 This list is just getting started, please contribute to make it super awesome.
 

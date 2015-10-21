@@ -16,7 +16,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 # Menu:
 * [Useful Articles](#useful-articles)
 * [Main Resources](#main-resources)
-* [Monitoring Services](#monitoring-services)
+* [Monitoring Services](#monitoring)
 * [Interesting Github-repos](#interesting-github-repos)
 * [Books](#books)
 * [Slide Presentations](#slide-presentations)
@@ -25,6 +25,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
  * [Useful videos](#useful-videos)
 * [Interesting Twitter Accounts](#interesting-twitter-accounts)
 * [Amazing People](#amazing-people)
+* [Connecting with Kubernetes](#connecting-with-kubernetes)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -101,6 +102,10 @@ The goal of Kubedash is to allow the user or an administrator of a Kubernetes cl
 * [Patrick Reilly](https://twitter.com/preillyme)
 * [Brandon Philips](https://twitter.com/BrandonPhilips)
 
+
+## Connecting with Kubernetes:
+* [Freenode]: (http://webchat.freenode.net/?channels=google-containers)
+* [Twitter]: (https://twitter.com/kubernetesio)
 
 ## Contributing:
 Contributions are most welcome!

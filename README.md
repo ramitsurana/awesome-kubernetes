@@ -10,6 +10,7 @@ A curated list for awesome kubernetes sources
 _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 
 # Starting point:
+* [Google is years ahead when it comes to the cloud, but it's happy the world is catching up](http://www.businessinsider.in/Google-is-years-ahead-when-it-comes-to-the-cloud-but-its-happy-the-world-is-catching-up/articleshow/47793327.cms)
 
 # Menu:
 * [Useful Articles](#useful-articles)
@@ -17,7 +18,10 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 * [Interesting Github-repos](#interesting-github-repos)
 * [Books](#books)
 * [Slide Presentations](#slide-presentations)
-* [Useful videos](#useful-videos)
+* [Videos](#videos)
+ * [Main Account](#main-account)
+ * [Useful videos](#useful-videos)
+* [Interesting Twitter Accounts](#interesting-twitter-accounts)
 * [Amazing People](#amazing-people)
 * [Contributing](#contributing)
 * [License](#license)
@@ -49,11 +53,23 @@ Coming Soon ...
 * [Cluster management with Kubernetes](http://www.slideshare.net/SatnamSingh67/2015-0605-cluster-management-with-kubernetes) by [Satnam Singh](https://www.twitter.com/satnamsingh)
  
 
-## Useful Videos:
+## Videos:
+
+### Main Account:
+* [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
+* [Kubernetes](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg)
+
+### Useful Videos:
+* [Google I/O 2014 - Containerizing the Cloud with Docker on Google Cloud Platform](https://www.youtube.com/watch?v=tsk0pWf4ipw) by [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
 * [Container Orchestration using CoreOS and Kubernetes](https://www.youtube.com/watch?v=tA8XNVPZM2w) by [Kelsey Hightower](https://twitter.com/kelseyhightower)
 * [A Technical Overview of Kubernetes](https://www.youtube.com/watch?v=WwBdNXt6wO4) by [Bredan Burns](https://twitter.com/brendandburns)
 * [Docker Containers and Kubernetes with Brian Dorsey](https://www.youtube.com/watch?v=Fcb4aoSAZ98) by [Brian Dorsey](https://twitter.com/briandorsey)
 
+## Interesting Twitter Accounts:
+* [Kubernetes](https://twitter.com/kubernetesio)
+* [Google Cloud Platform](https://twitter.com/googlecloud)
+* [Kube Con](https://twitter.com/kubeconio)
+* [Kismatic](https://twitter.com/kismatic)
 
 ## Amazing People:
 
@@ -62,6 +78,9 @@ Coming Soon ...
 * [Arun Gupta](https://twitter.com/arungupta)
 * [Carlos Sanchez](https://www.twitter.com/csanchez)
 * [Satnam Singh](https://www.twitter.com/satnamsingh)
+* [Joseph Jacks](https://twitter.com/asynchio)
+* [Joe Beda](https://twitter.com/jbeda)
+* [Patrick Reilly](https://twitter.com/preillyme)
 
 ## Contributing:
 Contributions are welcome!

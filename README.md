@@ -11,6 +11,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 
 # Starting point:
 * [Google is years ahead when it comes to the cloud, but it's happy the world is catching up](http://www.businessinsider.in/Google-is-years-ahead-when-it-comes-to-the-cloud-but-its-happy-the-world-is-catching-up/articleshow/47793327.cms)
+* * [An Intro to Google’s Kubernetes and How to Use It](https://labs.ctl.io/what-is-kubernetes-and-how-to-use-it/) by [Laura Frank](https://twitter.com/rhein_wein)
 
 # Menu:
 * [Useful Articles](#useful-articles)
@@ -35,6 +36,8 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 *  [Scaling Docker with Kubernetes](http://www.infoq.com/articles/scaling-docker-with-kubernetes) by [Carlos Sanchez](https://www.twitter.com/csanchez)
 * [Creating a Kubernetes Cluster to Run Docker Formatted Container Images](https://access.redhat.com/articles/1353773) by [Chris Negus](https://twitter.com/linuxcricket)
 * [Containerizing Docker on Kubernetes !!](https://www.linkedin.com/pulse/containerizing-docker-kubernetes-ramit-surana) by [Ramit Surana](https://www.twitter.com/ramitsurana) 
+* [Running Kubernetes Example on CoreOS, Part 1](https://coreos.com/blog/running-kubernetes-example-on-CoreOS-part-1/) by [Kelsey Hightower](https://twitter.com/kelseyhightower)
+
 
 ## Main Resources:
 
@@ -42,7 +45,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 * [Main Repo](https://www.github.com/kubernetes/kubernetes)
 
 ## Books:
-* [Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920043874.do)
+* [Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920043874.do) by [Kelsey Hightower](https://twitter.com/kelseyhightower)
 
 ## Slide Presentations:
 * [Architecture Overview](http://www.slideshare.net/enakai/architecture-overview-kubernetes-with-red-hat-enterprise-linux-71) by [enakai00](https://www.twitter.com/enakai00/)
@@ -73,6 +76,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 * [Engine Yard](https://twitter.com/engineyard)
 * [Apcera](https://twitter.com/Apcera)
 * [CoreOS](https://twitter.com/coreoslinux)
+* [DevOps Summit](https://twitter.com/DevOpsSummit)
 
 ## Amazing People:
 
@@ -85,7 +89,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 * [Joe Beda](https://twitter.com/jbeda)
 * [Patrick Reilly](https://twitter.com/preillyme)
 * [Brandon Philips](https://twitter.com/BrandonPhilips)
-* [DevOps Summit](https://twitter.com/DevOpsSummit)
+
 
 ## Contributing:
 Contributions are most welcome!

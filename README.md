@@ -42,7 +42,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 * [Main Repo](https://www.github.com/kubernetes/kubernetes)
 
 ## Books:
-Coming Soon ...
+* [Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920043874.do)
 
 ## Slide Presentations:
 * [Architecture Overview](http://www.slideshare.net/enakai/architecture-overview-kubernetes-with-red-hat-enterprise-linux-71) by [enakai00](https://www.twitter.com/enakai00/)
@@ -85,6 +85,7 @@ Coming Soon ...
 * [Joe Beda](https://twitter.com/jbeda)
 * [Patrick Reilly](https://twitter.com/preillyme)
 * [Brandon Philips](https://twitter.com/BrandonPhilips)
+* [DevOps Summit](https://twitter.com/DevOpsSummit)
 
 ## Contributing:
 Contributions are most welcome!

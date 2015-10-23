@@ -3,6 +3,13 @@ A curated list for awesome kubernetes sources
 
 ![kube7-logo](https://github-cloud.s3.amazonaws.com/assets/8342133/10566171/fd43327e-75fc-11e5-8f00-77d609c113e4.png)
 
+> "Talent wins games, but teamwork and intelligence wins championships." 
+> by Michael Jordan
+
+Without the help from these [amazing contributors](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
+building this awesome-repo would never has been possible.Thank You very much guys !!
+
+
 # What is Kubernetes ?
 
 > Kubernetes is an open source orchestration system for Docker containers. It handles scheduling onto nodes in a compute cluster and actively manages workloads to ensure that their state matches the users declared intentions. Using the concepts of "labels" and "pods", it groups the containers which make up an application into logical units for easy management and discovery.
@@ -124,5 +131,6 @@ Check out the [Contributing Guidelines](https://github.com/ramitsurana/awesome-k
   You can find out more about license,at
   
     http://www.apache.org/licenses/LICENSE-2.0
+
 
 

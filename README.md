@@ -26,7 +26,6 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 * [Useful Articles](#useful-articles)
 * [Main Resources](#main-resources)
 * [Monitoring Services](#monitoring)
-* [Interesting Github-repos](#interesting-github-repos)
 * [Books](#books)
 * [Slide Presentations](#slide-presentations)
 * [Videos](#videos)
@@ -61,9 +60,6 @@ Performance analytics UI for Kubernetes Clusters.
 The goal of Kubedash is to allow the user or an administrator of a Kubernetes cluster to easily verify and understand the performance of a cluster and jobs running within it through intuitive visualizations of aggregated metrics, derived stats and event patterns. It is not intended to be a general-purpose Kubernetes UI. Instead, kubedash uses multiple sources of information to summarize and provide high-level analytic information to users and to the cluster administrator.
 * [Kube-ui](https://github.com/kubernetes/kube-ui):
  Container Cluster Manager from Google Web UI 
-
-## Interesting Github-repos:
-* [Main Repo](https://www.github.com/kubernetes/kubernetes)
 
 ## Books:
 * [Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920043874.do) by [Kelsey Hightower](https://twitter.com/kelseyhightower)

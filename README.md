@@ -9,6 +9,7 @@ A curated list for awesome kubernetes sources
 Without the help from these [amazing contributors](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
 building this awesome-repo would never has been possible.Thank You very much guys !!
 
+#### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
 # What is Kubernetes ?
 

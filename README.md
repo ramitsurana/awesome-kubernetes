@@ -1,5 +1,6 @@
 # Awesome-kubernetes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ramitsurana/awesome-kubernetes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-A curated list for awesome kubernetes sources
+
+A curated list for awesome kubernetes sources Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome) 
 
 ![kube7-logo](https://github-cloud.s3.amazonaws.com/assets/8342133/10566171/fd43327e-75fc-11e5-8f00-77d609c113e4.png)
 

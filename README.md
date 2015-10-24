@@ -103,15 +103,15 @@ The goal of Kubedash is to allow the user or an administrator of a Kubernetes cl
 
 ## Amazing People:
 
-* [Bredan Burns](https://twitter.com/brendandburns),
-* [Kelsey Hightower](https://twitter.com/kelseyhightower)
-* [Arun Gupta](https://twitter.com/arungupta)
-* [Carlos Sanchez](https://www.twitter.com/csanchez)
-* [Satnam Singh](https://www.twitter.com/satnamsingh)
-* [Joseph Jacks](https://twitter.com/asynchio)
-* [Joe Beda](https://twitter.com/jbeda)
-* [Patrick Reilly](https://twitter.com/preillyme)
-* [Brandon Philips](https://twitter.com/BrandonPhilips)
+* [Bredan Burns](https://twitter.com/brendandburns),Senior Staff Software Engineer at Google
+* [Kelsey Hightower](https://twitter.com/kelseyhightower),Product Manager and Chief Advocate at CoreOS
+* [Arun Gupta](https://twitter.com/arungupta),Vice President, Developer Relations at Couchbase
+* [Carlos Sanchez](https://www.twitter.com/csanchez),Senior Software Engineer,CloudBees
+* [Satnam Singh](https://www.twitter.com/satnamsingh),Software Engineer at Facebook
+* [Joseph Jacks](https://twitter.com/asynchio),VP, Technology Strategy at Kismatic, Inc
+* [Joe Beda](https://twitter.com/jbeda),Co-founder and Technical Lead for Kubernetes
+* [Patrick Reilly](https://twitter.com/preillyme),CEO at Kismatic, Inc. / Advisor at Mesosphere, Inc
+* [Brandon Philips](https://twitter.com/BrandonPhilips),CTO at CoreOS
 
 
 ## Connecting with Kubernetes:

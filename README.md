@@ -86,6 +86,10 @@ The goal of Kubedash is to allow the user or an administrator of a Kubernetes cl
 * [Docker Containers and Kubernetes with Brian Dorsey](https://www.youtube.com/watch?v=Fcb4aoSAZ98) by [Brian Dorsey](https://twitter.com/briandorsey)
 
 ## Interesting Twitter Accounts:
+
+####*"As we know Twitter is quick, it’s easy to communicate on, and is a very valuable social channel for a brand or business if you use it to its full potential.By following these news aggregators, rolling news channels, and companies, you can get the inside scoop of a story long before it hits the mainstream news outlets."*
+
+
 * [Kubernetes](https://twitter.com/kubernetesio)
 * [Google Cloud Platform](https://twitter.com/googlecloud)
 * [Kube Con](https://twitter.com/kubeconio)

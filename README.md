@@ -60,6 +60,8 @@ Performance analytics UI for Kubernetes Clusters.
 The goal of Kubedash is to allow the user or an administrator of a Kubernetes cluster to easily verify and understand the performance of a cluster and jobs running within it through intuitive visualizations of aggregated metrics, derived stats and event patterns. It is not intended to be a general-purpose Kubernetes UI. Instead, kubedash uses multiple sources of information to summarize and provide high-level analytic information to users and to the cluster administrator.
 * [Kube-ui](https://github.com/kubernetes/kube-ui):
  Container Cluster Manager from Google Web UI 
+* [Console](https://github.com/kubernetes/console):
+  It is a general purpose, web-based UI for Kubernetes clusters. It allows to manage applications running in the cluster,      troubleshoot them, as well as, manage the cluster itself.
 
 ## Books:
 * [Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920043874.do) by [Kelsey Hightower](https://twitter.com/kelseyhightower)
@@ -101,7 +103,7 @@ The goal of Kubedash is to allow the user or an administrator of a Kubernetes cl
 
 ## Amazing People:
 
-* [Bredan Burns](https://twitter.com/brendandburns)
+* [Bredan Burns](https://twitter.com/brendandburns),
 * [Kelsey Hightower](https://twitter.com/kelseyhightower)
 * [Arun Gupta](https://twitter.com/arungupta)
 * [Carlos Sanchez](https://www.twitter.com/csanchez)

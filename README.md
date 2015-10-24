@@ -124,11 +124,7 @@ Check out the [Contributing Guidelines](https://github.com/ramitsurana/awesome-k
 
 ## License:
 
-  The work done has been licensed under Apache License 2.0.The license file can be found
-  [here](https://github.com/ramitsurana/awesome-kubernetes/blob/master/LICENSE).
-  You can find out more about license,at
-  
-    http://www.apache.org/licenses/LICENSE-2.0
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">awesome-kubernetes</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.linkedin.com/in/ramitsurana" property="cc:attributionName" rel="cc:attributionURL">Ramit Surana</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 
 

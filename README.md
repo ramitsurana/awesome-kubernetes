@@ -59,6 +59,11 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 * [Dynamic Kubernetes installation/configuration with SaltStack](http://www.dasblinkenlichten.com/dynamic-kubernetes-installationconfiguration-with-saltstack/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 * [Deploying Kubernetes with SaltStack](http://www.dasblinkenlichten.com/deploying-kubernetes-with-saltstack/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 * [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) by [Jon Langemak](https://twitter.com/blinken_lichten)
+* [Corekube: Running Kubernetes on CoreOS via OpenStack
+](https://developer.rackspace.com/blog/running-coreos-and-kubernetes/) by [Mike Metral](https://twitter.com/mikemetral
+)
+* [Using Weave with Kubernetes on a CoreOS Cluster](http://weave.works/guides/platform/kubernetes/os/coreos/cloud/vagrant/) by [Weaveworks](https://twitter.com/weaveworks)
+* [CoreOS + Kubernetes Step By Step](https://coreos.com/kubernetes/docs/latest/getting-started.html) by [Coreos](https://www.twitter.com/coreoslinux)
 
 
 ## Main Resources:

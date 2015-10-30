@@ -88,6 +88,16 @@ The goal of Kubedash is to allow the user or an administrator of a Kubernetes cl
 * [Console](https://github.com/kubernetes/console):
   It is a general purpose, web-based UI for Kubernetes clusters. It allows to manage applications running in the cluster,      troubleshoot them, as well as, manage the cluster itself.
 
+## Hypervisor-agnostic Docker Engine:
+Hyper is a Hypervisor-agnostic Docker Engine that allows you to run Docker images on any hypervisor (KVM, Xen, etc.).
+Technically speaking,
+
+Hyper = Hypervisor + Kernel + Docker Image
+By containing applications within separate VM instances and kernel spaces, Hyper is able to offer an excellent Hardware-enforced Isolation, which is much needed in multi-tenant environments.
+
+Hyper also promises Immutable Infrastructure by eliminating the middle layer of Guest OS, along with the hassle to configure and manage them.
+
+
 ## Books:
 * [Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920043874.do) by [Kelsey Hightower](https://twitter.com/kelseyhightower)
 
@@ -98,6 +108,7 @@ The goal of Kubedash is to allow the user or an administrator of a Kubernetes cl
 * [An Introduction to Kubernetes](http://www.slideshare.net/imesh/an-introduction-to-kubernetes) by [Imesh Gunaratne](https://www.linkedin.com/in/imesh)
 * [Musings on Mesos: Docker, Kubernetes, and Beyond.](http://www.slideshare.net/timothysc/apache-coneu) by [Timothy St. Clair](http://timothysc.github.io/)
 * [Cluster management with Kubernetes](http://www.slideshare.net/SatnamSingh67/2015-0605-cluster-management-with-kubernetes) by [Satnam Singh](https://www.twitter.com/satnamsingh)
+* [A brief study on Kubernetes and its components](http://www.slideshare.net/ramitsurana/a-brief-study-on-kubernetes-and-its-components) by [Ramit Surana](https://www.twitter.com/ramitsurana)
  
 
 ## Videos:
@@ -145,6 +156,7 @@ The goal of Kubedash is to allow the user or an administrator of a Kubernetes cl
 * [Google +](https://plus.google.com/u/0/b/116512812300813784482/116512812300813784482)
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/kubernetes)
 * [Mailing List](https://groups.google.com/forum/#!forum/google-containers)
+* [Newsletter](https://kismatic.com/community/introducing-kubernetes-weekly-news/) by [Kismatic](https://kismatic.com/)
 
 ## Contributing:
 Contributions are most welcome!

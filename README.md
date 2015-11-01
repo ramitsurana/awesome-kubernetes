@@ -24,6 +24,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 * [An Intro to Google’s Kubernetes and How to Use It](https://labs.ctl.io/what-is-kubernetes-and-how-to-use-it/) by [Laura Frank](https://twitter.com/rhein_wein)
 * [Getting Started on Kubernetes](http://containertutorials.com/get_started_kubernetes/index.html) by [Rajdeep Dua](https://www.twitter.com/rajdeepdua)
 * [Kubernetes: The Future of Cloud Hosting](https://meteorhacks.com/learn-kubernetes-the-future-of-the-cloud) by [Meteorhacks](https://twitter.com/meteorhacks)
+* [Kubernetes by Google](https://thevirtualizationguy.wordpress.com/tag/kubernetes/) by [Gaston Pantana](https://twitter.com/GastonPantana)
 
 # Menu:
 * [Useful Articles](#useful-articles)
@@ -73,6 +74,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 * [Keycloak on Kubernetes with OpenShift 3](http://blog.keycloak.org/2015/04/keycloak-on-kubernetes-with-openshift-3.html) by [Marko Strukelj](https://twitter.com/mstruk2000)
 * [Kubernetes clusters with Oh-My-Vagrant](https://ttboj.wordpress.com/2015/05/02/kubernetes-clusters-with-oh-my-vagrant/) by [James](https://twitter.com/#!/purpleidea)
 * [Fleet Unit Files for Kubernetes on CoreOS](http://blog.michaelhamrah.com/2015/06/fleet-unit-files-for-kubernetes-on-coreos/) by [Michael Hamrah](https://twitter.com/mhamrah)
+* [Kubernetes on AWS](https://coreos.com/kubernetes/docs/latest/kubernetes-on-aws.html) by [CoreOS](https://twitter.com/coreoslinux)
 
 ## Main Resources:
 
@@ -93,9 +95,12 @@ Hyper is a Hypervisor-agnostic Docker Engine that allows you to run Docker image
 Technically speaking,
 
 Hyper = Hypervisor + Kernel + Docker Image
+
 By containing applications within separate VM instances and kernel spaces, Hyper is able to offer an excellent Hardware-enforced Isolation, which is much needed in multi-tenant environments.
 
 Hyper also promises Immutable Infrastructure by eliminating the middle layer of Guest OS, along with the hassle to configure and manage them.
+
+* [Announcing Hypernetes - The Multitenant Kubernetes Distribution](https://hyper.sh/blog/post/2015/10/27/announcing-hypernetes-the-multitenant-kubernetes-distribution.html) by [Thibault Bronchain](https://twitter.com/tbronchain)
 
 
 ## Books:

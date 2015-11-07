@@ -12,13 +12,19 @@ building this awesome-repo would never has been possible.Thank You very much guy
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
-# What is Kubernetes ? :fire::fire::fire::fire:
+# What is Kubernetes ? :ship:
 
 > Kubernetes is an open source orchestration system for Docker containers. It handles scheduling onto nodes in a compute cluster and actively manages workloads to ensure that their state matches the users declared intentions. Using the concepts of "labels" and "pods", it groups the containers which make up an application into logical units for easy management and discovery.
 
 _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 
+# Roadmap: 
+
+The roadmap to the future of awesome-kubernetes is COMING SOON !!
+
 # Starting point:
+*A place that marks the beginning of a journey*
+
 * [Are you Ready to Manage your Infrastructure like Google?](http://www.jetstack.io/new-blog/2015/6/19/are-you-ready-to-manage-your-infrastructure-like-google-kubernetes-coming-to-a-cloud-near-you)
 * [Google is years ahead when it comes to the cloud, but it's happy the world is catching up](http://www.businessinsider.in/Google-is-years-ahead-when-it-comes-to-the-cloud-but-its-happy-the-world-is-catching-up/articleshow/47793327.cms)
 * [An Intro to Google’s Kubernetes and How to Use It](https://labs.ctl.io/what-is-kubernetes-and-how-to-use-it/) by [Laura Frank](https://twitter.com/rhein_wein)
@@ -28,13 +34,13 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 * [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/) by [Arun Gupta](https://twitter.com/arungupta)
 * [Application Containers: Kubernetes and Docker from Scratch](http://keithtenzer.com/2015/06/01/application-containers-kubernetes-and-docker-from-scratch/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 
-# Menu:
+# Menu:  
 * [Useful Articles](#useful-articles)
 * [Main Resources](#main-resources)
 * [Monitoring Services](#monitoring)
-* [Books](#books)
+* [Books](#books) :books:
 * [Slide Presentations](#slide-presentations)
-* [Videos](#videos)
+* [Videos](#videos) :tv:
  * [Main Account](#main-account)
  * [Useful videos](#useful-videos)
 * [Interesting Twitter Accounts](#interesting-twitter-accounts)
@@ -44,6 +50,7 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 * [License](#license)
 
 # Useful Articles:
+*A piece of writing included with others in a newspaper, magazine, or other publication*
 
 * [Kubernetes: Getting Started With a Local Deployment](http://www.jetstack.io/new-blog/2015/7/6/getting-started-with-a-local-deployment)
 * [Installation on Centos 7](http://www.severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services)
@@ -84,6 +91,8 @@ _Source:_ [What is Kubernetes](https://www.kubernetes.io/)
 ## Main Resources:
 
 ## Monitoring:
+*To maintain regular surveillance over kubernetes*
+
 * [Heapster](https://github.com/kubernetes/heapster): 
 Heapster enables Container Cluster Monitoring and Performance Analysis.
 Heapster currently supports Kubernetes and CoreOS natively. It can be extended to support other cluster management solutions easily. Heapster collects and interprets various signals like compute resource usage, lifecycle events, etc, and exports cluster metrics via REST endpoints.
@@ -108,10 +117,15 @@ Hyper also promises Immutable Infrastructure by eliminating the middle layer of 
 * [Announcing Hypernetes - The Multitenant Kubernetes Distribution](https://hyper.sh/blog/post/2015/10/27/announcing-hypernetes-the-multitenant-kubernetes-distribution.html) by [Thibault Bronchain](https://twitter.com/tbronchain)
 
 
-## Books:
+## Books:  
+*A written or printed work consisting of pages glued or sewn together along one side and bound in covers that provide
+us with information*
+
 * [Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920043874.do) by [Kelsey Hightower](https://twitter.com/kelseyhightower)
 
 ## Slide Presentations:
+*A slide is a single page of a presentation created with software such as PowerPoint or OpenOffice Impress.*
+
 * [Architecture Overview](http://www.slideshare.net/enakai/architecture-overview-kubernetes-with-red-hat-enterprise-linux-71) by [enakai00](https://www.twitter.com/enakai00/)
 * [Package your Java EE Application using Docker and Kubernetes](http://www.slideshare.net/arungupta1/package-your-java-ee-application-using-docker-and-kubernetes) by [Arun Gupta](https://twitter.com/arungupta)
 * [Scaling Jenkins with Docker and Kubernetes](http://www.slideshare.net/carlossg/scaling-jenkins-with-docker-and-kubernetes) by [Carlos Sanchez](https://www.twitter.com/csanchez)
@@ -121,7 +135,9 @@ Hyper also promises Immutable Infrastructure by eliminating the middle layer of 
 * [A brief study on Kubernetes and its components](http://www.slideshare.net/ramitsurana/a-brief-study-on-kubernetes-and-its-components) by [Ramit Surana](https://www.twitter.com/ramitsurana)
  
 
-## Videos:
+## Videos:      
+*A recording of moving visual images made digitally or on videotape.*
+
 
 ### Main Account:
 * [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)

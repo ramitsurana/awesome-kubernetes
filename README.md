@@ -46,6 +46,7 @@ The roadmap to the future of awesome-kubernetes is COMING SOON !!
 * [Interesting Twitter Accounts](#interesting-twitter-accounts)
 * [Amazing People](#amazing-people)
 * [Connecting with Kubernetes](#connecting-with-kubernetes)
+* [Conferences](#conferences)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -87,6 +88,7 @@ The roadmap to the future of awesome-kubernetes is COMING SOON !!
 * [Kubernetes: First steps on Amazon AWS](http://blog.dutchcoders.io/kubernetes-first-steps-on-amazon-aws/) by [Remco](http://blog.dutchcoders.io/author/remco/)
 * [Kubernetes Container Orchestration through Java APIs](http://keithtenzer.com/2015/05/04/kubernetes-container-orchestration-through-java-apis/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 * [Containers at Scale with Kubernetes on OpenStack](http://keithtenzer.com/2015/04/15/containers-at-scale-with-kubernetes-on-openstack/) by [Keith Tenzer](https://twitter.com/keithtenzer)
+* [Installing cAdvisor and Heapster on bare metal Kubernetes](http://www.dasblinkenlichten.com/installing-cadvisor-and-heapster-on-bare-metal-kubernetes/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 
 ## Main Resources:
 
@@ -187,6 +189,12 @@ us with information*
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/kubernetes)
 * [Mailing List](https://groups.google.com/forum/#!forum/google-containers)
 * [Newsletter](https://kismatic.com/community/introducing-kubernetes-weekly-news/) by [Kismatic](https://kismatic.com/)
+
+## Conferences:
+*Some must to go and attend conferences on kubernetes*
+
+* [Kubecon](https://kubecon.io/)
+* [Container Camp](https://container.camp/)
 
 ## Contributing:
 Contributions are most welcome!

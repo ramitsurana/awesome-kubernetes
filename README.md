@@ -38,6 +38,7 @@ The roadmap to the future of awesome-kubernetes is COMING SOON !!
 * [Useful Articles](#useful-articles)
 * [Main Resources](#main-resources)
 * [Monitoring Services](#monitoring)
+* [Helm Package Manager](#helm-package-manager)
 * [Books](#books) :books:
 * [Slide Presentations](#slide-presentations)
 * [Videos](#videos) :tv:
@@ -105,6 +106,8 @@ The goal of Kubedash is to allow the user or an administrator of a Kubernetes cl
  Container Cluster Manager from Google Web UI 
 * [Console](https://github.com/kubernetes/console):
   It is a general purpose, web-based UI for Kubernetes clusters. It allows to manage applications running in the cluster,      troubleshoot them, as well as, manage the cluster itself.
+* [Sysdig](http://www.sysdig.org/):
+ Sysdig is open source, system-level exploration: capture system state and activity from a running Linux instance, then save,  filter and analyze. Sysdig is scriptable in Lua and includes a command line interface and a powerful interactive UI,         csysdig, that runs in your terminal.
 
 ## Hypervisor-agnostic Docker Engine:
 Hyper is a Hypervisor-agnostic Docker Engine that allows you to run Docker images on any hypervisor (KVM, Xen, etc.).
@@ -118,6 +121,11 @@ Hyper also promises Immutable Infrastructure by eliminating the middle layer of 
 
 * [Announcing Hypernetes - The Multitenant Kubernetes Distribution](https://hyper.sh/blog/post/2015/10/27/announcing-hypernetes-the-multitenant-kubernetes-distribution.html) by [Thibault Bronchain](https://twitter.com/tbronchain)
 
+
+## Helm Package manager:
+Built by Deis and Inspired by Homebrew, apt, and npm, Helm is a tool for working with Kubernetes-powered applications.Helm makes it easy run apps and services inside Kubernetes.
+
+* [Introducing Helm, The Kubernetes Package Manager](https://deis.com/blog/2015/introducing-helm-for-kubernetes)
 
 ## Books:  
 *A written or printed work consisting of pages glued or sewn together along one side and bound in covers that provide

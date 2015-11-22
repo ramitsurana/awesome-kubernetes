@@ -107,7 +107,9 @@ The goal of Kubedash is to allow the user or an administrator of a Kubernetes cl
 * [Console](https://github.com/kubernetes/console):
   It is a general purpose, web-based UI for Kubernetes clusters. It allows to manage applications running in the cluster,      troubleshoot them, as well as, manage the cluster itself.
 * [Sysdig](http://www.sysdig.org/):
- Sysdig is open source, system-level exploration: capture system state and activity from a running Linux instance, then save,  filter and analyze. Sysdig is scriptable in Lua and includes a command line interface and a powerful interactive UI,         csysdig, that runs in your terminal.
+ Sysdig is open source, system-level exploration: capture system state and activity from a running Linux instance, then save,  filter and analyze. Sysdig is scriptable in Lua and includes a command line interface and a powerful interactive UI,csysdig, that runs in your terminal.
+* [Prometheus](http://prometheus.io):
+ Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud. Since its inception in 2012, many companies and organizations have adopted Prometheus, and the project has a very active developer and user community. It is now a standalone open source project and maintained independently of any company.
 
 ## Hypervisor-agnostic Docker Engine:
 Hyper is a Hypervisor-agnostic Docker Engine that allows you to run Docker images on any hypervisor (KVM, Xen, etc.).
@@ -176,6 +178,9 @@ us with information*
 * [Apcera](https://twitter.com/Apcera)
 * [CoreOS](https://twitter.com/coreoslinux)
 * [DevOps Summit](https://twitter.com/DevOpsSummit)
+* [KubeWeekly](https://twitter.com/kubeweekly)
+* [KubeFacts](https://twitter.com/kubefacts)
+* [Skippbox](https://twitter.com/skippbox)
 
 ## Amazing People:
 

@@ -39,6 +39,7 @@ The roadmap to the future of awesome-kubernetes is COMING SOON !!
 * [Main Resources](#main-resources)
 * [Monitoring Services](#monitoring)
 * [Helm Package Manager](#helm-package-manager)
+* [Ubernetes](#ubernetes)
 * [Books](#books) :books:
 * [Slide Presentations](#slide-presentations)
 * [Videos](#videos) :tv:
@@ -128,6 +129,12 @@ Hyper also promises Immutable Infrastructure by eliminating the middle layer of 
 Built by Deis and Inspired by Homebrew, apt, and npm, Helm is a tool for working with Kubernetes-powered applications.Helm makes it easy run apps and services inside Kubernetes.
 
 * [Introducing Helm, The Kubernetes Package Manager](https://deis.com/blog/2015/introducing-helm-for-kubernetes)
+
+## Ubernetes:
+
+A central design concept in Kubernetes to cluster Kubernetes across several regions.
+
+* [Introducing Kubernetes Cluster Federation a.k.a Ubernetes](https://github.com/kubernetes/kubernetes/blob/master/docs/proposals/federation.md)
 
 ## Books:  
 *A written or printed work consisting of pages glued or sewn together along one side and bound in covers that provide

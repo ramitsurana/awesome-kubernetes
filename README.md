@@ -98,6 +98,8 @@ The roadmap to the future of awesome-kubernetes is COMING SOON !!
 
 * [Console](https://github.com/kubernetes/console):
   It is a general purpose, web-based UI for Kubernetes clusters. It allows to manage applications running in the cluster, troubleshoot them, as well as, manage the cluster itself.
+* [Datadog](http://www.datadoghq.com):
+ Datadog is a hosted monitoring and metrics platform, with built in support for Kubernetes and Docker.  Their Kubernetes integration pulls in Docker and Kubernetes events, converts labels and pod names into tags, as well as pulls metrics from Docker and CAdvisor.  This allows you to build application dashboards and alerts that display data across pods, Nodes, and services.
 * [Heapster](https://github.com/kubernetes/heapster): 
 Heapster enables Container Cluster Monitoring and Performance Analysis.
 Heapster currently supports Kubernetes and CoreOS natively. It can be extended to support other cluster management solutions easily. Heapster collects and interprets various signals like compute resource usage, lifecycle events, etc, and exports cluster metrics via REST endpoints.

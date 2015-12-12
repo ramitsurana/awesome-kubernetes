@@ -97,6 +97,10 @@ The roadmap to the future of awesome-kubernetes is COMING SOON !!
 ## Monitoring:
 *To maintain regular surveillance over kubernetes*
 
+* [Console](https://github.com/kubernetes/console):
+  It is a general purpose, web-based UI for Kubernetes clusters. It allows to manage applications running in the cluster, troubleshoot them, as well as, manage the cluster itself.
+* [Datadog](http://www.datadoghq.com):
+ Datadog is a hosted monitoring and metrics platform, with built in support for Kubernetes and Docker.  Their Kubernetes integration pulls in Docker and Kubernetes events, converts labels and pod names into tags, as well as pulls metrics from Docker and CAdvisor.  This allows you to build application dashboards and alerts that display data across pods, Nodes, and services.
 * [Heapster](https://github.com/kubernetes/heapster): 
 Heapster enables Container Cluster Monitoring and Performance Analysis.
 Heapster currently supports Kubernetes and CoreOS natively. It can be extended to support other cluster management solutions easily. Heapster collects and interprets various signals like compute resource usage, lifecycle events, etc, and exports cluster metrics via REST endpoints.
@@ -105,12 +109,10 @@ Performance analytics UI for Kubernetes Clusters.
 The goal of Kubedash is to allow the user or an administrator of a Kubernetes cluster to easily verify and understand the performance of a cluster and jobs running within it through intuitive visualizations of aggregated metrics, derived stats and event patterns. It is not intended to be a general-purpose Kubernetes UI. Instead, kubedash uses multiple sources of information to summarize and provide high-level analytic information to users and to the cluster administrator.
 * [Kube-ui](https://github.com/kubernetes/kube-ui):
  Container Cluster Manager from Google Web UI 
-* [Console](https://github.com/kubernetes/console):
-  It is a general purpose, web-based UI for Kubernetes clusters. It allows to manage applications running in the cluster,      troubleshoot them, as well as, manage the cluster itself.
-* [Sysdig](http://www.sysdig.org/):
- Sysdig is open source, system-level exploration: capture system state and activity from a running Linux instance, then save,  filter and analyze. Sysdig is scriptable in Lua and includes a command line interface and a powerful interactive UI,csysdig, that runs in your terminal.
 * [Prometheus](http://prometheus.io):
  Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud. Since its inception in 2012, many companies and organizations have adopted Prometheus, and the project has a very active developer and user community. It is now a standalone open source project and maintained independently of any company.
+* [Sysdig](http://www.sysdig.org/):
+ Sysdig is open source, system-level exploration: capture system state and activity from a running Linux instance, then save,  filter and analyze. Sysdig is scriptable in Lua and includes a command line interface and a powerful interactive UI,csysdig, that runs in your terminal.
 
 ## Hypervisor-agnostic Docker Engine:
 Hyper is a Hypervisor-agnostic Docker Engine that allows you to run Docker images on any hypervisor (KVM, Xen, etc.).

@@ -145,6 +145,7 @@ A central design concept in Kubernetes to cluster Kubernetes across several regi
 us with information*
 
 * [Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920043874.do) by [Kelsey Hightower](https://twitter.com/kelseyhightower)
+* [Docker and Kubernetes Under the Hood](http://www.amazon.cn/Docker-%E5%AE%B9%E5%99%A8%E4%B8%8E%E5%AE%B9%E5%99%A8%E4%BA%91-%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6SEL%E5%AE%9E%E9%AA%8C%E5%AE%A4/dp/B014ETH1IG/ref=sr_1_1?s=books&ie=UTF8&qid=1450944386&sr=1-1&keywords=docker%E5%AE%B9%E5%99%A8%E4%B8%8E%E5%AE%B9%E5%99%A8%E4%BA%91) (Chinese) by [Harry Zhang](https://twitter.com/resouer), Jianbo Sun and ZJU SEL lab
 
 ## Slide Presentations:
 *A slide is a single page of a presentation created with software such as PowerPoint or OpenOffice Impress.*

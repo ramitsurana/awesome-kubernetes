@@ -21,7 +21,9 @@ _Source:_ [What is Kubernetes](http://www.kubernetes.io/)
 
 # Roadmap: 
 
-The roadmap to the future of awesome-kubernetes is COMING SOON !!
+The awesome-kubernetes will now soon be available in the form of different releases and package bundles.It means that you can 
+download the awesome kubernetes release upto a certain period of time.The release for awesome kubernetes 2015 bundle is going to be 
+released soon.Stay tuned for more updates.
 
 # Starting point:
 *A place that marks the beginning of a journey*
@@ -93,6 +95,7 @@ The roadmap to the future of awesome-kubernetes is COMING SOON !!
 * [Kubernetes Container Orchestration through Java APIs](http://keithtenzer.com/2015/05/04/kubernetes-container-orchestration-through-java-apis/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 * [Containers at Scale with Kubernetes on OpenStack](http://keithtenzer.com/2015/04/15/containers-at-scale-with-kubernetes-on-openstack/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 * [Installing cAdvisor and Heapster on bare metal Kubernetes](http://www.dasblinkenlichten.com/installing-cadvisor-and-heapster-on-bare-metal-kubernetes/) by [Jon Langemak](https://twitter.com/blinken_lichten)
+* [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
 
 ## Main Resources:
 

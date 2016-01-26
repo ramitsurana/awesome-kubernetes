@@ -142,6 +142,10 @@ Built by Deis and Inspired by Homebrew, apt, and npm, Helm is a tool for working
 A central design concept in Kubernetes to cluster Kubernetes across several regions.
 
 * [Introducing Kubernetes Cluster Federation a.k.a Ubernetes](https://github.com/kubernetes/kubernetes/blob/master/docs/proposals/federation.md)
+ 
+## [Fabric8](http://fabric8.io/):
+
+An integrated open source DevOps and Integration Platform which works out of the box on any Kubernetes or OpenShift environment and provides Continuous Delivery, Management, ChatOps and a Chaos Monkey.
 
 ## Books:  
 *A written or printed work consisting of pages glued or sewn together along one side and bound in covers that provide

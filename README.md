@@ -1,5 +1,7 @@
-# Awesome-kubernetes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+# Awesome-kubernetes 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 [![Build Status](https://travis-ci.org/ramitsurana/awesome-kubernetes.svg?branch=master)](https://travis-ci.org/ramitsurana/awesome-kubernetes)
+[![License](https://img.shields.io/badge/License-CC%204.0-brightgreen.svg)](http://creativecommons.org/licenses/by-nc/4.0/)
 
 A curated list for awesome kubernetes sources Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome) 
 
@@ -44,6 +46,9 @@ released soon.Stay tuned for more updates.
 * [Monitoring Services](#monitoring)
 * [Helm Package Manager](#helm-package-manager)
 * [Ubernetes](#ubernetes)
+* [fabric8](#fabric8)
+* [kmachine](#kmachine)
+* [Paas Providers](#paasproviders)
 * [Books](#books) :books:
 * [Slide Presentations](#slide-presentations)
 * [Videos](#videos) :tv:
@@ -146,6 +151,16 @@ A central design concept in Kubernetes to cluster Kubernetes across several regi
 ## [Fabric8](http://fabric8.io/):
 
 An integrated open source DevOps and Integration Platform which works out of the box on any Kubernetes or OpenShift environment and provides Continuous Delivery, Management, ChatOps and a Chaos Monkey.
+
+## [Kmachine](https://github.com/skippbox/kmachine):
+
+kmachine lets you create Docker hosts on your computer, on cloud providers, and inside your own data center. It creates servers, installs Docker on them, then configures the Docker client to talk to them just like docker-machine
+
+##PaaS Providers:
+
+### [Openshift](https://www.openshift.com/):
+
+OpenShift is Red Hat's Platform-as-a-Service (PaaS) that allows developers to quickly develop, host, and scale applications in a cloud environment. With OpenShift you have a choice of offerings, including online, on premise, and open source project options.
 
 ## Books:  
 *A written or printed work consisting of pages glued or sewn together along one side and bound in covers that provide

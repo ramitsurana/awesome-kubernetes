@@ -166,6 +166,10 @@ spread is a command line tool that builds and deploys a Docker project to a Kube
 - Be the fastest, simplest way to deploy Docker to production
 - Work well for a single developer or an entire team (no more broken bash scripts!)
 
+## [noel](https://github.com/jonparrott/noel):
+
+Noel is an example Platform-as-a-Service-like workflow built on top of Kubernetes.
+
 ##PaaS Providers:
 
 ### [Openshift](https://www.openshift.com/):

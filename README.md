@@ -157,6 +157,14 @@ An integrated open source DevOps and Integration Platform which works out of the
 
 kmachine lets you create Docker hosts on your computer, on cloud providers, and inside your own data center. It creates servers, installs Docker on them, then configures the Docker client to talk to them just like docker-machine
 
+## [spread](https://github.com/redspread/spread):
+
+spread is a command line tool that builds and deploys a Docker project to a Kubernetes cluster in one command. The project's goals are to:
+
+- Enable rapid iteration with Kubernetes
+- Be the fastest, simplest way to deploy Docker to production
+- Work well for a single developer or an entire team (no more broken bash scripts!)
+
 ##PaaS Providers:
 
 ### [Openshift](https://www.openshift.com/):

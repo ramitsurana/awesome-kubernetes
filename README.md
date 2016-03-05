@@ -5,7 +5,8 @@
 
 A curated list for awesome kubernetes sources Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome) 
 
-![kube7-logo](https://github-cloud.s3.amazonaws.com/assets/8342133/10566171/fd43327e-75fc-11e5-8f00-77d609c113e4.png)
+![k8](https://cloud.githubusercontent.com/assets/8342133/13547481/fcb5ffb0-e2fa-11e5-8f75-555cea5eb7b2.png)
+
 
 > "Talent wins games, but teamwork and intelligence wins championships." 
 > by Michael Jordan

@@ -256,6 +256,7 @@ us with information*
 * [Twitter](https://twitter.com/kubernetesio)
 * [Google +](https://plus.google.com/u/0/b/116512812300813784482/116512812300813784482)
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/kubernetes)
+* [Slack](http://slack.k8s.io/)
 * [Mailing List](https://groups.google.com/forum/#!forum/google-containers)
 * [Newsletter](https://kismatic.com/community/introducing-kubernetes-weekly-news/) by [Kismatic](https://kismatic.com/)
 

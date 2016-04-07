@@ -50,6 +50,7 @@ released soon.Stay tuned for more updates.
 * [fabric8](#fabric8)
 * [kmachine](#kmachine)
 * [Paas Providers](#paasproviders)
+* [Continous Delivery](#continousdelivery)
 * [Books](#books) :books:
 * [Slide Presentations](#slide-presentations)
 * [Videos](#videos) :tv:
@@ -176,6 +177,12 @@ OpenShift is Red Hat's Platform-as-a-Service (PaaS) that allows developers to qu
 
 Deis (pronounced DAY-iss) is an open source PaaS that makes it easy to deploy and manage applications on your own servers. Deis builds upon Docker and CoreOS to provide a lightweight PaaS with a Heroku-inspired workflow.
 
+## Continous Delivery:
+
+###[Fabric8](http://fabric8.io):
+
+Fabric8 DevOps provides a completely integrated open source DevOps platform which works out of the box on any Kubernetes or OpenShift environment.The entire platform is modular and based on microservices so you can use as much or as little of Fabric8 DevOps as you wish!
+
 ## Books:  
 *A written or printed work consisting of pages glued or sewn together along one side and bound in covers that provide
 us with information*
@@ -265,6 +272,7 @@ us with information*
 
 * [Kubecon](https://kubecon.io/)
 * [Container Camp](https://container.camp/)
+* [GCP Next](https://cloudplatformonline.com/Next2016.html)
 
 ## Contributing:
 Contributions are most welcome!

@@ -25,8 +25,7 @@ _Source:_ [What is Kubernetes](http://kubernetes.io/)
 # Roadmap: 
 
 The awesome-kubernetes will now soon be available in the form of different releases and package bundles.It means that you can 
-download the awesome kubernetes release upto a certain period of time.The release for awesome kubernetes 2015 bundle is going to be 
-released soon.Stay tuned for more updates.
+download the awesome kubernetes release upto a certain period of time.The release for awesome kubernetes 2015 bundle is release.Checkout the releases column for more info.Stay tuned for more updates.
 
 # Starting point:
 *A place that marks the beginning of a journey*
@@ -104,6 +103,7 @@ released soon.Stay tuned for more updates.
 * [Installing cAdvisor and Heapster on bare metal Kubernetes](http://www.dasblinkenlichten.com/installing-cadvisor-and-heapster-on-bare-metal-kubernetes/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 * [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
 * [Comparison of Networking Solutions for Kubernetes](http://machinezone.github.io/research/networking-solutions-for-kubernetes/)
+* [Why Docker and Google Kubernetes Are Like PaaS Done Right](https://www.sdxcentral.com/articles/news/why-docker-and-google-kubernetes-are-like-paas-done-right/2015/08/)
 
 ## Main Resources:
 
@@ -273,6 +273,8 @@ us with information*
 * [Kubecon](https://kubecon.io/)
 * [Container Camp](https://container.camp/)
 * [GCP Next](https://cloudplatformonline.com/Next2016.html)
+* [Docker Con](http://dockercon.com)
+* [Devoxx](http://devoxx.com)
 
 ## Contributing:
 Contributions are most welcome!

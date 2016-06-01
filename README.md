@@ -26,11 +26,22 @@ building this awesome-repo would never has been possible, Thank You very much gu
 
 _Source:_ [What is Kubernetes](http://kubernetes.io/)
 
+## History:
+ 
+**Kubernetes is known to be a descendant of Google's system BORG**
+
+> The first unified container-management system developed at Google was the system we internally call Borg.
+It was built to manage both long-running services and batch jobs, which had previously been handled by two separate
+systems: Babysitter and the Global Work Queue. The latter’s architecture strongly influenced Borg, but was focused on
+batch jobs; both predated Linux control groups.
+
+_Source:_ [Kubernetes Past](http://http://research.google.com/pubs/archive/44843.pdf)
+
 
 ## Roadmap
 
 The awesome-kubernetes will now soon be available in the form of different releases and package bundles, It means that you can
-download the awesome kubernetes release upto a certain period of time, The release for awesome kubernetes 2015 bundle is release, Checkout the releases column for more info, Stay tuned for more updates.
+download the awesome kubernetes release upto a certain period of time, The release for awesome kubernetes 2015 bundle is released.Checkout the releases column for more info.Stay tuned for more updates.
 
 
 -----------------------------------------------------------------------
@@ -56,6 +67,7 @@ Menu
     * [Deis](#deis)
   * [Continous Delivery](#continousdelivery)
     * [Fabric8](#fabric8)
+* [Container Support](#container-support)
 * [Books](#books) :books:
 * [Slide Presentations](#slide-presentations)
 * [Videos](#videos) :tv:
@@ -64,6 +76,7 @@ Menu
 * [Interesting Twitter Accounts](#interesting-twitter-accounts)
 * [Amazing People](#amazing-people)
 * [Connecting with Kubernetes](#connecting-with-kubernetes)
+* [Companies](#companies)
 * [Conferences](#conferences)
 * [Contributing](#contributing)
 * [License](#license)
@@ -239,6 +252,20 @@ Deis (pronounced DAY-iss) is an open source PaaS that makes it easy to deploy an
 
 Fabric8 DevOps provides a completely integrated open source DevOps platform which works out of the box on any Kubernetes or OpenShift environment, The entire platform is modular and based on microservices so you can use as much or as little of Fabric8 DevOps as you wish!
 
+Container Support
+=======================================================================
+
+*A list of linux containers supported by kubernetes.*
+
+### [Docker](http://docker.com):
+
+Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments. As a result, IT can ship faster and run the same app, unchanged, on laptops, data center VMs, and any cloud.Check out [awesome-docker](https://github.com/veggiemonk/awesome-docker/) for more info.
+
+### [Rkt](http://coreos.com/rkt):
+
+rkt is the next-generation container manager for Linux clusters. Designed for security, simplicity, and composability within modern cluster architectures, rkt discovers, verifies, fetches, and executes application containers with pluggable isolation. rkt can run the same container with varying degrees of protection, from lightweight, OS-level namespace and capabilities isolation to heavier, VM-level hardware virtualization.
+
+
 
 Books
 =======================================================================
@@ -338,6 +365,16 @@ Connecting with Kubernetes
 * [Slack](http://slack.k8s.io/)
 * [Mailing List](https://groups.google.com/forum/#!forum/google-containers)
 * [Newsletter](https://kismatic.com/community/introducing-kubernetes-weekly-news/) by [Kismatic](https://kismatic.com/)
+
+Companies 
+=======================================================================
+
+*A list of companies supporting Kubernetes*
+
+* [Google](https://google.com)
+* [Coreos](https://coreos.com/)
+* [Red Hat](https://redhat.com)
+* [Apprenda](https://apprenda.com/)
 
 
 Conferences

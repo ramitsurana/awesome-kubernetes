@@ -17,6 +17,8 @@ A curated list for awesome kubernetes sources Inspired by [@sindresorhus' awesom
 Without the help from these [amazing contributors](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
 building this awesome-repo would never has been possible, Thank You very much guys !!
 
+**Thanks to Gitbook.This awesome list can now be downloaded and read in the form of a book.Check it out -->  https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/ .Keep Learning Keep Sharing !!**
+
 **If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!**
 
 
@@ -42,7 +44,6 @@ _Source:_ [Kubernetes Past](http://http://research.google.com/pubs/archive/44843
 
 The awesome-kubernetes will now soon be available in the form of different releases and package bundles, It means that you can
 download the awesome kubernetes release upto a certain period of time, The release for awesome kubernetes 2015 bundle is released.Checkout the releases column for more info.Stay tuned for more updates.
-
 
 -----------------------------------------------------------------------
 

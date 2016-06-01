@@ -22,6 +22,17 @@ building this awesome-repo would never has been possible.Thank You very much guy
 
 _Source:_ [What is Kubernetes](http://kubernetes.io/)
 
+# History:
+ 
+*Kubernetes is known to be a descendant of Google's system BORG*
+
+> The first unified container-management system developed at Google was the system we internally call Borg.
+It was built to manage both long-running services and batch jobs, which had previously been handled by two separate
+systems: Babysitter and the Global Work Queue. The latter’s architecture strongly influenced Borg, but was focused on
+batch jobs; both predated Linux control groups.
+
+_Source:_ [Kubernetes Past](http://http://research.google.com/pubs/archive/44843.pdf)
+
 # Roadmap: 
 
 The awesome-kubernetes will now soon be available in the form of different releases and package bundles.It means that you can 

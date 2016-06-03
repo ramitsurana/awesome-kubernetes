@@ -28,6 +28,7 @@ building this awesome-repo would never has been possible, Thank You very much gu
 
 _Source:_ [What is Kubernetes](http://kubernetes.io/)
 
+
 ## History:
 
 **Kubernetes is known to be a descendant of Google's system BORG**
@@ -37,7 +38,7 @@ It was built to manage both long-running services and batch jobs, which had prev
 systems: Babysitter and the Global Work Queue. The latter’s architecture strongly influenced Borg, but was focused on
 batch jobs; both predated Linux control groups.
 
-_Source:_ [Kubernetes Past](http://http://research.google.com/pubs/archive/44843.pdf)
+_Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 
 
 ## Roadmap

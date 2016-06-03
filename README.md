@@ -29,7 +29,7 @@ building this awesome-repo would never has been possible, Thank You very much gu
 _Source:_ [What is Kubernetes](http://kubernetes.io/)
 
 ## History:
- 
+
 **Kubernetes is known to be a descendant of Google's system BORG**
 
 > The first unified container-management system developed at Google was the system we internally call Borg.
@@ -62,6 +62,7 @@ Menu
     * [Fabric8](#fabric8)
     * [kmachine](#kmachine)
     * [spread](#spread)
+    * [Supergiant](#supergiant)
   * [Monitoring Services](#monitoring-services)
   * [Paas Providers](#paasproviders)
     * [OpenShift](#openshift)
@@ -100,6 +101,7 @@ Starting Point
 * [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/) by [Arun Gupta](https://twitter.com/arungupta)
 * [Application Containers: Kubernetes and Docker from Scratch](http://keithtenzer.com/2015/06/01/application-containers-kubernetes-and-docker-from-scratch/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 * [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/) by [Omer Dawelbeit](https://twitter.com/omerio)
+* [Top Reasons Businesses Should Move to Kubernetes Now](https://supergiant.io/blog/top-reasons-businesses-should-move-to-kubernetes-now) by [Mike Johnston](https://github.com/gopherstein)
 
 
 Main Resources
@@ -205,6 +207,11 @@ spread is a command line tool that builds and deploys a Docker project to a Kube
 - Enable rapid iteration with Kubernetes
 - Be the fastest, simplest way to deploy Docker to production
 - Work well for a single developer or an entire team (no more broken bash scripts!)
+
+
+### [Supergiant](https://supergiant.io)
+
+Supergiant is open-source and built on Kubernetes. It provisions "cost-based" server resources, load balancers, and block-level storage automatically to support stateful apps at scale with less hardware expense. The goals of the project are to make launching, managing, and scaling Kubernetes as easy as possible.
 
 
 ## Monitoring Services
@@ -367,7 +374,7 @@ Connecting with Kubernetes
 * [Mailing List](https://groups.google.com/forum/#!forum/google-containers)
 * [Newsletter](https://kismatic.com/community/introducing-kubernetes-weekly-news/) by [Kismatic](https://kismatic.com/)
 
-Companies 
+Companies
 =======================================================================
 
 *A list of companies supporting Kubernetes*

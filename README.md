@@ -214,6 +214,10 @@ spread is a command line tool that builds and deploys a Docker project to a Kube
 
 Supergiant is open-source and built on Kubernetes. It provisions "cost-based" server resources, load balancers, and block-level storage automatically to support stateful apps at scale with less hardware expense. The goals of the project are to make launching, managing, and scaling Kubernetes as easy as possible.
 
+### [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
+
+Kubernetes as a Filesystem.Its written in Python, because Python is still cool and has a solid FUSE library available for it. The fusepy library has some simple examples showing how to implement loopback and memory file systems.
+
 
 ## Monitoring Services
 

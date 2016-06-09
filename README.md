@@ -193,9 +193,9 @@ Built by Deis and Inspired by Homebrew, apt, and NPM. Helm is a tool for working
 A central design concept in Kubernetes to cluster Kubernetes across several regions.
 
 
-### [Fabric8](http://fabric8.io/)
+### [Minikube](http://github.com/kubernetes/minikube/)
 
-An integrated open source DevOps and Integration Platform which works out of the box on any Kubernetes or OpenShift environment and provides Continuous Delivery, Management, ChatOps and a Chaos Monkey.
+Minikube is a tool that makes it easy to run Kubernetes locally. Minikube runs a single-node Kubernetes cluster inside a VM on your laptop for users looking to try out Kubernetes or develop with it day-to-day.
 
 
 ### [kmachine](https://github.com/skippbox/kmachine)

@@ -5,4 +5,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-redirect --white-list linkedin.com,kismatic.com,slideshare.net,research.google.com --allow-dupe twitter.com,github.com,youtube.com,creativecommons.org
+  - awesome_bot README.md --allow-redirect --white-list linkedin.com,kismatic.com,slideshare.net,research.google.com --allow-dupe

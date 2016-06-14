@@ -386,6 +386,7 @@ Connecting with Kubernetes
 * [Slack](http://slack.k8s.io/)
 * [Mailing List](https://groups.google.com/forum/#!forum/google-containers)
 * [Newsletter](https://kismatic.com/community/introducing-kubernetes-weekly-news/) by [Kismatic](https://kismatic.com/)
+* [Reddit](https://www.reddit.com/r/kubernetes/)
 
 Companies
 =======================================================================

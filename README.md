@@ -224,6 +224,10 @@ Supergiant is open-source and built on Kubernetes. It provisions "cost-based" se
 
 Kubernetes as a Filesystem.Its written in Python, because Python is still cool and has a solid FUSE library available for it. The fusepy library has some simple examples showing how to implement loopback and memory file systems.
 
+### [KubeSpray](https://docs.kubespray.io/)
+
+KubeSpray is a tool to deploy a kubernetes cluster with Ansible.
+
 
 ## Monitoring Services
 
@@ -272,6 +276,10 @@ Deis (pronounced DAY-iss) is an open source PaaS that makes it easy to deploy an
 ### [Fabric8](http://fabric8.io)
 
 Fabric8 DevOps provides a completely integrated open source DevOps platform which works out of the box on any Kubernetes or OpenShift environment, The entire platform is modular and based on microservices so you can use as much or as little of Fabric8 DevOps as you wish!
+
+### [Jenkins](https://jenkins.io)
+
+Jenkins is an automation engine with an unparalleled plugin ecosystem to support all of your favorite tools in your delivery pipelines, whether your goal is continuous integration, automated testing, or continuous delivery.
 
 Container Support
 =======================================================================

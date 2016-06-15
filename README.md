@@ -44,7 +44,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 ## Roadmap
 
 The awesome-kubernetes will now soon be available in the form of different releases and package bundles, It means that you can
-download the awesome kubernetes release upto a certain period of time, The release for awesome kubernetes 2015 bundle is released.Checkout the releases column for more info.Stay tuned for more updates.
+download the awesome kubernetes release up to a certain period of time, The release for awesome kubernetes 2015 bundle is released.Checkout the releases column for more info.Stay tuned for more updates.
 
 -----------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ Menu
   * [Paas Providers](#paasproviders)
     * [OpenShift](#openshift)
     * [Deis](#deis)
-  * [Continous Delivery](#continousdelivery)
+  * [Continuous Delivery](#continuousdelivery)
     * [Fabric8](#fabric8)
 * [Container Support](#container-support)
 * [Books](#books) :books:
@@ -264,7 +264,7 @@ OpenShift is Red Hat's Platform-as-a-Service (PaaS) that allows developers to qu
 Deis (pronounced DAY-iss) is an open source PaaS that makes it easy to deploy and manage applications on your own servers. Deis builds upon Docker and CoreOS to provide a lightweight PaaS with a Heroku-inspired workflow.
 
 
-## Continous Delivery
+## Continuous Delivery
 
 *Build-test-deploy automated workflow software designed to make production environments more stable and life better for engineers*
 
@@ -386,6 +386,7 @@ Connecting with Kubernetes
 * [Slack](http://slack.k8s.io/)
 * [Mailing List](https://groups.google.com/forum/#!forum/google-containers)
 * [Newsletter](https://kismatic.com/community/introducing-kubernetes-weekly-news/) by [Kismatic](https://kismatic.com/)
+* [Reddit](https://www.reddit.com/r/kubernetes/)
 
 Companies
 =======================================================================

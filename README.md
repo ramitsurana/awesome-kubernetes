@@ -269,9 +269,9 @@ Bootkube is a helper tool for launching self-hosted Kubernetes clusters.When lau
 OpenShift is Red Hat's Platform-as-a-Service (PaaS) that allows developers to quickly develop, host, and scale applications in a cloud environment. With OpenShift you have a choice of offerings, including online, on premise, and open source project options.
 
 
-### [Deis](http://deis.io/)
+### [Deis Workflow](https://deis.com/)
 
-Deis (pronounced DAY-iss) is an open source PaaS that makes it easy to deploy and manage applications on your own servers. Deis builds upon Docker and CoreOS to provide a lightweight PaaS with a Heroku-inspired workflow.
+Deis Workflow is an open source PaaS that makes it easy to deploy and manage applications on your own servers. Workflow builds upon Kubernetes and Docker to provide a lightweight PaaS with a Heroku-inspired workflow.
 
 
 ## Continuous Delivery

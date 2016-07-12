@@ -411,6 +411,7 @@ Connecting with Kubernetes
 * [Mailing List](https://groups.google.com/forum/#!forum/google-containers)
 * [Newsletter](https://kismatic.com/community/introducing-kubernetes-weekly-news/) by [Kismatic](https://kismatic.com/)
 * [Reddit](https://www.reddit.com/r/kubernetes/)
+* [Community](https://github.com/kubernetes/community)
 
 Companies
 =======================================================================

@@ -437,7 +437,7 @@ Conferences
 
 *Some must to go and attend conferences on kubernetes*
 
-* [Kubecon](https://kubecon.io/)
+* [Kubecon](http://events.linuxfoundation.org/events/kubecon)
 * [Container Camp](https://container.camp/)
 * [GCP Next](https://cloudplatformonline.com/Next2016.html)
 * [Docker Con](http://dockercon.com)

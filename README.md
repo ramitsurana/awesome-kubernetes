@@ -40,6 +40,9 @@ batch jobs; both predated Linux control groups.
 
 _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 
+## Date of Birth:
+
+Kubernetes celebrates its birthday every year on 21st July.The project was born in the year 2015.
 
 ## Roadmap
 
@@ -234,6 +237,9 @@ KubeSpray is a tool to deploy a kubernetes cluster with Ansible.
 
 Bootkube is a helper tool for launching self-hosted Kubernetes clusters.When launched, bootkube will act as a temporary Kubernetes control-plane (api-server, scheduler, controller-manager), which operates long enough to bootstrap a replacement self-hosted control-plane.Additionally, bootkube can be used to generate all of the necessary assets for use in bootstrapping a new cluster. These assets can then be modified to support any additional configuration options.
 
+### [Localkube](https://github.com/redspread/localkube)
+
+It provides a Kubernetes cluster configured to run locally and optimized for rapid development.It is a single executable container process built for usage with [spread](https://github.com/redspread/spread).
 
 ## Monitoring Services
 
@@ -304,7 +310,7 @@ Docker is an open platform for developers and sysadmins to build, ship, and run 
 
 rkt is the next-generation container manager for Linux clusters. Designed for security, simplicity, and composability within modern cluster architectures, rkt discovers, verifies, fetches, and executes application containers with pluggable isolation. rkt can run the same container with varying degrees of protection, from lightweight, OS-level namespace and capabilities isolation to heavier, VM-level hardware virtualization.
 
-
+* [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
 
 Books
 =======================================================================
@@ -389,15 +395,16 @@ Interesting Twitter Accounts
 Amazing People
 =======================================================================
 
-* [Bredan Burns](https://twitter.com/brendandburns), Senior Staff Software Engineer at Google
+* [Bredan Burns](https://twitter.com/brendandburns), Partner Architect at Microsoft
 * [Kelsey Hightower](https://twitter.com/kelseyhightower), Staff Developer Advocate at Google
 * [Arun Gupta](https://twitter.com/arungupta), Vice President, Developer Relations at Couchbase
 * [Carlos Sanchez](https://www.twitter.com/csanchez), Senior Software Engineer, CloudBees
-* [Satnam Singh](https://www.twitter.com/satnamsingh), Software Engineer at Facebook
 * [Joseph Jacks](https://twitter.com/asynchio), VP, Technology Strategy at Kismatic, Inc
 * [Joe Beda](https://twitter.com/jbeda), Co-founder and Technical Lead for Kubernetes
 * [Patrick Reilly](https://twitter.com/preillyme), CEO at Kismatic, Inc. / Advisor at Mesosphere, Inc
 * [Brandon Philips](https://twitter.com/BrandonPhilips), CTO at CoreOS
+* [Eric Tune](https://twitter.com/eric_tune), Senior Staff Engineer at Google
+* [Tim Hockin](https://twitter.com/thockin), Senior Staff SW Engineer / Engineering Manager at Google
 
 
 Connecting with Kubernetes
@@ -422,6 +429,7 @@ Companies
 * [Coreos](https://coreos.com/)
 * [Red Hat](https://redhat.com)
 * [Apprenda](https://apprenda.com/)
+* [RedSpread](http://redspread.com/)
 
 
 Conferences

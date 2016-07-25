@@ -74,6 +74,7 @@ Menu
   * [Continuous Delivery](#continuousdelivery)
     * [Fabric8](#fabric8)
 * [Container Support](#container-support)
+* [Raspberry Pi](#raspberry-pi)
 * [Books](#books) :books:
 * [Slide Presentations](#slide-presentations)
 * [Videos](#videos) :tv:
@@ -311,6 +312,14 @@ Docker is an open platform for developers and sysadmins to build, ship, and run 
 rkt is the next-generation container manager for Linux clusters. Designed for security, simplicity, and composability within modern cluster architectures, rkt discovers, verifies, fetches, and executes application containers with pluggable isolation. rkt can run the same container with varying degrees of protection, from lightweight, OS-level namespace and capabilities isolation to heavier, VM-level hardware virtualization.
 
 * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
+
+Raspberry Pi
+=======================================================================
+
+*Some of the awesome findings and experiments on using Kubernetes with Raspberry Pi.Checkout [Kubecloud](http://kubecloud.io)*
+
+* [Setting up a Kubernetes on ARM cluster](http://kubecloud.io/kubernetes-on-arm-cluster/)
+* [Local registry in Kubernetes on ARM](http://kubecloud.io/kubernetes-on-arm-registry/)
 
 Books
 =======================================================================

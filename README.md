@@ -58,9 +58,11 @@ Menu
 * [Starting Point](#starting-point)
 * [Main Resources](#main-resources)
 * [Useful Articles](#useful-articles)
+* [Cloud Providers](#cloud-providers)
+* [Components](#components)
 * [Related Projects](#related-projects)
   * [Related Software](#related-software)
-    * [Hypervisor-Agnostic Docker Engine](#hypervisor-agnostic-docker-engine)
+    * [Hypervisor-Agnostic Docker Engine](#hypernetes)
     * [Helm Package Manager](#helm-package-manager)
     * [Ubernetes](#ubernetes)
     * [Fabric8](#fabric8)
@@ -109,6 +111,7 @@ Starting Point
 * [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/) by [Omer Dawelbeit](https://twitter.com/omerio)
 * [Top Reasons Businesses Should Move to Kubernetes Now](https://supergiant.io/blog/top-reasons-businesses-should-move-to-kubernetes-now) by [Mike Johnston](https://github.com/gopherstein)
 * [The Children's Illustrated Guide to Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/) by [Deis](https://github.com/deis)
+* [The ‘kubectl run’ command](https://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
 
 
 Main Resources
@@ -121,7 +124,7 @@ Main Resources
 * [Kubernetes Troubleshooting](http://kubernetes.io/docs/troubleshooting/)
 
 
-Other Useful Articles
+Useful Articles
 =======================================================================
 
 *A piece of writing included with others in a newspaper, magazine, or other publication*
@@ -170,7 +173,31 @@ Other Useful Articles
 * [Kubernetes Authentication - OpenID Connect](http://www.devoperandi.com/kubernetes-authentication-openid-connect/) by [Michael Ward](https://twitter.com/DevoperandI)
 * [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by [Michael Ward](https://twitter.com/DevoperandI)
 
+Cloud Providers
+=======================================================================
 
+*Coming Soon*
+
+* [GCE] - Google Compute Engine [default]
+* [GKE] - Google Container Engine
+* [AWS] - Amazon EC2
+* [Azure] - Microsoft Azure
+* [Vsphere] - VMWare VSphere
+* [Rackspace] - Rackspace
+ 
+
+Components
+=======================================================================
+
+*Comprehensive list of Components of Kubernetes*
+
+### [Kubectl](http://kubernetes.io/docs/user-guide/prereqs/)
+
+It is a command-line tool. It lets you inspect your cluster resources, create, delete, and update components, and much more.
+
+*More Info [Kubectl Cheatsheet](http://kubernetes.io/docs/user-guide/kubectl-cheatsheet/)*
+
+*Coming Soon*
 
 
 Related Projects
@@ -182,7 +209,6 @@ Related Projects
 ## Related Software
 
 *Projects built to make life with Kubernetes even better, more powerful, more scalable*
-
 
 ### [Hypernetes](https://github.com/hyperhq/hypernetes)
 

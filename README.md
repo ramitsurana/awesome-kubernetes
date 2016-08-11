@@ -269,6 +269,10 @@ Bootkube is a helper tool for launching self-hosted Kubernetes clusters.When lau
 
 It provides a Kubernetes cluster configured to run locally and optimized for rapid development.It is a single executable container process built for usage with [spread](https://github.com/redspread/spread).
 
+### [K8sec](https://github.com/dtan4/k8sec)
+
+CLI tool to manage Kubernetes Secrets easily
+
 ## Monitoring Services
 
 *To maintain regular surveillance over kubernetes*

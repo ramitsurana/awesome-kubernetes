@@ -273,6 +273,10 @@ It provides a Kubernetes cluster configured to run locally and optimized for rap
 
 CLI tool to manage Kubernetes Secrets easily
 
+### [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
+
+Node-level autoscaler for Kubernetes on AWS EC2 that is designed for batch jobs.
+
 ## Monitoring Services
 
 *To maintain regular surveillance over kubernetes*

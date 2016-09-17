@@ -85,6 +85,7 @@ Menu
 * [Interactive Learning Environments](#interactive-learning-environments)
 * [Interesting Twitter Accounts](#interesting-twitter-accounts)
 * [Amazing People](#amazing-people)
+* [Meetup Groups](#meetup-groups)
 * [Connecting with Kubernetes](#connecting-with-kubernetes)
 * [Companies](#companies)
 * [Conferences](#conferences)
@@ -277,6 +278,10 @@ CLI tool to manage Kubernetes Secrets easily
 
 Node-level autoscaler for Kubernetes on AWS EC2 that is designed for batch jobs.
 
+### [StackPoint Cloud](https://stackpointcloud.com/)
+
+Commercial Platform for Kubernetes.Check out [Stackpoint blog](https://blog.stackpoint.io/)
+
 ## Monitoring Services
 
 *To maintain regular surveillance over kubernetes*
@@ -315,6 +320,9 @@ OpenShift is Red Hat's Platform-as-a-Service (PaaS) that allows developers to qu
 
 Deis Workflow is an open source PaaS that makes it easy to deploy and manage applications on your own servers. Workflow builds upon Kubernetes and Docker to provide a lightweight PaaS with a Heroku-inspired workflow.
 
+### [DC/OS](https://dcos.io/)
+
+The full form for DC/OS is Datacenter Operating System.It is a production proven Apache Mesos distributed systems kernel operating system.
 
 ## Continuous Delivery
 
@@ -452,6 +460,16 @@ Amazing People
 * [Brandon Philips](https://twitter.com/BrandonPhilips), CTO at CoreOS
 * [Eric Tune](https://twitter.com/eric_tune), Senior Staff Engineer at Google
 * [Tim Hockin](https://twitter.com/thockin), Senior Staff SW Engineer / Engineering Manager at Google
+
+Meeetup Groups
+=======================================================================
+
+*An awesome way to connect with kubernauts around the globe*
+
+* [Berlin](https://twitter.com/kubernetesber)
+* [New York](https://twitter.com/kubernetesnyc)
+* [Paris](https://twitter.com/kubernetesparis)
+* [San Fransico](https://twitter.com/kubernetesSF)
 
 
 Connecting with Kubernetes

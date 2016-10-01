@@ -282,6 +282,10 @@ Node-level autoscaler for Kubernetes on AWS EC2 that is designed for batch jobs.
 
 Commercial Platform for Kubernetes.Check out [Stackpoint blog](https://blog.stackpoint.io/)
 
+### [Kubeform](https://capgemini.github.io/kubeform/)
+
+Deploying a high-availability Kubernetes cluster, in minutes. Built on Terraform, CoreOS and Ansible.Recipes for bootstrapping HA Kubernetes clusters on any cloud or on-premise.Checkout https://github.com/Capgemini/kubeform
+
 ## Monitoring Services
 
 *To maintain regular surveillance over kubernetes*
@@ -341,6 +345,10 @@ Jenkins is an automation engine with an unparalleled plugin ecosystem to support
 * [Automated Image Builds with Jenkins, Packer, and Kubernetes](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes#kubernetes_architecture)
 * [On-demand Jenkins slaves with Kubernetes and the Google Container Engine](https://www.cloudbees.com/blog/demand-jenkins-slaves-kubernetes-and-google-container-engine)
 * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
+
+### [kb8or](https://github.com/UKHomeOffice/kb8or)
+
+CI Tool for deploying with kubernetes.
 
 Container Support
 =======================================================================

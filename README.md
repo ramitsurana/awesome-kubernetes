@@ -286,6 +286,10 @@ Commercial Platform for Kubernetes.Check out [Stackpoint blog](https://blog.stac
 
 Deploying a high-availability Kubernetes cluster, in minutes. Built on Terraform, CoreOS and Ansible.Recipes for bootstrapping HA Kubernetes clusters on any cloud or on-premise.Checkout https://github.com/Capgemini/kubeform
 
+### [k8comp](https://github.com/cststack/k8comp)
+
+Script to help with the management of the deployment files. The script will just query [hiera](https://docs.puppet.com/hiera/) for the variables detected, replace them and create a new deployment output. The files can be in any of the kubernetes supported formats (json, yaml, yml).
+
 ## Monitoring Services
 
 *To maintain regular surveillance over kubernetes*
@@ -463,7 +467,7 @@ Amazing People
 * [Kelsey Hightower](https://twitter.com/kelseyhightower), Staff Developer Advocate at Google
 * [Arun Gupta](https://twitter.com/arungupta), Vice President, Developer Relations at Couchbase
 * [Carlos Sanchez](https://www.twitter.com/csanchez), Senior Software Engineer, CloudBees
-* [Joseph Jacks](https://twitter.com/asynchio), VP, Technology Strategy at Kismatic, Inc
+* [Joseph Jacks](https://twitter.com/asynchio), Senior Director, Product Management: Kubernetes Platform Engineering at Apprenda
 * [Joe Beda](https://twitter.com/jbeda), Co-founder and Technical Lead for Kubernetes
 * [Patrick Reilly](https://twitter.com/preillyme), CEO at Kismatic, Inc. / Advisor at Mesosphere, Inc
 * [Brandon Philips](https://twitter.com/BrandonPhilips), CTO at CoreOS

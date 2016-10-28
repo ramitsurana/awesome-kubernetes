@@ -5,7 +5,8 @@ Awesome-Kubernetes
 [![Build Status](https://travis-ci.org/ramitsurana/awesome-kubernetes.svg?branch=master)](https://travis-ci.org/ramitsurana/awesome-kubernetes)
 [![License](https://img.shields.io/badge/License-CC%204.0-brightgreen.svg)](http://creativecommons.org/licenses/by-nc/4.0/)
 
-A curated list for awesome kubernetes sources Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
+A curated list for awesome kubernetes sources 
+Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 
 ![k8](https://cloud.githubusercontent.com/assets/8342133/13547481/fcb5ffb0-e2fa-11e5-8f75-555cea5eb7b2.png)
 
@@ -15,11 +16,13 @@ A curated list for awesome kubernetes sources Inspired by [@sindresorhus' awesom
 > -- Michael Jordan
 
 Without the help from these [amazing contributors](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
-building this awesome-repo would never has been possible, Thank You very much guys !!
+building this awesome-repo would never has been possible. Thank You very much guys !!
 
 **Thanks to Gitbook.This awesome list can now be downloaded and read in the form of a book.Check it out -->  https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/ .Keep Learning Keep Sharing !!**
 
 **If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!**
+
+**If you are interested in becoming a maintainer for the awesome kubernetes list.Please drop me a mail at ramitsurana@gmail.com with your name and github id.Thanks**
 
 
 ## What is Kubernetes? :ship:
@@ -59,7 +62,8 @@ Menu
 * [Main Resources](#main-resources)
 * [Useful Articles](#useful-articles)
 * [Cloud Providers](#cloud-providers)
-* [Components](#components)
+* [Case Studies](#case-studies)
+* [Persistent Volume Providers](#persistent-volume-providers)
 * [Related Projects](#related-projects)
   * [Related Software](#related-software)
     * [Hypervisor-Agnostic Docker Engine](#hypernetes)
@@ -178,7 +182,6 @@ Useful Articles
 Cloud Providers
 =======================================================================
 
-*Coming Soon*
 
 * [GCE](https://cloud.google.com/compute/) - Google Compute Engine [default]
 * [GKE] - Google Container Engine
@@ -188,19 +191,28 @@ Cloud Providers
 * [Rackspace](https://www.rackspace.com/en-in) - Rackspace
  
 
-Components
+Case Studies
 =======================================================================
 
-*Comprehensive list of Components of Kubernetes*
+*Study of Various different case studies*
 
-### [Kubectl](http://kubernetes.io/docs/user-guide/prereqs/)
+### [Building a Bank with Kubernetes](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 
-It is a command-line tool. It lets you inspect your cluster resources, create, delete, and update components, and much more.
 
-*More Info [Kubectl Cheatsheet](http://kubernetes.io/docs/user-guide/kubectl-cheatsheet/)*
+Persistent Volume Providers
+=======================================================================
 
-*Coming Soon*
+*List of some Persistent Volume Providers for Kubernetes.Check out [Kubernets Experimental](https://github.com/kubernetes/kubernetes/tree/master/examples/experimental/persistent-volume-provisioning) for more info*
 
+* [GCE](https://cloud.google.com/compute/)
+* [AWS](aws.amazon.com)
+* [vSphere]
+* [Glusterfs]
+* [OpenStack Cinder]
+* [CephRBD]
+* [QuoByte]
+
+*More Stuff Coming Soon*
 
 Related Projects
 =======================================================================
@@ -327,10 +339,6 @@ OpenShift is Red Hat's Platform-as-a-Service (PaaS) that allows developers to qu
 ### [Deis Workflow](https://deis.com/)
 
 Deis Workflow is an open source PaaS that makes it easy to deploy and manage applications on your own servers. Workflow builds upon Kubernetes and Docker to provide a lightweight PaaS with a Heroku-inspired workflow.
-
-### [DC/OS](https://dcos.io/)
-
-The full form for DC/OS is Datacenter Operating System.It is a production proven Apache Mesos distributed systems kernel operating system.
 
 ## Continuous Delivery
 
@@ -474,7 +482,7 @@ Amazing People
 * [Eric Tune](https://twitter.com/eric_tune), Senior Staff Engineer at Google
 * [Tim Hockin](https://twitter.com/thockin), Senior Staff SW Engineer / Engineering Manager at Google
 
-Meeetup Groups
+Meetup Groups
 =======================================================================
 
 *An awesome way to connect with kubernauts around the globe*

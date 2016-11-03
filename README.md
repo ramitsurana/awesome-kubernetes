@@ -517,6 +517,7 @@ Companies
 * [Red Hat](https://redhat.com)
 * [Apprenda](https://apprenda.com/)
 * [RedSpread](http://redspread.com/)
+* [Canonical](https://www.ubuntu.com/cloud/kubernetes)
 
 
 Conferences

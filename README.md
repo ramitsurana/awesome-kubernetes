@@ -303,6 +303,10 @@ Deploying a high-availability Kubernetes cluster, in minutes. Built on Terraform
 
 Script to help with the management of the deployment files. The script will just query [hiera](https://docs.puppet.com/hiera/) for the variables detected, replace them and create a new deployment output. The files can be in any of the kubernetes supported formats (json, yaml, yml).
 
+### [kube-lego](https://github.com/jetstack/kube-lego)
+
+kube-lego automatically requests certificates for Kubernetes Ingress resources from Let's Encrypt.
+
 ## Monitoring Services
 
 *To maintain regular surveillance over kubernetes*

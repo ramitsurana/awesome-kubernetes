@@ -303,6 +303,10 @@ Deploying a high-availability Kubernetes cluster, in minutes. Built on Terraform
 
 Script to help with the management of the deployment files. The script will just query [hiera](https://docs.puppet.com/hiera/) for the variables detected, replace them and create a new deployment output. The files can be in any of the kubernetes supported formats (json, yaml, yml).
 
+### [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
+
+Connect to kubernetes services running in your cluster directly through a VPN. Also allows you to easily route kubernetes services back to applications running on a VPN client.
+
 ## Monitoring Services
 
 *To maintain regular surveillance over kubernetes*

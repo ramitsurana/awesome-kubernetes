@@ -310,6 +310,10 @@ Script to help with the management of the deployment files. The script will just
 
 Connect to kubernetes services running in your cluster directly through a VPN. Also allows you to easily route kubernetes services back to applications running on a VPN client.
 
+### [kube-lego](https://github.com/jetstack/kube-lego)
+
+kube-lego automatically requests certificates for Kubernetes Ingress resources from Let's Encrypt.
+
 ## Monitoring Services
 
 *To maintain regular surveillance over kubernetes*

@@ -274,7 +274,7 @@ Supergiant is open-source and built on Kubernetes. It provisions "cost-based" se
 
 Kubernetes as a Filesystem.Its written in Python, because Python is still cool and has a solid FUSE library available for it. The fusepy library has some simple examples showing how to implement loopback and memory file systems.
 
-### [KubeSpray](https://docs.kubespray.io/)
+### [KubeSpray][https://github.com/kubespray]
 
 KubeSpray is a tool to deploy a kubernetes cluster with Ansible.
 

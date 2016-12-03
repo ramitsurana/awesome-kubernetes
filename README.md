@@ -201,7 +201,7 @@ Case Studies
 
 * [Building a Bank with Kubernetes](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 * [Bringing Pokemon Go to Google Cloud](https://cloudplatform.googleblog.com/2016/09/bringing-Pokemon-GO-to-life-on-Google-Cloud.html)
-* [Monitoring Kubernetes at Wayblazer] (https://sysdig.com/blog/monitoring-docker-kubernetes-wayblazer/)
+* [Monitoring Kubernetes at Wayblazer](https://sysdig.com/blog/monitoring-docker-kubernetes-wayblazer/)
 
 
 Persistent Volume Providers

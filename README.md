@@ -332,8 +332,10 @@ kube-lego automatically requests certificates for Kubernetes Ingress resources f
   Container Cluster Manager from Google Web UI
 * [Prometheus](http://prometheus.io):
   Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud. Since its inception in 2012, many companies and organizations have adopted Prometheus, and the project has a very active developer and user community. It is now a standalone open source project and maintained independently of any company.
-* [Sysdig](http://www.sysdig.org/):
+* [Sysdig Open Source](http://www.sysdig.org/):
   Sysdig is open source, system-level exploration: capture system state and activity from a running Linux instance, then save,  filter and analyze. Sysdig is scriptable in Lua and includes a command line interface and a powerful interactive UI, csysdig, that runs in your terminal.
+* [Sysdig Monitoring] (https://www.sysdig.com/):
+  A distributed monitoring service built on top of open source sysdig. It provides metrics analysis, dashboarding, alerting, and exploration with a native integration into Kubernetes.
 * [Weave Scope](https://www.weave.works/products/weave-scope/):
   Weave Scope is a visualization, and monitoring tool for Docker and Kubernetes. It provides a top down view into your app as well as your entire infrastructure, and allows you to diagnose any problems with your distributed containerized app, in real time, as it being deployed to a cloud provider.
 

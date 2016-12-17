@@ -79,6 +79,9 @@ Menu
     * [Deis](#deis)
   * [Continuous Delivery](#continuousdelivery)
     * [Fabric8](#fabric8)
+    * [Jenkins](#jenkins)
+  * [Serverless Implementation](#serverless-implementation)
+    * [Funktion]
 * [Container Support](#container-support)
 * [Raspberry Pi](#raspberry-pi)
 * [Books](#books) :books:
@@ -91,7 +94,6 @@ Menu
 * [Amazing People](#amazing-people)
 * [Meetup Groups](#meetup-groups)
 * [Connecting with Kubernetes](#connecting-with-kubernetes)
-* [Companies](#companies)
 * [Conferences](#conferences)
 * [Contributing](#contributing)
 * [License](#license)
@@ -178,8 +180,7 @@ Useful Articles
 * [Kubernetes Authentication - OpenID Connect](http://www.devoperandi.com/kubernetes-authentication-openid-connect/) by [Michael Ward](https://twitter.com/DevoperandI)
 * [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by [Michael Ward](https://twitter.com/DevoperandI)
 * [Achieving CI/CD with Kubernetes](http://theremotelab.com/blog/achieving-ci-cd-with-k8s/) by [Ramit Surana](https://twitter.com/ramitsurana)
-* [Kubernetes Monitoring Guide](https://www.datadoghq.com/blog/monitoring-kubernetes-era/) by [JM 
-Saponaro](http://github.com/JayJayM)
+* [Kubernetes Monitoring Guide](https://www.datadoghq.com/blog/monitoring-kubernetes-era/) by [JM Saponaro](http://github.com/JayJayM)
 
 
 Cloud Providers
@@ -192,6 +193,8 @@ Cloud Providers
 * [Azure](https://azure.microsoft.com/en-in/) - Microsoft Azure
 * [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
 * [Rackspace](https://www.rackspace.com/en-in) - Rackspace
+* [Eldarion Cloud](http://eldarion.cloud/)
+* [StackPoint Cloud](https://stackpointcloud.com/)
  
 
 Case Studies
@@ -217,8 +220,6 @@ Persistent Volume Providers
 * [CephRBD]
 * [QuoByte]
 
-*More Stuff Coming Soon*
-
 Related Projects
 =======================================================================
 
@@ -230,152 +231,88 @@ Related Projects
 *Projects built to make life with Kubernetes even better, more powerful, more scalable*
 
 ### [Hypernetes](https://github.com/hyperhq/hypernetes)
-
-Hypernetes is a secure, multi-tenant Kubernetes distro. Simply put,
-
-Hypernetes = Bare-metal + Hyper + Kubernetes + KeyStone + Cinder + Neutron.
-
-It envisions a future of "Container-as-a-Service without IaaS". The idea is to combine the orchestration power in Kubernetes and the runtime isolation in Hyper to build the truly secure multi-tenant CaaS platform.
-
-
 ### [Helm Package Manager](https://deis.com/blog/2015/introducing-helm-for-kubernetes)
-
-Built by Deis and Inspired by Homebrew, apt, and NPM. Helm is a tool for working with Kubernetes-powered applications. Helm makes it easy run apps and services inside Kubernetes.
-
-
 ### [Ubernetes](https://github.com/kubernetes/kubernetes/blob/master/docs/proposals/federation.md)
-
-A central design concept in Kubernetes to cluster Kubernetes across several regions.
-
-
 ### [Minikube](http://github.com/kubernetes/minikube/)
-
-Minikube is a tool that makes it easy to run Kubernetes locally. Minikube runs a single-node Kubernetes cluster inside a VM on your laptop for users looking to try out Kubernetes or develop with it day-to-day.
-
-
 ### [kmachine](https://github.com/skippbox/kmachine)
-
-kmachine lets you create Docker hosts on your computer, on cloud providers, and inside your own data center. It creates servers, installs Docker on them, then configures the Docker client to talk to them just like docker-machine
-
-
 ### [spread](https://github.com/redspread/spread)
-
-spread is a command line tool that builds and deploys a Docker project to a Kubernetes cluster in one command. The project's goals are to:
-
-- Enable rapid iteration with Kubernetes
-- Be the fastest, simplest way to deploy Docker to production
-- Work well for a single developer or an entire team (no more broken bash scripts!)
-
-
 ### [Supergiant](https://supergiant.io)
-
-Supergiant is open-source and built on Kubernetes. It provisions "cost-based" server resources, load balancers, and block-level storage automatically to support stateful apps at scale with less hardware expense. The goals of the project are to make launching, managing, and scaling Kubernetes as easy as possible.
-
 ### [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
-
-Kubernetes as a Filesystem.Its written in Python, because Python is still cool and has a solid FUSE library available for it. The fusepy library has some simple examples showing how to implement loopback and memory file systems.
-
 ### [KubeSpray][https://github.com/kubespray]
-
-KubeSpray is a tool to deploy a kubernetes cluster with Ansible.
-
 ### [Bootkube](https://github.com/coreos/bootkube)
-
-Bootkube is a helper tool for launching self-hosted Kubernetes clusters.When launched, bootkube will act as a temporary Kubernetes control-plane (api-server, scheduler, controller-manager), which operates long enough to bootstrap a replacement self-hosted control-plane.Additionally, bootkube can be used to generate all of the necessary assets for use in bootstrapping a new cluster. These assets can then be modified to support any additional configuration options.
-
 ### [Localkube](https://github.com/redspread/localkube)
-
-It provides a Kubernetes cluster configured to run locally and optimized for rapid development.It is a single executable container process built for usage with [spread](https://github.com/redspread/spread).
-
-### [K8sec](https://github.com/dtan4/k8sec)
-
-CLI tool to manage Kubernetes Secrets easily
-
 ### [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
-
-Node-level autoscaler for Kubernetes on AWS EC2 that is designed for batch jobs.
-
-### [StackPoint Cloud](https://stackpointcloud.com/)
-
-Commercial Platform for Kubernetes.Check out [Stackpoint blog](https://blog.stackpoint.io/)
-
 ### [Kubeform](https://capgemini.github.io/kubeform/)
-
-Deploying a high-availability Kubernetes cluster, in minutes. Built on Terraform, CoreOS and Ansible.Recipes for bootstrapping HA Kubernetes clusters on any cloud or on-premise.Checkout https://github.com/Capgemini/kubeform
-
 ### [k8comp](https://github.com/cststack/k8comp)
-
-Script to help with the management of the deployment files. The script will just query [hiera](https://docs.puppet.com/hiera/) for the variables detected, replace them and create a new deployment output. The files can be in any of the kubernetes supported formats (json, yaml, yml).
-
 ### [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
 
-Connect to kubernetes services running in your cluster directly through a VPN. Also allows you to easily route kubernetes services back to applications running on a VPN client.
+## Package Managers
+=======================================================================
 
-### [kube-lego](https://github.com/jetstack/kube-lego)
+### Helm
 
-kube-lego automatically requests certificates for Kubernetes Ingress resources from Let's Encrypt.
+### KPM
 
 ## Monitoring Services
+=======================================================================
 
 *To maintain regular surveillance over kubernetes*
 
-* [Console](https://github.com/kubernetes/dashboard):
-  It is a general purpose, web-based UI for Kubernetes clusters. It allows to manage applications running in the cluster, troubleshoot them, as well as, manage the cluster itself.
-* [Datadog](https://www.datadoghq.com/):
-  Datadog is a hosted monitoring and metrics platform, with built in support for Kubernetes and Docker.  Their Kubernetes integration pulls in Docker and Kubernetes events, converts labels and pod names into tags, as well as pulls metrics from Docker and CAdvisor.  This allows you to build application dashboards and alerts that display data across pods, Nodes, and services.
-* [Heapster](https://github.com/kubernetes/heapster):
-  Heapster enables Container Cluster Monitoring and Performance Analysis.
-  Heapster currently supports Kubernetes and CoreOS natively. It can be extended to support other cluster management solutions easily. Heapster collects and interprets various signals like compute resource usage, lifecycle events, etc, and exports cluster metrics via REST endpoints.
-* [Kubedash](https://github.com/kubernetes/kubedash):
-  Performance analytics UI for Kubernetes Clusters.
-  The goal of Kubedash is to allow the user or an administrator of a Kubernetes cluster to easily verify and understand the performance of a cluster and jobs running within it through intuitive visualizations of aggregated metrics, derived stats and event patterns. It is not intended to be a general-purpose Kubernetes UI. Instead, kubedash uses multiple sources of information to summarize and provide high-level analytic information to users and to the cluster administrator.
-* [Kube-ui](https://github.com/kubernetes/kube-ui):
-  Container Cluster Manager from Google Web UI
-* [Prometheus](http://prometheus.io):
-  Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud. Since its inception in 2012, many companies and organizations have adopted Prometheus, and the project has a very active developer and user community. It is now a standalone open source project and maintained independently of any company.
-* [Sysdig Open Source](http://www.sysdig.org/):
-  Sysdig is open source, system-level exploration: capture system state and activity from a running Linux instance, then save,  filter and analyze. Sysdig is scriptable in Lua and includes a command line interface and a powerful interactive UI, csysdig, that runs in your terminal.
-* [Sysdig Monitoring](https://www.sysdig.com/):
-  A distributed monitoring service built on top of open source sysdig. It provides metrics analysis, dashboarding, alerting, and exploration with a native integration into Kubernetes.
-* [Weave Scope](https://www.weave.works/products/weave-scope/):
-  Weave Scope is a visualization, and monitoring tool for Docker and Kubernetes. It provides a top down view into your app as well as your entire infrastructure, and allows you to diagnose any problems with your distributed containerized app, in real time, as it being deployed to a cloud provider.
+* [Console](https://github.com/kubernetes/dashboard)
+* [Datadog](https://www.datadoghq.com/)
+* [Heapster](https://github.com/kubernetes/heapster)
+* [Kubedash](https://github.com/kubernetes/kubedash)
+* [Kube-ui](https://github.com/kubernetes/kube-ui)
+* [Prometheus](http://prometheus.io)
+* [Sysdig Open Source](http://www.sysdig.org/)
+* [Sysdig Monitoring](https://www.sysdig.com/)
+* [Weave Scope](https://www.weave.works/products/weave-scope/)
 
 
 ## PaaS Providers
+=======================================================================
 
 *Kubernetes Platform as a Service providers*
 
 
 ### [OpenShift](https://www.openshift.com/)
-
-OpenShift is Red Hat's Platform-as-a-Service (PaaS) that allows developers to quickly develop, host, and scale applications in a cloud environment. With OpenShift you have a choice of offerings, including online, on premise, and open source project options.
-
-
 ### [Deis Workflow](https://deis.com/)
-
-Deis Workflow is an open source PaaS that makes it easy to deploy and manage applications on your own servers. Workflow builds upon Kubernetes and Docker to provide a lightweight PaaS with a Heroku-inspired workflow.
+### [Gondor/Kel]
+### [WSO2]
+### [Rancher]
+### [Kumoru]
 
 ## Continuous Delivery
+=======================================================================
 
 *Build-test-deploy automated workflow software designed to make production environments more stable and life better for engineers*
 
 
 ### [Fabric8](http://fabric8.io)
-
-Fabric8 DevOps provides a completely integrated open source DevOps platform which works out of the box on any Kubernetes or OpenShift environment, The entire platform is modular and based on microservices so you can use as much or as little of Fabric8 DevOps as you wish!
-
 ### [Jenkins](https://jenkins.io)
-
-Jenkins is an automation engine with an unparalleled plugin ecosystem to support all of your favorite tools in your delivery pipelines, whether your goal is continuous integration, automated testing, or continuous delivery.
-
 * [Jenkins-Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin) by [Carlos Sanchez](https://www.twitter.com/csanchez)
 * [Automated Image Builds with Jenkins, Packer, and Kubernetes](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes#kubernetes_architecture)
 * [On-demand Jenkins slaves with Kubernetes and the Google Container Engine](https://www.cloudbees.com/blog/demand-jenkins-slaves-kubernetes-and-google-container-engine)
 * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
 
 ### [kb8or](https://github.com/UKHomeOffice/kb8or)
+### [Wercker]
+### [Shippable]
+### [GitLab]
+### [cloudmunch]
+### [Kontinuous]
+### [Kit]
+### [Spinnaker]
 
-CI Tool for deploying with kubernetes.
+
+## Serverless Implementations
+=======================================================================
+
+### Funktion
+### Fission
+### Kubeless
+### OpenWhisk
+### Iron.io
 
 Container Support
 =======================================================================
@@ -383,15 +320,56 @@ Container Support
 *A list of linux containers supported by kubernetes.*
 
 ### [Docker](http://docker.com):
-
-Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments. As a result, IT can ship faster and run the same app, unchanged, on laptops, data center VMs, and any cloud.Check out [awesome-docker](https://github.com/veggiemonk/awesome-docker/) for more info.
-
-### [Rkt](http://coreos.com/rkt):
-
-rkt is the next-generation container manager for Linux clusters. Designed for security, simplicity, and composability within modern cluster architectures, rkt discovers, verifies, fetches, and executes application containers with pluggable isolation. rkt can run the same container with varying degrees of protection, from lightweight, OS-level namespace and capabilities isolation to heavier, VM-level hardware virtualization.
-
+### [Rkt](http://coreos.com/rkt)
 * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
+### [containerd]
+### [CRI-O (OCI)]
+### [Hyper.sh/frakti]
 
+Database/noSQL
+=======================================================================
+
+### [CockroachDB]
+### [Cassandra / DataStax]
+### [MongoDB]
+### [Hazelcast]
+### [Crate]
+### [Vitess]
+### [Minio]
+
+## Networking
+=======================================================================
+
+### [WeaveWorks]
+### [Tigera]
+### [OpenContrail]
+### [Nuage]
+### [Kuryr]
+### [Contiv]
+
+
+## Service mesh
+=======================================================================
+
+### [Envoy]
+### [Linkerd]
+### [Amalgam8]
+### [WeaveWorks]
+
+## RPC
+=======================================================================
+
+### [Grpc]
+### [Micro]
+
+
+## Secret generation and management
+=======================================================================
+
+### [Vault controller]
+### [kube-lego](https://github.com/jetstack/kube-lego)
+### [k8sec](https://github.com/dtan4/k8sec)
+    
 Raspberry Pi
 =======================================================================
 
@@ -522,19 +500,6 @@ Connecting with Kubernetes
 * [Newsletter](https://kismatic.com/community/introducing-kubernetes-weekly-news/) by [Kismatic](https://kismatic.com/)
 * [Reddit](https://www.reddit.com/r/kubernetes/)
 * [Community](https://github.com/kubernetes/community)
-
-Companies
-=======================================================================
-
-*A list of companies supporting Kubernetes*
-
-* [Google](https://google.com)
-* [Coreos](https://coreos.com/)
-* [Red Hat](https://redhat.com)
-* [Apprenda](https://apprenda.com/)
-* [RedSpread](http://redspread.com/)
-* [Canonical](https://www.ubuntu.com/cloud/kubernetes)
-
 
 Conferences
 =======================================================================

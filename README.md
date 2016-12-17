@@ -265,9 +265,9 @@ Related Projects
 * [OpenShift](https://www.openshift.com/)
 * [Deis Workflow](https://deis.com/)
 * [Gondor/Kel]
-* [WSO2]
-* [Rancher]
-* [Kumoru]
+* [WSO2](http://wso2.com)
+* [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
+* [Kumoru](http://kumoru.io/)
 
 ## Continuous Delivery
 =======================================================================
@@ -277,10 +277,10 @@ Related Projects
 
 * [Fabric8](http://fabric8.io)
 * [Jenkins](https://jenkins.io)
-** [Jenkins-Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin) by [Carlos Sanchez](https://www.twitter.com/csanchez)
-* [Automated Image Builds with Jenkins, Packer, and Kubernetes](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes#kubernetes_architecture)
-* [On-demand Jenkins slaves with Kubernetes and the Google Container Engine](https://www.cloudbees.com/blog/demand-jenkins-slaves-kubernetes-and-google-container-engine)
-* [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
+   * [Jenkins-Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin) by [Carlos Sanchez](https://www.twitter.com/csanchez)
+   * [Automated Image Builds with Jenkins, Packer, and Kubernetes](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes#kubernetes_architecture)
+   * [On-demand Jenkins slaves with Kubernetes and the Google Container Engine](https://www.cloudbees.com/blog/demand-jenkins-slaves-kubernetes-and-google-container-engine)
+   * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
 
 * [kb8or](https://github.com/UKHomeOffice/kb8or)
 * [Wercker]
@@ -295,11 +295,11 @@ Related Projects
 ## Serverless Implementations
 =======================================================================
 
-* Funktion
-* Fission
-* Kubeless
+* [Funktion](https://github.com/fabric8io/funktion)
+* [Fission](https://github.com/platform9/fission)
+* [Kubeless](https://github.com/skippbox/kubeless)
 * OpenWhisk
-* Iron.io
+* [Iron.io](http://iron.io)
 
 ## Container Support
 =======================================================================
@@ -308,7 +308,7 @@ Related Projects
 
 * [Docker](http://docker.com):
 * [Rkt](http://coreos.com/rkt)
-* [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
+  * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/) 
 * [containerd]
 * [CRI-O (OCI)]
 * [Hyper.sh/frakti]
@@ -322,17 +322,17 @@ Related Projects
 * [Hazelcast]
 * [Crate]
 * [Vitess]
-* [Minio]
+* [Minio](http://minio.io)
 
 ## Networking
 =======================================================================
 
 * [WeaveWorks]
-* [Tigera]
-* [OpenContrail]
-* [Nuage]
-* [Kuryr]
-* [Contiv]
+* [Canal](https://github.com/tigera/canal) by [Tigera](https://github.com/tigera)
+* [OpenContrail](https://github.com/Juniper/contrail-kubernetes)
+* [Nuage](https://github.com/nuagenetworks/nuage-kubernetes)
+* [Kuryr](https://github.com/openstack/kuryr-kubernetes)
+* [Contiv](http://contiv.github.io/)
 
 
 ## Service mesh
@@ -346,8 +346,8 @@ Related Projects
 ## RPC
 =======================================================================
 
-* [Grpc]
-* [Micro]
+* [Grpc](http://grpc.io)
+* [Micro]()
 
 
 ## Secret generation and management

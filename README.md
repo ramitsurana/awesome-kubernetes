@@ -66,22 +66,10 @@ Menu
 * [Persistent Volume Providers](#persistent-volume-providers)
 * [Related Projects](#related-projects)
   * [Related Software](#related-software)
-    * [Hypervisor-Agnostic Docker Engine](#hypernetes)
-    * [Helm Package Manager](#helm-package-manager)
-    * [Ubernetes](#ubernetes)
-    * [Fabric8](#fabric8)
-    * [kmachine](#kmachine)
-    * [spread](#spread)
-    * [Supergiant](#supergiant)
-  * [Monitoring Services](#monitoring-services)
-  * [Paas Providers](#paasproviders)
-    * [OpenShift](#openshift)
-    * [Deis](#deis)
-  * [Continuous Delivery](#continuousdelivery)
-    * [Fabric8](#fabric8)
-    * [Jenkins](#jenkins)
-  * [Serverless Implementation](#serverless-implementation)
-    * [Funktion]
+* [Monitoring Services](#monitoring-services)
+* [Paas Providers](#paasproviders)    
+* [Continuous Delivery](#continuousdelivery)
+* [Serverless Implementation](#serverless-implementation)
 * [Container Support](#container-support)
 * [Raspberry Pi](#raspberry-pi)
 * [Books](#books) :books:
@@ -230,28 +218,27 @@ Related Projects
 
 *Projects built to make life with Kubernetes even better, more powerful, more scalable*
 
-### [Hypernetes](https://github.com/hyperhq/hypernetes)
-### [Helm Package Manager](https://deis.com/blog/2015/introducing-helm-for-kubernetes)
-### [Ubernetes](https://github.com/kubernetes/kubernetes/blob/master/docs/proposals/federation.md)
-### [Minikube](http://github.com/kubernetes/minikube/)
-### [kmachine](https://github.com/skippbox/kmachine)
-### [spread](https://github.com/redspread/spread)
-### [Supergiant](https://supergiant.io)
-### [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
-### [KubeSpray][https://github.com/kubespray]
-### [Bootkube](https://github.com/coreos/bootkube)
-### [Localkube](https://github.com/redspread/localkube)
-### [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
-### [Kubeform](https://capgemini.github.io/kubeform/)
-### [k8comp](https://github.com/cststack/k8comp)
-### [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
+* [Hypernetes](https://github.com/hyperhq/hypernetes)
+* [Helm Package Manager](https://deis.com/blog/2015/introducing-helm-for-kubernetes)
+* [Ubernetes](https://github.com/kubernetes/kubernetes/blob/master/docs/proposals/federation.md)
+* [Minikube](http://github.com/kubernetes/minikube/)
+* [kmachine](https://github.com/skippbox/kmachine)
+* [spread](https://github.com/redspread/spread)
+* [Supergiant](https://supergiant.io)
+* [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
+* [KubeSpray][https://github.com/kubespray]
+* [Bootkube](https://github.com/coreos/bootkube)
+* [Localkube](https://github.com/redspread/localkube)
+* [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
+* [Kubeform](https://capgemini.github.io/kubeform/)
+* [k8comp](https://github.com/cststack/k8comp)
+* [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
 
 ## Package Managers
 =======================================================================
 
-### Helm
-
-### KPM
+* [Helm]
+* [KPM]
 
 ## Monitoring Services
 =======================================================================
@@ -275,12 +262,12 @@ Related Projects
 *Kubernetes Platform as a Service providers*
 
 
-### [OpenShift](https://www.openshift.com/)
-### [Deis Workflow](https://deis.com/)
-### [Gondor/Kel]
-### [WSO2]
-### [Rancher]
-### [Kumoru]
+* [OpenShift](https://www.openshift.com/)
+* [Deis Workflow](https://deis.com/)
+* [Gondor/Kel]
+* [WSO2]
+* [Rancher]
+* [Kumoru]
 
 ## Continuous Delivery
 =======================================================================
@@ -288,87 +275,135 @@ Related Projects
 *Build-test-deploy automated workflow software designed to make production environments more stable and life better for engineers*
 
 
-### [Fabric8](http://fabric8.io)
-### [Jenkins](https://jenkins.io)
-* [Jenkins-Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin) by [Carlos Sanchez](https://www.twitter.com/csanchez)
+* [Fabric8](http://fabric8.io)
+* [Jenkins](https://jenkins.io)
+** [Jenkins-Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin) by [Carlos Sanchez](https://www.twitter.com/csanchez)
 * [Automated Image Builds with Jenkins, Packer, and Kubernetes](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes#kubernetes_architecture)
 * [On-demand Jenkins slaves with Kubernetes and the Google Container Engine](https://www.cloudbees.com/blog/demand-jenkins-slaves-kubernetes-and-google-container-engine)
 * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
 
-### [kb8or](https://github.com/UKHomeOffice/kb8or)
-### [Wercker]
-### [Shippable]
-### [GitLab]
-### [cloudmunch]
-### [Kontinuous]
-### [Kit]
-### [Spinnaker]
+* [kb8or](https://github.com/UKHomeOffice/kb8or)
+* [Wercker]
+* [Shippable]
+* [GitLab]
+* [cloudmunch]
+* [Kontinuous]
+* [Kit]
+* [Spinnaker]
 
 
 ## Serverless Implementations
 =======================================================================
 
-### Funktion
-### Fission
-### Kubeless
-### OpenWhisk
-### Iron.io
+* Funktion
+* Fission
+* Kubeless
+* OpenWhisk
+* Iron.io
 
-Container Support
+## Container Support
 =======================================================================
 
 *A list of linux containers supported by kubernetes.*
 
-### [Docker](http://docker.com):
-### [Rkt](http://coreos.com/rkt)
+* [Docker](http://docker.com):
+* [Rkt](http://coreos.com/rkt)
 * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
-### [containerd]
-### [CRI-O (OCI)]
-### [Hyper.sh/frakti]
+* [containerd]
+* [CRI-O (OCI)]
+* [Hyper.sh/frakti]
 
-Database/noSQL
+## Database/noSQL
 =======================================================================
 
-### [CockroachDB]
-### [Cassandra / DataStax]
-### [MongoDB]
-### [Hazelcast]
-### [Crate]
-### [Vitess]
-### [Minio]
+* [CockroachDB]
+* [Cassandra / DataStax]
+* [MongoDB]
+* [Hazelcast]
+* [Crate]
+* [Vitess]
+* [Minio]
 
 ## Networking
 =======================================================================
 
-### [WeaveWorks]
-### [Tigera]
-### [OpenContrail]
-### [Nuage]
-### [Kuryr]
-### [Contiv]
+* [WeaveWorks]
+* [Tigera]
+* [OpenContrail]
+* [Nuage]
+* [Kuryr]
+* [Contiv]
 
 
 ## Service mesh
 =======================================================================
 
-### [Envoy]
-### [Linkerd]
-### [Amalgam8]
-### [WeaveWorks]
+* [Envoy]
+* [Linkerd]
+* [Amalgam8]
+* [WeaveWorks]
 
 ## RPC
 =======================================================================
 
-### [Grpc]
-### [Micro]
+* [Grpc]
+* [Micro]
 
 
 ## Secret generation and management
 =======================================================================
 
-### [Vault controller]
-### [kube-lego](https://github.com/jetstack/kube-lego)
-### [k8sec](https://github.com/dtan4/k8sec)
+* [Vault controller]
+* [kube-lego](https://github.com/jetstack/kube-lego)
+* [k8sec](https://github.com/dtan4/k8sec)
+    
+## Mobile applications
+=======================================================================
+
+* [Cabin]
+* [Cockpit]
+
+## API/CLI adaptors
+=======================================================================
+
+* [Kubebot]
+* [StackStorm]
+* [Kubefuse]
+* [Ksql]
+* [kubectld]
+
+## Application deployment orchestration
+=======================================================================
+
+* [ElasticKube]
+* [AppController]
+* [Broadway]
+* [Kb8or]
+* [IBM UrbanCode]
+* [nulecule]
+* [Deployment manager]
+
+## Configuration
+=======================================================================
+
+* [Kompose]
+* [Jsonnet]
+* [Spread]
+* [K8comp]
+* [Ktmpl]
+* [Konfd]
+* [kenv]
+* [kubediff]
+* [Habitat]
+* [Puppet]
+* [Ansible]
+
+## Security
+=======================================================================
+
+* [Trireme]
+* [Aquasec]
+* [Twistlock]
     
 Raspberry Pi
 =======================================================================

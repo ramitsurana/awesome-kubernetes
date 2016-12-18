@@ -235,13 +235,11 @@ Related Projects
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
 
 ## Package Managers
-=======================================================================
 
 * [Helm]
 * [KPM]
 
 ## Monitoring Services
-=======================================================================
 
 *To maintain regular surveillance over kubernetes*
 
@@ -257,10 +255,8 @@ Related Projects
 
 
 ## PaaS Providers
-=======================================================================
 
 *Kubernetes Platform as a Service providers*
-
 
 * [OpenShift](https://www.openshift.com/)
 * [Deis Workflow](https://deis.com/)
@@ -270,10 +266,8 @@ Related Projects
 * [Kumoru](http://kumoru.io/)
 
 ## Continuous Delivery
-=======================================================================
 
 *Build-test-deploy automated workflow software designed to make production environments more stable and life better for engineers*
-
 
 * [Fabric8](http://fabric8.io)
 * [Jenkins](https://jenkins.io)
@@ -283,17 +277,16 @@ Related Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
 
 * [kb8or](https://github.com/UKHomeOffice/kb8or)
-* [Wercker]
-* [Shippable]
-* [GitLab]
-* [cloudmunch]
-* [Kontinuous]
-* [Kit]
-* [Spinnaker]
+* [Wercker](http://blog.wercker.com/topic/kubernetes)
+* [Shippable](http://blog.shippable.com/topic/kubernetes)
+* [GitLab](http://blog.lwolf.org/post/how-to-easily-deploy-gitlab-on-kubernetes/)
+* [Cloudmunch](www.cloudmunch.com/continuous-delivery-for-kubernetes/)
+* [Kontinuous](https://github.com/AcalephStorage/kontinuous)
+* [Kit](https://invisionapp.github.io/kit/)
+* [Spinnaker](http://www.spinnaker.io/blog/deploy-to-kubernetes-using-spinnaker)
 
 
 ## Serverless Implementations
-=======================================================================
 
 * [Funktion](https://github.com/fabric8io/funktion)
 * [Fission](https://github.com/platform9/fission)
@@ -302,7 +295,6 @@ Related Projects
 * [Iron.io](http://iron.io)
 
 ## Container Support
-=======================================================================
 
 *A list of linux containers supported by kubernetes.*
 
@@ -314,18 +306,16 @@ Related Projects
 * [Hyper.sh/frakti]
 
 ## Database/noSQL
-=======================================================================
 
-* [CockroachDB]
-* [Cassandra / DataStax]
-* [MongoDB]
-* [Hazelcast]
-* [Crate]
-* [Vitess]
+* [CockroachDB](https://www.cockroachlabs.com/blog/running-cockroachdb-on-kubernetes/)
+* [Cassandra / DataStax](http://blog.kubernetes.io/2016/07/thousand-instances-of-cassandra-using-kubernetes-pet-set.html)
+* [MongoDB](https://www.mongodb.com/blog/post/running-mongodb-as-a-microservice-with-docker-and-kubernetes)
+* [Hazelcast](https://ppires.wordpress.com/2014/12/24/clustering-hazelcast-on-kubernetes/)
+* [Crate](https://crate.io/docs/scale/kubernetes/)
+* [Vitess](http://vitess.io/getting-started/)
 * [Minio](http://minio.io)
 
 ## Networking
-=======================================================================
 
 * [WeaveWorks]
 * [Canal](https://github.com/tigera/canal) by [Tigera](https://github.com/tigera)
@@ -336,7 +326,6 @@ Related Projects
 
 
 ## Service mesh
-=======================================================================
 
 * [Envoy]
 * [Linkerd]
@@ -344,27 +333,23 @@ Related Projects
 * [WeaveWorks]
 
 ## RPC
-=======================================================================
 
 * [Grpc](http://grpc.io)
 * [Micro]()
 
 
 ## Secret generation and management
-=======================================================================
 
 * [Vault controller]
 * [kube-lego](https://github.com/jetstack/kube-lego)
 * [k8sec](https://github.com/dtan4/k8sec)
     
 ## Mobile applications
-=======================================================================
 
 * [Cabin]
 * [Cockpit]
 
 ## API/CLI adaptors
-=======================================================================
 
 * [Kubebot]
 * [StackStorm]
@@ -373,7 +358,6 @@ Related Projects
 * [kubectld]
 
 ## Application deployment orchestration
-=======================================================================
 
 * [ElasticKube]
 * [AppController]
@@ -384,7 +368,6 @@ Related Projects
 * [Deployment manager]
 
 ## Configuration
-=======================================================================
 
 * [Kompose]
 * [Jsonnet]
@@ -399,7 +382,6 @@ Related Projects
 * [Ansible]
 
 ## Security
-=======================================================================
 
 * [Trireme]
 * [Aquasec]

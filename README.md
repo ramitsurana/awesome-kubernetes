@@ -236,8 +236,8 @@ Related Projects
 
 ## Package Managers
 
-* [Helm]
-* [KPM]
+* [Helm](http://helm.sh)
+* [KPM](https://github.com/coreos/kpm)
 
 ## Monitoring Services
 
@@ -327,10 +327,10 @@ Related Projects
 
 ## Service mesh
 
-* [Envoy]
-* [Linkerd]
-* [Amalgam8]
-* [WeaveWorks]
+* [Envoy](http://lyft.github.io/envoy/)
+* [Linkerd](https://linkerd.io/getting-started/k8s/)
+* [Amalgam8](http://www.amalgam8.io/)
+* [WeaveWorks](http://www.weave.works/weave-for-kubernetes/)
 
 ## RPC
 
@@ -340,14 +340,14 @@ Related Projects
 
 ## Secret generation and management
 
-* [Vault controller]
+* [Vault controller](https://github.com/kelseyhightower/vault-controller)
 * [kube-lego](https://github.com/jetstack/kube-lego)
 * [k8sec](https://github.com/dtan4/k8sec)
     
 ## Mobile applications
 
-* [Cabin]
-* [Cockpit]
+* [Cabin](http://www.skippbox.com/cabin/)
+* [Cockpit](http://cockpit-project.org/guide/latest/feature-kubernetes.html)
 
 ## API/CLI adaptors
 
@@ -383,8 +383,8 @@ Related Projects
 
 ## Security
 
-* [Trireme]
-* [Aquasec]
+* [Trireme](http://github.com/aporeto-inc/trireme-kubernetes)
+* [Aquasec](http://blog.aquasec.com/topic/kubernetes)
 * [Twistlock]
     
 Raspberry Pi

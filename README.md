@@ -68,7 +68,7 @@ Menu
   * [Related Software](#related-software)
 * [Monitoring Services](#monitoring-services)
 * [Paas Providers](#paasproviders)    
-* [Continuous Delivery](#continuousdelivery)
+* [Continuous Delivery](#continuous-delivery)
 * [Serverless Implementation](#serverless-implementation)
 * [Container Support](#container-support)
 * [Raspberry Pi](#raspberry-pi)

@@ -280,7 +280,7 @@ Related Projects
 * [Wercker](http://blog.wercker.com/topic/kubernetes)
 * [Shippable](http://blog.shippable.com/topic/kubernetes)
 * [GitLab](http://blog.lwolf.org/post/how-to-easily-deploy-gitlab-on-kubernetes/)
-* [Cloudmunch](www.cloudmunch.com/continuous-delivery-for-kubernetes/)
+* [Cloudmunch](http://www.cloudmunch.com/continuous-delivery-for-kubernetes/)
 * [Kontinuous](https://github.com/AcalephStorage/kontinuous)
 * [Kit](https://invisionapp.github.io/kit/)
 * [Spinnaker](http://www.spinnaker.io/blog/deploy-to-kubernetes-using-spinnaker)

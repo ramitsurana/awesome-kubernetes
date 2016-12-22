@@ -234,6 +234,8 @@ Related Projects
 * [k8comp](https://github.com/cststack/k8comp)
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
 
+* [Client Libraries](https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md)
+
 ## Package Managers
 
 * [Helm](http://helm.sh)
@@ -275,7 +277,6 @@ Related Projects
    * [Automated Image Builds with Jenkins, Packer, and Kubernetes](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes#kubernetes_architecture)
    * [On-demand Jenkins slaves with Kubernetes and the Google Container Engine](https://www.cloudbees.com/blog/demand-jenkins-slaves-kubernetes-and-google-container-engine)
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
-
 * [kb8or](https://github.com/UKHomeOffice/kb8or)
 * [Wercker](http://blog.wercker.com/topic/kubernetes)
 * [Shippable](http://blog.shippable.com/topic/kubernetes)
@@ -305,7 +306,7 @@ Related Projects
 * [CRI-O (OCI)]
 * [Hyper.sh/frakti]
 
-## Database/noSQL
+## Database/NoSQL
 
 * [CockroachDB](https://www.cockroachlabs.com/blog/running-cockroachdb-on-kubernetes/)
 * [Cassandra / DataStax](http://blog.kubernetes.io/2016/07/thousand-instances-of-cassandra-using-kubernetes-pet-set.html)
@@ -335,7 +336,7 @@ Related Projects
 ## RPC
 
 * [Grpc](http://grpc.io)
-* [Micro]()
+* [Micro](https://github.com/micro/kubernetes)
 
 
 ## Secret generation and management
@@ -351,41 +352,59 @@ Related Projects
 
 ## API/CLI adaptors
 
-* [Kubebot]
-* [StackStorm]
-* [Kubefuse]
-* [Ksql]
-* [kubectld]
+* [Kubebot](http://blog.harbur.io/introducing-kubebot-a-kubernetes-bot-for-slack/ )
+* [StackStorm](https://github.com/StackStorm/st2)
+* [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
+* [Ksql](https://github.com/brendandburns/ksql)
+* [kubectld](https://github.com/rancher/kubectld)
 
 ## Application deployment orchestration
 
-* [ElasticKube]
-* [AppController]
-* [Broadway]
-* [Kb8or]
-* [IBM UrbanCode]
-* [nulecule]
-* [Deployment manager]
+* [ElasticKube](https://elasticbox.com/kubernetes)
+* [AppController](https://github.com/Mirantis/k8s-AppController)
+* [Broadway](https://github.com/namely/broadway)
+* [Kb8or](https://github.com/UKHomeOffice/kb8or)
+* [IBM UrbanCode](https://developer.ibm.com/urbancode/plugin/kubernetes/)
+* [Nulecule](https://github.com/projectatomic/nulecule)
+* [Deployment manager](https://cloud.google.com/deployment-manager/)
 
 ## Configuration
 
 * [Kompose]
 * [Jsonnet]
-* [Spread]
-* [K8comp]
-* [Ktmpl]
-* [Konfd]
-* [kenv]
-* [kubediff]
-* [Habitat]
-* [Puppet]
-* [Ansible]
+* [Spread](http://redspread.com)
+* [K8comp](https://github.com/cststack/k8comp)
+* [Ktmpl](https://github.com/InQuicker/ktmpl)
+* [Konfd](https://github.com/kelseyhightower/konfd)
+* [kenv](https://github.com/thisendout/kenv)
+* [kubediff](https://github.com/weaveworks/kubediff)
+* [Habitat](https://www.habitat.sh/docs/container-orchestration/)
+* [Puppet](https://forge.puppet.com/garethr/kubernetes/readme)
+* [Ansible](https://docs.ansible.com/ansible/kubernetes_module.html)
 
 ## Security
 
 * [Trireme](http://github.com/aporeto-inc/trireme-kubernetes)
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
-* [Twistlock]
+* [Twistlock](https://www.twistlock.com/)
+
+## Managed Kubernetes
+
+* [Platform9](https://platform9.com/)
+* [Gravitational](https://github.com/gravitational)
+* [KCluster](https://kcluster.io/)
+
+## Load balancing
+
+* [Nginx Plus](https://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
+* [Traefik](https://traefik.io/)
+
+## Developer platform
+
+* [Fabric8](http://fabric8.io)
+  * [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
+* [goPaddle](http://www.gopaddle.io)
+* [VAMP](http://vamp.io)
     
 Raspberry Pi
 =======================================================================

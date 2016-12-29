@@ -71,6 +71,19 @@ Menu
 * [Continuous Delivery](#continuous-delivery)
 * [Serverless Implementation](#serverless-implementation)
 * [Container Support](#container-support)
+* [Database/NoSQL](#database)
+* [Networking](#networking)
+* [Service mesh](#service-mesh)
+* [RPC](#rpc)
+* [Secret generation and management](#secret-generation-and-management)
+* [Mobile applications](#mobile-applications)
+* [API/CLI adaptors](#cli-adaptors)
+* [Application deployment orchestration](#application-deployment-orchestration)
+* [Configuration](#configuration)
+* [Security](#security)
+* [Managed Kubernetes](#managed-kubernetes)
+* [Load balancing](#load-balancing)
+* [Developer platform](#developer-platform)
 * [Raspberry Pi](#raspberry-pi)
 * [Books](#books) :books:
 * [Slide Presentations](#slide-presentations)
@@ -202,11 +215,10 @@ Persistent Volume Providers
 
 * [GCE](https://cloud.google.com/compute/)
 * [AWS](aws.amazon.com)
-* [vSphere]
-* [Glusterfs]
-* [OpenStack Cinder]
-* [CephRBD]
-* [QuoByte]
+* [Glusterfs](https://www.gluster.org/)
+* [OpenStack Cinder](https://wiki.openstack.org/cinder)
+* [CephRBD](http://ceph.com/ceph-storage/block-storage/)
+* [QuoByte](https://www.quobyte.com/)
 
 Related Projects
 =======================================================================
@@ -306,7 +318,7 @@ Related Projects
 * [CRI-O (OCI)]
 * [Hyper.sh/frakti]
 
-## Database/NoSQL
+## Database
 
 * [CockroachDB](https://www.cockroachlabs.com/blog/running-cockroachdb-on-kubernetes/)
 * [Cassandra / DataStax](http://blog.kubernetes.io/2016/07/thousand-instances-of-cassandra-using-kubernetes-pet-set.html)
@@ -352,7 +364,7 @@ Related Projects
 
 ## API/CLI adaptors
 
-* [Kubebot](http://blog.harbur.io/introducing-kubebot-a-kubernetes-bot-for-slack/ )
+* [Kubebot](https://github.com/harbur/kubebot)
 * [StackStorm](https://github.com/StackStorm/st2)
 * [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [Ksql](https://github.com/brendandburns/ksql)

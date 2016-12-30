@@ -59,6 +59,7 @@ Menu
 =======================================================================
 
 * [Starting Point](#starting-point)
+* [Installers](#installers)
 * [Main Resources](#main-resources)
 * [Useful Articles](#useful-articles)
 * [Cloud Providers](#cloud-providers)
@@ -120,6 +121,20 @@ Starting Point
 * [Top Reasons Businesses Should Move to Kubernetes Now](https://supergiant.io/blog/top-reasons-businesses-should-move-to-kubernetes-now) by [Mike Johnston](https://github.com/gopherstein)
 * [The Children's Illustrated Guide to Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/) by [Deis](https://github.com/deis)
 * [The ‘kubectl run’ command](https://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
+
+
+Installers
+=======================================================================
+
+
+* [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+* [kops](https://github.com/kubernetes/kops)
+* [kube-deploy](https://github.com/kubernetes/kube-deploy)
+* [kubeadm](http://kubernetes.io/docs/admin/kubeadm/)
+* [kargo](https://github.com/kubernetes-incubator/kargo)
+* [bootkube](https://github.com/kubernetes-incubator/bootkube)
+* [kube-aws](https://github.com/coreos/kube-aws)
+* [kismatic](https://github.com/apprenda/kismatic)
 
 
 Main Resources

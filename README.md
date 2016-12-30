@@ -135,7 +135,7 @@ Installers
 * [bootkube](https://github.com/kubernetes-incubator/bootkube)
 * [kube-aws](https://github.com/coreos/kube-aws)
 * [kismatic](https://github.com/apprenda/kismatic)
-
+* [juju](https://jujucharms.com/canonical-kubernetes)
 
 Main Resources
 =======================================================================

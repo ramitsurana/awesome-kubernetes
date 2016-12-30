@@ -62,6 +62,7 @@ Menu
 * [Main Resources](#main-resources)
 * [Useful Articles](#useful-articles)
 * [Cloud Providers](#cloud-providers)
+* [Installers](#installers)
 * [Case Studies](#case-studies)
 * [Persistent Volume Providers](#persistent-volume-providers)
 * [Related Projects](#related-projects)
@@ -197,6 +198,20 @@ Cloud Providers
 * [Eldarion Cloud](http://eldarion.cloud/)
 * [StackPoint Cloud](https://stackpointcloud.com/)
  
+
+Installers
+=======================================================================
+
+
+* [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+* [kops](https://github.com/kubernetes/kops)
+* [kube-deploy](https://github.com/kubernetes/kube-deploy)
+* [kubeadm](http://kubernetes.io/docs/admin/kubeadm/)
+* [kargo](https://github.com/kubernetes-incubator/kargo)
+* [bootkube](https://github.com/kubernetes-incubator/bootkube)
+* [kube-aws](https://github.com/coreos/kube-aws)
+* [kismatic](https://github.com/apprenda/kismatic)
+
 
 Case Studies
 =======================================================================

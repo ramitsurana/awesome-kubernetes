@@ -127,15 +127,16 @@ Installers
 =======================================================================
 
 
-* [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-* [kops](https://github.com/kubernetes/kops)
-* [kube-deploy](https://github.com/kubernetes/kube-deploy)
-* [kubeadm](http://kubernetes.io/docs/admin/kubeadm/)
-* [kargo](https://github.com/kubernetes-incubator/kargo)
-* [bootkube](https://github.com/kubernetes-incubator/bootkube)
-* [kube-aws](https://github.com/coreos/kube-aws)
-* [kismatic](https://github.com/apprenda/kismatic)
-* [juju](https://jujucharms.com/canonical-kubernetes)
+* [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+* [Kops](https://github.com/kubernetes/kops)
+* [Kube-deploy](https://github.com/kubernetes/kube-deploy)
+* [Kubeadm](http://kubernetes.io/docs/admin/kubeadm/)
+* [Kargo](https://github.com/kubernetes-incubator/kargo)
+* [Bootkube](https://github.com/kubernetes-incubator/bootkube)
+* [Kube-aws](https://github.com/coreos/kube-aws)
+* [Kismatic](https://github.com/apprenda/kismatic)
+* [Juju](https://jujucharms.com/canonical-kubernetes)
+* [Terraform](https://github.com/kz8s/tack)
 
 Main Resources
 =======================================================================
@@ -197,6 +198,7 @@ Useful Articles
 * [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by [Michael Ward](https://twitter.com/DevoperandI)
 * [Achieving CI/CD with Kubernetes](http://theremotelab.com/blog/achieving-ci-cd-with-k8s/) by [Ramit Surana](https://twitter.com/ramitsurana)
 * [Kubernetes Monitoring Guide](https://www.datadoghq.com/blog/monitoring-kubernetes-era/) by [JM Saponaro](http://github.com/JayJayM)
+* [Deploying Kubernetes with Ansible and Terraform](http://solinea.com/blog/deploying-kubernetes-ansible-terraform)
 
 
 Cloud Providers
@@ -246,11 +248,8 @@ Related Projects
 *Projects built to make life with Kubernetes even better, more powerful, more scalable*
 
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
-* [Helm Package Manager](https://deis.com/blog/2015/introducing-helm-for-kubernetes)
 * [Ubernetes](https://github.com/kubernetes/kubernetes/blob/master/docs/proposals/federation.md)
-* [Minikube](http://github.com/kubernetes/minikube/)
 * [kmachine](https://github.com/skippbox/kmachine)
-* [spread](https://github.com/redspread/spread)
 * [Supergiant](https://supergiant.io)
 * [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [KubeSpray][https://github.com/kubespray]
@@ -398,7 +397,7 @@ Related Projects
 ## Configuration
 
 * [Kompose]
-* [Jsonnet]
+* [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
 * [Spread](http://redspread.com)
 * [K8comp](https://github.com/cststack/k8comp)
 * [Ktmpl](https://github.com/InQuicker/ktmpl)

@@ -341,6 +341,7 @@ Related Projects
 * [Crate](https://crate.io/docs/scale/kubernetes/)
 * [Vitess](http://vitess.io/getting-started/)
 * [Minio](http://minio.io)
+* [Vitess](http://vitess.io/) - Horizontal scaling of MySql by Youtube
 
 ## Networking
 
@@ -548,6 +549,8 @@ Meetup Groups
 * [New York](https://twitter.com/kubernetesnyc)
 * [Paris](https://twitter.com/kubernetesparis)
 * [San Fransico](https://twitter.com/kubernetesSF)
+* [Banglore](https://www.meetup.com/Bangalore-Kubernetes-Meetup)
+* [Pune](https://www.meetup.com/Kubernetes-Pune/)
 
 
 Connecting with Kubernetes

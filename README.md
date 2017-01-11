@@ -384,6 +384,7 @@ Related Projects
 * [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [Ksql](https://github.com/brendandburns/ksql)
 * [kubectld](https://github.com/rancher/kubectld)
+* [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - Work around kubectl
 
 ## Application deployment orchestration
 

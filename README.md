@@ -85,6 +85,7 @@ Menu
 * [Managed Kubernetes](#managed-kubernetes)
 * [Load balancing](#load-balancing)
 * [Developer platform](#developer-platform)
+* [Big Data](#big-data)
 * [Raspberry Pi](#raspberry-pi)
 * [Books](#books) :books:
 * [Slide Presentations](#slide-presentations)
@@ -433,7 +434,12 @@ Related Projects
   * [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
 * [goPaddle](http://www.gopaddle.io)
 * [VAMP](http://vamp.io)
-    
+
+## Big Data
+
+* [Kube-Yarn](https://github.com/Comcast/kube-yarn)
+* [Spark](https://github.com/kubernetes/kubernetes/tree/master/examples/spark)
+
 Raspberry Pi
 =======================================================================
 
@@ -540,6 +546,7 @@ Amazing People
 * [Brandon Philips](https://twitter.com/BrandonPhilips), CTO at CoreOS
 * [Eric Tune](https://twitter.com/eric_tune), Senior Staff Engineer at Google
 * [Tim Hockin](https://twitter.com/thockin), Senior Staff SW Engineer / Engineering Manager at Google
+* [Brian Grant](https://github.com/bgrant0607), System Software Architect at Google
 
 Meetup Groups
 =======================================================================

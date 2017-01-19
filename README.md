@@ -138,6 +138,7 @@ Installers
 * [Kismatic](https://github.com/apprenda/kismatic)
 * [Juju](https://jujucharms.com/canonical-kubernetes)
 * [Terraform](https://github.com/kz8s/tack)
+* [Supergiant](http://supergiant.io/)
 
 Main Resources
 =======================================================================

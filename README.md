@@ -560,6 +560,7 @@ Meetup Groups
 * [San Fransico](https://twitter.com/kubernetesSF)
 * [Banglore](https://www.meetup.com/Bangalore-Kubernetes-Meetup)
 * [Pune](https://www.meetup.com/Kubernetes-Pune/)
+* [London](https://www.meetup.com/Kubernetes-London/)
 
 
 Connecting with Kubernetes

@@ -229,7 +229,7 @@ Case Studies
 Persistent Volume Providers
 =======================================================================
 
-*List of some Persistent Volume Providers for Kubernetes.Check out [Kubernets Experimental](https://github.com/kubernetes/kubernetes/tree/master/examples/experimental/persistent-volume-provisioning) for more info*
+*List of some Persistent Volume Providers for Kubernetes.Check out [Kubernets Experimental](https://github.com/kubernetes/kubernetes/tree/master/examples/persistent-volume-provisioning) for more info*
 
 * [GCE](https://cloud.google.com/compute/)
 * [AWS](aws.amazon.com)

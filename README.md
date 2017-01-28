@@ -86,6 +86,7 @@ Menu
 * [Load balancing](#load-balancing)
 * [Developer platform](#developer-platform)
 * [Big Data](#big-data)
+* [Service Discovery](#service-discovery)
 * [Raspberry Pi](#raspberry-pi)
 * [Books](#books) :books:
 * [Slide Presentations](#slide-presentations)
@@ -201,6 +202,7 @@ Useful Articles
 * [Achieving CI/CD with Kubernetes](http://theremotelab.com/blog/achieving-ci-cd-with-k8s/) by [Ramit Surana](https://twitter.com/ramitsurana)
 * [Kubernetes Monitoring Guide](https://www.datadoghq.com/blog/monitoring-kubernetes-era/) by [JM Saponaro](http://github.com/JayJayM)
 * [Deploying Kubernetes with Ansible and Terraform](http://solinea.com/blog/deploying-kubernetes-ansible-terraform)
+* [Cluster Consul using Kubernetes API](http://www.devoperandi.com/cluster-consul-using-kubernetes-api/)
 
 
 Cloud Providers
@@ -261,7 +263,6 @@ Related Projects
 * [Kubeform](https://capgemini.github.io/kubeform/)
 * [k8comp](https://github.com/cststack/k8comp)
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
-
 * [Client Libraries](https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md)
 
 ## Package Managers
@@ -299,7 +300,6 @@ Related Projects
 
 *Build-test-deploy automated workflow software designed to make production environments more stable and life better for engineers*
 
-* [Fabric8](http://fabric8.io)
 * [Jenkins](https://jenkins.io)
    * [Jenkins-Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin) by [Carlos Sanchez](https://www.twitter.com/csanchez)
    * [Automated Image Builds with Jenkins, Packer, and Kubernetes](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes#kubernetes_architecture)
@@ -433,6 +433,7 @@ Related Projects
 
 * [Fabric8](http://fabric8.io)
   * [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
+* [Mantl](http://mantl.io/)
 * [goPaddle](http://www.gopaddle.io)
 * [VAMP](http://vamp.io)
 
@@ -440,6 +441,13 @@ Related Projects
 
 * [Kube-Yarn](https://github.com/Comcast/kube-yarn)
 * [Spark](https://github.com/kubernetes/kubernetes/tree/master/examples/spark)
+
+
+## Service Discovery
+
+* [Consul](http://consul.io)
+  * [Kelsey Hightower Consul](https://github.com/kelseyhightower/consul-on-kubernetes)
+  * [Bridge between Kubernetes and Consul](https://github.com/Beldur/kube2consul)
 
 Raspberry Pi
 =======================================================================

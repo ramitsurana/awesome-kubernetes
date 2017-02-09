@@ -341,7 +341,6 @@ Related Projects
 * [MongoDB](https://www.mongodb.com/blog/post/running-mongodb-as-a-microservice-with-docker-and-kubernetes)
 * [Hazelcast](https://ppires.wordpress.com/2014/12/24/clustering-hazelcast-on-kubernetes/)
 * [Crate](https://crate.io/docs/scale/kubernetes/)
-* [Vitess](http://vitess.io/getting-started/)
 * [Minio](http://minio.io)
 * [Vitess](http://vitess.io/) - Horizontal scaling of MySql by Youtube
 

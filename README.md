@@ -570,7 +570,7 @@ Meetup Groups
 * [New York](https://twitter.com/kubernetesnyc)
 * [Paris](https://twitter.com/kubernetesparis)
 * [San Fransico](https://twitter.com/kubernetesSF)
-* [Banglore](https://www.meetup.com/Bangalore-Kubernetes-Meetup)
+* [Bangalore](https://www.meetup.com/Bangalore-Kubernetes-Meetup)
 * [Pune](https://www.meetup.com/Kubernetes-Pune/)
 * [London](https://www.meetup.com/Kubernetes-London/)
 

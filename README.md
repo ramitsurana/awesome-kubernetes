@@ -79,7 +79,7 @@ Menu
 * [RPC](#rpc)
 * [Secret generation and management](#secret-generation-and-management)
 * [Mobile applications](#mobile-applications)
-* [API/CLI adaptors](#cli-adaptors)
+* [API/CLI adaptors](#apicli-adaptors)
 * [Application deployment orchestration](#application-deployment-orchestration)
 * [Configuration](#configuration)
 * [Security](#security)

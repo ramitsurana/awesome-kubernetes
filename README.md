@@ -72,6 +72,7 @@ Menu
 * [Paas Providers](#paasproviders)    
 * [Continuous Delivery](#continuous-delivery)
 * [Serverless Implementation](#serverless-implementation)
+* [Operators](#operators)
 * [Container Support](#container-support)
 * [Database/NoSQL](#database)
 * [Networking](#networking)
@@ -327,6 +328,12 @@ Related Projects
 * [Kubeless](https://github.com/skippbox/kubeless)
 * OpenWhisk
 * [Iron.io](http://iron.io)
+
+## Operators
+
+* [etcd](https://github.com/coreos/etcd-operator)
+* [Prometheus](https://github.com/coreos/prometheus-operator)
+* [Elasticsearch](https://github.com/upmc-enterprises/elasticsearch-operator)
 
 ## Container Support
 

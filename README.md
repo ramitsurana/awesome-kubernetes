@@ -72,6 +72,8 @@ Menu
 * [Paas Providers](#paasproviders)    
 * [Continuous Delivery](#continuous-delivery)
 * [Serverless Implementation](#serverless-implementation)
+* [Operators](#operators)
+* [Custom Schedulers](#custom-schedulers)
 * [Container Support](#container-support)
 * [Database/NoSQL](#database)
 * [Networking](#networking)
@@ -327,6 +329,21 @@ Related Projects
 * [Kubeless](https://github.com/skippbox/kubeless)
 * OpenWhisk
 * [Iron.io](http://iron.io)
+
+## Operators
+
+* [etcd](https://github.com/coreos/etcd-operator)
+* [Prometheus](https://github.com/coreos/prometheus-operator)
+* [Elasticsearch](https://github.com/upmc-enterprises/elasticsearch-operator)
+
+## Custom Schedulers
+
+* [Scheduler](https://github.com/kelseyhightower/scheduler) Example cost based scheduler by [Kelsey Hightower](https://twitter.com/kelseyhightower)
+* [Sticky Node Scheduler](https://github.com/philipn/kubernetes-sticky-node-scheduler)
+* [ksched](https://github.com/coreos/ksched) Experimental flow based scheduler
+* [kronjob](https://github.com/Eneco/kronjob) Scheduler for recurring jobs
+* [escheduler](https://github.com/agonzalezro/escheduler) Example scheduler written in elixir
+* [bashScheduler](https://github.com/rothgar/bashScheduler) Example scheduler written in bash
 
 ## Container Support
 

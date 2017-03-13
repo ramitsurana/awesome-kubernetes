@@ -80,6 +80,7 @@ Menu
 * [Service mesh](#service-mesh)
 * [RPC](#rpc)
 * [Secret generation and management](#secret-generation-and-management)
+* [Desktop applications](#desktop-applications)
 * [Mobile applications](#mobile-applications)
 * [API/CLI adaptors](#apicli-adaptors)
 * [Application deployment orchestration](#application-deployment-orchestration)
@@ -395,6 +396,10 @@ Related Projects
 * [kube-lego](https://github.com/jetstack/kube-lego)
 * [k8sec](https://github.com/dtan4/k8sec)
     
+## Desktop applications
+
+* [Kubernetic](https://kubernetic.com/)
+
 ## Mobile applications
 
 * [Cabin](http://www.skippbox.com/cabin/)

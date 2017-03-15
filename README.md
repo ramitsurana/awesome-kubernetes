@@ -134,16 +134,16 @@ Installers
 
 
 * [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-* [Kops](https://github.com/kubernetes/kops)
+* [Kops](https://github.com/kubernetes/kops) - OS Agnostique - AWS - [Apache-2.0](https://github.com/kubernetes/kops/blob/master/LICENSE)
 * [Kube-deploy](https://github.com/kubernetes/kube-deploy)
-* [Kubeadm](http://kubernetes.io/docs/admin/kubeadm/)
-* [Kargo](https://github.com/kubernetes-incubator/kargo)
-* [Bootkube](https://github.com/kubernetes-incubator/bootkube)
-* [Kube-aws](https://github.com/coreos/kube-aws)
-* [Kismatic](https://github.com/apprenda/kismatic)
-* [Juju](https://jujucharms.com/canonical-kubernetes)
-* [Terraform](https://github.com/kz8s/tack)
-* [Supergiant](http://supergiant.io/)
+* [Kubeadm](http://kubernetes.io/docs/admin/kubeadm/) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kubernetes/kubeadm/blob/master/LICENSE)
+* [Kargo](https://github.com/kubernetes-incubator/kargo) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kubernetes-incubator/kargo/blob/master/LICENSE)
+* [Bootkube](https://github.com/kubernetes-incubator/bootkube) - CoreOS - Cloud Agnostique - [Apache-2.0](https://github.com/kubernetes-incubator/bootkube/blob/master/LICENSE)
+* [Kube-aws](https://github.com/coreos/kube-aws) - CoreOS - AWS - [Apache-2.0](https://github.com/coreos/kube-aws/blob/master/CONTRIBUTING.md)
+* [Kismatic](https://github.com/apprenda/kismatic) - CentOS - Cloud Agnostique - [Apache-2.0](https://github.com/apprenda/kismatic/blob/master/LICENSE)
+* [Juju](https://jujucharms.com/canonical-kubernetes) - Ubuntu - Cloud Agnostique - [Proprietary](https://github.com/juju-solutions/bundle-canonical-kubernetes/issues/235)
+* [Terraform](https://github.com/kz8s/tack) - CoreOS - AWS - [MIT](https://github.com/kz8s/tack/blob/master/LICENSE)
+* [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique - [Apache-2.0](https://github.com/supergiant/supergiant/blob/master/LICENSE)
 
 Main Resources
 =======================================================================

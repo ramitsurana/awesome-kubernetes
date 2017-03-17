@@ -208,6 +208,8 @@ Useful Articles
 * [Deploying Kubernetes with Ansible and Terraform](http://solinea.com/blog/deploying-kubernetes-ansible-terraform)
 * [Cluster Consul using Kubernetes API](http://www.devoperandi.com/cluster-consul-using-kubernetes-api/)
 * [Continuous Deployment with Google Container Engine and Kubernetes](https://semaphoreci.com/community/tutorials/continuous-deployment-with-google-container-engine-and-kubernetes)
+* [Handling Sensitive Data In A Docker Application with Kubernetes Secrets](https://scotch.io/tutorials/google-cloud-platform-iii-handling-sensitive-data-in-a-docker-application-with-kubernetes-secrets) by [John Kariuki ](https://twitter.com/_kar_is)
+* [How to Create and Use Kubernetes Secrets](http://linoxide.com/containers/create-use-kubernetes-secrets/) by [Mohamed Ez Ez](http://linoxide.com/author/mohamedez/)
 
 
 Cloud Providers
@@ -215,8 +217,8 @@ Cloud Providers
 
 
 * [GCE](https://cloud.google.com/compute/) - Google Compute Engine [default]
-* [GKE] - Google Container Engine
-* [AWS](aws.amazon.com/ec2‎) - Amazon EC2
+* [GKE](https://cloud.google.com/container-engine/) - Google Container Engine
+* [AWS](http://aws.amazon.com/ec2) - Amazon EC2
 * [Azure](https://azure.microsoft.com/en-in/) - Microsoft Azure
 * [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
 * [Rackspace](https://www.rackspace.com/en-in) - Rackspace

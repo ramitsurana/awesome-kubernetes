@@ -456,6 +456,7 @@ Related Projects
 
 * [Nginx Plus](https://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
 * [Traefik](https://traefik.io/)
+* [AppsCode Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager)
 
 ## Developer platform
 

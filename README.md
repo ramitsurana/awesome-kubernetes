@@ -445,6 +445,7 @@ Related Projects
 * [Trireme](http://github.com/aporeto-inc/trireme-kubernetes)
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
 * [Twistlock](https://www.twistlock.com/)
+* [Sysdig Falco](http://www.sysdig.org/falco/)
 
 ## Managed Kubernetes
 

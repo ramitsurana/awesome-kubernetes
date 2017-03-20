@@ -91,6 +91,7 @@ Menu
 * [Developer platform](#developer-platform)
 * [Big Data](#big-data)
 * [Service Discovery](#service-discovery)
+* [Operating System](#operating-system)
 * [Raspberry Pi](#raspberry-pi)
 * [Books](#books) :books:
 * [Slide Presentations](#slide-presentations)
@@ -371,7 +372,7 @@ Related Projects
 
 ## Networking
 
-* [WeaveWorks]
+* [WeaveWorks](https://www.weave.works/)
 * [Canal](https://github.com/tigera/canal) by [Tigera](https://github.com/tigera)
 * [OpenContrail](https://github.com/Juniper/contrail-kubernetes)
 * [Nuage](https://github.com/nuagenetworks/nuage-kubernetes)
@@ -478,6 +479,12 @@ Related Projects
 * [Consul](http://consul.io)
   * [Kelsey Hightower Consul](https://github.com/kelseyhightower/consul-on-kubernetes)
   * [Bridge between Kubernetes and Consul](https://github.com/Beldur/kube2consul)
+  
+## Operating System
+
+* [CoreOS](http://coreos.com)
+* [Kurma](http://kurma.io)
+* [GCI](https://cloud.google.com/container-optimized-os/docs/)
 
 Raspberry Pi
 =======================================================================

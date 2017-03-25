@@ -264,7 +264,7 @@ Related Projects
 * [kmachine](https://github.com/skippbox/kmachine)
 * [Supergiant](https://supergiant.io)
 * [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
-* [KubeSpray][https://github.com/kubespray]
+* [KubeSpray](https://github.com/kubespray)
 * [Bootkube](https://github.com/coreos/bootkube)
 * [Localkube](https://github.com/redspread/localkube)
 * [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)

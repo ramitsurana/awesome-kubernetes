@@ -378,6 +378,8 @@ Related Projects
 * [Nuage](https://github.com/nuagenetworks/nuage-kubernetes)
 * [Kuryr](https://github.com/openstack/kuryr-kubernetes)
 * [Contiv](http://contiv.github.io/)
+* [Calico](https://www.projectcalico.org/)
+* [OpenVSwitch](http://openvswitch.org/)
 
 
 ## Service mesh

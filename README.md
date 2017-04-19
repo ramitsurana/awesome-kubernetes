@@ -223,8 +223,6 @@ Cloud Providers
 * [Azure](https://azure.microsoft.com/en-in/) - Microsoft Azure
 * [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
 * [Rackspace](https://www.rackspace.com/en-in) - Rackspace
-* [Eldarion Cloud](http://eldarion.cloud/)
-* [StackPoint Cloud](https://stackpointcloud.com/)
  
 
 Case Studies
@@ -456,6 +454,8 @@ Related Projects
 * [Platform9](https://platform9.com/)
 * [Gravitational](https://github.com/gravitational)
 * [KCluster](https://kcluster.io/)
+* [Eldarion Cloud](http://eldarion.cloud/)
+* [StackPoint Cloud](https://stackpointcloud.com/)
 
 ## Load balancing
 

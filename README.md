@@ -211,20 +211,6 @@ Useful Articles
 * [Continuous Deployment with Google Container Engine and Kubernetes](https://semaphoreci.com/community/tutorials/continuous-deployment-with-google-container-engine-and-kubernetes)
 * [Handling Sensitive Data In A Docker Application with Kubernetes Secrets](https://scotch.io/tutorials/google-cloud-platform-iii-handling-sensitive-data-in-a-docker-application-with-kubernetes-secrets) by [John Kariuki ](https://twitter.com/_kar_is)
 * [How to Create and Use Kubernetes Secrets](http://linoxide.com/containers/create-use-kubernetes-secrets/) by [Mohamed Ez Ez](http://linoxide.com/author/mohamedez/)
-
-
-Cloud Providers
-=======================================================================
-
-
-* [GCE](https://cloud.google.com/compute/) - Google Compute Engine [default]
-* [GKE](https://cloud.google.com/container-engine/) - Google Container Engine
-* [AWS](http://aws.amazon.com/ec2) - Amazon EC2
-* [Azure](https://azure.microsoft.com/en-in/) - Microsoft Azure
-* [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
-* [Rackspace](https://www.rackspace.com/en-in) - Rackspace
-* [Eldarion Cloud](http://eldarion.cloud/)
-* [StackPoint Cloud](https://stackpointcloud.com/)
  
 
 Case Studies
@@ -452,6 +438,8 @@ Related Projects
 * [Platform9](https://platform9.com/)
 * [Gravitational](https://github.com/gravitational)
 * [KCluster](https://kcluster.io/)
+* [Eldarion Cloud](http://eldarion.cloud/)
+* [StackPoint Cloud](https://stackpointcloud.com/)
 
 ## Load balancing
 

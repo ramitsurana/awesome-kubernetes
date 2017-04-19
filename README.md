@@ -292,6 +292,7 @@ Related Projects
 ## Enterprise Kubernetes Products
 
 * [CoreOS Tectonic](https://tectonic.com)
+* [Heptio](https://www.heptio.com/) - Enterprise support, training and consulting
 
 ## PaaS Providers
 

@@ -296,12 +296,12 @@ Related Projects
 ## Enterprise Kubernetes Products
 
 * [CoreOS Tectonic](https://tectonic.com)
+* [OpenShift](https://www.openshift.com/)
 
 ## PaaS Providers
 
 *Kubernetes Platform as a Service providers*
 
-* [OpenShift](https://www.openshift.com/)
 * [Deis Workflow](https://deis.com/)
 * [Gondor/Kel]
 * [WSO2](http://wso2.com)

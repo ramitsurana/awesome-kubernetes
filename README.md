@@ -292,17 +292,18 @@ Related Projects
 ## Enterprise Kubernetes Products
 
 * [CoreOS Tectonic](https://tectonic.com)
+* [OpenShift - Container Platform](https://www.openshift.com/container-platform/index.html)
 
 ## PaaS Providers
 
 *Kubernetes Platform as a Service providers*
 
-* [OpenShift](https://www.openshift.com/)
 * [Deis Workflow](https://deis.com/)
 * [Gondor/Kel]
 * [WSO2](http://wso2.com)
 * [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
 * [Kumoru](http://kumoru.io/)
+* [Open Shift Origin](https://www.openshift.org/)
 
 ## Continuous Delivery
 
@@ -452,6 +453,7 @@ Related Projects
 * [Platform9](https://platform9.com/)
 * [Gravitational](https://github.com/gravitational)
 * [KCluster](https://kcluster.io/)
+* [OpenShift Online](https://www.openshift.com/devpreview/index.html)
 
 ## Load balancing
 

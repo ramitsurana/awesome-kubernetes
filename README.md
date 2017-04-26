@@ -62,14 +62,16 @@ Menu
 * [Installers](#installers)
 * [Main Resources](#main-resources)
 * [Useful Articles](#useful-articles)
-* [Cloud Providers](#cloud-providers)
+* [Managed Kubernetes](#managed-kubernetes)
+  * [Developer Platform](#developer-platform)
+  * [Enterprise Kubernetes Products](#enterprise-kubernetes-product)
+  * [On Premise](#on-premise)
+  * [Paas](#paas)
 * [Case Studies](#case-studies)
 * [Persistent Volume Providers](#persistent-volume-providers)
 * [Related Projects](#related-projects)
   * [Related Software](#related-software)
-* [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
-* [Monitoring Services](#monitoring-services)
-* [Paas Providers](#paasproviders)    
+* [Monitoring Services](#monitoring-services)   
 * [Continuous Delivery](#continuous-delivery)
 * [Serverless Implementation](#serverless-implementation)
 * [Operators](#operators)
@@ -86,7 +88,6 @@ Menu
 * [Application deployment orchestration](#application-deployment-orchestration)
 * [Configuration](#configuration)
 * [Security](#security)
-* [Managed Kubernetes](#managed-kubernetes)
 * [Load balancing](#load-balancing)
 * [Developer platform](#developer-platform)
 * [Big Data](#big-data)
@@ -213,19 +214,50 @@ Useful Articles
 * [How to Create and Use Kubernetes Secrets](http://linoxide.com/containers/create-use-kubernetes-secrets/) by [Mohamed Ez Ez](http://linoxide.com/author/mohamedez/)
 
 
-Cloud Providers
+Managed Kubernetes
 =======================================================================
 
+  - [Platform9](https://platform9.com/)
+  - [Gravitational](https://github.com/gravitational)
+  - [KCluster](https://kcluster.io/)
+  - [OpenShift Online](https://www.openshift.com/devpreview/index.html)
+  - [Eldarion Cloud](http://eldarion.cloud/)
+  - [StackPoint Cloud](https://stackpointcloud.com/)
+  
+  
+  * [Developer Platform](#developer-platform)
 
-* [GCE](https://cloud.google.com/compute/) - Google Compute Engine [default]
-* [GKE](https://cloud.google.com/container-engine/) - Google Container Engine
-* [AWS](http://aws.amazon.com/ec2) - Amazon EC2
-* [Azure](https://azure.microsoft.com/en-in/) - Microsoft Azure
-* [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
-* [Rackspace](https://www.rackspace.com/en-in) - Rackspace
-* [Eldarion Cloud](http://eldarion.cloud/)
-* [StackPoint Cloud](https://stackpointcloud.com/)
- 
+  - [Fabric8](http://fabric8.io)
+   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
+  - [Mantl](http://mantl.io/)
+  - [goPaddle](http://www.gopaddle.io)
+  - [VAMP](http://vamp.io)
+  
+  
+  * [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
+
+  - [CoreOS Tectonic](https://tectonic.com)
+  - [OpenShift - Container Platform](https://www.openshift.com/container-platform/index.html)
+  
+  * [On Premise](#on-premise)
+  
+   - [GCE](https://cloud.google.com/compute/) - Google Compute Engine [default]
+   - [GKE](https://cloud.google.com/container-engine/) - Google Container Engine
+   - [AWS](http://aws.amazon.com/ec2) - Amazon EC2
+   - [Azure](https://azure.microsoft.com/en-in/) - Microsoft Azure
+   - [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
+   - [Rackspace](https://www.rackspace.com/en-in) - Rackspace
+  
+  * [Paas](#paas)
+
+   *Kubernetes Platform as a Service providers*
+
+  - [Deis Workflow](https://deis.com/)
+  - [Gondor/Kel]
+  - [WSO2](http://wso2.com)
+  - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
+  - [Kumoru](http://kumoru.io/)
+  - [Open Shift Origin](https://www.openshift.org/)
 
 Case Studies
 =======================================================================
@@ -289,21 +321,7 @@ Related Projects
 * [Sysdig Monitoring](https://www.sysdig.com/)
 * [Weave Scope](https://www.weave.works/products/weave-scope/)
 
-## Enterprise Kubernetes Products
 
-* [CoreOS Tectonic](https://tectonic.com)
-* [OpenShift - Container Platform](https://www.openshift.com/container-platform/index.html)
-
-## PaaS Providers
-
-*Kubernetes Platform as a Service providers*
-
-* [Deis Workflow](https://deis.com/)
-* [Gondor/Kel]
-* [WSO2](http://wso2.com)
-* [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
-* [Kumoru](http://kumoru.io/)
-* [Open Shift Origin](https://www.openshift.org/)
 
 ## Continuous Delivery
 
@@ -448,12 +466,7 @@ Related Projects
 * [Twistlock](https://www.twistlock.com/)
 * [Sysdig Falco](http://www.sysdig.org/falco/)
 
-## Managed Kubernetes
 
-* [Platform9](https://platform9.com/)
-* [Gravitational](https://github.com/gravitational)
-* [KCluster](https://kcluster.io/)
-* [OpenShift Online](https://www.openshift.com/devpreview/index.html)
 
 ## Load balancing
 
@@ -461,13 +474,6 @@ Related Projects
 * [Traefik](https://traefik.io/)
 * [AppsCode Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager)
 
-## Developer platform
-
-* [Fabric8](http://fabric8.io)
-  * [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
-* [Mantl](http://mantl.io/)
-* [goPaddle](http://www.gopaddle.io)
-* [VAMP](http://vamp.io)
 
 ## Big Data
 

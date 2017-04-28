@@ -93,6 +93,7 @@ Menu
 * [Big Data](#big-data)
 * [Service Discovery](#service-discovery)
 * [Operating System](#operating-system)
+* [YAML/JSON Config](#yaml/json-config)
 * [Raspberry Pi](#raspberry-pi)
 * [Books](#books) :books:
 * [Slide Presentations](#slide-presentations)
@@ -168,7 +169,7 @@ Useful Articles
 *  [Scaling Docker with Kubernetes](http://www.infoq.com/articles/scaling-docker-with-kubernetes) by [Carlos Sanchez](https://twitter.com/csanchez)
 * [Creating a Kubernetes Cluster to Run Docker Formatted Container Images](https://access.redhat.com/articles/1353773) by [Chris Negus](https://twitter.com/linuxcricket)
 * [Containerizing Docker on Kubernetes !!](https://www.linkedin.com/pulse/containerizing-docker-kubernetes-ramit-surana) by [Ramit Surana](https://twitter.com/ramitsurana)
-* [Running Kubernetes Example on CoreOS, Part 1](https://coreos.com/blog/running-kubernetes-example-on-CoreOS-part-1/) by [Kelsey Hightower](https://twitter.com/kelseyhightower)
+* [Quay: Introducing an Application Registry for Kubernetes](https://coreos.com/blog/quay-application-registry-for-kubernetes.html) by Antoine Legrand
 * [Play With Kubernetes Quickly Using Docker](https://zwischenzugs.wordpress.com/2015/04/06/play-with-kubernetes-quickly-using-docker/)
 * [1 command to Kubernetes with Docker compose](http://sebgoa.blogspot.in/2015/04/1-command-to-kubernetes-with-docker.html) by [Sebastien Goasguen](https://twitter.com/sebgoa)
 * [Nginx Server Deployment using Kubernetes](http://containertutorials.com/get_started_kubernetes/k8s_example.html) by [Rajdeep Dua](https://www.twitter.com/rajdeepdua)
@@ -225,7 +226,7 @@ Managed Kubernetes
   - [StackPoint Cloud](https://stackpointcloud.com/)
   
   
-  * [Developer Platform](#developer-platform)
+  ### [Developer Platform](#developer-platform)
 
   - [Fabric8](http://fabric8.io)
    - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
@@ -234,12 +235,12 @@ Managed Kubernetes
   - [VAMP](http://vamp.io)
   
   
-  * [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
+  ### [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
 
   - [CoreOS Tectonic](https://tectonic.com)
   - [OpenShift - Container Platform](https://www.openshift.com/container-platform/index.html)
   
-  * [On Premise](#on-premise)
+  ### [On Premise](#on-premise)
   
    - [GCE](https://cloud.google.com/compute/) - Google Compute Engine [default]
    - [GKE](https://cloud.google.com/container-engine/) - Google Container Engine
@@ -248,7 +249,7 @@ Managed Kubernetes
    - [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
    - [Rackspace](https://www.rackspace.com/en-in) - Rackspace
   
-  * [Paas](#paas)
+  ### [Paas](#paas)
 
    *Kubernetes Platform as a Service providers*
 
@@ -492,6 +493,10 @@ Related Projects
 * [CoreOS](http://coreos.com)
 * [Kurma](http://kurma.io)
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
+
+## YAML/JSON Config
+
+* [Kube.libsonnet](https://github.com/heptio/kube.libsonnet) - Currently Unstable
 
 Raspberry Pi
 =======================================================================

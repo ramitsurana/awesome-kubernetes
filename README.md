@@ -317,6 +317,7 @@ Related Projects
 * [Heapster](https://github.com/kubernetes/heapster)
 * [Kubedash](https://github.com/kubernetes/kubedash)
 * [Kube-ui](https://github.com/kubernetes/kube-ui)
+* [Netsil](https://github.com/netsil/manifests)
 * [Prometheus](http://prometheus.io)
 * [Sysdig Open Source](http://www.sysdig.org/)
 * [Sysdig Monitoring](https://www.sysdig.com/)

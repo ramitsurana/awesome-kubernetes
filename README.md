@@ -399,7 +399,7 @@ Related Projects
 * [Contiv](http://contiv.github.io/)
 * [Calico](https://www.projectcalico.org/)
 * [OpenVSwitch](http://openvswitch.org/)
-
+* [Kube-router](http://github.com/cloudnativelabs/kube-router)
 
 ## Service mesh
 

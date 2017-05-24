@@ -259,7 +259,6 @@ Managed Kubernetes
   - [Gondor/Kel]
   - [WSO2](http://wso2.com)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
-  - [Kumoru](http://kumoru.io/)
   - [Open Shift Origin](https://www.openshift.org/)
 
 Case Studies

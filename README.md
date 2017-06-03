@@ -407,6 +407,7 @@ Related Projects
 ## Service mesh
 
 * [Envoy](http://lyft.github.io/envoy/)
+* [Istio](https://istio.io/)
 * [Linkerd](https://linkerd.io/getting-started/k8s/)
 * [Amalgam8](http://www.amalgam8.io/)
 * [WeaveWorks](http://www.weave.works/weave-for-kubernetes/)

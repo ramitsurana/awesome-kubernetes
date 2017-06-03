@@ -406,6 +406,7 @@ Related Projects
 ## Service mesh
 
 * [Envoy](http://lyft.github.io/envoy/)
+* [Istio](https://istio.io/)
 * [Linkerd](https://linkerd.io/getting-started/k8s/)
 * [Amalgam8](http://www.amalgam8.io/)
 * [WeaveWorks](http://www.weave.works/weave-for-kubernetes/)
@@ -523,6 +524,7 @@ us with information*
 * [Kubernetes Cookbook](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook) by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) by Jonathan Baier
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) (OpenSource Book in Chinese) by [Pengfei Ni](https://github.com/feiskyer)
+* [Mastering Kubernetes](https://www.amazon.com/Mastering-Kubernetes-Gigi-Sayfan/dp/1786461005) by [Gigi Sayfan](https://github.com/the-gigi)
 
 Slide Presentations
 =======================================================================

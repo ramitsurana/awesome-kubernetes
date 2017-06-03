@@ -524,6 +524,7 @@ us with information*
 * [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action) by [Marko Lukša](https://twitter.com/markoluksa)
 * [Kubernetes Cookbook](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook) by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) by Jonathan Baier
+* [Mastering Kubernetes](https://www.amazon.com/Mastering-Kubernetes-Gigi-Sayfan/dp/1786461005) by [Gigi Sayfan](https://github.com/the-gigi)
 
 
 Slide Presentations

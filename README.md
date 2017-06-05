@@ -8,7 +8,8 @@ Awesome-Kubernetes
 A curated list for awesome kubernetes sources 
 Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 
-![k8](https://cloud.githubusercontent.com/assets/8342133/13547481/fcb5ffb0-e2fa-11e5-8f75-555cea5eb7b2.png)
+![final-k8s](https://cloud.githubusercontent.com/assets/8342133/26794201/62c1a006-4a3e-11e7-8bf9-4449814648f2.png)
+
 
 
 > "Talent wins games, but teamwork and intelligence wins championships."
@@ -222,7 +223,7 @@ Managed Kubernetes
 
   - [Platform9](https://platform9.com/)
   - [Gravitational](https://github.com/gravitational)
-  - [KCluster](https://kcluster.io/)
+  - [KCluster](https://blog.kcluster.io)
   - [OpenShift Online](https://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](https://stackpointcloud.com/)
@@ -259,6 +260,7 @@ Managed Kubernetes
   - [Gondor/Kel]
   - [WSO2](http://wso2.com)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
+  - [Kumoru](https://medium.com/@kumoru_io)
   - [Open Shift Origin](https://www.openshift.org/)
 
 Case Studies
@@ -352,7 +354,7 @@ Related Projects
 * [Funktion](https://github.com/fabric8io/funktion)
 * [Fission](https://github.com/platform9/fission)
 * [Kubeless](https://github.com/skippbox/kubeless)
-* OpenWhisk
+* [OpenWhisk](https://github.com/openwhisk)
 * [Iron.io](http://iron.io)
 
 ## Operators

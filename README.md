@@ -408,6 +408,7 @@ Related Projects
 * [Calico](https://www.projectcalico.org/)
 * [OpenVSwitch](http://openvswitch.org/)
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
+* [Cilium](https://www.cilium.io/)
 
 ## Service mesh
 

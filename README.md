@@ -155,9 +155,9 @@ Main Resources
 
 *Official resources from the Kubernetes team*
 
-* [Kubernetes Documentation](http://kubernetes.io/docs/)
+* [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 * [Kubernetes Source](https://github.com/kubernetes/kubernetes/)
-* [Kubernetes Troubleshooting](http://kubernetes.io/docs/troubleshooting/)
+* [Kubernetes Troubleshooting](https://kubernetes.io/docs/tasks/debug-application-cluster/troubleshooting/)
 
 
 Useful Articles

@@ -648,7 +648,7 @@ Connecting with Kubernetes
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/kubernetes)
 * [Slack](http://slack.k8s.io/)
 * [Mailing List](https://groups.google.com/forum/#!forum/google-containers)
-* [Newsletter](https://kismatic.com/community/introducing-kubernetes-weekly-news/) by [Kismatic](https://kismatic.com/)
+* [Newsletter](http://kube.news/)
 * [Reddit](https://www.reddit.com/r/kubernetes/)
 * [Community](https://github.com/kubernetes/community)
 

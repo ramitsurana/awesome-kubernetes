@@ -155,9 +155,9 @@ Main Resources
 
 *Official resources from the Kubernetes team*
 
-* [Kubernetes Documentation](http://kubernetes.io/docs/)
+* [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 * [Kubernetes Source](https://github.com/kubernetes/kubernetes/)
-* [Kubernetes Troubleshooting](http://kubernetes.io/docs/troubleshooting/)
+* [Kubernetes Troubleshooting](https://kubernetes.io/docs/tasks/debug-application-cluster/troubleshooting/)
 
 
 Useful Articles
@@ -648,7 +648,7 @@ Connecting with Kubernetes
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/kubernetes)
 * [Slack](http://slack.k8s.io/)
 * [Mailing List](https://groups.google.com/forum/#!forum/google-containers)
-* [Newsletter](https://kismatic.com/community/introducing-kubernetes-weekly-news/) by [Kismatic](https://kismatic.com/)
+* [Newsletter](http://kube.news/)
 * [Reddit](https://www.reddit.com/r/kubernetes/)
 * [Community](https://github.com/kubernetes/community)
 

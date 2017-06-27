@@ -444,6 +444,8 @@ Related Projects
 ## API/CLI adaptors
 
 * [Kubebot](https://github.com/harbur/kubebot)
+* [kubectx](https://github.com/ahmetb/kubectx) - switch between clusters on kubectl
+* [kubens](https://github.com/ahmetb/kubectx) - switch between namespaces on kubectl
 * [StackStorm](https://github.com/StackStorm/st2)
 * [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [Ksql](https://github.com/brendandburns/ksql)

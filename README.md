@@ -445,6 +445,7 @@ Related Projects
 
 ## API/CLI adaptors
 
+* [Kube-shell](https://github.com/cloudnativelabs/kube-shell) An integrated shell for working with the Kubernetes CLI
 * [Kubebot](https://github.com/harbur/kubebot)
 * [kubectx](https://github.com/ahmetb/kubectx) - switch between clusters on kubectl
 * [kubens](https://github.com/ahmetb/kubectx) - switch between namespaces on kubectl

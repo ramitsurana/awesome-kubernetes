@@ -366,9 +366,28 @@ Related Projects
 
 ## Operators
 
-* [etcd](https://github.com/coreos/etcd-operator)
 * [Prometheus](https://github.com/coreos/prometheus-operator)
+
+* [Kong API](https://github.com/upmc-enterprises/kong-operator)
+
+* [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
+
+* [K8s Operator Workshop](https://github.com/lukebond/cc-au-k8s-operators-workshop)
+
+* [Cert Operator](https://github.com/giantswarm/cert-operator)
+* [Cert manager](https://github.com/kelseyhightower/kube-cert-manager)
+
+* [Operator Kit](https://github.com/rook/operator-kit)
+* [Container Linux Update Operator](https://github.com/coreos/container-linux-update-operator)
+
+* [DB Operator](https://github.com/k8sdb/operator)
+* [etcd](https://github.com/coreos/etcd-operator)
 * [Elasticsearch](https://github.com/upmc-enterprises/elasticsearch-operator)
+* [Memcached](https://github.com/kbst/memcached)
+* [MongoDB](https://github.com/kbst/mongodb)
+* [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
+* [Kafka](https://github.com/krallistic/kafka-operator)
+
 
 ## Custom Schedulers
 

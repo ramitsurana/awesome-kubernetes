@@ -70,7 +70,9 @@ Menu
   * [Paas](#paas)
 * [Case Studies](#case-studies)
 * [Persistent Volume Providers](#persistent-volume-providers)
-* [Related Projects](#related-projects)
+* [Developer Libraries](#developer-libraries)
+  * [Python](#python)
+* [Projects](#projects)
   * [Related Software](#related-software)
 * [Monitoring Services](#monitoring-services)   
 * [Continuous Delivery](#continuous-delivery)
@@ -95,6 +97,7 @@ Menu
 * [Service Discovery](#service-discovery)
 * [Operating System](#operating-system)
 * [YAML/JSON Config](#yaml/json-config)
+* [Tuning](#tuning)
 * [Raspberry Pi](#raspberry-pi)
 * [Books](#books) :books:
 * [Slide Presentations](#slide-presentations)
@@ -220,6 +223,7 @@ Useful Articles
 * [Automate deep learning training with Kubernetes GPU-cluster](https://github.com/Langhalsdino/Kubernetes-GPU-Guide)
 * [Kubernetes Production Patterns (and Anti-Patterns)](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 * [Manage Kubernetes Clusters on AWS Using Kops](https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/)
+* [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/)
 
 
 
@@ -262,11 +266,12 @@ Managed Kubernetes
    *Kubernetes Platform as a Service providers*
 
   - [Deis Workflow](https://deis.com/)
-  - [Gondor/Kel]
+  - [Kel](http://www.kelproject.com)
   - [WSO2](http://wso2.com)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
   - [Kumoru](https://medium.com/@kumoru_io)
   - [Open Shift Origin](https://www.openshift.org/)
+  - [Eldarion Cloud](http://eldarion.cloud)
 
 Case Studies
 =======================================================================
@@ -283,7 +288,7 @@ Case Studies
 Persistent Volume Providers
 =======================================================================
 
-*List of some Persistent Volume Providers for Kubernetes.Check out [Kubernets Experimental](https://github.com/kubernetes/kubernetes/tree/master/examples/persistent-volume-provisioning) for more info*
+*List of some Persistent Volume Providers for Kubernetes.Check out [Persistent Volume Providers](https://github.com/kubernetes/kubernetes/tree/master/examples/persistent-volume-provisioning) for more info*
 
 * [GCE](https://cloud.google.com/compute/)
 * [AWS](aws.amazon.com)
@@ -293,7 +298,16 @@ Persistent Volume Providers
 * [QuoByte](https://www.quobyte.com/)
 * [Kube-Aliyun](https://github.com/kubeup/kube-aliyun)
 
-Related Projects
+Developer Libraries
+=======================================================================
+
+*List of some libraries using different software languages*
+
+  ### [Python](#python)
+  
+   - [Pykube](https://github.com/kelproject/pykube)
+
+Projects
 =======================================================================
 
 *Kubernetes-related projects that you might find helpful*
@@ -333,7 +347,7 @@ Related Projects
 * [Sysdig Open Source](http://www.sysdig.org/)
 * [Sysdig Monitoring](https://www.sysdig.com/)
 * [Weave Scope](https://www.weave.works/products/weave-scope/)
-
+* [Kubewatch](https://github.com/skippbox/kubewatch) - Publishes events and trigger Handlers as notifications to Slack
 
 
 ## Continuous Delivery
@@ -366,9 +380,28 @@ Related Projects
 
 ## Operators
 
-* [etcd](https://github.com/coreos/etcd-operator)
 * [Prometheus](https://github.com/coreos/prometheus-operator)
+
+* [Kong API](https://github.com/upmc-enterprises/kong-operator)
+
+* [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
+
+* [K8s Operator Workshop](https://github.com/lukebond/cc-au-k8s-operators-workshop)
+
+* [Cert Operator](https://github.com/giantswarm/cert-operator)
+* [Cert manager](https://github.com/kelseyhightower/kube-cert-manager)
+
+* [Operator Kit](https://github.com/rook/operator-kit)
+* [Container Linux Update Operator](https://github.com/coreos/container-linux-update-operator)
+
+* [DB Operator](https://github.com/k8sdb/operator)
+* [etcd](https://github.com/coreos/etcd-operator)
 * [Elasticsearch](https://github.com/upmc-enterprises/elasticsearch-operator)
+* [Memcached](https://github.com/kbst/memcached)
+* [MongoDB](https://github.com/kbst/mongodb)
+* [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
+* [Kafka](https://github.com/krallistic/kafka-operator)
+
 
 ## Custom Schedulers
 
@@ -386,9 +419,9 @@ Related Projects
 * [Docker](http://docker.com):
 * [Rkt](http://coreos.com/rkt)
   * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/) 
-* [containerd]
-* [CRI-O (OCI)]
-* [Hyper.sh/frakti]
+* [containerd](https://github.com/containerd/containerd)
+* [CRI-O (OCI)](https://github.com/kubernetes-incubator/cri-o)
+* [Hyper.sh/frakti](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime
 
 ## Database
 
@@ -440,7 +473,7 @@ Related Projects
 
 ## Mobile applications
 
-* [Cabin](http://www.skippbox.com/cabin/)
+* [Cabin](https://github.com/skippbox/cabin-issues)
 * [Cockpit](http://cockpit-project.org/guide/latest/feature-kubernetes.html)
 
 ## API/CLI adaptors
@@ -467,7 +500,7 @@ Related Projects
 
 ## Configuration
 
-* [Kompose]
+* [Kompose](https://github.com/kubernetes/kompose)
 * [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
 * [Spread](http://redspread.com)
 * [K8comp](https://github.com/cststack/k8comp)
@@ -478,6 +511,8 @@ Related Projects
 * [Habitat](https://www.habitat.sh/docs/container-orchestration/)
 * [Puppet](https://forge.puppet.com/garethr/kubernetes/readme)
 * [Ansible](https://docs.ansible.com/ansible/kubernetes_module.html)
+* [Saltstack](https://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
+* [Chef](https://supermarket.chef.io/cookbooks/kubernetes)
 
 ## Security
 
@@ -516,6 +551,10 @@ Related Projects
 ## YAML/JSON Config
 
 * [Kube.libsonnet](https://github.com/heptio/kube.libsonnet) - Currently Unstable
+
+## Tuning
+
+* [Ktune](https://github.com/skippbox/ktune)
 
 Raspberry Pi
 =======================================================================

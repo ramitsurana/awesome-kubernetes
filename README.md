@@ -473,7 +473,7 @@ Projects
 
 ## Mobile applications
 
-* [Cabin](http://www.skippbox.com/cabin/)
+* [Cabin](https://github.com/skippbox/cabin-issues)
 * [Cockpit](http://cockpit-project.org/guide/latest/feature-kubernetes.html)
 
 ## API/CLI adaptors

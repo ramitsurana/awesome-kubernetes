@@ -340,14 +340,15 @@ Projects
 * [Console](https://github.com/kubernetes/dashboard)
 * [Datadog](https://www.datadoghq.com/)
 * [Heapster](https://github.com/kubernetes/heapster)
-* [Kubedash](https://github.com/kubernetes/kubedash)
 * [Kube-ui](https://github.com/kubernetes/kube-ui)
+* [Kubedash](https://github.com/kubernetes/kubedash)
+* [Kubetail](https://github.com/johanhaleby/kubetail) - Bash script that enables you to aggregate (tail/follow) logs from multiple pods into one stream. This is the same as running "kubectl logs -f " but for multiple pods.
+* [Kubewatch](https://github.com/skippbox/kubewatch) - Publishes events and trigger Handlers as notifications to Slack
 * [Netsil](https://github.com/netsil/manifests)
 * [Prometheus](http://prometheus.io)
-* [Sysdig Open Source](http://www.sysdig.org/)
 * [Sysdig Monitoring](https://www.sysdig.com/)
+* [Sysdig Open Source](http://www.sysdig.org/)
 * [Weave Scope](https://www.weave.works/products/weave-scope/)
-* [Kubewatch](https://github.com/skippbox/kubewatch) - Publishes events and trigger Handlers as notifications to Slack
 
 
 ## Continuous Delivery

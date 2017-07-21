@@ -340,14 +340,15 @@ Projects
 * [Console](https://github.com/kubernetes/dashboard)
 * [Datadog](https://www.datadoghq.com/)
 * [Heapster](https://github.com/kubernetes/heapster)
-* [Kubedash](https://github.com/kubernetes/kubedash)
 * [Kube-ui](https://github.com/kubernetes/kube-ui)
+* [Kubedash](https://github.com/kubernetes/kubedash)
+* [Kubetail](https://github.com/johanhaleby/kubetail)
+* [Kubewatch](https://github.com/skippbox/kubewatch)
 * [Netsil](https://github.com/netsil/manifests)
 * [Prometheus](http://prometheus.io)
-* [Sysdig Open Source](http://www.sysdig.org/)
 * [Sysdig Monitoring](https://www.sysdig.com/)
+* [Sysdig Open Source](http://www.sysdig.org/)
 * [Weave Scope](https://www.weave.works/products/weave-scope/)
-* [Kubewatch](https://github.com/skippbox/kubewatch) - Publishes events and trigger Handlers as notifications to Slack
 
 
 ## Continuous Delivery

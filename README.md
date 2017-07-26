@@ -224,6 +224,7 @@ Useful Articles
 * [Kubernetes Production Patterns (and Anti-Patterns)](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 * [Manage Kubernetes Clusters on AWS Using Kops](https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/)
 * [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/)
+* [Introducing Kubic Project](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/)
 
 
 
@@ -251,6 +252,7 @@ Managed Kubernetes
 
   - [CoreOS Tectonic](https://tectonic.com)
   - [OpenShift - Container Platform](https://www.openshift.com/container-platform/index.html)
+  - [SUSE Container as a Service](https://www.suse.com/betaprogram/caasp-beta/)
   
   ### [On Premise](#on-premise)
   
@@ -327,6 +329,7 @@ Projects
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
 * [Archon](https://github.com/kubeup/archon) 
 * [Client Libraries](https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md)
+* [Kubic-Project](https://github.com/kubic-project)
 
 ## Package Managers
 

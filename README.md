@@ -471,6 +471,7 @@ Projects
 * [kube-lego](https://github.com/jetstack/kube-lego)
 * [k8sec](https://github.com/dtan4/k8sec)
 * [kubernetes-vault](https://github.com/Boostport/kubernetes-vault)
+* [kubesec](https://github.com/shyiko/kubesec) - Secure Secret management
     
 ## Desktop applications
 

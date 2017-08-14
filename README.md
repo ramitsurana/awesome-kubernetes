@@ -320,7 +320,7 @@ Projects
 *Projects built to make life with Kubernetes even better, more powerful, more scalable*
 
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
-* [Ubernetes](https://github.com/kubernetes/kubernetes/blob/master/docs/proposals/federation.md)
+* [Ubernetes](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/federation.md)
 * [kmachine](https://github.com/skippbox/kmachine)
 * [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [KubeSpray](https://github.com/kubespray)
@@ -471,6 +471,7 @@ Projects
 * [kube-lego](https://github.com/jetstack/kube-lego)
 * [k8sec](https://github.com/dtan4/k8sec)
 * [kubernetes-vault](https://github.com/Boostport/kubernetes-vault)
+* [kubesec](https://github.com/shyiko/kubesec) - Secure Secret management
     
 ## Desktop applications
 

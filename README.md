@@ -320,7 +320,7 @@ Projects
 *Projects built to make life with Kubernetes even better, more powerful, more scalable*
 
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
-* [Ubernetes](https://github.com/kubernetes/kubernetes/blob/master/docs/proposals/federation.md)
+* [Ubernetes](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/federation.md)
 * [kmachine](https://github.com/skippbox/kmachine)
 * [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [KubeSpray](https://github.com/kubespray)

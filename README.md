@@ -169,6 +169,7 @@ Useful Articles
 
 *A piece of writing included with others in a newspaper, magazine, or other publication*
 
+* [Containers Weekly newsletter](https://containers-weekly.com)
 * [Installation on Centos 7](http://severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services)
 *  [Packaging Multiple Resources together](http://blog.arungupta.me/kubernetes-application-package-multiple-resources-together/)
 *  [An Introduction to Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes) by [Justin Ellingwood](https://twitter.com/jmellingwood)

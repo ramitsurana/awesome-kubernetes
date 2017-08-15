@@ -486,6 +486,7 @@ Projects
 
 ## API/CLI adaptors
 
+* [kube-prompt](https://github.com/c-bata/kube-prompt) An interactive kubernetes client featuring auto-complete using go-prompt.
 * [Kube-shell](https://github.com/cloudnativelabs/kube-shell) An integrated shell for working with the Kubernetes CLI
 * [Kubebot](https://github.com/harbur/kubebot)
 * [kubectx](https://github.com/ahmetb/kubectx) - switch between clusters on kubectl

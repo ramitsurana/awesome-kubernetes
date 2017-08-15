@@ -5,7 +5,7 @@ Awesome-Kubernetes
 [![Build Status](https://travis-ci.org/ramitsurana/awesome-kubernetes.svg?branch=master)](https://travis-ci.org/ramitsurana/awesome-kubernetes)
 [![License](https://img.shields.io/badge/License-CC%204.0-brightgreen.svg)](http://creativecommons.org/licenses/by-nc/4.0/)
 
-A curated list for awesome kubernetes sources 
+A curated list for awesome kubernetes sources
 Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 
 ![final-k8s](https://cloud.githubusercontent.com/assets/8342133/26794201/62c1a006-4a3e-11e7-8bf9-4449814648f2.png)
@@ -237,8 +237,8 @@ Managed Kubernetes
   - [OpenShift Online](https://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](https://stackpointcloud.com/)
-  
-  
+
+
   ### [Developer Platform](#developer-platform)
 
   - [Fabric8](http://fabric8.io)
@@ -246,23 +246,23 @@ Managed Kubernetes
   - [Mantl](https://github.com/mantl/mantl)
   - [goPaddle](http://www.gopaddle.io)
   - [VAMP](http://vamp.io)
-  
-  
+
+
   ### [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
 
   - [CoreOS Tectonic](https://tectonic.com)
   - [OpenShift - Container Platform](https://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](https://www.suse.com/betaprogram/caasp-beta/)
-  
+
   ### [On Premise](#on-premise)
-  
+
    - [GCE](https://cloud.google.com/compute/) - Google Compute Engine [default]
    - [GKE](https://cloud.google.com/container-engine/) - Google Container Engine
    - [AWS](http://aws.amazon.com/ec2) - Amazon EC2
    - [Azure](https://azure.microsoft.com/en-in/) - Microsoft Azure
    - [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
    - [Rackspace](https://www.rackspace.com/en-in) - Rackspace
-  
+
   ### [Paas](#paas)
 
    *Kubernetes Platform as a Service providers*
@@ -307,7 +307,7 @@ Developer Libraries
 *List of some libraries using different software languages*
 
   ### [Python](#python)
-  
+
    - [Pykube](https://github.com/kelproject/pykube)
 
 Projects
@@ -328,9 +328,10 @@ Projects
 * [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
 * [Kubeform](https://capgemini.github.io/kubeform/)
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
-* [Archon](https://github.com/kubeup/archon) 
+* [Archon](https://github.com/kubeup/archon)
 * [Client Libraries](https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md)
 * [Kubic-Project](https://github.com/kubic-project)
+* [Telepresence](https://www.telepresence.io) Locally develop/debug services against a remote Kubernetes cluster
 
 ## Package Managers
 
@@ -424,7 +425,7 @@ Projects
 
 * [Docker](http://docker.com):
 * [Rkt](http://coreos.com/rkt)
-  * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/) 
+  * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
 * [containerd](https://github.com/containerd/containerd)
 * [CRI-O (OCI)](https://github.com/kubernetes-incubator/cri-o)
 * [Hyper.sh/frakti](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime
@@ -474,7 +475,7 @@ Projects
 * [k8sec](https://github.com/dtan4/k8sec)
 * [kubernetes-vault](https://github.com/Boostport/kubernetes-vault)
 * [kubesec](https://github.com/shyiko/kubesec) - Secure Secret management
-    
+
 ## Desktop applications
 
 * [Kubernetic](https://kubernetic.com/)
@@ -550,7 +551,7 @@ Projects
 * [Consul](http://consul.io)
   * [Kelsey Hightower Consul](https://github.com/kelseyhightower/consul-on-kubernetes)
   * [Bridge between Kubernetes and Consul](https://github.com/Beldur/kube2consul)
-  
+
 ## Operating System
 
 * [CoreOS](http://coreos.com)

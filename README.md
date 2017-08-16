@@ -168,7 +168,7 @@ Useful Articles
 =======================================================================
 
 *A piece of writing included with others in a newspaper, magazine, or other publication*
-
+ 
 * [Installation on Centos 7](http://severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services)
 *  [Packaging Multiple Resources together](http://blog.arungupta.me/kubernetes-application-package-multiple-resources-together/)
 *  [An Introduction to Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes) by [Justin Ellingwood](https://twitter.com/jmellingwood)
@@ -233,7 +233,7 @@ Managed Kubernetes
 
   - [Platform9](https://platform9.com/)
   - [Gravitational](https://github.com/gravitational)
-  - [KCluster](https://blog.kcluster.io)
+  - [KCluster][https://blog.kcluster.io]
   - [OpenShift Online](https://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](https://stackpointcloud.com/)
@@ -705,6 +705,7 @@ Connecting with Kubernetes
 * [Newsletter](http://kube.news/)
 * [Reddit](https://www.reddit.com/r/kubernetes/)
 * [Community](https://github.com/kubernetes/community)
+* [Containers Weekly newsletter](https://containers-weekly.com)
 
 Conferences
 =======================================================================

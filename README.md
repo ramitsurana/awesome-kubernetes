@@ -274,6 +274,7 @@ Managed Kubernetes
   - [Kumoru](https://medium.com/@kumoru_io)
   - [Open Shift Origin](https://www.openshift.org/)
   - [Eldarion Cloud](http://eldarion.cloud)
+  - [IBM Bluemix Container Service](https://www.ibm.com/cloud-computing/bluemix/containers)
 
 Case Studies
 =======================================================================

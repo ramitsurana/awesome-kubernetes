@@ -65,8 +65,8 @@ Menu
 * [Useful Articles](#useful-articles)
 * [Managed Kubernetes](#managed-kubernetes)
   * [Developer Platform](#developer-platform)
-  * [Enterprise Kubernetes Products](#enterprise-kubernetes-product)
-  * [On Premise](#on-premise)
+  * [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
+  * [Public/Private Cloud](#publicprivate-cloud)
   * [Paas](#paas)
 * [Case Studies](#case-studies)
 * [Persistent Volume Providers](#persistent-volume-providers)
@@ -255,7 +255,7 @@ Managed Kubernetes
   - [OpenShift - Container Platform](https://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](https://www.suse.com/betaprogram/caasp-beta/)
 
-  ### [On Premise](#on-premise)
+  ### [Public/Private Cloud](#publicprivate-cloud)
 
    - [GCE](https://cloud.google.com/compute/) - Google Compute Engine [default]
    - [GKE](https://cloud.google.com/container-engine/) - Google Container Engine

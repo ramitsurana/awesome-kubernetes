@@ -288,7 +288,7 @@ Case Studies
 * [Major League Soccer Monolith to Kubernetes Transition](https://sysdig.com/blog/monoliths-kubernetes-monitoring-transitioning-docker-major-league-soccer/)
 * [Using Kubernetes on AWS](https://github.com/hjacobs/kubernetes-on-aws-users)
 * [Kubernetes at Github](https://githubengineering.com/kubernetes-at-github/)
-
+* [Kubernetes the hard way (installation from scratch)](https://github.com/kelseyhightower/kubernetes-the-hard-way/)
 
 Persistent Volume Providers
 =======================================================================

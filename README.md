@@ -75,7 +75,7 @@ Menu
 * [Projects](#projects)
   * [Related Software](#related-software)
 * [Monitoring Services](#monitoring-services)   
-* [Robustness Testing](#robustness-testing)
+* [Testing](#testing)
 * [Continuous Delivery](#continuous-delivery)
 * [Serverless Implementation](#serverless-implementation)
 * [Operators](#operators)
@@ -359,9 +359,9 @@ Projects
 * [Sysdig Open Source](http://www.sysdig.org/)
 * [Weave Scope](https://www.weave.works/products/weave-scope/)
 
-## Robustness Testing
+## Testing
 
-*To test the resilience of your applications running on Kubernetes*
+*Test your applications running on Kubernetes*
 
 * [kube-monkey](https://github.com/asobti/kube-monkey)
 

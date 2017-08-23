@@ -97,7 +97,7 @@ Menu
 * [Big Data](#big-data)
 * [Service Discovery](#service-discovery)
 * [Operating System](#operating-system)
-* [YAML/JSON Config](#yaml/json-config)
+* [YAML/JSON Config](#yamljson-config)
 * [Tuning](#tuning)
 * [Raspberry Pi](#raspberry-pi)
 * [Books](#books) :books:
@@ -572,6 +572,8 @@ Projects
 ## YAML/JSON Config
 
 * [Kube.libsonnet](https://github.com/heptio/kube.libsonnet) - Currently Unstable
+* [kompose](https://github.com/kubernetes/kompose)
+* [kubeval](https://github.com/garethr/kubeval)
 
 ## Tuning
 

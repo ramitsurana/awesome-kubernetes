@@ -516,6 +516,7 @@ Projects
 * [IBM UrbanCode](https://developer.ibm.com/urbancode/plugin/kubernetes/)
 * [Nulecule](https://github.com/projectatomic/nulecule)
 * [Deployment manager](https://cloud.google.com/deployment-manager/)
+* [Psykube](https://github.com/commercialtribe/psykube)
 
 ## Configuration
 

@@ -393,6 +393,7 @@ Projects
 * [OpenWhisk](https://github.com/openwhisk)
 * [Iron.io](http://iron.io)
 * [FaaS](https://github.com/alexellis/faas)
+* [FaaS-netes](https://github.com/alexellis/faas-netes)
 
 ## Operators
 

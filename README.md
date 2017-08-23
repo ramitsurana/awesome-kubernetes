@@ -383,7 +383,7 @@ Projects
 * [Kontinuous](https://github.com/AcalephStorage/kontinuous)
 * [Kit](https://invisionapp.github.io/kit/)
 * [Spinnaker](http://www.spinnaker.io/blog/deploy-to-kubernetes-using-spinnaker)
-
+* [CircleCI](https://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
 
 ## Serverless Implementations
 

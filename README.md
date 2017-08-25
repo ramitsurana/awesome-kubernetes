@@ -227,6 +227,7 @@ Useful Articles
 * [Manage Kubernetes Clusters on AWS Using Kops](https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/)
 * [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/)
 * [Introducing Kubic Project](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/)
+* [Three post learn k8s](https://blog.alexellis.io/tag/learn-k8s/)
 
 
 

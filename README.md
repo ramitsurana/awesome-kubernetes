@@ -157,7 +157,6 @@ Installers
 * [Kubicorn](https://github.com/kris-nova/kubicorn) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kris-nova/kubicorn/blob/master/LICENSE)
 * [Simplekube](https://github.com/valentin2105/Simplekube) - simple shell script to deploy multi-nodes k8s on`systemd`
 
-
 Main Resources
 =======================================================================
 

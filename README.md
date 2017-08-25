@@ -155,6 +155,8 @@ Installers
 * [Archon](https://github.com/kubeup/archon) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kubeup/archon/blob/master/LICENSE)
 * [KubeNow](https://github.com/kubenow/KubeNow) - Ubuntu - Cloud Agnostique - [Apache-2.0](https://github.com/kubenow/KubeNow/blob/master/LICENSE)
 * [Kubicorn](https://github.com/kris-nova/kubicorn) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kris-nova/kubicorn/blob/master/LICENSE)
+* [Simplekube](https://github.com/valentin2105/Simplekube) - simple shell script to deploy multi-nodes k8s on`systemd`.
+
 
 Main Resources
 =======================================================================
@@ -228,6 +230,7 @@ Useful Articles
 * [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/)
 * [Introducing Kubic Project](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/)
 * [Three post learn k8s](https://blog.alexellis.io/tag/learn-k8s/)
+* [Kubernetes tips & tricks](https://opsnotice.xyz/kubernetes-tips-tricks/)
 
 
 

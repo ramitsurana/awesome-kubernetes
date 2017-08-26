@@ -327,6 +327,7 @@ Projects
 
 *Projects built to make life with Kubernetes even better, more powerful, more scalable*
 
+* [Argo](https://github.com/argoproj/argo) The Workflow Engine for Kubernetes
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
 * [Ubernetes](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/federation.md)
 * [kmachine](https://github.com/skippbox/kmachine)

@@ -171,7 +171,7 @@ Useful Articles
 =======================================================================
 
 *A piece of writing included with others in a newspaper, magazine, or other publication*
- 
+
 * [Installation on Centos 7](http://severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services)
 *  [Packaging Multiple Resources together](http://blog.arungupta.me/kubernetes-application-package-multiple-resources-together/)
 *  [An Introduction to Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes) by [Justin Ellingwood](https://twitter.com/jmellingwood)
@@ -362,6 +362,7 @@ Projects
 * [Sysdig Monitoring](https://www.sysdig.com/)
 * [Sysdig Open Source](http://www.sysdig.org/)
 * [Weave Scope](https://www.weave.works/products/weave-scope/)
+* [Searchlight](https://github.com/appscode/searchlight)
 
 ## Testing
 
@@ -467,6 +468,10 @@ Projects
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
 * [Cilium](https://github.com/cilium/cilium)
 * [Linen](https://github.com/John-Lin/linen-cni)
+* [Multu](https://github.com/Intel-Corp/multus-cni)
+* [CNI-Genie](https://github.com/Huawei-PaaS/CNI-Genie)
+* [Romana](http://romana.io/)
+* [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 
 ## Service mesh
 

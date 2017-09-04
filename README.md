@@ -301,6 +301,7 @@ Persistent Volume Providers
 
 * [GCE](https://cloud.google.com/compute/)
 * [AWS](aws.amazon.com)
+* [Rook](https://rook.io/)
 * [Glusterfs](https://www.gluster.org/)
 * [OpenStack Cinder](https://wiki.openstack.org/cinder)
 * [CephRBD](http://ceph.com/ceph-storage/block-storage/)

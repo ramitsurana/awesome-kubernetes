@@ -477,7 +477,7 @@ Projects
 * [CNI-Genie](https://github.com/Huawei-PaaS/CNI-Genie)
 * [Romana](http://romana.io/)
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
-* [External DNS](https://github.com/kubernetes-incubator/external-dns.git) - allows you to control DNS records dynamically via Kube resources in a DNS provider-agnostic way 
+* [External DNS](https://github.com/kubernetes-incubator/external-dns) - allows you to control DNS records dynamically via Kube resources in a DNS provider-agnostic way 
 
 ## Service mesh
 

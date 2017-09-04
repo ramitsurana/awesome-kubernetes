@@ -171,7 +171,7 @@ Useful Articles
 =======================================================================
 
 *A piece of writing included with others in a newspaper, magazine, or other publication*
- 
+
 * [Installation on Centos 7](http://severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services)
 *  [Packaging Multiple Resources together](http://blog.arungupta.me/kubernetes-application-package-multiple-resources-together/)
 *  [An Introduction to Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes) by [Justin Ellingwood](https://twitter.com/jmellingwood)
@@ -440,9 +440,12 @@ Projects
 * [Docker](http://docker.com):
 * [Rkt](http://coreos.com/rkt)
   * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
+  * [rktlet](https://github.com/kubernetes-incubator/rktlet) - The rkt implementation of a Kubernetes Container Runtime
 * [containerd](https://github.com/containerd/containerd)
 * [CRI-O (OCI)](https://github.com/kubernetes-incubator/cri-o)
 * [Hyper.sh/frakti](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime
+* [virtlet](https://github.com/Mirantis/virtlet) - Kubernetes CRI implementation for running VM workloads
+* [infranetes](https://github.com/apporbit/infranetes)
 
 ## Database
 

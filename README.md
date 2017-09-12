@@ -23,7 +23,7 @@ building this awesome-repo would never has been possible. Thank You very much gu
 
 **If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!**
 
-**If you are interested in becoming a maintainer for the awesome kubernetes list.Please drop me a mail at ramitsurana@gmail.com with your name and github id.Thanks**
+**If you are interested in becoming a maintainer for the awesome kubernetes list. Please drop me a mail at ramitsurana@gmail.com with your name and github id.Thanks**
 
 
 ## What is Kubernetes? :ship:
@@ -238,7 +238,6 @@ Managed Kubernetes
 
   - [Platform9](https://platform9.com/)
   - [Gravitational](https://github.com/gravitational)
-  <!--- [KCluster](https://blog.kcluster.io)-->
   - [OpenShift Online](https://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](https://stackpointcloud.com/)
@@ -277,7 +276,7 @@ Managed Kubernetes
   - [WSO2](http://wso2.com)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
   - [Kumoru](https://medium.com/@kumoru_io)
-  - [Open Shift Origin](https://www.openshift.org/)
+  - [OpenShift Origin](https://www.openshift.org/)
   - [Eldarion Cloud](http://eldarion.cloud)
   - [IBM Bluemix Container Service](https://www.ibm.com/cloud-computing/bluemix/containers)
 
@@ -386,7 +385,6 @@ Projects
 * [Wercker](http://blog.wercker.com/topic/kubernetes)
 * [Shippable](http://blog.shippable.com/topic/kubernetes)
 * [GitLab](http://blog.lwolf.org/post/how-to-easily-deploy-gitlab-on-kubernetes/)
-* [Cloudmunch](http://www.cloudmunch.com/continuous-delivery-for-kubernetes/)
 * [Kontinuous](https://github.com/AcalephStorage/kontinuous)
 * [Kit](https://invisionapp.github.io/kit/)
 * [Spinnaker](http://www.spinnaker.io/blog/deploy-to-kubernetes-using-spinnaker)
@@ -734,7 +732,6 @@ Connecting with Kubernetes
 * [Newsletter](http://kube.news/)
 * [Reddit](https://www.reddit.com/r/kubernetes/)
 * [Community](https://github.com/kubernetes/community)
-* [Containers Weekly newsletter](https://containers-weekly.com)
 
 Conferences
 =======================================================================

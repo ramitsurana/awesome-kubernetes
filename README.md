@@ -697,15 +697,15 @@ Amazing People
 
 * [Bredan Burns](https://twitter.com/brendandburns), Partner Architect at Microsoft
 * [Kelsey Hightower](https://twitter.com/kelseyhightower), Staff Developer Advocate at Google
-* [Arun Gupta](https://twitter.com/arungupta), Vice President, Developer Relations at Couchbase
+* [Arun Gupta](https://twitter.com/arungupta), Principal Open Source Technologist at Amazon Web Services
 * [Carlos Sanchez](https://www.twitter.com/csanchez), Senior Software Engineer, CloudBees
-* [Joseph Jacks](https://twitter.com/asynchio), Senior Director, Product Management: Kubernetes Platform Engineering at Apprenda
-* [Joe Beda](https://twitter.com/jbeda), Co-founder and Technical Lead for Kubernetes
-* [Patrick Reilly](https://twitter.com/preillyme), CEO at Kismatic, Inc. / Advisor at Mesosphere, Inc
+* [Joseph Jacks](https://twitter.com/asynchio), Entrepreneur In Residence at Quantum Corporation
+* [Joe Beda](https://twitter.com/jbeda), Founder and CTO at Heptio
+* [Patrick Reilly](https://twitter.com/preillyme), Office of the CTO at Cisco, Cisco board of member for CNCF
 * [Brandon Philips](https://twitter.com/BrandonPhilips), CTO at CoreOS
 * [Eric Tune](https://twitter.com/eric_tune), Senior Staff Engineer at Google
 * [Tim Hockin](https://twitter.com/thockin), Senior Staff SW Engineer / Engineering Manager at Google
-* [Brian Grant](https://github.com/bgrant0607), System Software Architect at Google
+* [Brian Grant](https://github.com/bgrant0607), Principal Engineer at Google, Lead Architect of Kubernetes
 
 Meetup Groups
 =======================================================================

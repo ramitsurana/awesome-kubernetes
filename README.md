@@ -68,13 +68,15 @@ Menu
   * [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
   * [Public/Private Cloud](#publicprivate-cloud)
   * [Paas](#paas)
+* [Interactive Learning Environments](#interactive-learning-environments)
+* [MOOC Courses / Tutorials](#courses-or-tutorials)
 * [Case Studies](#case-studies)
 * [Persistent Volume Providers](#persistent-volume-providers)
 * [Developer Libraries](#developer-libraries)
   * [Python](#python)
 * [Projects](#projects)
   * [Related Software](#related-software)
-* [Monitoring Services](#monitoring-services)   
+* [Monitoring Services](#monitoring-services)
 * [Testing](#testing)
 * [Continuous Delivery](#continuous-delivery)
 * [Serverless Implementation](#serverless-implementation)
@@ -105,7 +107,6 @@ Menu
 * [Videos](#videos) :tv:
   * [Main Account](#main-account)
   * [Other Useful videos](#other-useful-videos)
-* [Interactive Learning Environments](#interactive-learning-environments)
 * [Interesting Twitter Accounts](#interesting-twitter-accounts)
 * [Amazing People](#amazing-people)
 * [Meetup Groups](#meetup-groups)
@@ -232,7 +233,6 @@ Useful Articles
 * [Kubernetes tips & tricks](https://opsnotice.xyz/kubernetes-tips-tricks/)
 
 
-
 Managed Kubernetes
 =======================================================================
 
@@ -279,6 +279,32 @@ Managed Kubernetes
   - [OpenShift Origin](https://www.openshift.org/)
   - [Eldarion Cloud](http://eldarion.cloud)
   - [IBM Bluemix Container Service](https://www.ibm.com/cloud-computing/bluemix/containers)
+
+
+Interactive Learning Environments
+=======================================================================
+
+*Learn Kubernetes using an interactive environment without requiring downloads or configuration*
+
+* [Katacoda](https://www.katacoda.com/courses/kubernetes)
+* [Kubernetes Bootcamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
+
+
+MOOC Courses / Tutorials
+=======================================================================
+
+*List of available free online courses([MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)) and tutorials*
+
+  ### [Courses](#coures)
+
+  - [Scalable Microservices with Kubernetes at Udacity](https://in.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+  - [Introduction to Kubernetes at edX](https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x)
+
+  ### [Tutorials](#tutorials)
+
+  - [Kubernetes Tutorials by Kubernetes Team](https://kubernetes.io/docs/tutorials/)
+  - [Kubernetes By Example by OpenShift Team](http://kubernetesbyexample.com)
+  - [Kubernetes Tutorial by Tutorialspoint](https://www.tutorialspoint.com/kubernetes/)
 
 Case Studies
 =======================================================================
@@ -475,7 +501,7 @@ Projects
 * [CNI-Genie](https://github.com/Huawei-PaaS/CNI-Genie)
 * [Romana](http://romana.io/)
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
-* [External DNS](https://github.com/kubernetes-incubator/external-dns) - allows you to control DNS records dynamically via Kube resources in a DNS provider-agnostic way 
+* [External DNS](https://github.com/kubernetes-incubator/external-dns) - allows you to control DNS records dynamically via Kube resources in a DNS provider-agnostic way
 
 ## Service mesh
 
@@ -662,13 +688,6 @@ Videos
 * [DevNation 2015 - Paul Bakker - Kubernetes: Beyond the basics](https://youtu.be/MuazGHiiGmA) by [Paul Bakker](https://twitter.com/pbakker)
 * [Kubernetes-Defined Monitoring](https://www.youtube.com/watch?v=ncSn3_9bfIQ)
 
-Interactive Learning Environments
-=======================================================================
-
-*Learn Kubernetes using an interactive environment without requiring downloads or configuration*
-
-* [Katacoda](https://www.katacoda.com/courses/kubernetes)
-* [Kubernetes Bootcamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
 
 Interesting Twitter Accounts
 =======================================================================

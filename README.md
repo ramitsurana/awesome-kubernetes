@@ -357,7 +357,7 @@ Projects
 
 * [Argo](https://github.com/argoproj/argo) The Workflow Engine for Kubernetes
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
-* [Ubernetes](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/federation.md)
+* [Kubernetes Cluster Federation (previously Ubernetes)](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/federation/federation.md) - [Phase 1](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/federation/federation-phase-1.md)
 * [kmachine](https://github.com/skippbox/kmachine)
 * [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [KubeSpray](https://github.com/kubespray)
@@ -641,7 +641,7 @@ us with information*
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) by Jonathan Baier
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) (OpenSource Book in Chinese) by [Pengfei Ni](https://github.com/feiskyer)
 * [Mastering Kubernetes](https://www.amazon.com/Mastering-Kubernetes-Gigi-Sayfan/dp/1786461005) by [Gigi Sayfan](https://github.com/the-gigi)
-* [OpenShift in Action](https://www.manning.com/books/openshift-in-action) by [Jamie Duncan](https://https://twitter.com/rh_jduncan) & [John Osborne](https://www.linkedin.com/in/johnfosborneiii/)
+* [OpenShift in Action](https://www.manning.com/books/openshift-in-action) by [Jamie Duncan](https://twitter.com/rh_jduncan) & [John Osborne](https://www.linkedin.com/in/johnfosborneiii/)
 
 Slide Presentations
 =======================================================================

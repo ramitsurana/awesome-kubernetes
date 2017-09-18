@@ -614,6 +614,7 @@ Projects
 * [Kube.libsonnet](https://github.com/heptio/kube.libsonnet) - Currently Unstable
 * [kompose](https://github.com/kubernetes/kompose)
 * [kubeval](https://github.com/garethr/kubeval)
+* [k8s-files-to-cm](https://github.com/ryuheechul/k8s-files-to-cm)
 
 ## Tuning
 

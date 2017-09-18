@@ -368,6 +368,7 @@ Projects
 * [Client Libraries](https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md)
 * [Kubic-Project](https://github.com/kubic-project)
 * [Telepresence](https://www.telepresence.io) Locally develop/debug services against a remote Kubernetes cluster
+* [k8s-svc-proxy](https://github.com/ryuheechul/k8s-svc-proxy)
 
 ## Package Managers
 

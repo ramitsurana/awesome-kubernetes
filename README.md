@@ -613,6 +613,7 @@ Projects
 
 * [Kube.libsonnet](https://github.com/heptio/kube.libsonnet) - Currently Unstable
 * [kompose](https://github.com/kubernetes/kompose)
+* [kube-env-gen](https://github.com/ryuheechul/kube-env-gen)
 * [kubeval](https://github.com/garethr/kubeval)
 
 ## Tuning

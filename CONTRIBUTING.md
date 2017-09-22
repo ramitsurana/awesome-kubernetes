@@ -32,6 +32,20 @@ Ruby 2.0+
 $ make test
 ```
 
+In case the following error occours:
+
+```
+ERROR:  While executing gem ... (Gem::FilePermissionError)
+    You don't have write permissions for the /var/lib/gems/x.x.0 directory.
+Makefile:2: recipe for target 'awesome_bot' failed
+```
+
+Try:
+
+```
+$ sudo make test
+```
+
 ## Quality standard
 
 To be on the list, it would be nice if entries adhere to these quality standards:

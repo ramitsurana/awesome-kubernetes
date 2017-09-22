@@ -21,6 +21,30 @@ We appreciate and recognize all contributors.
 * If you want to add more than one link, please don't do all PR on the exact same line, it usually results in conflicts and your PR cannot be automatically merged...
 * Please contribute links to packages/projects you have used or are familiar with. This will help ensure high-quality entries.
 
+## Test your change locally
+
+#### Prerequisite
+
+Ruby 2.0+
+
+#### Verify checks as:
+```
+$ make test
+```
+
+In case the following error occours:
+
+```
+ERROR:  While executing gem ... (Gem::FilePermissionError)
+    You don't have write permissions for the /var/lib/gems/x.x.0 directory.
+Makefile:2: recipe for target 'awesome_bot' failed
+```
+
+Try:
+
+```
+$ sudo make test
+```
 
 ## Quality standard
 

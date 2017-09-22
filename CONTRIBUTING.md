@@ -21,6 +21,16 @@ We appreciate and recognize all contributors.
 * If you want to add more than one link, please don't do all PR on the exact same line, it usually results in conflicts and your PR cannot be automatically merged...
 * Please contribute links to packages/projects you have used or are familiar with. This will help ensure high-quality entries.
 
+## Test your change locally
+
+#### Prerequisite
+
+Ruby 2.0+
+
+#### Verify checks as:
+```
+$ make test
+```
 
 ## Quality standard
 

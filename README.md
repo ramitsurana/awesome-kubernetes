@@ -368,6 +368,7 @@ Projects
 * [Client Libraries](https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md)
 * [Kubic-Project](https://github.com/kubic-project)
 * [Telepresence](https://www.telepresence.io) Locally develop/debug services against a remote Kubernetes cluster
+* [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition on Kubernetes.
 
 ## Package Managers
 

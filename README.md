@@ -571,7 +571,7 @@ Projects
 * [Konfd](https://github.com/kelseyhightower/konfd)
 * [kenv](https://github.com/thisendout/kenv)
 * [kubediff](https://github.com/weaveworks/kubediff)
-* [Habitat](https://www.habitat.sh/docs/container-orchestration/)
+* [Habitat](https://www.habitat.sh/docs/best-practices/#kubernetes)
 * [Puppet](https://forge.puppet.com/garethr/kubernetes/readme)
 * [Ansible](https://docs.ansible.com/ansible/kubernetes_module.html)
 * [Saltstack](https://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)

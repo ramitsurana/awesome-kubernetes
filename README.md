@@ -158,6 +158,7 @@ Installers
 * [Kubicorn](https://github.com/kris-nova/kubicorn) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kris-nova/kubicorn/blob/master/LICENSE)
 * [Simplekube](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostique
 * [Conjure-up](https://github.com/conjure-up/conjure-up) - Ubuntu - Cloud Agnostique - [MIT](https://github.com/conjure-up/conjure-up/blob/master/LICENSE)
+* [Kube-ansible](https://github.com/kairen/kube-ansible) - OS Agnostique - Cloud Agnostique - [MIT](https://github.com/kairen/kube-ansible/blob/master/LICENSE)
 
 Main Resources
 =======================================================================
@@ -288,6 +289,7 @@ Interactive Learning Environments
 *Learn Kubernetes using an interactive environment without requiring downloads or configuration*
 
 * [Katacoda](https://www.katacoda.com/courses/kubernetes)
+* [Play with Kubernetes](http://labs.play-with-k8s.com/)
 * [Kubernetes Bootcamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
 
 

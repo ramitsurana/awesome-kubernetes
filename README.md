@@ -273,7 +273,7 @@ Managed Kubernetes
 
    *Kubernetes Platform as a Service providers*
 
-  - [Deis Workflow](https://deis.com/)
+  - [Deis Workflow](https://deis.com/) - [Deprecated Public Releases](https://deis.com/blog/2017/deis-workflow-final-release/)
   - [Kel](http://www.kelproject.com)
   - [WSO2](http://wso2.com)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)

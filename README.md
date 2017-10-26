@@ -369,9 +369,9 @@ Projects
 * [Archon](https://github.com/kubeup/archon)
 * [Client Libraries](https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md)
 * [Kubic-Project](https://github.com/kubic-project)
-* [Telepresence](https://www.telepresence.io) Locally develop/debug services against a remote Kubernetes cluster
-* [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition on Kubernetes.
-* [Ambassador](https://www.getambassador.io) Kubernetes-native API Gateway built on the Envoy Proxy
+* [Telepresence](https://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
+* [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
+* [Ambassador](https://www.getambassador.io) - API Gateway built on the Envoy Proxy
 
 ## Package Managers
 
@@ -458,12 +458,12 @@ Projects
 
 ## Custom Schedulers
 
-* [Scheduler](https://github.com/kelseyhightower/scheduler) Example cost based scheduler by [Kelsey Hightower](https://twitter.com/kelseyhightower)
+* [Scheduler](https://github.com/kelseyhightower/scheduler) - Cost based scheduler
 * [Sticky Node Scheduler](https://github.com/philipn/kubernetes-sticky-node-scheduler)
-* [ksched](https://github.com/coreos/ksched) Experimental flow based scheduler
-* [kronjob](https://github.com/Eneco/kronjob) Scheduler for recurring jobs
-* [escheduler](https://github.com/agonzalezro/escheduler) Example scheduler written in elixir
-* [bashScheduler](https://github.com/rothgar/bashScheduler) Example scheduler written in bash
+* [ksched](https://github.com/coreos/ksched) - Experimental flow based scheduler
+* [kronjob](https://github.com/Eneco/kronjob) - Recurring jobs
+* [escheduler](https://github.com/agonzalezro/escheduler) - Written in elixir
+* [bashScheduler](https://github.com/rothgar/bashScheduler) - Written in bash
 
 ## Container Support
 
@@ -472,7 +472,7 @@ Projects
 * [Docker](http://docker.com):
 * [Rkt](http://coreos.com/rkt)
   * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
-  * [rktlet](https://github.com/kubernetes-incubator/rktlet) - The rkt implementation of a Kubernetes Container Runtime
+  * [rktlet](https://github.com/kubernetes-incubator/rktlet) - Rkt implementation of a Kubernetes
 * [containerd](https://github.com/containerd/containerd)
 * [CRI-O (OCI)](https://github.com/kubernetes-incubator/cri-o)
 * [Hyper.sh/frakti](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime
@@ -506,7 +506,7 @@ Projects
 * [CNI-Genie](https://github.com/Huawei-PaaS/CNI-Genie)
 * [Romana](http://romana.io/)
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
-* [External DNS](https://github.com/kubernetes-incubator/external-dns) - allows you to control DNS records dynamically via Kube resources in a DNS provider-agnostic way
+* [External DNS](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources
 
 ## Service mesh
 
@@ -542,8 +542,8 @@ Projects
 
 ## API/CLI adaptors
 
-* [kube-prompt](https://github.com/c-bata/kube-prompt) An interactive kubernetes client featuring auto-complete using go-prompt.
-* [Kube-shell](https://github.com/cloudnativelabs/kube-shell) An integrated shell for working with the Kubernetes CLI
+* [kube-prompt](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt.
+* [Kube-shell](https://github.com/cloudnativelabs/kube-shell) - Integrated shell for working with the Kubernetes CLI
 * [Kubebot](https://github.com/harbur/kubebot)
 * [kubectx](https://github.com/ahmetb/kubectx) - switch between clusters on kubectl
 * [kubens](https://github.com/ahmetb/kubectx) - switch between namespaces on kubectl
@@ -563,6 +563,7 @@ Projects
 * [Nulecule](https://github.com/projectatomic/nulecule)
 * [Deployment manager](https://cloud.google.com/deployment-manager/)
 * [Psykube](https://github.com/commercialtribe/psykube)
+* [Brigade](https://github.com/Azure/brigade) - Event Based Scripting using JavaScript
 
 ## Configuration
 

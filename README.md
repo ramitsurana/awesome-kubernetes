@@ -238,7 +238,7 @@ Useful Articles
 Managed Kubernetes
 =======================================================================
 
-  - [Platform9](https://platform9.com/)
+  - [Platform9](https://github.com/platform9)
   - [Gravitational](https://github.com/gravitational)
   - [OpenShift Online](https://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
@@ -552,6 +552,7 @@ Projects
 * [Ksql](https://github.com/brendandburns/ksql)
 * [kubectld](https://github.com/rancher/kubectld)
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - Work around kubectl
+* [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) - Aliases for Kubectl
 
 ## Application deployment orchestration
 

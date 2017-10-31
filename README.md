@@ -430,6 +430,7 @@ Projects
 * [Iron.io](http://iron.io)
 * [OpenFaaS](https://github.com/alexellis/faas)
 * [FaaS-netes](https://github.com/alexellis/faas-netes)
+* [Nuclio](https://github.com/nuclio/nuclio)
 
 ## Operators
 

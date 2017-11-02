@@ -277,7 +277,6 @@ Managed Kubernetes
   - [Kel](http://www.kelproject.com)
   - [WSO2](http://wso2.com)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
-  - [Kumoru](https://medium.com/@kumoru_io)
   - [OpenShift Origin](https://www.openshift.org/)
   - [Eldarion Cloud](http://eldarion.cloud)
   - [IBM Bluemix Container Service](https://www.ibm.com/cloud-computing/bluemix/containers)

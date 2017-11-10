@@ -590,7 +590,7 @@ Projects
 * [Twistlock](https://www.twistlock.com/)
 * [Sysdig Falco](http://www.sysdig.org/falco/)
 * [Sysdig Secure](https://www.sysdig.com/product/secure)
-
+* [Kubesec.io](https://kubesec.io/)
 
 
 ## Load balancing

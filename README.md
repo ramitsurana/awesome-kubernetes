@@ -72,8 +72,9 @@ Menu
 * [MOOC Courses / Tutorials](#courses-or-tutorials)
 * [Case Studies](#case-studies)
 * [Persistent Volume Providers](#persistent-volume-providers)
-* [Developer Libraries](#developer-libraries)
+* [Useful Libraries/Scripts](#developer-librariesscripts)
   * [Python](#python)
+  * [Jenkins](#jenkins)
 * [Projects](#projects)
   * [Related Software](#related-software)
 * [Monitoring Services](#monitoring-services)
@@ -218,7 +219,7 @@ Useful Articles
 * [Kubernetes Authentication - OpenID Connect](http://www.devoperandi.com/kubernetes-authentication-openid-connect/) by [Michael Ward](https://twitter.com/DevoperandI)
 * [How to Monitor Kubernetes: A 4-Part Series](https://sysdig.com/blog/monitoring-kubernetes-with-sysdig-cloud/)
 * [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by [Michael Ward](https://twitter.com/DevoperandI)
-* [Achieving CI/CD with Kubernetes](http://theremotelab.com/blog/achieving-ci-cd-with-k8s/) by [Ramit Surana](https://twitter.com/ramitsurana)
+* [Achieving CI/CD with Kubernetes](hContribute to jenkins-pipelines development by creating an account on GitHub. ... helm - client for managing Kubernetes charts and repositories, part of helm.ttp://theremotelab.com/blog/achieving-ci-cd-with-k8s/) by [Ramit Surana](https://twitter.com/ramitsurana)
 * [Kubernetes Monitoring Guide](https://www.datadoghq.com/blog/monitoring-kubernetes-era/) by [JM Saponaro](http://github.com/JayJayM)
 * [Deploying Kubernetes with Ansible and Terraform](http://solinea.com/blog/deploying-kubernetes-ansible-terraform)
 * [Cluster Consul using Kubernetes API](http://www.devoperandi.com/cluster-consul-using-kubernetes-api/)
@@ -233,6 +234,7 @@ Useful Articles
 * [Introducing Kubic Project](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/)
 * [Three post learn k8s](https://blog.alexellis.io/tag/learn-k8s/)
 * [Kubernetes tips & tricks](https://opsnotice.xyz/kubernetes-tips-tricks/)
+* [Jenkins declarative pipelines with Kubernetes](https://radu-matei.com/blog/kubernetes-jenkins-azure/)
 
 
 Managed Kubernetes
@@ -338,14 +340,18 @@ Persistent Volume Providers
 * [Portworx](https://portworx.com/)
 * [OpenEBS](https://github.com/openebs/openebs/)
 
-Developer Libraries
+Developer Libraries/ Scripts
 =======================================================================
 
-*List of some libraries using different software languages*
+*List of some libraries & scripts for executions and good referrals*
 
   ### [Python](#python)
 
    - [Pykube](https://github.com/kelproject/pykube)
+   
+  ### [Jenkins](#jenkins)
+  
+   - [Jenkinsfile with Helm, Go, Docker, Kubectl, JNLP](https://github.com/lachie83/croc-hunter/blob/master/Jenkinsfile) 
 
 Projects
 =======================================================================

@@ -235,7 +235,7 @@ Useful Articles
 * [Three post learn k8s](https://blog.alexellis.io/tag/learn-k8s/)
 * [Kubernetes tips & tricks](https://opsnotice.xyz/kubernetes-tips-tricks/)
 * [Jenkins declarative pipelines with Kubernetes](https://radu-matei.com/blog/kubernetes-jenkins-azure/)
-
+* [Kubernetes with OpenStack Cloud Provider: Current state and upcoming changes (part 1 of 2)](https://medium.com/@arthur.souzamiranda/kubernetes-with-openstack-cloud-provider-current-state-and-upcoming-changes-part-1-of-2-48b161ea449a)
 
 Managed Kubernetes
 =======================================================================

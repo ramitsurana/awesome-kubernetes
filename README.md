@@ -408,6 +408,9 @@ Projects
 
 * [kube-monkey](https://github.com/asobti/kube-monkey)
 
+*Helm chart for network and loadtesting of a Kubernetes cluster*
+*[k8s-testsuite](https://github.com/mrahbar/k8s-testsuite)*
+
 ## Continuous Delivery
 
 *Build-test-deploy automated workflow software designed to make production environments more stable and life better for engineers*

@@ -407,9 +407,7 @@ Projects
 *Test your applications running on Kubernetes*
 
 * [kube-monkey](https://github.com/asobti/kube-monkey)
-
-*Helm chart for network and loadtesting of a Kubernetes cluster*
-*[k8s-testsuite](https://github.com/mrahbar/k8s-testsuite)*
+* [k8s-testsuite](https://github.com/mrahbar/k8s-testsuite) - Helm chart for network and loadtesting of a Kubernetes cluster
 
 ## Continuous Delivery
 

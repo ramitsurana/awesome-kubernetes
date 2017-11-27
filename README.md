@@ -246,6 +246,7 @@ Managed Kubernetes
   - [OpenShift Online](https://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](https://stackpointcloud.com/)
+  - [Kubermatic](https://kubermatic.io/)
 
 
   ### [Developer Platform](#developer-platform)
@@ -262,6 +263,7 @@ Managed Kubernetes
   - [CoreOS Tectonic](https://tectonic.com)
   - [OpenShift - Container Platform](https://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](https://www.suse.com/betaprogram/caasp-beta/)
+  - [Kubermatic](https://kubermatic.io/)
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 

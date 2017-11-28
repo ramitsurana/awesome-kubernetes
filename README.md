@@ -232,7 +232,7 @@ Useful Articles
 * [Manage Kubernetes Clusters on AWS Using Kops](https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/)
 * [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/)
 * [Introducing Kubic Project](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/)
-* [Three post learn k8s](https://blog.alexellis.io/tag/learn-k8s/)
+* [Three post learn k8s](http://blog.alexellis.io/tag/learn-k8s/)
 * [Kubernetes tips & tricks](https://opsnotice.xyz/kubernetes-tips-tricks/)
 * [Jenkins declarative pipelines with Kubernetes](https://radu-matei.com/blog/kubernetes-jenkins-azure/)
 * [Kubernetes with OpenStack Cloud Provider: Current state and upcoming changes (part 1 of 2)](https://medium.com/@arthur.souzamiranda/kubernetes-with-openstack-cloud-provider-current-state-and-upcoming-changes-part-1-of-2-48b161ea449a)
@@ -582,7 +582,7 @@ Projects
 
 * [Kompose](https://github.com/kubernetes/kompose)
 * [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
-* [Spread](http://redspread.com)
+* Spread - Acquired by [CoreOS](https://coreos.com/blog/coreos-welcomes-redspread.html)
 * [K8comp](https://github.com/cststack/k8comp)
 * [Ktmpl](https://github.com/InQuicker/ktmpl)
 * [Konfd](https://github.com/kelseyhightower/konfd)

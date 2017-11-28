@@ -731,17 +731,21 @@ Interesting Twitter Accounts
 Amazing People
 =======================================================================
 
-* [Bredan Burns](https://twitter.com/brendandburns), Partner Architect at Microsoft
-* [Kelsey Hightower](https://twitter.com/kelseyhightower), Staff Developer Advocate at Google
+* [Aparna Sinha](https://twitter.com/apbhatnagar), Group Product Manager - Kubernetes at Google
 * [Arun Gupta](https://twitter.com/arungupta), Principal Open Source Technologist at Amazon Web Services
-* [Carlos Sanchez](https://www.twitter.com/csanchez), Senior Software Engineer, CloudBees
-* [Joseph Jacks](https://twitter.com/asynchio), Entrepreneur In Residence at Quantum Corporation
-* [Joe Beda](https://twitter.com/jbeda), Founder and CTO at Heptio
-* [Patrick Reilly](https://twitter.com/preillyme), Office of the CTO at Cisco, Cisco board of member for CNCF
 * [Brandon Philips](https://twitter.com/BrandonPhilips), CTO at CoreOS
-* [Eric Tune](https://twitter.com/eric_tune), Senior Staff Engineer at Google
-* [Tim Hockin](https://twitter.com/thockin), Senior Staff SW Engineer / Engineering Manager at Google
+* [Bredan Burns](https://twitter.com/brendandburns), Partner Architect at Microsoft
 * [Brian Grant](https://github.com/bgrant0607), Principal Engineer at Google, Lead Architect of Kubernetes
+* [Carlos Sanchez](https://www.twitter.com/csanchez), Senior Software Engineer, CloudBees
+* [Eric Tune](https://twitter.com/eric_tune), Senior Staff Engineer at Google
+* [Jessie Frazzelle](https://github.com/jessfraz), Cloud Developer Advocate at Microsoft
+* [Joe Beda](https://twitter.com/jbeda), Founder and CTO at Heptio
+* [Joseph Jacks](https://twitter.com/asynchio), Entrepreneur In Residence at Quantum Corporation
+* [Kelsey Hightower](https://twitter.com/kelseyhightower), Staff Developer Advocate at Google
+* [Kris Nova](https://github.com/kris-nova), Engineer at Heptio, Creator of Kubicorn
+* [Michelle Noorali](https://github.com/michelleN), Software Engineer at Microsoft
+* [Patrick Reilly](https://twitter.com/preillyme), Office of the CTO at Cisco, Cisco board of member for CNCF
+* [Tim Hockin](https://twitter.com/thockin), Senior Staff SW Engineer / Engineering Manager at Google
 
 Meetup Groups
 =======================================================================

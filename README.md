@@ -160,6 +160,7 @@ Installers
 * [Simplekube](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostique
 * [Conjure-up](https://github.com/conjure-up/conjure-up) - Ubuntu - Cloud Agnostique - [MIT](https://github.com/conjure-up/conjure-up/blob/master/LICENSE)
 * [Kube-ansible](https://github.com/kairen/kube-ansible) - OS Agnostique - Cloud Agnostique - [MIT](https://github.com/kairen/kube-ansible/blob/master/LICENSE)
+* [matchbox](https://github.com/coreos/matchbox) - CoreOS - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
 
 Main Resources
 =======================================================================
@@ -246,7 +247,7 @@ Managed Kubernetes
   - [OpenShift Online](https://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](https://stackpointcloud.com/)
-  - [Kubermatic](https://kubermatic.io/)
+  - [Kubermatic](http://www.loodse.com//)
 
 
   ### [Developer Platform](#developer-platform)
@@ -446,19 +447,13 @@ Projects
 ## Operators
 
 * [Prometheus](https://github.com/coreos/prometheus-operator)
-
 * [Kong API](https://github.com/upmc-enterprises/kong-operator)
-
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
-
 * [K8s Operator Workshop](https://github.com/lukebond/cc-au-k8s-operators-workshop)
-
 * [Cert Operator](https://github.com/giantswarm/cert-operator)
 * [Cert manager](https://github.com/kelseyhightower/kube-cert-manager)
-
 * [Operator Kit](https://github.com/rook/operator-kit)
 * [Container Linux Update Operator](https://github.com/coreos/container-linux-update-operator)
-
 * [DB Operator](https://github.com/k8sdb/operator)
 * [etcd](https://github.com/coreos/etcd-operator)
 * [Elasticsearch](https://github.com/upmc-enterprises/elasticsearch-operator)
@@ -466,6 +461,7 @@ Projects
 * [MongoDB](https://github.com/kbst/mongodb)
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [Kafka](https://github.com/krallistic/kafka-operator)
+* [TensorFlow jobs Operator](https://github.com/tensorflow/k8s)
 
 
 ## Custom Schedulers
@@ -486,6 +482,7 @@ Projects
   * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
   * [rktlet](https://github.com/kubernetes-incubator/rktlet) - Rkt implementation of a Kubernetes
 * [containerd](https://github.com/containerd/containerd)
+* [cri-containerd](https://github.com/kubernetes-incubator/cri-containerd) - Containerd-based implementation of Kubernetes Container Runtime Interface
 * [CRI-O (OCI)](https://github.com/kubernetes-incubator/cri-o)
 * [Hyper.sh/frakti](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime
 * [virtlet](https://github.com/Mirantis/virtlet) - Kubernetes CRI implementation for running VM workloads

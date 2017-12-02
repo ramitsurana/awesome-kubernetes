@@ -247,7 +247,7 @@ Managed Kubernetes
   - [OpenShift Online](https://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](https://stackpointcloud.com/)
-  - [Kubermatic](https://kubermatic.io/)
+  - [Kubermatic](http://www.loodse.com//)
 
 
   ### [Developer Platform](#developer-platform)

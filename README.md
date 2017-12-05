@@ -460,6 +460,7 @@ Projects
 * [Memcached](https://github.com/kbst/memcached)
 * [MongoDB](https://github.com/kbst/mongodb)
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
+* [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni).
 * [Kafka](https://github.com/krallistic/kafka-operator)
 * [TensorFlow jobs Operator](https://github.com/tensorflow/k8s)
 

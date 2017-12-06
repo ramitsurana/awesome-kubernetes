@@ -398,6 +398,7 @@ Projects
 * [Heapster](https://github.com/kubernetes/heapster)
 * [Kube-ui](https://github.com/kubernetes/kube-ui)
 * [Kubedash](https://github.com/kubernetes/kubedash)
+* [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - read-only system dashboard for multiple K8s clusters
 * [Kubetail](https://github.com/johanhaleby/kubetail)
 * [Kubewatch](https://github.com/skippbox/kubewatch)
 * [Netsil](https://github.com/netsil/manifests)

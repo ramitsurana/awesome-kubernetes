@@ -264,7 +264,7 @@ Managed Kubernetes
   - [CoreOS Tectonic](https://tectonic.com)
   - [OpenShift - Container Platform](https://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](https://www.suse.com/betaprogram/caasp-beta/)
-  - [Kubermatic](https://kubermatic.io/)
+  - [Kubermatic](http://www.loodse.com/)
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 
@@ -461,6 +461,7 @@ Projects
 * [Memcached](https://github.com/kbst/memcached)
 * [MongoDB](https://github.com/kbst/mongodb)
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
+* [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni).
 * [Kafka](https://github.com/krallistic/kafka-operator)
 * [TensorFlow jobs Operator](https://github.com/tensorflow/k8s)
 

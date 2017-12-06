@@ -242,7 +242,7 @@ Useful Articles
 Managed Kubernetes
 =======================================================================
 
-  - [Platform9](https://platform9.com)
+  - [Platform9](http://platform9.com)
   - [Gravitational](https://gravitational.com/)
   - [OpenShift Online](https://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)

@@ -783,7 +783,7 @@ Conferences
 
 * [Kubecon](http://events.linuxfoundation.org/events/kubecon)
 * [Container Camp](https://container.camp/)
-* [GCP Next](https://cloudplatformonline.com/Next2016.html)
+* [GCP Next](https://cloudnext.withgoogle.com/)
 * [Docker Con](http://dockercon.com)
 * [Devoxx](http://devoxx.com)
 

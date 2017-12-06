@@ -242,8 +242,8 @@ Useful Articles
 Managed Kubernetes
 =======================================================================
 
-  - [Platform9](https://github.com/platform9)
-  - [Gravitational](https://github.com/gravitational)
+  - [Platform9](https://platform9.com)
+  - [Gravitational](https://gravitational.com/)
   - [OpenShift Online](https://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](https://stackpointcloud.com/)

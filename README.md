@@ -518,6 +518,7 @@ Projects
 * [Romana](http://romana.io/)
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [External DNS](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources
+* [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 
 ## Service mesh
 
@@ -526,6 +527,7 @@ Projects
 * [Linkerd](https://linkerd.io/getting-started/k8s/)
 * [Amalgam8](http://www.amalgam8.io/)
 * [WeaveWorks](http://www.weave.works/weave-for-kubernetes/)
+* [Conduit](https://conduit.io/)
 
 ## RPC
 

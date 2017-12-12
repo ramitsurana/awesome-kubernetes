@@ -791,6 +791,7 @@ Meetup Groups
 * [Bangalore](https://www.meetup.com/Bangalore-Kubernetes-Meetup)
 * [Pune](https://www.meetup.com/Kubernetes-Pune/)
 * [London](https://www.meetup.com/Kubernetes-London/)
+* [Hong Kong](https://www.meetup.com/Kubernetes-Hong-Kong/)
 * [Worldwide](https://www.meetup.com/kubernauts/)
 
 

@@ -640,6 +640,7 @@ Projects
 * [Nginx Plus](http://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
 * [Traefik](http://traefik.io/)
 * [AppsCode Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager)
+* [NGINX Ingress Controller](https://github.com/kubernetes/ingress-nginx)
 
 
 ## Big Data

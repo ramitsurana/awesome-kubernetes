@@ -276,6 +276,7 @@ Managed Kubernetes
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](http://stackpointcloud.com/)
   - [Kubermatic](http://www.loodse.com//)
+  - [Rancher](https://rancher.com/)
 
 
   ### [Developer Platform](#developer-platform)
@@ -293,6 +294,7 @@ Managed Kubernetes
   - [OpenShift - Container Platform](http://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
   - [Kubermatic](http://www.loodse.com/)
+  - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 

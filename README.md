@@ -598,6 +598,7 @@ Projects
 * [kubectld](https://github.com/rancher/kubectld)
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - Work around kubectl
 * [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) - Aliases for Kubectl
+* [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
 
 ## Application deployment orchestration
 

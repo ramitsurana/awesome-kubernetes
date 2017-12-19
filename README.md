@@ -582,7 +582,7 @@ Projects
 
 ## Mobile applications
 
-* [Cabin](https://github.com/skippbox/cabin-issues)
+* [Cabin](https://github.com/bitnami/cabin)
 * [Cockpit](http://cockpit-project.org/guide/latest/feature-kubernetes.html)
 
 ## API/CLI adaptors
@@ -762,7 +762,7 @@ Interesting Twitter Accounts
 * [DevOps Summit](https://twitter.com/DevOpsSummit)
 * [KubeWeekly](https://twitter.com/kubeweekly)
 * [KubeFacts](https://twitter.com/kubefacts)
-* [Skippbox](https://twitter.com/skippbox)
+* [Skippbox](https://twitter.com/skippbox) - Acquired by [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
 
 

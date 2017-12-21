@@ -551,6 +551,7 @@ Projects
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [External DNS](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources
 * [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
+* [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 
 ## Service mesh
 

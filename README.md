@@ -101,6 +101,7 @@ Menu
 * [Load balancing](#load-balancing)
 * [Developer platform](#developer-platform)
 * [Big Data](#big-data)
+* [Machine Learning](#machine-learning)
 * [Service Discovery](#service-discovery)
 * [Operating System](#operating-system)
 * [YAML/JSON Config](#yamljson-config)
@@ -175,7 +176,7 @@ Installers
 * [Simplekube](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostique
 * [Conjure-up](https://github.com/conjure-up/conjure-up) - Ubuntu - Cloud Agnostique - [MIT](https://github.com/conjure-up/conjure-up/blob/master/LICENSE)
 * [Kube-ansible](https://github.com/kairen/kube-ansible) - OS Agnostique - Cloud Agnostique - [MIT](https://github.com/kairen/kube-ansible/blob/master/LICENSE)
-* [Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - `systemD` OS - Cloud Agnostique 
+* [Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - `systemD` OS - Cloud Agnostique
 * [matchbox](https://github.com/coreos/matchbox) - CoreOS - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
 
 Main Resources
@@ -498,8 +499,6 @@ Projects
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni).
 * [Kafka](https://github.com/krallistic/kafka-operator)
-* [TensorFlow jobs Operator](https://github.com/tensorflow/k8s)
-
 
 ## Custom Schedulers
 
@@ -657,6 +656,12 @@ Projects
 * [Kube-Yarn](https://github.com/Comcast/kube-yarn)
 * [Spark](https://github.com/kubernetes/kubernetes/tree/master/examples/spark)
 
+## Machine Learning
+
+* [TensorFlow k8s](https://github.com/tensorflow/k8s)
+* [mxnet-operator](https://github.com/deepinsight/mxnet-operator) - Tools for ML/MXNet on Kubernetes.
+* [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes.
+* [seldon-core](https://github.com/SeldonIO/seldon-core) - Open source framework for deploying machine learning models on Kubernetes
 
 ## Service Discovery
 

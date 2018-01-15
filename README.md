@@ -817,6 +817,7 @@ Meetup Groups
 Connecting with Kubernetes
 =======================================================================
 
+* [Blog](http://blog.kubernetes.io/)
 * [Freenode](http://webchat.freenode.net/?channels=google-containers)
 * [Twitter](https://twitter.com/kubernetesio)
 * [Google +](https://plus.google.com/u/0/b/116512812300813784482/116512812300813784482)

@@ -794,6 +794,7 @@ Amazing People
 * [Brian Grant](https://github.com/bgrant0607), Principal Engineer at Google, Lead Architect of Kubernetes
 * [Carlos Sanchez](https://www.twitter.com/csanchez), Senior Software Engineer, CloudBees
 * [Eric Tune](https://twitter.com/eric_tune), Senior Staff Engineer at Google
+* [Ihor Dvoretskyi](https://twitter.com/idvoretskyi), Developer Advocate at Cloud Native Computing Foundation
 * [Jessie Frazzelle](https://github.com/jessfraz), Cloud Developer Advocate at Microsoft
 * [Joe Beda](https://twitter.com/jbeda), Founder and CTO at Heptio
 * [Joseph Jacks](https://twitter.com/asynchio), Entrepreneur In Residence at Quantum Corporation

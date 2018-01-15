@@ -92,6 +92,7 @@ Menu
 * [Service mesh](#service-mesh)
 * [RPC](#rpc)
 * [Secret generation and management](#secret-generation-and-management)
+* [Web applications](#web-applications)
 * [Desktop applications](#desktop-applications)
 * [Mobile applications](#mobile-applications)
 * [API/CLI adaptors](#apicli-adaptors)
@@ -580,6 +581,10 @@ Projects
 * [k8sec](https://github.com/dtan4/k8sec)
 * [kubernetes-vault](https://github.com/Boostport/kubernetes-vault)
 * [kubesec](https://github.com/shyiko/kubesec) - Secure Secret management
+
+## Web applications
+
+* [Kubernator](https://github.com/smpio/kubernator)
 
 ## Desktop applications
 

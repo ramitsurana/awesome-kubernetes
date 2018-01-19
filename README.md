@@ -790,7 +790,7 @@ Amazing People
 * [Aparna Sinha](https://twitter.com/apbhatnagar), Group Product Manager - Kubernetes at Google
 * [Arun Gupta](https://twitter.com/arungupta), Principal Open Source Technologist at Amazon Web Services
 * [Brandon Philips](https://twitter.com/BrandonPhilips), CTO at CoreOS
-* [Bredan Burns](https://twitter.com/brendandburns), Partner Architect at Microsoft
+* [Brendan Burns](https://twitter.com/brendandburns), Partner Architect at Microsoft
 * [Brian Grant](https://github.com/bgrant0607), Principal Engineer at Google, Lead Architect of Kubernetes
 * [Carlos Sanchez](https://www.twitter.com/csanchez), Senior Software Engineer, CloudBees
 * [Chris Aniszczyk](https://www.twitter.com/cra), Chief Operating Officer at Cloud Native Computing Foundation

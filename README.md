@@ -696,10 +696,11 @@ Projects
 Raspberry Pi
 =======================================================================
 
-*Some of the awesome findings and experiments on using Kubernetes with Raspberry Pi.Checkout [Kubecloud](http://kubecloud.io)*
-
+*Some of the awesome findings and experiments on using Kubernetes with Raspberry Pi.*
+* Check out [Kubecloud](http://kubecloud.io)
 * [Setting up a Kubernetes on ARM cluster](http://kubecloud.io/kubernetes-on-arm-cluster/)
-* [Local registry in Kubernetes on ARM](http://kubecloud.io/kubernetes-on-arm-registry/)
+* [Setup Kubernetes on a Raspberry Pi Cluster easily the official way!](https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster/) by [Mathias Renner and Lucas Käldström](https://blog.hypriot.com/crew/)
+* [How to Build a Kubernetes Cluster with ARM Raspberry Pi then run .NET Core on OpenFaas](https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx) by [Scott Hanselman](https://twitter.com/shanselman)
 
 Books
 =======================================================================

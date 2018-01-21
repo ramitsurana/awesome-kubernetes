@@ -281,7 +281,7 @@ Managed Kubernetes
   - [Gravitational](http://gravitational.com/)
   - [OpenShift Online](http://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
-  - [StackPoint Cloud](http://stackpointcloud.com/)
+  - [StackPoint Cloud](http://stackpoint.io/)
   - [Kubermatic](http://www.loodse.com//)
   - [Rancher](https://rancher.com/)
 

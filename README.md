@@ -573,7 +573,7 @@ Projects
 
 ## RPC
 
-* [Grpc](http://grpc.io)
+* [gRPC](http://grpc.io)
 * [Micro](https://github.com/micro/kubernetes)
 
 

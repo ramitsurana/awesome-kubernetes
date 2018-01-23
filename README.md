@@ -565,7 +565,7 @@ Projects
 ## Service mesh
 
 * [Envoy](http://lyft.github.io/envoy/)
-* [Istio](http://istio.io/)
+* [Amalgam8](http://github.com/amalgam8) - Acquired by [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [WeaveWorks](http://www.weave.works/weave-for-kubernetes/)
 * [Conduit](http://conduit.io/)

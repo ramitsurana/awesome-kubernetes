@@ -6,7 +6,7 @@ RUN apt-get update && apt-get install -y nginx git
 
 EXPOSE 80
 
-CMD ["pip", "install", "grip"]
+CMD ["sudo", "pip", "install", "grip"]
 
 CMD ["git", "clone", "https://github.com/ramitsurana/awesome-kubernetes"]
 CMD ["cd ", "awesome-kubernetes"]

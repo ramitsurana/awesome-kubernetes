@@ -562,6 +562,7 @@ Projects
 * [External DNS](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources
 * [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
+* [Intel multus-cni](https://github.com/Intel-Corp/multus-cni) Multi-homed pod cni 
 
 ## Service mesh
 

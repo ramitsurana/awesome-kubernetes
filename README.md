@@ -555,13 +555,13 @@ Projects
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
 * [Cilium](https://github.com/cilium/cilium)
 * [Linen](https://github.com/John-Lin/linen-cni)
-* [Multu](https://github.com/Intel-Corp/multus-cni)
 * [CNI-Genie](https://github.com/Huawei-PaaS/CNI-Genie)
 * [Romana](http://romana.io/)
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [External DNS](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources
 * [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
+* [Multus-cni](https://github.com/Intel-Corp/multus-cni) - Multi-homed pod cni 
 
 ## Service mesh
 

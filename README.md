@@ -684,7 +684,7 @@ Projects
 ## Operating System
 
 * [CoreOS](http://coreos.com)
-* [Kurma](http://kurma.io)
+* [Kurma](https://github.com/apcera/kurma)
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
 
 ## YAML/JSON Config

@@ -82,7 +82,7 @@ Menu
 * [Monitoring Services](#monitoring-services)
 * [Testing](#testing)
 * [Continuous Delivery](#continuous-delivery)
-* [Serverless Implementation](#serverless-implementation)
+* [Serverless Implementations](#serverless-implementations)
 * [Operators](#operators)
 * [Custom Schedulers](#custom-schedulers)
 * [Container Support](#container-support)

@@ -11,5 +11,5 @@ CMD ["sudo", "pip", "install", "grip"]
 CMD ["git", "clone", "https://github.com/ramitsurana/awesome-kubernetes"]
 CMD ["cd ", "awesome-kubernetes"]
 
-//Grip utility to run markdown files on localhost:80
+# Grip utility to run markdown files on localhost:80
 CMD ["grip", "80"]

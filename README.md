@@ -272,6 +272,7 @@ Useful Articles
 * [Choosing a CNI Provider for Kubernetes](http://chrislovecnm.com/kuberentes/cni/choosing-a-cni-provider/?1234) by [Chris Love](https://twitter.com/chrislovecnm)
 * [Enable IPv6 on Kubernetes with Project Calico](https://www.projectcalico.org/enable-ipv6-on-kubernetes-with-project-calico/) by [Valentin Ouvrard](https://twitter.com/Valentin_NC)
 * [Kubernetes in IPV6-only](https://opsnotice.xyz/kubernetes-ipv6-only/) by [Valentin Ouvrard](https://twitter.com/Valentin_NC)
+* [Kubernetes and everything else - Introduction to Kubernetes and it's context](https://rinormaloku.com/introduction-application-architecture/) by [Rinor Maloku](https://twitter.com/rinormaloku)
 
 Managed Kubernetes
 =======================================================================

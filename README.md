@@ -826,6 +826,9 @@ Meetup Groups
 * [London](https://www.meetup.com/Kubernetes-London/)
 * [Hong Kong](https://www.meetup.com/Kubernetes-Hong-Kong/)
 * [Worldwide](https://www.meetup.com/kubernauts/)
+* [Amsterdam](https://www.meetup.com/de-DE/Amsterdam-Kubernetes-Meetup/)
+* [Munich](https://www.meetup.com/de-DE/Munchen-Kubernetes-Meetup/)
+* [Hamburg](https://www.meetup.com/de-DE/Hamburg-Kubernetes-Meetup/)
 
 
 Connecting with Kubernetes

@@ -474,6 +474,7 @@ Projects
 * [Kit](http://invisionapp.github.io/kit/)
 * [Spinnaker](http://www.spinnaker.io/blog/deploy-to-kubernetes-using-spinnaker)
 * [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
+* [KubeCI](https://www.kubeci.io/)
 
 ## Serverless Implementations
 

@@ -143,6 +143,7 @@ Starting Point
 * [The Children's Illustrated Guide to Kubernetes](http://deis.com/blog/2016/kubernetes-illustrated-guide/) by [Deis](https://github.com/deis)
 * [The ‘kubectl run’ command](http://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
 * [Docker Kubernetes Lab Handbook](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
+* [Curated Resources for Kubernetes](https://hackr.io/tutorials/learn-kubernetes)
 
 
 Installation / Setup

@@ -475,6 +475,8 @@ Projects
 * [Spinnaker](http://www.spinnaker.io/blog/deploy-to-kubernetes-using-spinnaker)
 * [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
 * [KubeCI](https://www.kubeci.io/)
+* [Vili](https://github.com/airware/vili)
+* [Keel](https://keel.sh/)
 
 ## Serverless Implementations
 

@@ -477,6 +477,7 @@ Projects
 * [KubeCI](https://www.kubeci.io/)
 * [Vili](https://github.com/airware/vili)
 * [Keel](https://keel.sh/)
+* [Apollo](https://github.com/logzio/apollo) - Open Source application providing teams with self service UI for creating and deploying their services to Kubernetes. 
 
 ## Serverless Implementations
 

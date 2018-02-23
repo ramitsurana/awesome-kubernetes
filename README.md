@@ -326,6 +326,7 @@ Managed Kubernetes
   - [OpenShift Origin](http://www.openshift.org/)
   - [Eldarion Cloud](http://eldarion.cloud)
   - [IBM Bluemix Container Service](http://www.ibm.com/cloud-computing/bluemix/containers)
+  - [Hasura](http://www.hasura.io)
 
 
 Interactive Learning Environments

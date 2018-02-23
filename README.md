@@ -284,6 +284,7 @@ Managed Kubernetes
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](http://stackpoint.io/)
   - [Kubermatic](http://www.loodse.com//)
+  - [Hasura](https://hasura.io/)
   - [Rancher](https://rancher.com/)
 
 

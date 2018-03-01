@@ -545,6 +545,7 @@ Projects
 * [Crate](http://crate.io/docs/scale/kubernetes/)
 * [Minio](http://minio.io)
 * [Vitess](http://vitess.io/) - Horizontal scaling of MySql by Youtube
+* [RDS](https://github.com/sorenmat/k8s-rds) - Provision RDS databases via CRD from Kubernetes
 
 ## Networking
 

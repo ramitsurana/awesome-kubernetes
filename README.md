@@ -180,6 +180,7 @@ Installers
 * [Kube-ansible](https://github.com/kairen/kube-ansible) - OS Agnostique - Cloud Agnostique - [MIT](https://github.com/kairen/kube-ansible/blob/master/LICENSE)
 * [Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - `systemD` OS - Cloud Agnostique
 * [matchbox](https://github.com/coreos/matchbox) - CoreOS - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
+* [RKE](https://github.com/rancher/rke) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/rancher/rke/blob/master/LICENSE)
 
 Main Resources
 =======================================================================
@@ -382,7 +383,7 @@ Persistent Volume Providers
 * [QuoByte](http://www.quobyte.com/)
 * [Kube-Aliyun](https://github.com/kubeup/kube-aliyun)
 * [Portworx](http://portworx.com/)
-* [Stork](https://github.com/libopenstorage/stork) 
+* [Stork](https://github.com/libopenstorage/stork)
 * [OpenEBS](http://github.com/openebs/openebs/)
 * [StorageOS](http://storageos.com)
 
@@ -480,7 +481,7 @@ Projects
 * [KubeCI](https://www.kubeci.io/)
 * [Vili](https://github.com/airware/vili)
 * [Keel](https://keel.sh/)
-* [Apollo](https://github.com/logzio/apollo) - Open Source application providing teams with self service UI for creating and deploying their services to Kubernetes. 
+* [Apollo](https://github.com/logzio/apollo) - Open Source application providing teams with self service UI for creating and deploying their services to Kubernetes.
 
 ## Serverless Implementations
 
@@ -566,7 +567,7 @@ Projects
 * [External DNS](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources
 * [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
-* [Multus-cni](https://github.com/Intel-Corp/multus-cni) - Multi-homed pod cni 
+* [Multus-cni](https://github.com/Intel-Corp/multus-cni) - Multi-homed pod cni
 
 ## Service mesh
 

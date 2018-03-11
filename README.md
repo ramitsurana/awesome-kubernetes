@@ -618,7 +618,7 @@ Projects
 * [kubectx](https://github.com/ahmetb/kubectx) - switch between clusters on kubectl
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [kubemrr](https://github.com/mkokho/kubemrr) - blazingly fast kubectl
-* [kubens](https://github.com/ahmetb/kubens) - switch between namespaces on kubectl
+* [kubens](https://github.com/ahmetb/kubectx) - switch between namespaces on kubectl
 * [kubensx](https://github.com/shyiko/kubensx) - Simpler Cluster/User/Namespace switching for Kubernetes (featuring interactive mode and wildcard/fuzzy matching).
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - Work around kubectl
 * [kubetop](https://github.com/LeastAuthority/kubetop)

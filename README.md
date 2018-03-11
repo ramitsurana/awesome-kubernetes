@@ -409,6 +409,7 @@ Projects
 ## Cluster Addons
 
 * [Ark](https://github.com/heptio/ark) - utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes.
+* [eventrouter](https://github.com/heptiolabs/eventrouter) - simple introspective kubernetes service that forwards events to a specified sink.
 
 ## Related Software
 

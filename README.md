@@ -607,20 +607,31 @@ Projects
 
 ## API/CLI adaptors
 
+* [ckube](https://github.com/CanopyTax/ckube) - A CLI tool to simplify working with kubectl for some common workflows
+* [Ksql](https://github.com/brendandburns/ksql)
 * [kube-prompt](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt.
+* [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh.
 * [Kube-shell](https://github.com/cloudnativelabs/kube-shell) - Integrated shell for working with the Kubernetes CLI
 * [Kubebot](https://github.com/harbur/kubebot)
-* [kubectx](https://github.com/ahmetb/kubectx) - switch between clusters on kubectl
-* [kubens](https://github.com/ahmetb/kubectx) - switch between namespaces on kubectl
-* [StackStorm](https://github.com/StackStorm/st2)
-* [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
-* [Ksql](https://github.com/brendandburns/ksql)
-* [kubectld](https://github.com/rancher/kubectld)
-* [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - Work around kubectl
 * [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) - Aliases for Kubectl
-* [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
-* [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh.
+* [kubectld](https://github.com/rancher/kubectld)
+* [kubectx](https://github.com/ahmetb/kubectx) - switch between clusters on kubectl
+* [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
+* [kubemrr](https://github.com/mkokho/kubemrr) - blazingly fast kubectl
+* [kubens](https://github.com/ahmetb/kubens) - switch between namespaces on kubectl
 * [kubensx](https://github.com/shyiko/kubensx) - Simpler Cluster/User/Namespace switching for Kubernetes (featuring interactive mode and wildcard/fuzzy matching).
+* [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - Work around kubectl
+* [kubetop](https://github.com/LeastAuthority/kubetop)
+* [pody](https://github.com/JulienBreux/pody) - CLI app the manage Pods
+* [StackStorm](https://github.com/StackStorm/st2)
+* [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
+
+### Log Tailers
+
+* [kail](https://github.com/boz/kail)
+* [ktail](https://github.com/atombender/ktail)
+* [k8stail](https://github.com/dtan4/k8stail)
+* [stern](https://github.com/wercker/stern) - Multi pod and container log tailing
 
 ## Application deployment orchestration
 

@@ -621,6 +621,7 @@ Projects
 * [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
 * [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh.
 * [kubensx](https://github.com/shyiko/kubensx) - Simpler Cluster/User/Namespace switching for Kubernetes (featuring interactive mode and wildcard/fuzzy matching).
+* [kubexp](https://github.com/alitari/kubexp)- Terminal user interface for Kubernetes.
 
 ## Application deployment orchestration
 

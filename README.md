@@ -653,6 +653,7 @@ Projects
 * [Konfd](https://github.com/kelseyhightower/konfd)
 * [kenv](https://github.com/thisendout/kenv)
 * [kubediff](https://github.com/weaveworks/kubediff)
+* [thesus](https://github.com/heptiolabs/theseus) - A command-line utility and importable package for comparing sets of Kubernetes objects
 * [Habitat](http://www.habitat.sh/docs/best-practices/#kubernetes)
 * [Puppet](http://forge.puppet.com/garethr/kubernetes/readme)
 * [Ansible](http://docs.ansible.com/ansible/kubernetes_module.html)

@@ -79,6 +79,7 @@ Menu
   * [Jenkins](#jenkins)
 * [Projects](#projects)
   * [Related Software](#related-software)
+* [Cluster Addons](#cluster-addons)
 * [Monitoring Services](#monitoring-services)
 * [Testing](#testing)
 * [Continuous Delivery](#continuous-delivery)
@@ -405,6 +406,9 @@ Projects
 
 *Kubernetes-related projects that you might find helpful*
 
+## Cluster Addons
+
+* [Ark](https://github.com/heptio/ark) - utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes.
 
 ## Related Software
 

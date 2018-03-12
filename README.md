@@ -437,6 +437,7 @@ Projects
 
 * [Console](https://github.com/kubernetes/dashboard)
 * [Datadog](http://www.datadoghq.com/)
+* [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
 * [Heapster](https://github.com/kubernetes/heapster)
 * [Kube-ui](https://github.com/kubernetes/kube-ui)
 * [Kubebox](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes

@@ -106,6 +106,7 @@ Menu
 * [Operating System](#operating-system)
 * [YAML/JSON Config](#yamljson-config)
 * [Tuning](#tuning)
+* [Backup and Disaster Recovery](#backup-and-disaster-recovery)
 * [Raspberry Pi](#raspberry-pi)
 * [Books](#books) :books:
 * [Slide Presentations](#slide-presentations)
@@ -312,6 +313,7 @@ Managed Kubernetes
    - [GKE](https://cloud.google.com/container-engine/) - Google Kubernetes Engine
    - [AWS](http://aws.amazon.com/ec2) - Amazon EC2
    - [Azure](https://azure.microsoft.com/en-in/) - Microsoft Azure
+   - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) - Azure Container Service
    - [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
    - [Rackspace](https://www.rackspace.com/en-in) - Rackspace
 
@@ -703,6 +705,10 @@ Projects
 ## Tuning
 
 * [Ktune](https://github.com/skippbox/ktune)
+
+## Backup and Disaster Recovery
+
+* [Ark](https://github.com/heptio/ark) - Utility for managing backup and restore of Kubernetes clusters.
 
 Raspberry Pi
 =======================================================================

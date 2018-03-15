@@ -668,6 +668,7 @@ Projects
 
 * [Nginx Plus](http://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
 * [Traefik](http://traefik.io/)
+* [MetalLB](https://metallb.universe.tf/) - load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols.
 * [AppsCode Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager)
 * [NGINX Ingress Controller](https://github.com/kubernetes/ingress-nginx)
 * [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr)

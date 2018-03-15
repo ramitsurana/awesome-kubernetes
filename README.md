@@ -493,6 +493,7 @@ Projects
 * [OpenFaaS](https://github.com/alexellis/faas)
 * [FaaS-netes](https://github.com/alexellis/faas-netes)
 * [Nuclio](https://github.com/nuclio/nuclio)
+* [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Allows nodes to be backed by other services and providers.
 
 ## Operators
 

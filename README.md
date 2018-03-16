@@ -431,7 +431,6 @@ Projects
 ## Package Managers
 
 * [Helm](http://helm.sh)
-* [KPM](https://github.com/coreos/kpm)
 
 ## Monitoring Services
 
@@ -440,7 +439,6 @@ Projects
 * [Console](https://github.com/kubernetes/dashboard)
 * [Datadog](http://www.datadoghq.com/)
 * [Heapster](https://github.com/kubernetes/heapster)
-* [Kube-ui](https://github.com/kubernetes/kube-ui)
 * [Kubebox](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes
 * [Kubedash](https://github.com/kubernetes/kubedash)
 * [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - read-only system dashboard for multiple K8s clusters
@@ -458,7 +456,7 @@ Projects
 *Test your applications running on Kubernetes*
 
 * [k8s-testsuite](https://github.com/mrahbar/k8s-testsuite) - Helm chart for network and loadtesting of a Kubernetes cluster
-* [kube-monkey](https://github.com/asobti/kube-monkey)
+* [kube-monkey](https://github.com/asobti/kube-monkey) - Chaos Monkey for Kubernetes clusters
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - kills targeted pods and machines to test your software reliability
 * [Sonobuoy](https://github.com/heptio/sonobuoy) - Diagnostic tool that runs Kubernetes conformance tests
 * [Test-Infra](https://github.com/kubernetes/test-infra)
@@ -496,6 +494,7 @@ Projects
 * [OpenFaaS](https://github.com/alexellis/faas)
 * [FaaS-netes](https://github.com/alexellis/faas-netes)
 * [Nuclio](https://github.com/nuclio/nuclio)
+* [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Allows nodes to be backed by other services and providers.
 
 ## Operators
 
@@ -711,7 +710,8 @@ Projects
 * [Ark](https://github.com/heptio/ark) - Utility for managing backup and restore of Kubernetes clusters.
 
 Raspberry Pi
-=======================================================================
+
+===================================================================
 
 *Some of the awesome findings and experiments on using Kubernetes with Raspberry Pi.*
 * Check out [Kubecloud](http://kubecloud.io)
@@ -735,6 +735,7 @@ us with information*
 * [Mastering Kubernetes](https://www.amazon.com/Mastering-Kubernetes-Gigi-Sayfan/dp/1786461005) by [Gigi Sayfan](https://github.com/the-gigi)
 * [OpenShift in Action](http://www.manning.com/books/openshift-in-action) by [Jamie Duncan](https://twitter.com/rh_jduncan) & [John Osborne](https://www.linkedin.com/in/johnfosborneiii/)
 * [The DevOps 2.3 Toolkit: Kubernetes](https://leanpub.com/the-devops-2-3-toolkit) by [Viktor Farcic](https://twitter.com/vfarcic)
+* [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) (OpenSource Book in Chinese) by [Jimmy Song](https://github.com/rootsongjc)
 
 
 Slide Presentations

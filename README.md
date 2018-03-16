@@ -431,7 +431,6 @@ Projects
 ## Package Managers
 
 * [Helm](http://helm.sh)
-* [KPM](https://github.com/coreos/kpm)
 
 ## Monitoring Services
 

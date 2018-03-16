@@ -710,7 +710,6 @@ Projects
 * [Ark](https://github.com/heptio/ark) - Utility for managing backup and restore of Kubernetes clusters.
 
 Raspberry Pi
-
 ===================================================================
 
 *Some of the awesome findings and experiments on using Kubernetes with Raspberry Pi.*

@@ -636,6 +636,7 @@ Projects
 * [Deployment manager](https://cloud.google.com/deployment-manager/)
 * [Psykube](https://github.com/commercialtribe/psykube)
 * [Brigade](https://github.com/Azure/brigade) - Event Based Scripting using JavaScript
+* [Skaffold](https://github.com/GoogleCloudPlatform/skaffold) - Command line tool that facilitates continuous development for Kubernetes applications.
 
 ## Configuration
 

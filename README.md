@@ -338,7 +338,7 @@ Interactive Learning Environments
 *Learn Kubernetes using an interactive environment without requiring downloads or configuration*
 
 * [Katacoda](http://www.katacoda.com/courses/kubernetes)
-* [Play with Kubernetes] - http://labs.play-with-k8s.com/ - Temporarily Down
+* [Play with Kubernetes]
 * [Kubernetes Bootcamp](http://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
 
 
@@ -710,7 +710,7 @@ Projects
 * [Ark](https://github.com/heptio/ark) - Utility for managing backup and restore of Kubernetes clusters.
 
 Raspberry Pi
-===================================================================
+=======================================================================
 
 *Some of the awesome findings and experiments on using Kubernetes with Raspberry Pi.*
 * Check out [Kubecloud](http://kubecloud.io)

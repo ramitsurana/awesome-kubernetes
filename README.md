@@ -460,6 +460,7 @@ Projects
 * [kube-monkey](https://github.com/asobti/kube-monkey) - Chaos Monkey for Kubernetes clusters
 * [k8s-testsuite](https://github.com/mrahbar/k8s-testsuite) - Helm chart for network and loadtesting of a Kubernetes cluster
 * [Test-Infra](https://github.com/kubernetes/test-infra)
+* [Sonobuoy](https://github.com/heptio/sonobuoy) - Diagnostic tool that runs Kubernetes conformance tests
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - kills targeted pods and machines to test your software reliability
 
 ## Continuous Delivery

@@ -439,6 +439,7 @@ Projects
 
 * [Console](https://github.com/kubernetes/dashboard)
 * [Datadog](http://www.datadoghq.com/)
+* [eventrouter](https://github.com/heptiolabs/eventrouter) - simple introspective kubernetes service that forwards events to a specified sink.
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
 * [Heapster](https://github.com/kubernetes/heapster)
 * [Kubebox](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes

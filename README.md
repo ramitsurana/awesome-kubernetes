@@ -625,6 +625,7 @@ Projects
 * [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
 * [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh.
 * [kubensx](https://github.com/shyiko/kubensx) - Simpler Cluster/User/Namespace switching for Kubernetes (featuring interactive mode and wildcard/fuzzy matching).
+* [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins) - A collection of kubectl plugins handling everything from easy context switches to exec'ing into a container as any user (root included). Slightly tailored towards GKE users.
 
 ## Application deployment orchestration
 

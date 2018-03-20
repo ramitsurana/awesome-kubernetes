@@ -1,5 +1,6 @@
-Thank You for creating a Pull Request. We appreciate your efforts towards contributing the awesome-kuberntes list.As a part of our practice,
-we would like to select the projects based on the below criteria. Please ensure that your submission is fulfilling the below requirements. Thanks
+Thank You for creating a Pull Request. We appreciate your efforts towards contributing the awesome-kuberntes list.
+
+As a part of our practice, we would like to select the projects based on the below criteria. Please ensure that your submission is fulfilling the below requirements. Thanks
 
 * Requirements for any project submissions
 

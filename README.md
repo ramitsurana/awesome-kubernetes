@@ -709,6 +709,7 @@ Projects
 * [Kube.libsonnet](https://github.com/heptio/kube.libsonnet) - Currently Unstable
 * [kompose](https://github.com/kubernetes/kompose)
 * [kubeval](https://github.com/garethr/kubeval)
+* [hashsc](https://github.com/dmitrychaban/hashsc)
 
 ## Tuning
 

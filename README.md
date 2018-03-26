@@ -662,6 +662,7 @@ Projects
 
 ## Security
 
+* [Dex](https://github.com/coreos/dex) - OpenID and OAuth for Kubernetes
 * [Trireme](http://github.com/aporeto-inc/trireme-kubernetes)
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
 * [Twistlock](http://www.twistlock.com/)

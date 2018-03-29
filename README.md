@@ -231,7 +231,6 @@ Useful Articles
 * [Deploying Kubernetes with SaltStack](http://www.dasblinkenlichten.com/deploying-kubernetes-with-saltstack/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 * [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 * [Corekube: Running Kubernetes on CoreOS via OpenStack](http://developer.rackspace.com/blog/running-coreos-and-kubernetes/) by [Mike Metral](https://twitter.com/mikemetral)
-* [Networking Kubernetes Clusters on CoreOS with Weave](http://www.weave.works/guides/networking-kubernetes-clusters-on-coreos-with-weave/) by [Weaveworks](https://twitter.com/weaveworks)
 * [CoreOS + Kubernetes Step By Step](https://coreos.com/kubernetes/docs/latest/getting-started.html) by [Coreos](https://twitter.com/coreoslinux)
 * [Deploying to Kubernetes with Panamax](http://www.ctl.io/developers/blog/post/deploying-to-kubernetes-with-panamax/) by [Brian DeHamer](https://twitter.com/bdehamer)
 * [Deploy Kubernetes with a Single Command Using Atomicapp](http://www.projectatomic.io/blog/2015/08/fun-with-kubenetes-and-atomicapp/) by [Jason Brooks](https://twitter.com/jasonbrooks)
@@ -278,6 +277,7 @@ Useful Articles
 * [Enable IPv6 on Kubernetes with Project Calico](https://www.projectcalico.org/enable-ipv6-on-kubernetes-with-project-calico/) by [Valentin Ouvrard](https://twitter.com/Valentin_NC)
 * [Kubernetes in IPV6-only](https://opsnotice.xyz/kubernetes-ipv6-only/) by [Valentin Ouvrard](https://twitter.com/Valentin_NC)
 * [Kubernetes and everything else - Introduction to Kubernetes and it's context](https://rinormaloku.com/introduction-application-architecture/) by [Rinor Maloku](https://twitter.com/rinormaloku)
+* [GitOps: High-Velocity CI/CD for Kubernetes](http://dzone.com/articles/gitops-high-velocity-cicd-for-kubernetes)
 
 Managed Kubernetes
 =======================================================================
@@ -438,7 +438,7 @@ Projects
 
 *To maintain regular surveillance over kubernetes*
 
-* [Console](https://github.com/kubernetes/dashboard)
+* [Console](http://github.com/kubernetes/dashboard)
 * [Datadog](http://www.datadoghq.com/)
 * [eventrouter](https://github.com/heptiolabs/eventrouter) - simple introspective kubernetes service that forwards events to a specified sink.
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
@@ -488,6 +488,7 @@ Projects
 * [Vili](https://github.com/airware/vili)
 * [Keel](https://keel.sh/)
 * [Apollo](https://github.com/logzio/apollo) - Open Source application providing teams with self service UI for creating and deploying their services to Kubernetes.
+* [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
 
 ## Serverless Implementations
 
@@ -557,7 +558,7 @@ Projects
 
 ## Networking
 
-* [WeaveWorks](http://www.weave.works/)
+* [Weave Net](http://www.weave.works/docs/net/latest/kubernetes/kube-addon/)
 * [Canal](https://github.com/tigera/canal) by [Tigera](https://github.com/tigera)
 * [OpenContrail](https://github.com/Juniper/contrail-kubernetes)
 * [Nuage](https://github.com/nuagenetworks/nuage-kubernetes)
@@ -581,7 +582,7 @@ Projects
 * [Envoy](http://lyft.github.io/envoy/)
 * [Amalgam8](http://github.com/amalgam8) - Acquired by [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
-* [WeaveWorks](http://www.weave.works/weave-for-kubernetes/)
+* [Weave Mesh](https://github.com/weaveworks/mesh)
 * [Conduit](http://conduit.io/)
 
 ## RPC
@@ -598,6 +599,8 @@ Projects
 * [k8sec](https://github.com/dtan4/k8sec)
 * [kubernetes-vault](https://github.com/Boostport/kubernetes-vault)
 * [kubesec](https://github.com/shyiko/kubesec) - Secure Secret management
+* [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets)
+* [Secure GitOps Using Weave Cloud Deploy And Bitnami's Sealed Secrets](https://engineering.bitnami.com/articles/secure-gitops.html)
 
 ## Web applications
 
@@ -629,6 +632,7 @@ Projects
 * [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh.
 * [kubensx](https://github.com/shyiko/kubensx) - Simpler Cluster/User/Namespace switching for Kubernetes (featuring interactive mode and wildcard/fuzzy matching).
 * [stern](https://github.com/wercker/stern) - Multi pod and container log tailing
+* [kubeplay](github.com/errordeveloper/kubeplay)
 
 ## Application deployment orchestration
 
@@ -660,6 +664,7 @@ Projects
 * [Ansible](http://docs.ansible.com/ansible/kubernetes_module.html)
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
 * [Chef](http://supermarket.chef.io/cookbooks/kubernetes)
+* [kubegen](github.com/errordeveloper/kubegen)
 
 ## Security
 
@@ -681,6 +686,7 @@ Projects
 * [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr)
 * [HAProxy Ingress](https://github.com/jcmoraisjr/haproxy-ingress)
 * [Cloudflare Warp Ingress](https://github.com/cloudflare/cloudflare-ingress-controller)
+* [Gloo – Envoy-based API gateway and ingress controller](https://github.com/solo-io/gloo)
 
 ## Big Data
 
@@ -705,12 +711,14 @@ Projects
 * [CoreOS](http://coreos.com)
 * [Kurma](https://github.com/apcera/kurma)
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
+* [LinuxKit](https://github.com/linuxkit/kubernetes)
 
 ## YAML/JSON Config
 
 * [Kube.libsonnet](https://github.com/heptio/kube.libsonnet) - Currently Unstable
 * [kompose](https://github.com/kubernetes/kompose)
 * [kubeval](https://github.com/garethr/kubeval)
+* [kubegen](github.com/errordeveloper/kubegen)
 
 ## Tuning
 
@@ -872,6 +880,7 @@ Connecting with Kubernetes
 * [Newsletter](http://kube.news/)
 * [Reddit](https://www.reddit.com/r/kubernetes/)
 * [Community](https://github.com/kubernetes/community)
+* [Community Q&A – The Office Hours](https://github.com/kubernetes/community/blob/master/events/office-hours.md)
 
 Conferences
 =======================================================================

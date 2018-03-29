@@ -627,6 +627,7 @@ Projects
 * [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) - Aliases for Kubectl
 * [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
 * [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh.
+* [kube-tmux](https://github.com/jonmosco/kube-tmux) - Kubernetes context and namespace status for tmux
 * [kubensx](https://github.com/shyiko/kubensx) - Simpler Cluster/User/Namespace switching for Kubernetes (featuring interactive mode and wildcard/fuzzy matching).
 * [stern](https://github.com/wercker/stern) - Multi pod and container log tailing
 

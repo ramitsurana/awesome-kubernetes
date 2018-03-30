@@ -331,7 +331,7 @@ Managed Kubernetes
   - [Eldarion Cloud](http://eldarion.cloud)
   - [IBM Bluemix Container Service](http://www.ibm.com/cloud-computing/bluemix/containers)
   - [Hasura](http://www.hasura.io)
-  - [teresa](https://github.com/luizalabs/teresa) - simple PAAS that runs on top of Kubernetes. 
+  - [teresa](https://github.com/luizalabs/teresa) - Simple PAAS that runs on top of Kubernetes. 
 
 Interactive Learning Environments
 =======================================================================

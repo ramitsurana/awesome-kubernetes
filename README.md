@@ -184,6 +184,7 @@ Installers
 * [Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - `systemD` OS - Cloud Agnostique
 * [matchbox](https://github.com/coreos/matchbox) - CoreOS - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
 * [RKE](https://github.com/rancher/rke) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/rancher/rke/blob/master/LICENSE)
+* [Typhoon](https://typhoon.psdn.io/) - Container Linux - Cloud Agnostique - [MIT](https://github.com/poseidon/typhoon/blob/master/LICENSE)
 
 Main Resources
 =======================================================================
@@ -333,7 +334,7 @@ Managed Kubernetes
   - [Eldarion Cloud](http://eldarion.cloud)
   - [IBM Bluemix Container Service](http://www.ibm.com/cloud-computing/bluemix/containers)
   - [Hasura](http://www.hasura.io)
-  - [teresa](https://github.com/luizalabs/teresa) - Simple PAAS that runs on top of Kubernetes. 
+  - [teresa](https://github.com/luizalabs/teresa) - Simple PAAS that runs on top of Kubernetes.
 
 Interactive Learning Environments
 =======================================================================

@@ -389,6 +389,7 @@ Persistent Volume Providers
 * [QuoByte](http://www.quobyte.com/)
 * [Kube-Aliyun](https://github.com/kubeup/kube-aliyun)
 * [Portworx](http://portworx.com/)
+* [Rancher Longhorn](https://github.com/rancher/longhorn)
 * [Stork](https://github.com/libopenstorage/stork)
 * [OpenEBS](http://github.com/openebs/openebs/)
 * [StorageOS](http://storageos.com)

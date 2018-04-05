@@ -301,7 +301,7 @@ Managed Kubernetes
   - [Mantl](https://github.com/mantl/mantl)
   - [goPaddle](http://www.gopaddle.io)
   - [VAMP](http://vamp.io)
-  - [Draft] (https://draft.sh)
+  - [Draft](https://draft.sh) - a tool for developers to create cloud native applications with Kubernetes
 
 
   ### [Enterprise Kubernetes Products](#enterprise-kubernetes-products)

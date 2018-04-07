@@ -523,6 +523,7 @@ Projects
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni).
 * [Kafka](https://github.com/krallistic/kafka-operator)
+* [KubeVirt](https://github.com/kubevirt)
 
 ## Custom Schedulers
 

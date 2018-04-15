@@ -639,7 +639,7 @@ Projects
 * [kube-tmux](https://github.com/jonmosco/kube-tmux) - Kubernetes tmux plugin to display the current context and namespace
 * [kubensx](https://github.com/shyiko/kubensx) - Simpler Cluster/User/Namespace switching for Kubernetes (featuring interactive mode and wildcard/fuzzy matching).
 * [stern](https://github.com/wercker/stern) - Multi pod and container log tailing
-* [kubeplay](github.com/errordeveloper/kubeplay)
+* [kubeplay](https://github.com/errordeveloper/kubeplay)
 
 ## Application deployment orchestration
 
@@ -671,7 +671,7 @@ Projects
 * [Ansible](http://docs.ansible.com/ansible/kubernetes_module.html)
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
 * [Chef](http://supermarket.chef.io/cookbooks/kubernetes)
-* [kubegen](github.com/errordeveloper/kubegen)
+* [kubegen](https://github.com/errordeveloper/kubegen)
 
 ## Security
 
@@ -727,7 +727,7 @@ Projects
 * [Kube.libsonnet](https://github.com/heptio/kube.libsonnet) - Currently Unstable
 * [kompose](https://github.com/kubernetes/kompose)
 * [kubeval](https://github.com/garethr/kubeval)
-* [kubegen](github.com/errordeveloper/kubegen)
+* [kubegen](https://github.com/errordeveloper/kubegen)
 
 ## Tuning
 

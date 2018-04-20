@@ -520,6 +520,7 @@ Projects
 * [etcd](https://github.com/coreos/etcd-operator)
 * [Elasticsearch](https://github.com/upmc-enterprises/elasticsearch-operator)
 * [Memcached](https://github.com/kbst/memcached)
+* [MySQL](https://github.com/oracle/mysql-operator)
 * [MongoDB](https://github.com/kbst/mongodb)
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni).

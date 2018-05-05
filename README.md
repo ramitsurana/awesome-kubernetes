@@ -379,7 +379,7 @@ Case Studies
 Persistent Volume Providers
 =======================================================================
 
-*List of some Persistent Volume Providers for Kubernetes.Check out [Persistent Volume Providers](https://github.com/kubernetes/kubernetes/tree/master/examples/persistent-volume-provisioning) for more info*
+*List of some Persistent Volume Providers for Kubernetes.Check out [Persistent Volume Providers](https://github.com/kubernetes/examples/tree/master/staging/persistent-volume-provisioning) for more info*
 
 * [GCE](https://cloud.google.com/compute/)
 * [AWS](http://aws.amazon.com)
@@ -702,7 +702,7 @@ Projects
 ## Big Data
 
 * [Kube-Yarn](https://github.com/Comcast/kube-yarn)
-* [Spark](https://github.com/kubernetes/kubernetes/tree/master/examples/spark)
+* [Spark](https://github.com/kubernetes/examples/tree/master/staging/spark)
 
 ## Machine Learning
 

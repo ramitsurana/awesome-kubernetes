@@ -875,8 +875,8 @@ Meetup Groups
 * [Worldwide](https://www.meetup.com/kubernauts/)
 * [Amsterdam](https://www.meetup.com/Amsterdam-Kubernetes-Meetup/)
 * [Amsterdam #2](https://www.meetup.com/Kubernetes-Addicts-Support-Group)
-* [Munich](https://www.meetup.com/de-DE/Munchen-Kubernetes-Meetup/)
-* [Hamburg](https://www.meetup.com/de-DE/Hamburg-Kubernetes-Meetup/)
+* [Munich](https://www.meetup.com/Munchen-Kubernetes-Meetup/)
+* [Hamburg](https://www.meetup.com/Hamburg-Kubernetes-Meetup/)
 * [Seattle](https://www.meetup.com/Seattle-Kubernetes-Meetup/)
 
 

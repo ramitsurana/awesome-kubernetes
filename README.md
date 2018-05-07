@@ -672,7 +672,7 @@ Projects
 * [thesus](https://github.com/heptiolabs/theseus) - A command-line utility and importable package for comparing sets of Kubernetes objects
 * [Habitat](http://www.habitat.sh/docs/best-practices/#kubernetes)
 * [Puppet](http://forge.puppet.com/garethr/kubernetes/readme)
-* [Ansible](http://docs.ansible.com/ansible/kubernetes_module.html)
+* [Ansible](http://docs.ansible.com/ansible/latest/modules/k8s_raw_module.html)
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
 * [Chef](http://supermarket.chef.io/cookbooks/kubernetes)
 * [kubegen](https://github.com/errordeveloper/kubegen)

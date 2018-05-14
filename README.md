@@ -499,6 +499,7 @@ Projects
 
 * [Funktion](https://github.com/fabric8io/funktion)
 * [Fission](https://github.com/platform9/fission)
+* [Kubeapps](https://github.com/kubeapps/kubeapps) - set of tools (application dashboard, Serverless framework, and Secret generator) to build FaaS apps on top of Kubernetes
 * [Kubeless](https://github.com/skippbox/kubeless)
 * [OpenWhisk](https://github.com/openwhisk)
 * [Iron.io](http://iron.io)

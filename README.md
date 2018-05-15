@@ -59,8 +59,6 @@ Menu
 =======================================================================
 
 * [Starting Point](#starting-point)
-* [Installation / Setup](#installation-or-setup)
-  * [Kubernetesv1.8](#kubernetesv1.8)
 * [Installers](#installers)
 * [Main Resources](#main-resources)
 * [Release Notes](#release-notes)
@@ -147,17 +145,6 @@ Starting Point
 * [Curated Resources for Kubernetes](https://hackr.io/tutorials/learn-kubernetes)
 * [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) by [Google Cloud Plaatform](https://cloud.google.com/)
 * [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16) by [Dan Sanche](https://medium.com/@sanche)
-
-
-Installation / Setup
-=======================================================================
-
-*Helpful Installation/Setup articles for Production Usage in Kubernetes*
-
-### [Kubernetesv1.8](#kubernetesv1.8)
-
-- [Set up kubernetes 1.8 ha cluster](https://mritd.me/2017/10/09/set-up-kubernetes-1.8-ha-cluster/)
-
 
 
 Installers

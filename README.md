@@ -644,6 +644,7 @@ Projects
 * [kubensx](https://github.com/shyiko/kubensx) - Simpler Cluster/User/Namespace switching for Kubernetes (featuring interactive mode and wildcard/fuzzy matching).
 * [stern](https://github.com/wercker/stern) - Multi pod and container log tailing
 * [kubeplay](https://github.com/errordeveloper/kubeplay)
+* [ksd](https://github.com/ashleyschuett/kubernetes-secret-decode) - Kubernetes Secret Decode, a tool for easily decoding secrets
 
 ## Application deployment orchestration
 

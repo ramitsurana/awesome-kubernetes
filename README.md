@@ -61,6 +61,7 @@ Menu
 * [Starting Point](#starting-point)
 * [Installation / Setup](#installation-or-setup)
   * [Kubernetesv1.8](#kubernetesv1.8)
+  * [Kubernetesv1.9](#kubernetesv1.9)
 * [Installers](#installers)
 * [Main Resources](#main-resources)
 * [Release Notes](#release-notes)
@@ -158,6 +159,9 @@ Installation / Setup
 
 - [Set up kubernetes 1.8 ha cluster](https://mritd.me/2017/10/09/set-up-kubernetes-1.8-ha-cluster/)
 
+### [Kubernetesv1.9](#kubernetesv1.9)
+
+- [Set up kubernetes 1.9 ha cluster](https://metal-k8s.readthedocs.io/en/latest/)
 
 
 Installers
@@ -171,6 +175,7 @@ Installers
 * [Kubespray](https://github.com/kubernetes-incubator/kubespray) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kubernetes-incubator/kubespray/blob/master/LICENSE)
 * [Bootkube](https://github.com/kubernetes-incubator/bootkube) - CoreOS - Cloud Agnostique - [Apache-2.0](https://github.com/kubernetes-incubator/bootkube/blob/master/LICENSE)
 * [Kube-aws](https://github.com/coreos/kube-aws) - CoreOS - AWS - [Apache-2.0](https://github.com/coreos/kube-aws/blob/master/CONTRIBUTING.md)
+* [Metal-k8s](https://github.com/scality/metal-k8s) - CentOS - Cloud Agnostique - [Apache-2.0](https://github.com/scality/metal-k8s/blob/master/LICENSE)
 * [Kismatic](https://github.com/apprenda/kismatic) - CentOS - Cloud Agnostique - [Apache-2.0](https://github.com/apprenda/kismatic/blob/master/LICENSE)
 * [Juju](https://jujucharms.com/canonical-kubernetes) - Ubuntu - Cloud Agnostique - [Apache-2.0](https://github.com/juju-solutions/bundle-canonical-kubernetes/blob/master/LICENSE)
 * [Terraform](https://github.com/kz8s/tack) - CoreOS - AWS - [MIT](https://github.com/kz8s/tack/blob/master/LICENSE)

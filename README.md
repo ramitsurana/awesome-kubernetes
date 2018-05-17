@@ -869,6 +869,7 @@ Meetup Groups
 * [Amsterdam #2](https://www.meetup.com/Kubernetes-Addicts-Support-Group)
 * [Bangalore](https://www.meetup.com/Bangalore-Kubernetes-Meetup)
 * [Berlin](https://twitter.com/kubernetesber)
+* [Boston](https://www.meetup.com/Boston-Kubernetes-Meetup)
 * [Hamburg](https://www.meetup.com/Hamburg-Kubernetes-Meetup/)
 * [Hong Kong](https://www.meetup.com/Kubernetes-Hong-Kong/)
 * [London](https://www.meetup.com/Kubernetes-London/)

@@ -865,20 +865,20 @@ Meetup Groups
 
 *An awesome way to connect with kubernauts around the globe*
 
-* [Berlin](https://twitter.com/kubernetesber)
-* [New York](https://twitter.com/kubernetesnyc)
-* [Paris](https://twitter.com/kubernetesparis)
-* [San Fransico](https://twitter.com/kubernetesSF)
-* [Bangalore](https://www.meetup.com/Bangalore-Kubernetes-Meetup)
-* [Pune](https://www.meetup.com/Kubernetes-Pune/)
-* [London](https://www.meetup.com/Kubernetes-London/)
-* [Hong Kong](https://www.meetup.com/Kubernetes-Hong-Kong/)
-* [Worldwide](https://www.meetup.com/kubernauts/)
 * [Amsterdam](https://www.meetup.com/Amsterdam-Kubernetes-Meetup/)
 * [Amsterdam #2](https://www.meetup.com/Kubernetes-Addicts-Support-Group)
-* [Munich](https://www.meetup.com/Munchen-Kubernetes-Meetup/)
+* [Bangalore](https://www.meetup.com/Bangalore-Kubernetes-Meetup)
+* [Berlin](https://twitter.com/kubernetesber)
 * [Hamburg](https://www.meetup.com/Hamburg-Kubernetes-Meetup/)
+* [Hong Kong](https://www.meetup.com/Kubernetes-Hong-Kong/)
+* [London](https://www.meetup.com/Kubernetes-London/)
+* [Munich](https://www.meetup.com/Munchen-Kubernetes-Meetup/)
+* [New York](https://twitter.com/kubernetesnyc)
+* [Paris](https://twitter.com/kubernetesparis)
+* [Pune](https://www.meetup.com/Kubernetes-Pune/)
+* [San Francisco](https://twitter.com/kubernetesSF)
 * [Seattle](https://www.meetup.com/Seattle-Kubernetes-Meetup/)
+* [Worldwide](https://www.meetup.com/kubernauts/)
 
 
 Connecting with Kubernetes

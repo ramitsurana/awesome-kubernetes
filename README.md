@@ -59,8 +59,6 @@ Menu
 =======================================================================
 
 * [Starting Point](#starting-point)
-* [Installation / Setup](#installation-or-setup)
-  * [Kubernetesv1.8](#kubernetesv1.8)
 * [Installers](#installers)
 * [Main Resources](#main-resources)
 * [Release Notes](#release-notes)
@@ -147,17 +145,6 @@ Starting Point
 * [Curated Resources for Kubernetes](https://hackr.io/tutorials/learn-kubernetes)
 * [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) by [Google Cloud Plaatform](https://cloud.google.com/)
 * [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16) by [Dan Sanche](https://medium.com/@sanche)
-
-
-Installation / Setup
-=======================================================================
-
-*Helpful Installation/Setup articles for Production Usage in Kubernetes*
-
-### [Kubernetesv1.8](#kubernetesv1.8)
-
-- [Set up kubernetes 1.8 ha cluster](https://mritd.me/2017/10/09/set-up-kubernetes-1.8-ha-cluster/)
-
 
 
 Installers
@@ -379,7 +366,7 @@ Case Studies
 Persistent Volume Providers
 =======================================================================
 
-*List of some Persistent Volume Providers for Kubernetes.Check out [Persistent Volume Providers](https://github.com/kubernetes/kubernetes/tree/master/examples/persistent-volume-provisioning) for more info*
+*List of some Persistent Volume Providers for Kubernetes.Check out [Persistent Volume Providers](https://github.com/kubernetes/examples/tree/master/staging/persistent-volume-provisioning) for more info*
 
 * [GCE](https://cloud.google.com/compute/)
 * [AWS](http://aws.amazon.com)
@@ -527,6 +514,7 @@ Projects
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni).
 * [Kafka](https://github.com/krallistic/kafka-operator)
 * [KubeVirt](https://github.com/kubevirt)
+* [Operator SDK](https://github.com/operator-framework/operator-sdk)
 
 ## Custom Schedulers
 
@@ -600,6 +588,7 @@ Projects
 
 ## Secret generation and management
 
+* [CyberArk Conjur Kubernetes Authenticator](https://developer.conjur.net/reference/integrations/kubernetesopenshift.html) - Secure your Kubernetes-deployed applications with CyberArk Conjur
 * [Vault auth plugin backend: Kubernetes](http://www.vaultproject.io/docs/auth/kubernetes.html)
 * [Vault controller](https://github.com/kelseyhightower/vault-controller)
 * [kube-lego](https://github.com/jetstack/kube-lego)
@@ -670,7 +659,7 @@ Projects
 * [thesus](https://github.com/heptiolabs/theseus) - A command-line utility and importable package for comparing sets of Kubernetes objects
 * [Habitat](http://www.habitat.sh/docs/best-practices/#kubernetes)
 * [Puppet](http://forge.puppet.com/garethr/kubernetes/readme)
-* [Ansible](http://docs.ansible.com/ansible/kubernetes_module.html)
+* [Ansible](http://docs.ansible.com/ansible/latest/modules/k8s_raw_module.html)
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
 * [Chef](http://supermarket.chef.io/cookbooks/kubernetes)
 * [kubegen](https://github.com/errordeveloper/kubegen)
@@ -701,7 +690,7 @@ Projects
 ## Big Data
 
 * [Kube-Yarn](https://github.com/Comcast/kube-yarn)
-* [Spark](https://github.com/kubernetes/kubernetes/tree/master/examples/spark)
+* [Spark](https://github.com/kubernetes/examples/tree/master/staging/spark)
 
 ## Machine Learning
 
@@ -738,6 +727,7 @@ Projects
 ## Backup and Disaster Recovery
 
 * [Ark](https://github.com/heptio/ark) - Utility for managing backup and restore of Kubernetes clusters.
+* [kube-backup](https://github.com/pieterlange/kube-backup) - Sync kubernetes state to git.
 
 Raspberry Pi
 =======================================================================
@@ -862,19 +852,21 @@ Meetup Groups
 
 *An awesome way to connect with kubernauts around the globe*
 
+* [Amsterdam](https://www.meetup.com/Amsterdam-Kubernetes-Meetup/)
+* [Amsterdam #2](https://www.meetup.com/Kubernetes-Addicts-Support-Group)
+* [Bangalore](https://www.meetup.com/Bangalore-Kubernetes-Meetup)
 * [Berlin](https://twitter.com/kubernetesber)
+* [Boston](https://www.meetup.com/Boston-Kubernetes-Meetup)
+* [Hamburg](https://www.meetup.com/Hamburg-Kubernetes-Meetup/)
+* [Hong Kong](https://www.meetup.com/Kubernetes-Hong-Kong/)
+* [London](https://www.meetup.com/Kubernetes-London/)
+* [Munich](https://www.meetup.com/Munchen-Kubernetes-Meetup/)
 * [New York](https://twitter.com/kubernetesnyc)
 * [Paris](https://twitter.com/kubernetesparis)
-* [San Fransico](https://twitter.com/kubernetesSF)
-* [Bangalore](https://www.meetup.com/Bangalore-Kubernetes-Meetup)
 * [Pune](https://www.meetup.com/Kubernetes-Pune/)
-* [London](https://www.meetup.com/Kubernetes-London/)
-* [Hong Kong](https://www.meetup.com/Kubernetes-Hong-Kong/)
-* [Worldwide](https://www.meetup.com/kubernauts/)
-* [Amsterdam](https://www.meetup.com/de-DE/Amsterdam-Kubernetes-Meetup/)
-* [Munich](https://www.meetup.com/de-DE/Munchen-Kubernetes-Meetup/)
-* [Hamburg](https://www.meetup.com/de-DE/Hamburg-Kubernetes-Meetup/)
+* [San Francisco](https://twitter.com/kubernetesSF)
 * [Seattle](https://www.meetup.com/Seattle-Kubernetes-Meetup/)
+* [Worldwide](https://www.meetup.com/kubernauts/)
 
 
 Connecting with Kubernetes

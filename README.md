@@ -445,7 +445,8 @@ Projects
 * [Sysdig Open Source](http://www.sysdig.org/)
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
 * [Searchlight](https://github.com/appscode/searchlight)
-* [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) - A Kubernetes Controller to watch your ingresses and create liveness alerts for your endpoints
+* [Stakater Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) - A Kubernetes Controller to watch your ingresses and create liveness alerts for your endpoints
+* [Stakater Chowkidar](https://github.com/stakater/Chowkidar) -  A kubernetes controller that watches/observes events & then takes configured actions
 
 ## Testing
 
@@ -645,6 +646,7 @@ Projects
 * [Brigade](https://github.com/Azure/brigade) - Event Based Scripting using JavaScript
 * [Skaffold](https://github.com/GoogleCloudPlatform/skaffold) - Command line tool that facilitates continuous development for Kubernetes applications.
 * [Gitkube](https://gitkube.sh/) - Build and deploy docker images on Kubernetes using `git push`.
+* [Stakater Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) -  A proxy to let webhooks reach running services behind a firewall
 
 ## Configuration
 

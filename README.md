@@ -863,6 +863,7 @@ Meetup Groups
 * [Munich](https://www.meetup.com/Munchen-Kubernetes-Meetup/)
 * [New York](https://twitter.com/kubernetesnyc)
 * [Paris](https://twitter.com/kubernetesparis)
+* [Pittsburgh](https://www.meetup.com/Pittsburgh-Kubernetes-Meetup)
 * [Pune](https://www.meetup.com/Kubernetes-Pune/)
 * [San Francisco](https://twitter.com/kubernetesSF)
 * [Seattle](https://www.meetup.com/Seattle-Kubernetes-Meetup/)

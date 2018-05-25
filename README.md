@@ -308,6 +308,7 @@ Managed Kubernetes
    - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) - Azure Container Service
    - [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
    - [Rackspace](https://www.rackspace.com/en-in) - Rackspace
+   - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) - Alibaba Cloud Container Service for Kubernetes
 
   ### [Paas](#paas)
 

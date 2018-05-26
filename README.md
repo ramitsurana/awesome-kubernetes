@@ -301,10 +301,8 @@ Managed Kubernetes
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 
-   - [GCE](https://cloud.google.com/compute/) - Google Compute Engine [default]
    - [GKE](https://cloud.google.com/container-engine/) - Google Kubernetes Engine
-   - [AWS](http://aws.amazon.com/ec2) - Amazon EC2
-   - [Azure](https://azure.microsoft.com/en-in/) - Microsoft Azure
+   - [AWS EKS](https://aws.amazon.com/eks/) - Amazon Elastic Container Service
    - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) - Azure Container Service
    - [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
    - [Rackspace](https://www.rackspace.com/en-in) - Rackspace

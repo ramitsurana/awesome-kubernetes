@@ -54,7 +54,11 @@ To be on the list, it would be nice if entries adhere to these quality standards
 * Clearly "what is it" --> which category it belongs : article, video, twitter account, etc.
 * Clearly stating "what is it for": mention the problem it solves. Just try your best, make it clear for the next person
 * Solves a real problem (even a small one)
-* If it is a WIP (work in progress, not safe for production), mention it
+* If it is a WIP (work in progress, not safe for production), mention it.
+
+## Minimum Criteria of Submission
+
+If you planning to add a new project, please ensure that it covers the minimum criteria mentioned here ==> https://github.com/ramitsurana/awesome-kubernetes/blob/master/guidelines/CRITERIA_OF_SUBMISSION.md
 
 
 -----------------------------------------------------------------------

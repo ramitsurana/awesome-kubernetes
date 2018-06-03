@@ -27,7 +27,8 @@ building this awesome-repo would never has been possible. Thank You very much gu
 
 ## What is Kubernetes? :ship:
 
-> Kubernetes is an open source orchestration system for Docker containers. It handles scheduling onto nodes in a compute cluster and actively manages workloads to ensure that their state matches the users declared intentions. Using the concepts of "labels" and "pods", it groups the containers which make up an application into logical units for easy management and discovery.
+> Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
+It groups containers that make up an application into logical units for easy management and discovery.
 
 _Source:_ [What is Kubernetes](http://kubernetes.io/)
 

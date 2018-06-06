@@ -423,8 +423,7 @@ Projects
 
 ## Package Managers
 
-* [Helm](http://helm.sh)
-* [Awesome Helm](https://github.com/cdwv/awesome-helm) - a list of awesome Helm resources
+* [Helm](http://helm.sh) - For further information, please check out - [Awesome Helm](https://github.com/cdwv/awesome-helm).
 
 ## Monitoring Services
 

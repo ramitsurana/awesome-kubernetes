@@ -308,6 +308,7 @@ Managed Kubernetes
    - [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
    - [Rackspace](https://www.rackspace.com/en-in) - Rackspace
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) - Alibaba Cloud Container Service for Kubernetes
+	 - [IKS](https://www.ibm.com/cloud/container-service) - IBM Cloud Kubernetes Service
 
   ### [Paas](#paas)
 

@@ -308,6 +308,7 @@ Managed Kubernetes
    - [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
    - [Rackspace](https://www.rackspace.com/en-in) - Rackspace
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) - Alibaba Cloud Container Service for Kubernetes
+	 - [IKS](https://www.ibm.com/cloud/container-service) - IBM Cloud Kubernetes Service
 
   ### [Paas](#paas)
 
@@ -320,7 +321,6 @@ Managed Kubernetes
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
   - [OpenShift Origin](http://www.openshift.org/)
   - [Eldarion Cloud](http://eldarion.cloud)
-  - [IBM Bluemix Container Service](http://www.ibm.com/cloud-computing/bluemix/containers)
   - [Hasura](http://www.hasura.io)
   - [teresa](https://github.com/luizalabs/teresa) - Simple PAAS that runs on top of Kubernetes.
 

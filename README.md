@@ -320,7 +320,6 @@ Managed Kubernetes
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
   - [OpenShift Origin](http://www.openshift.org/)
   - [Eldarion Cloud](http://eldarion.cloud)
-  - [IBM Bluemix Container Service](http://www.ibm.com/cloud-computing/bluemix/containers)
   - [Hasura](http://www.hasura.io)
   - [teresa](https://github.com/luizalabs/teresa) - Simple PAAS that runs on top of Kubernetes.
 

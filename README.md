@@ -299,7 +299,7 @@ Managed Kubernetes
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
   - [Kubermatic](http://www.loodse.com/)
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
-	- [IBM Cloud Private](https://www.ibm.com/cloud/private)
+  - [IBM Cloud Private](https://www.ibm.com/cloud/private)
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 
@@ -309,7 +309,7 @@ Managed Kubernetes
    - [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
    - [Rackspace](https://www.rackspace.com/en-in) - Rackspace
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) - Alibaba Cloud Container Service for Kubernetes
-	 - [IKS](https://www.ibm.com/cloud/container-service) - IBM Cloud Kubernetes Service
+   - [IKS](https://www.ibm.com/cloud/container-service) - IBM Cloud Kubernetes Service
 
   ### [Paas](#paas)
 

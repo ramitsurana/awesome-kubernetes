@@ -483,6 +483,7 @@ Projects
 * [Keel](https://keel.sh/)
 * [Apollo](https://github.com/logzio/apollo) - Open Source application providing teams with self service UI for creating and deploying their services to Kubernetes.
 * [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
+* [Codefresh](https://codefresh.io/) - Kubernetes CI/CD platform (with private Docker and Helm Chart repositories)
 
 ## Serverless Implementations
 

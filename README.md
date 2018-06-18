@@ -462,6 +462,7 @@ Projects
 * [Test-Infra](https://github.com/kubernetes/test-infra)
 * [Sonobuoy](https://github.com/heptio/sonobuoy) - Diagnostic tool that runs Kubernetes conformance tests
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - kills targeted pods and machines to test your software reliability
+* [Litmus](https://github.com/openebs/litmus) - Chaos engineering for stateful workloads on Kubernetes
 
 ## Continuous Delivery
 

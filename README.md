@@ -674,6 +674,7 @@ Projects
 
 ## Security
 
+* [Kubernetes Security Guide](https://sysdig.com/blog/kubernetes-security-guide/) - RBAC, TLS, Security policy, Network policy, etc.
 * [Dex](https://github.com/coreos/dex) - OpenID and OAuth for Kubernetes
 * [Trireme](http://github.com/aporeto-inc/trireme-kubernetes)
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)

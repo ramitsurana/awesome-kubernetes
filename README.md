@@ -173,6 +173,8 @@ Installers
 * [matchbox](https://github.com/coreos/matchbox) - CoreOS - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
 * [RKE](https://github.com/rancher/rke) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/rancher/rke/blob/master/LICENSE)
 * [Typhoon](https://typhoon.psdn.io/) - Container Linux - Cloud Agnostique - [MIT](https://github.com/poseidon/typhoon/blob/master/LICENSE)
+* [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) - Run Kubernetes and Docker locally on your Windows PC
+* [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) - Run Kubernetes and Docker locally on your MAC
 
 Main Resources
 =======================================================================
@@ -316,6 +318,7 @@ Managed Kubernetes
    - [Rackspace](https://www.rackspace.com/en-in) - Rackspace
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) - Alibaba Cloud Container Service for Kubernetes
    - [IKS](https://www.ibm.com/cloud/container-service) - IBM Cloud Kubernetes Service
+   - [Docker EE](https://www.docker.com/enterprise-edition) - Docker Enterprise Edition 2.0
 
   ### [Paas](#paas)
 
@@ -337,7 +340,7 @@ Interactive Learning Environments
 *Learn Kubernetes using an interactive environment without requiring downloads or configuration*
 
 * [Katacoda](http://www.katacoda.com/courses/kubernetes)
-* [Play with Kubernetes][http://labs.play-with-k8s.com/] - Temporarily Down
+* [Play with Kubernetes](http://labs.play-with-k8s.com/) 
 * [Kubernetes Bootcamp](http://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
 
 

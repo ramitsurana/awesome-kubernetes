@@ -523,6 +523,7 @@ Projects
 * [MongoDB](https://github.com/kbst/mongodb)
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni).
+* [Couchbase](https://blog.couchbase.com/introducing-couchbase-operator/)
 * [Kafka](https://github.com/krallistic/kafka-operator)
 * [KubeVirt](https://github.com/kubevirt)
 * [Operator SDK](https://github.com/operator-framework/operator-sdk)

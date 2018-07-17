@@ -331,6 +331,7 @@ Managed Kubernetes
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
   - [OpenShift Origin](http://www.openshift.org/)
   - [Eldarion Cloud](http://eldarion.cloud)
+  - [Alauda Container Platform](http://www.alauda.cn/?lang=EN)
   - [Hasura](http://www.hasura.io)
   - [teresa](https://github.com/luizalabs/teresa) - Simple PAAS that runs on top of Kubernetes.
 

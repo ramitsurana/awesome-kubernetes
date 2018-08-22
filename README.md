@@ -659,7 +659,6 @@ Projects
 * [Brigade](https://github.com/Azure/brigade) - Event Based Scripting using JavaScript
 * [Skaffold](https://github.com/GoogleCloudPlatform/skaffold) - Command line tool that facilitates continuous development for Kubernetes applications.
 * [Gitkube](https://gitkube.sh/) - Build and deploy docker images on Kubernetes using `git push`.
-* [MLT](https://github.com/IntelAI/mlt) - `mlt` command line tool aids in the creation of containers for machine learning jobs on kubernetes.
 
 ## Configuration
 
@@ -714,6 +713,7 @@ Projects
 * [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes.
 * [seldon-core](https://github.com/SeldonIO/seldon-core) - Open source framework for deploying machine learning models on Kubernetes
 * [FfDL](https://github.com/IBM/FfDL) - Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes
+* [MLT](https://github.com/IntelAI/mlt) - Machine Learning Container Templates: easy to use container and kubernetes object templates.
 
 ## Service Discovery
 

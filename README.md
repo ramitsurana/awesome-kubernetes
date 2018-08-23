@@ -587,6 +587,7 @@ Projects
 * [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 * [Multus-cni](https://github.com/Intel-Corp/multus-cni) - Multi-homed pod cni
+* [Network-Controller](https://github.com/linkernetworks/network-controller) - Open vSwitch, Multiple network interfaces that associate with Kubernetes pods
 
 ## Service mesh
 

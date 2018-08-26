@@ -277,7 +277,7 @@ Useful Articles
 * [Production grade Kubernetes on AWS: 3 tips for networking, ingress and microservices (Part 3)](https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-3-tips-for-networking-ingress-and-microservices-8d28c355a6e0) by [Guy Maliar](https://github.com/gmaliar)
 * [Production grade Kubernetes on AWS: 3 lessons learned scaling a cluster (Part 4)](https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-3-lessons-learned-scaling-a-cluster-a421dfe786dd) by [Guy Maliar](https://github.com/gmaliar)
 * [Kubernetes Security Guide](https://sysdig.com/blog/kubernetes-security-guide/) - RBAC, TLS, Security policy, Network policy, etc.
-* [Setting Up a Kubernetes Cluster on Ubuntu 18.04](https://mherman.org/blog/2018/08/20/setting-up-a-kubernetes-cluster-on-ubuntu/)
+* [Setting Up a Kubernetes Cluster on Ubuntu 18.04](https://mherman.org/blog/2018/08/20/setting-up-a-kubernetes-cluster-on-ubuntu/) - this tutorial details how to spin up a Kubernetes cluster on Ubuntu 18.04 using kubeadm, kubelet, and kubectl. 
 
 Managed Kubernetes
 =======================================================================

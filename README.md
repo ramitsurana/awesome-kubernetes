@@ -343,7 +343,7 @@ Interactive Learning Environments
 * [Katacoda](http://www.katacoda.com/courses/kubernetes)
 * [Play with Kubernetes](http://labs.play-with-k8s.com/)
 * [Kubernetes Bootcamp](http://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
-
+* [Magic Sandbox](https://magicsandbox.com/)
 
 MOOC Courses / Tutorials
 =======================================================================

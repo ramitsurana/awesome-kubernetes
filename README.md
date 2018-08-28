@@ -310,6 +310,7 @@ Managed Kubernetes
   - [Kubermatic](http://www.loodse.com/)
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
   - [IBM Cloud Private](https://www.ibm.com/cloud/private)
+  - [PKS](https://pivotal.io/platform/pivotal-container-service) - Cluster manager by Pivotal, VMWare and Google
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 

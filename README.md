@@ -290,6 +290,7 @@ Managed Kubernetes
   - [Kubermatic](http://www.loodse.com//)
   - [Hasura](https://hasura.io/)
   - [Rancher](https://rancher.com/)
+  - [Gardener](https://github.com/gardener/gardener) - AWS, Azure, GCP, and OpenStack cluster manager
 
 
   ### [Developer Platform](#developer-platform)

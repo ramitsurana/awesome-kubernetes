@@ -518,7 +518,8 @@ Projects
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
 * [K8s Operator Workshop](https://github.com/lukebond/cc-au-k8s-operators-workshop)
 * [Cert Operator](https://github.com/giantswarm/cert-operator)
-* [Cert manager](https://github.com/kelseyhightower/kube-cert-manager)
+* [Cert manager](https://github.com/kelseyhightower/kube-cert-manager) by @kelseyhightower
+* [cert-manager](https://github.com/jetstack/cert-manager) by @jetstack
 * [Operator Kit](https://github.com/rook/operator-kit)
 * [Container Linux Update Operator](https://github.com/coreos/container-linux-update-operator)
 * [DB Operator](https://github.com/k8sdb/operator)
@@ -691,6 +692,7 @@ Projects
 * [Sysdig Secure](http://www.sysdig.com/product/secure)
 * [Kubesec.io](http://kubesec.io/)
 * [Authenticator](https://github.com/heptio/authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster
+
 
 ## Load balancing
 

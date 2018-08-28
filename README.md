@@ -704,6 +704,7 @@ Projects
 * [Cloudflare Warp Ingress](https://github.com/cloudflare/cloudflare-ingress-controller)
 * [Gloo – Envoy-based API gateway and ingress controller](https://github.com/solo-io/gloo)
 * [Avi Networks - Software Load Balancer | Intelligent WAF | Elastic Service Mesh](https://avinetworks.com/)
+* [Contour](https://github.com/heptio/contour) - Kubernetes ingress controller for Lyft's Envoy proxy
 
 ## Big Data
 

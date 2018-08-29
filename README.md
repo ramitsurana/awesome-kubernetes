@@ -689,6 +689,8 @@ Projects
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
 * [Chef](http://supermarket.chef.io/cookbooks/kubernetes)
 * [kubegen](https://github.com/errordeveloper/kubegen)
+* [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization using partial specs
+* [kapitan](https://github.com/deepmind/kapitan) - Manage complex deployments using jsonnet and jinja2
 
 ## Security
 

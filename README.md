@@ -694,16 +694,20 @@ Projects
 
 ## Load balancing
 
-* [Nginx Plus](http://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
-* [Traefik](http://traefik.io/)
-* [MetalLB](https://metallb.universe.tf/) - load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols.
-* [AppsCode Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager)
-* [NGINX Ingress Controller](https://github.com/kubernetes/ingress-nginx)
-* [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr)
-* [HAProxy Ingress](https://github.com/jcmoraisjr/haproxy-ingress)
-* [Cloudflare Warp Ingress](https://github.com/cloudflare/cloudflare-ingress-controller)
-* [Gloo – Envoy-based API gateway and ingress controller](https://github.com/solo-io/gloo)
 * [Avi Networks - Software Load Balancer | Intelligent WAF | Elastic Service Mesh](https://avinetworks.com/)
+* [AWS ALB Ingress Controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller)
+* [Cloudflare Warp Ingress](https://github.com/cloudflare/cloudflare-ingress-controller)
+* [Contour](https://github.com/heptio/contour) - Kubernetes ingress controller for Lyft's Envoy proxy
+* [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr)
+* [Gimbal](https://github.com/heptio/gimbal) - Platform capable of routing traffic to multiple Kubernetes and OpenStack clusters
+* [Gloo - Envoy-based API gateway and ingress controller](https://github.com/solo-io/gloo)
+* [HAProxy Ingress](https://github.com/jcmoraisjr/haproxy-ingress)
+* [MetalLB](https://metallb.universe.tf/) - load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols.
+* [NGINX Ingress Controller](https://github.com/kubernetes/ingress-nginx)
+* [Nginx Plus](http://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
+* [Skipper](https://github.com/zalando/skipper) - HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
+* [Traefik](http://traefik.io/)
+* [Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager)
 
 ## Big Data
 

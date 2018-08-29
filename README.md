@@ -65,6 +65,7 @@ Menu
 * [Release Notes](#release-notes)
 * [Useful Articles](#useful-articles)
 * [Managed Kubernetes](#managed-kubernetes)
+  * [Cluster Managers](#cluster-manager)
   * [Developer Platform](#developer-platform)
   * [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
   * [Public/Private Cloud](#publicprivate-cloud)
@@ -283,19 +284,24 @@ Managed Kubernetes
 =======================================================================
 
   - [Platform9](http://platform9.com)
-  - [Gravitational](http://gravitational.com/)
   - [OpenShift Online](http://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](http://stackpoint.io/)
-  - [Kubermatic](http://www.loodse.com//)
   - [Hasura](https://hasura.io/)
-  - [Rancher](https://rancher.com/)
 
+
+  ### [Cluster Managers](#cluster-manager)
+  - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
+  - [Gardener](https://github.com/gardener/gardener) - AWS, Azure, GCP, and OpenStack cluster manager
+  - [Kubermatic](http://www.loodse.com/)
+  - [Rancher](https://rancher.com/)
+  - [PKS](https://pivotal.io/platform/pivotal-container-service) - Cluster manager by Pivotal, VMWare and Google
+  - [Telekube](https://gravitational.com/telekube/)
 
   ### [Developer Platform](#developer-platform)
 
   - [Fabric8](http://fabric8.io)
-   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
+  - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [Mantl](https://github.com/mantl/mantl)
   - [goPaddle](http://www.gopaddle.io)
   - [VAMP](http://vamp.io)

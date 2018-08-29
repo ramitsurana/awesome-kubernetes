@@ -306,6 +306,7 @@ Managed Kubernetes
   - [goPaddle](http://www.gopaddle.io)
   - [VAMP](http://vamp.io)
   - [Draft](https://draft.sh) - a tool for developers to create cloud native applications with Kubernetes
+  - [Knative](https://github.com/knative/) - Platform to build, deploy, and manage modern serverless workloads
 
 
   ### [Enterprise Kubernetes Products](#enterprise-kubernetes-products)

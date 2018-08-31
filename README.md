@@ -341,6 +341,7 @@ Managed Kubernetes
   - [Alauda Container Platform](http://www.alauda.cn/?lang=EN)
   - [Hasura](http://www.hasura.io)
   - [teresa](https://github.com/luizalabs/teresa) - Simple PAAS that runs on top of Kubernetes.
+  - [Choerodon](https://github.com/choerodon/choerodon) - The open source PaaS for Kubernetes.
 
 Interactive Learning Environments
 =======================================================================

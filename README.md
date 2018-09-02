@@ -69,7 +69,7 @@ Menu
   * [Developer Platform](#developer-platform)
   * [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
   * [Public/Private Cloud](#publicprivate-cloud)
-  * [Paas](#paas)
+  * [PaaS](#paas)
 * [Interactive Learning Environments](#interactive-learning-environments)
 * [MOOC Courses / Tutorials](#courses-or-tutorials)
 * [Case Studies](#case-studies)
@@ -329,18 +329,22 @@ Managed Kubernetes
    - [IKS](https://www.ibm.com/cloud/container-service) - IBM Cloud Kubernetes Service
    - [Docker EE](https://www.docker.com/enterprise-edition) - Docker Enterprise Edition 2.0
 
-  ### [Paas](#paas)
+  ### [PaaS](#paas)
 
    *Kubernetes Platform as a Service providers*
 
   - [Kel](http://www.kelproject.com)
   - [WSO2](http://wso2.com)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
-  - [OpenShift Origin](http://www.openshift.org/)
+  - [OpenShift Origin](http://www.openshift.org)
+  - [OpenShift Online](https://www.openshift.com/products/online/)
+  - [OpenShift Dedicated](https://www.openshift.com/products/dedicated/)
+  - [OpenShift Container Platform](https://www.openshift.com/products/container-platform/)
   - [Eldarion Cloud](http://eldarion.cloud)
   - [Alauda Container Platform](http://www.alauda.cn/?lang=EN)
   - [Hasura](http://www.hasura.io)
   - [teresa](https://github.com/luizalabs/teresa) - Simple PAAS that runs on top of Kubernetes.
+  - [Containerum](https://containerum.io)
 
 Interactive Learning Environments
 =======================================================================

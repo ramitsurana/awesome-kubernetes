@@ -65,6 +65,7 @@ Menu
 * [Release Notes](#release-notes)
 * [Useful Articles](#useful-articles)
 * [Managed Kubernetes](#managed-kubernetes)
+  * [Cluster Managers](#cluster-manager)
   * [Developer Platform](#developer-platform)
   * [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
   * [Public/Private Cloud](#publicprivate-cloud)
@@ -277,28 +278,35 @@ Useful Articles
 * [Production grade Kubernetes on AWS: 3 tips for networking, ingress and microservices (Part 3)](https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-3-tips-for-networking-ingress-and-microservices-8d28c355a6e0) by [Guy Maliar](https://github.com/gmaliar)
 * [Production grade Kubernetes on AWS: 3 lessons learned scaling a cluster (Part 4)](https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-3-lessons-learned-scaling-a-cluster-a421dfe786dd) by [Guy Maliar](https://github.com/gmaliar)
 * [Kubernetes Security Guide](https://sysdig.com/blog/kubernetes-security-guide/) - RBAC, TLS, Security policy, Network policy, etc.
+* [Setting Up a Kubernetes Cluster on Ubuntu 18.04](https://mherman.org/blog/2018/08/20/setting-up-a-kubernetes-cluster-on-ubuntu/) - this tutorial details how to spin up a Kubernetes cluster on Ubuntu 18.04 using kubeadm, kubelet, and kubectl. 
 
 Managed Kubernetes
 =======================================================================
 
   - [Platform9](http://platform9.com)
-  - [Gravitational](http://gravitational.com/)
   - [OpenShift Online](http://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](http://stackpoint.io/)
-  - [Kubermatic](http://www.loodse.com//)
   - [Hasura](https://hasura.io/)
-  - [Rancher](https://rancher.com/)
 
+
+  ### [Cluster Managers](#cluster-manager)
+  - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
+  - [Gardener](https://github.com/gardener/gardener) - AWS, Azure, GCP, and OpenStack cluster manager
+  - [Kubermatic](http://www.loodse.com/)
+  - [Rancher](https://rancher.com/)
+  - [PKS](https://pivotal.io/platform/pivotal-container-service) - Cluster manager by Pivotal, VMWare and Google
+  - [Telekube](https://gravitational.com/telekube/)
 
   ### [Developer Platform](#developer-platform)
 
   - [Fabric8](http://fabric8.io)
-   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
+  - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [Mantl](https://github.com/mantl/mantl)
   - [goPaddle](http://www.gopaddle.io)
   - [VAMP](http://vamp.io)
   - [Draft](https://draft.sh) - a tool for developers to create cloud native applications with Kubernetes
+  - [Knative](https://github.com/knative/) - Platform to build, deploy, and manage modern serverless workloads
 
 
   ### [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
@@ -342,7 +350,7 @@ Interactive Learning Environments
 * [Katacoda](http://www.katacoda.com/courses/kubernetes)
 * [Play with Kubernetes](http://labs.play-with-k8s.com/)
 * [Kubernetes Bootcamp](http://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
-
+* [Magic Sandbox](https://magicsandbox.com/)
 
 MOOC Courses / Tutorials
 =======================================================================
@@ -444,6 +452,7 @@ Projects
 * [eventrouter](https://github.com/heptiolabs/eventrouter) - simple introspective kubernetes service that forwards events to a specified sink.
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
 * [Heapster](https://github.com/kubernetes/heapster)
+* [Instana](https://instana.com)
 * [Kubebox](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes
 * [Kubedash](https://github.com/kubernetes/kubedash)
 * [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - read-only system dashboard for multiple K8s clusters
@@ -468,6 +477,7 @@ Projects
 * [Sonobuoy](https://github.com/heptio/sonobuoy) - Diagnostic tool that runs Kubernetes conformance tests
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - kills targeted pods and machines to test your software reliability
 * [Litmus](https://github.com/openebs/litmus) - Chaos engineering for stateful workloads on Kubernetes
+* [Kubeadm-dind-cluster](https://github.com/kubernetes-sigs/kubeadm-dind-cluster) - multi-node test cluster based on kubeadm
 
 ## Continuous Delivery
 
@@ -515,7 +525,8 @@ Projects
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
 * [K8s Operator Workshop](https://github.com/lukebond/cc-au-k8s-operators-workshop)
 * [Cert Operator](https://github.com/giantswarm/cert-operator)
-* [Cert manager](https://github.com/kelseyhightower/kube-cert-manager)
+* [Cert manager](https://github.com/kelseyhightower/kube-cert-manager) by @kelseyhightower
+* [cert-manager](https://github.com/jetstack/cert-manager) by @jetstack
 * [Operator Kit](https://github.com/rook/operator-kit)
 * [Container Linux Update Operator](https://github.com/coreos/container-linux-update-operator)
 * [DB Operator](https://github.com/k8sdb/operator)
@@ -530,6 +541,7 @@ Projects
 * [Kafka](https://github.com/krallistic/kafka-operator)
 * [KubeVirt](https://github.com/kubevirt)
 * [Operator SDK](https://github.com/operator-framework/operator-sdk)
+* [kooper](https://github.com/spotahome/kooper) - Simple Go library to create Kubernetes operators and controllers
 
 ## Custom Schedulers
 
@@ -586,6 +598,9 @@ Projects
 * [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 * [Multus-cni](https://github.com/Intel-Corp/multus-cni) - Multi-homed pod cni
+* [Network-Controller](https://github.com/linkernetworks/network-controller) - Open vSwitch, Multiple network interfaces that associate with Kubernetes pods
+* [AWS VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin using Elastic Network Interfaces
+* [NSX-T](https://www.vmware.com/products/nsx/cloud-native-apps.html) - CNI plugin supporting load balancing and distributed firewalls.
 
 ## Service mesh
 
@@ -676,30 +691,39 @@ Projects
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
 * [Chef](http://supermarket.chef.io/cookbooks/kubernetes)
 * [kubegen](https://github.com/errordeveloper/kubegen)
+* [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization using partial specs
+* [kapitan](https://github.com/deepmind/kapitan) - Manage complex deployments using jsonnet and jinja2
 
 ## Security
 
-* [Dex](https://github.com/coreos/dex) - OpenID and OAuth for Kubernetes
-* [Trireme](http://github.com/aporeto-inc/trireme-kubernetes)
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
-* [Twistlock](http://www.twistlock.com/)
+* [Authenticator](https://github.com/heptio/authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster
+* [Dex](https://github.com/coreos/dex) - OpenID and OAuth for Kubernetes
+* [Guard](https://github.com/appscode/guard) - Authenticaton webhook server with support for Github, Gitlab, Google, Azure and LDAP (AD) as identity providers.
+* [kiam](https://github.com/uswitch/kiam) -  Allows cluster users to associate AWS IAM roles to Pods.
+* [kube2iam](https://github.com/jtblin/kube2iam) - Provides different AWS IAM roles for pods running on Kubernetes
+* [Kubesec.io](http://kubesec.io/)
 * [Sysdig Falco](http://www.sysdig.org/falco/)
 * [Sysdig Secure](http://www.sysdig.com/product/secure)
-* [Kubesec.io](http://kubesec.io/)
-* [Authenticator](https://github.com/heptio/authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster
+* [Trireme](http://github.com/aporeto-inc/trireme-kubernetes)
+* [Twistlock](http://www.twistlock.com/)
 
 ## Load balancing
 
-* [Nginx Plus](http://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
-* [Traefik](http://traefik.io/)
-* [MetalLB](https://metallb.universe.tf/) - load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols.
-* [AppsCode Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager)
-* [NGINX Ingress Controller](https://github.com/kubernetes/ingress-nginx)
-* [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr)
-* [HAProxy Ingress](https://github.com/jcmoraisjr/haproxy-ingress)
-* [Cloudflare Warp Ingress](https://github.com/cloudflare/cloudflare-ingress-controller)
-* [Gloo – Envoy-based API gateway and ingress controller](https://github.com/solo-io/gloo)
 * [Avi Networks - Software Load Balancer | Intelligent WAF | Elastic Service Mesh](https://avinetworks.com/)
+* [AWS ALB Ingress Controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller)
+* [Cloudflare Warp Ingress](https://github.com/cloudflare/cloudflare-ingress-controller)
+* [Contour](https://github.com/heptio/contour) - Kubernetes ingress controller for Lyft's Envoy proxy
+* [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr)
+* [Gimbal](https://github.com/heptio/gimbal) - Platform capable of routing traffic to multiple Kubernetes and OpenStack clusters
+* [Gloo - Envoy-based API gateway and ingress controller](https://github.com/solo-io/gloo)
+* [HAProxy Ingress](https://github.com/jcmoraisjr/haproxy-ingress)
+* [MetalLB](https://metallb.universe.tf/) - load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols.
+* [NGINX Ingress Controller](https://github.com/kubernetes/ingress-nginx)
+* [Nginx Plus](http://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
+* [Skipper](https://github.com/zalando/skipper) - HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
+* [Traefik](http://traefik.io/)
+* [Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager)
 
 ## Big Data
 
@@ -713,6 +737,7 @@ Projects
 * [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes.
 * [seldon-core](https://github.com/SeldonIO/seldon-core) - Open source framework for deploying machine learning models on Kubernetes
 * [FfDL](https://github.com/IBM/FfDL) - Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes
+* [Polyaxon](https://github.com/polyaxon/polyaxon) - An open source platform for reproducible machine learning and deep learning on kubernetes
 * [MLT](https://github.com/IntelAI/mlt) - Machine Learning Container Templates: easy to use container and kubernetes object templates.
 
 ## Service Discovery
@@ -742,6 +767,7 @@ Projects
 ## Backup and Disaster Recovery
 
 * [Ark](https://github.com/heptio/ark) - Utility for managing backup and restore of Kubernetes clusters.
+* [burry.sh](https://github.com/mhausenblas/burry.sh) - Cloud Native backup and recovery for etcd, zookeeper and consul
 * [kube-backup](https://github.com/pieterlange/kube-backup) - Sync kubernetes state to git.
 
 Raspberry Pi
@@ -772,6 +798,7 @@ us with information*
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) (OpenSource Book in Chinese) by [Jimmy Song](https://github.com/rootsongjc)
 * [DevOps with Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes) by Hideto Saito, Hui-Chuan Chloe Lee, Cheng-Yang Wu
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) by Matthew Palmer
+* [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) by Jeff Nickoloff and Stephen Kuenzli
 
 Slide Presentations
 =======================================================================

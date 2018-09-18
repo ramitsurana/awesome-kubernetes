@@ -308,7 +308,8 @@ Managed Kubernetes
   - [VAMP](http://vamp.io)
   - [Draft](https://draft.sh) - a tool for developers to create cloud native applications with Kubernetes
   - [Knative](https://github.com/knative/) - Platform to build, deploy, and manage modern serverless workloads
-
+  - [DevSpace](https://github.com/covexo/devspace) - Build, test and run code directly inside any Kubernetes cluster
+  
 
   ### [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
 

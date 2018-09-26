@@ -279,8 +279,8 @@ Useful Articles
 * [Production grade Kubernetes on AWS: 3 lessons learned scaling a cluster (Part 4)](https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-3-lessons-learned-scaling-a-cluster-a421dfe786dd) by [Guy Maliar](https://github.com/gmaliar)
 * [Kubernetes Security Guide](https://sysdig.com/blog/kubernetes-security-guide/) - RBAC, TLS, Security policy, Network policy, etc.
 * [Setting Up a Kubernetes Cluster on Ubuntu 18.04](https://mherman.org/blog/2018/08/20/setting-up-a-kubernetes-cluster-on-ubuntu/) - this tutorial details how to spin up a Kubernetes cluster on Ubuntu 18.04 using kubeadm, kubelet, and kubectl. 
-* [Running Flask on Kubernetes](https://testdriven.io/running-flask-on-kubernetes) - the following is a step-by-step walkthrough of how to deploy a Flask-based microservice (along with Postgres and Vue.js) to a Kubernetes cluster.
-* [Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean) - this tutorial demonstrates how to automate the setup of a Kubernetes cluster with Python and Fabric on DigitalOcean.
+* [Running Flask on Kubernetes](https://testdriven.io/running-flask-on-kubernetes)
+* [Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean)
 
 Managed Kubernetes
 =======================================================================

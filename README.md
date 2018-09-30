@@ -6,7 +6,7 @@ Awesome-Kubernetes
 [![Build Status](https://semaphoreci.com/api/v1/ramitsurana/awesome-kubernetes/branches/master/badge.svg)](https://semaphoreci.com/ramitsurana/awesome-kubernetes)
 [![License](https://img.shields.io/badge/License-CC%204.0-brightgreen.svg?style=flat-square)](http://creativecommons.org/licenses/by-nc/4.0/)
 [![Docker Build Status](https://img.shields.io/docker/build/ramitsurana/awesome-kubernetes.svg?style=flat-square)](https://hub.docker.com/r/ramitsurana/awesome-kubernetes)
-[![Slack Widget](https://camo.githubusercontent.com/984828c0b020357921853f59eaaa65aaee755542/68747470733a2f2f73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f6e6774756e612f6a6f696e2d75732d6f6e2d736c61636b2e706e67)](https://kubernetes.slack.com/messages/awesome-kubernetes)
+[![Slack Widget](https://img.shields.io/badge/Slack-Channel-blue.svg?style=flat-square)](https://kubernetes.slack.com/messages/awesome-kubernetes)
 
 
 A curated list for awesome kubernetes sources
@@ -27,7 +27,8 @@ building this awesome-repo would never has been possible. Thank You very much gu
 
 ## What is Kubernetes? :ship:
 
-> Kubernetes is an open source orchestration system for Docker containers. It handles scheduling onto nodes in a compute cluster and actively manages workloads to ensure that their state matches the users declared intentions. Using the concepts of "labels" and "pods", it groups the containers which make up an application into logical units for easy management and discovery.
+> Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
+It groups containers that make up an application into logical units for easy management and discovery.
 
 _Source:_ [What is Kubernetes](http://kubernetes.io/)
 
@@ -59,17 +60,16 @@ Menu
 =======================================================================
 
 * [Starting Point](#starting-point)
-* [Installation / Setup](#installation-or-setup)
-  * [Kubernetesv1.8](#kubernetesv1.8)
 * [Installers](#installers)
 * [Main Resources](#main-resources)
 * [Release Notes](#release-notes)
 * [Useful Articles](#useful-articles)
 * [Managed Kubernetes](#managed-kubernetes)
+  * [Cluster Managers](#cluster-manager)
   * [Developer Platform](#developer-platform)
   * [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
   * [Public/Private Cloud](#publicprivate-cloud)
-  * [Paas](#paas)
+  * [PaaS](#paas)
 * [Interactive Learning Environments](#interactive-learning-environments)
 * [MOOC Courses / Tutorials](#courses-or-tutorials)
 * [Case Studies](#case-studies)
@@ -141,48 +141,45 @@ Starting Point
 * [Application Containers: Kubernetes and Docker from Scratch](http://keithtenzer.com/2015/06/01/application-containers-kubernetes-and-docker-from-scratch/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 * [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/) by [Omer Dawelbeit](https://twitter.com/omerio)
 * [Top Reasons Businesses Should Move to Kubernetes Now](http://supergiant.io/blog/top-reasons-businesses-should-move-to-kubernetes-now) by [Mike Johnston](https://github.com/gopherstein)
-* [The Children's Illustrated Guide to Kubernetes](http://deis.com/blog/2016/kubernetes-illustrated-guide/) by [Deis](https://github.com/deis)
+* [The Children's Illustrated Guide to Kubernetes](https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/) by [Deis](https://github.com/deis)
 * [The ‘kubectl run’ command](http://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
 * [Docker Kubernetes Lab Handbook](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
 * [Curated Resources for Kubernetes](https://hackr.io/tutorials/learn-kubernetes)
 * [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) by [Google Cloud Plaatform](https://cloud.google.com/)
-
-
-Installation / Setup
-=======================================================================
-
-*Helpful Installation/Setup articles for Production Usage in Kubernetes*
-
-### [Kubernetesv1.8](#kubernetesv1.8)
-
-- [Set up kubernetes 1.8 ha cluster](https://mritd.me/2017/10/09/set-up-kubernetes-1.8-ha-cluster/)
-
-
+* [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16) by [Dan Sanche](https://medium.com/@sanche)
+* [An Introduction to Kubernetes](http://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes) by [Justin Ellingwood](https://twitter.com/jmellingwood)
+* [Kubernetes and everything else - Introduction to Kubernetes and it's context](https://rinormaloku.com/introduction-application-architecture/) by [Rinor Maloku](https://twitter.com/rinormaloku)
+* [Installation on Centos 7](http://severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services)
+* [Setting Up a Kubernetes Cluster on Ubuntu 18.04](https://mherman.org/blog/2018/08/20/setting-up-a-kubernetes-cluster-on-ubuntu/)
 
 Installers
 =======================================================================
 
 
 * [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-* [Kops](https://github.com/kubernetes/kops) - OS Agnostique - AWS - [Apache-2.0](https://github.com/kubernetes/kops/blob/master/LICENSE)
+* [Kops](https://github.com/kubernetes/kops) - OS Agnostique - AWS
 * [Kube-deploy](https://github.com/kubernetes/kube-deploy)
-* [Kubeadm](http://kubernetes.io/docs/admin/kubeadm/) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kubernetes/kubeadm/blob/master/LICENSE)
-* [Kubespray](https://github.com/kubernetes-incubator/kubespray) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kubernetes-incubator/kubespray/blob/master/LICENSE)
-* [Bootkube](https://github.com/kubernetes-incubator/bootkube) - CoreOS - Cloud Agnostique - [Apache-2.0](https://github.com/kubernetes-incubator/bootkube/blob/master/LICENSE)
-* [Kube-aws](https://github.com/coreos/kube-aws) - CoreOS - AWS - [Apache-2.0](https://github.com/coreos/kube-aws/blob/master/CONTRIBUTING.md)
-* [Kismatic](https://github.com/apprenda/kismatic) - CentOS - Cloud Agnostique - [Apache-2.0](https://github.com/apprenda/kismatic/blob/master/LICENSE)
-* [Juju](https://jujucharms.com/canonical-kubernetes) - Ubuntu - Cloud Agnostique - [Apache-2.0](https://github.com/juju-solutions/bundle-canonical-kubernetes/blob/master/LICENSE)
-* [Terraform](https://github.com/kz8s/tack) - CoreOS - AWS - [MIT](https://github.com/kz8s/tack/blob/master/LICENSE)
-* [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique - [Apache-2.0](https://github.com/supergiant/supergiant/blob/master/LICENSE)
-* [Archon](https://github.com/kubeup/archon) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kubeup/archon/blob/master/LICENSE)
-* [KubeNow](https://github.com/kubenow/KubeNow) - Ubuntu - Cloud Agnostique - [Apache-2.0](https://github.com/kubenow/KubeNow/blob/master/LICENSE)
-* [Kubicorn](https://github.com/kris-nova/kubicorn) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kris-nova/kubicorn/blob/master/LICENSE)
+* [Kubeadm](http://kubernetes.io/docs/admin/kubeadm/) - OS Agnostique - Cloud Agnostique
+* [Kubespray](https://github.com/kubernetes-incubator/kubespray) - OS Agnostique - Cloud Agnostique
+* [Bootkube](https://github.com/kubernetes-incubator/bootkube) - CoreOS - Cloud Agnostique
+* [Kube-aws](https://github.com/coreos/kube-aws) - CoreOS - AWS
+* [Kismatic](https://github.com/apprenda/kismatic) - CentOS - Cloud Agnostique
+* [Juju](https://jujucharms.com/canonical-kubernetes) - Ubuntu - Cloud Agnostique
+* [Terraform](https://github.com/kz8s/tack) - CoreOS - AWS
+* [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique
+* [Archon](https://github.com/kubeup/archon) - OS Agnostique - Cloud Agnostique
+* [KubeNow](https://github.com/kubenow/KubeNow) - Ubuntu - Cloud Agnostique
+* [Kubicorn](https://github.com/kubicorn/kubicorn) - OS Agnostique - Cloud Agnostique
 * [Simplekube](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostique
-* [Conjure-up](https://github.com/conjure-up/conjure-up) - Ubuntu - Cloud Agnostique - [MIT](https://github.com/conjure-up/conjure-up/blob/master/LICENSE)
-* [Kube-ansible](https://github.com/kairen/kube-ansible) - OS Agnostique - Cloud Agnostique - [MIT](https://github.com/kairen/kube-ansible/blob/master/LICENSE)
+* [Conjure-up](https://github.com/conjure-up/conjure-up) - Ubuntu - Cloud Agnostique
+* [Kube-ansible](https://github.com/kairen/kube-ansible) - OS Agnostique - Cloud Agnostique
 * [Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - `systemD` OS - Cloud Agnostique
 * [matchbox](https://github.com/coreos/matchbox) - CoreOS - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
-* [RKE](https://github.com/rancher/rke) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/rancher/rke/blob/master/LICENSE)
+* [RKE](https://github.com/rancher/rke) - OS Agnostique - Cloud Agnostique
+* [Typhoon](https://typhoon.psdn.io/) - Container Linux - Cloud Agnostique
+* [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) - Run Kubernetes and Docker locally on your Windows PC (Edge Channel)
+* [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) - Run Kubernetes and Docker locally on your MAC (Edge Channel)
+* [MetalK8s](https://github.com/scality/metalk8s) - CentOS - On-Prem - Cloud Agnostique - [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
 
 Main Resources
 =======================================================================
@@ -198,6 +195,9 @@ Release Notes
 
 *Official release notes from the Kubernetes team on Stable Kubernetes Releases*
 
+* [Kubernetes-1.12](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.12.md)
+* [Kubernetes-1.11](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.11.md)
+* [Kubernetes-1.10](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.10.md)
 * [Kubernetes-1.9](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.9.md)
 * [Kubernetes-1.8](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.8.md)
 * [Kubernetes-1.7](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.7.md)
@@ -213,9 +213,59 @@ Useful Articles
 
 *A piece of writing included with others in a newspaper, magazine, or other publication*
 
-* [Installation on Centos 7](http://severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services)
+### [Cloud Providers](#cloud-providers)
+
+- [Kubernetes on AWS](http://coreos.com/kubernetes/docs/latest/kubernetes-on-aws.html) by [CoreOS](https://twitter.com/coreoslinux)
+- [AWS Advent 2014 - CoreOS and Kubernetes on AWS](http://awsadvent.tumblr.com/post/104260597799/aws-advent-2014-coreos-and-kubernetes-on-aws) by [Tim Dsyinger](https://twitter.com/dysinger)
+- [Kubernetes and AWS VPC Peering](http://ben.straub.cc/2015/08/19/kubernetes-aws-vpc-peering/) by [Ben Straub](https://twitter.com/benstraub)
+- [Testing Kubernetes on AWS](http://alanwill.me/Testing-Kubernetes-on-AWS/) by [Alan Will](https://twitter.com/alanwill)
+- [Kubernetes: First steps on Amazon AWS](http://blog.dutchcoders.io/kubernetes-first-steps-on-amazon-aws/) by [Remco](http://blog.dutchcoders.io/author/remco/)
+- [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) by [Jon Langemak](https://twitter.com/blinken_lichten)
+- [Manage Kubernetes Clusters on AWS Using Kops](https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/)
+- [Corekube: Running Kubernetes on CoreOS via OpenStack](http://developer.rackspace.com/blog/running-coreos-and-kubernetes/) by [Mike Metral](https://twitter.com/mikemetral)
+- [Production grade Kubernetes on AWS: Primer (Part 1)](https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-primer-5b83e71c024) by [Guy Maliar](https://github.com/gmaliar)
+- [Production grade Kubernetes on AWS: 4 tools that made our lives easier (Part 2)](https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-4-tools-that-made-our-lives-easier-29438e8b58ca) by [Guy Maliar](https://github.com/gmaliar)
+- [Production grade Kubernetes on AWS: 3 tips for networking, ingress and microservices (Part 3)](https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-3-tips-for-networking-ingress-and-microservices-8d28c355a6e0) by [Guy Maliar](https://github.com/gmaliar)
+- [Production grade Kubernetes on AWS: 3 lessons learned scaling a cluster (Part 4)](https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-3-lessons-learned-scaling-a-cluster-a421dfe786dd) by [Guy Maliar](https://github.com/gmaliar)
+- [Continuous Deployment with Google Container Engine and Kubernetes](http://semaphoreci.com/community/tutorials/continuous-deployment-with-google-container-engine-and-kubernetes)
+- [Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean)
+- [Deploy a Kubernetes development cluster with Juju!](http://insights.ubuntu.com/2015/07/23/deploy-a-kubernetes-development-cluster-with-juju-2/) by [Matt Bruzek](https://twitter.com/mattatcanonical)
+- [Containers at Scale with Kubernetes on OpenStack](http://keithtenzer.com/2015/04/15/containers-at-scale-with-kubernetes-on-openstack/) by [Keith Tenzer](https://twitter.com/keithtenzer)
+
+### [Logging](#logging)
+- [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by [Michael Ward](https://twitter.com/DevoperandI)
+
+### [Monitoring](#monitoring)
+
+- [Kubernetes Monitoring Guide](http://www.datadoghq.com/blog/monitoring-kubernetes-era/) by [JM Saponaro](http://github.com/JayJayM)
+- [Installing cAdvisor and Heapster on bare metal Kubernetes](http://www.dasblinkenlichten.com/installing-cadvisor-and-heapster-on-bare-metal-kubernetes/) by [Jon Langemak](https://twitter.com/blinken_lichten)
+- [How to Monitor Kubernetes: A 4-Part Series](http://sysdig.com/blog/monitoring-kubernetes-with-sysdig-cloud/)
+- [Microservice Monitoring in Kubernetes with Netsil](http://netsil.com/microservices-monitoring-kubernetes/) by [Matt Baldwin](https://twitter.com/baldwinmathew)
+
+### [Security](#security)
+
+- [Kubernetes Security Guide](https://sysdig.com/blog/kubernetes-security-guide/) - RBAC, TLS, Security policy, Network policy, etc.
+- [Handling Sensitive Data In A Docker Application with Kubernetes Secrets](http://scotch.io/tutorials/google-cloud-platform-iii-handling-sensitive-data-in-a-docker-application-with-kubernetes-secrets) by [John Kariuki ](https://twitter.com/_kar_is)
+- [How to Create and Use Kubernetes Secrets](http://linoxide.com/containers/create-use-kubernetes-secrets/) by [Mohamed Ez Ez](http://linoxide.com/author/mohamedez/)
+
+### [Networking](#networking)
+
+- [Choosing a CNI Provider for Kubernetes](http://chrislovecnm.com/kuberentes/cni/choosing-a-cni-provider/?1234) by [Chris Love](https://twitter.com/chrislovecnm)
+- [Enable IPv6 on Kubernetes with Project Calico](https://www.projectcalico.org/enable-ipv6-on-kubernetes-with-project-calico/) by [Valentin Ouvrard](https://twitter.com/Valentin_NC)
+- [Kubernetes in IPV6-only](http://opsnotice.xyz/kubernetes-ipv6-only/) by [Valentin Ouvrard](https://twitter.com/Valentin_NC)
+- [Kubernetes 101 – Networking](http://www.dasblinkenlichten.com/kubernetes-101-networking/) by [Jon Langemak](https://twitter.com/blinken_lichten)
+- [Kubernetes with OpenStack Cloud Provider: Current state and upcoming changes (part 1 of 2)](http://medium.com/@arthur.souzamiranda/kubernetes-with-openstack-cloud-provider-current-state-and-upcoming-changes-part-1-of-2-48b161ea449a)
+
+### [CI/CD](#ci/cd)
+
+- [GitOps: High-Velocity CI/CD for Kubernetes](http://dzone.com/articles/gitops-high-velocity-cicd-for-kubernetes)
+- [Achieving CI/CD with Kubernetes](http://ramitsurana.github.io/myblog/achieving-ci-cd-with-kubernetes) by [Ramit Surana](https://twitter.com/ramitsurana)
+- [Jenkins declarative pipelines with Kubernetes](http://radu-matei.com/blog/kubernetes-jenkins-azure/)
+
+
+
+### [Others](#others)
 *  [Packaging Multiple Resources together](http://blog.arungupta.me/kubernetes-application-package-multiple-resources-together/)
-*  [An Introduction to Kubernetes](http://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes) by [Justin Ellingwood](https://twitter.com/jmellingwood)
 *  [Scaling Docker with Kubernetes](http://www.infoq.com/articles/scaling-docker-with-kubernetes) by [Carlos Sanchez](https://twitter.com/csanchez)
 * [Creating a Kubernetes Cluster to Run Docker Formatted Container Images](http://access.redhat.com/articles/1353773) by [Chris Negus](https://twitter.com/linuxcricket)
 * [Containerizing Docker on Kubernetes !!](http://www.linkedin.com/pulse/containerizing-docker-kubernetes-ramit-surana) by [Ramit Surana](https://twitter.com/ramitsurana)
@@ -225,80 +275,63 @@ Useful Articles
 * [Nginx Server Deployment using Kubernetes](http://containertutorials.com/get_started_kubernetes/k8s_example.html) by [Rajdeep Dua](https://www.twitter.com/rajdeepdua)
 * [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/) by [Kamal Marhubi](https://twitter.com/kamalmarhubi)
 * [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/) by [Kamal Marhubi](https://twitter.com/kamalmarhubi)
-* [Kubernetes 101 – Networking](http://www.dasblinkenlichten.com/kubernetes-101-networking/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 * [Dynamic Kubernetes installation/configuration with SaltStack](http://www.dasblinkenlichten.com/dynamic-kubernetes-installationconfiguration-with-saltstack/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 * [Deploying Kubernetes with SaltStack](http://www.dasblinkenlichten.com/deploying-kubernetes-with-saltstack/) by [Jon Langemak](https://twitter.com/blinken_lichten)
-* [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) by [Jon Langemak](https://twitter.com/blinken_lichten)
-* [Corekube: Running Kubernetes on CoreOS via OpenStack](http://developer.rackspace.com/blog/running-coreos-and-kubernetes/) by [Mike Metral](https://twitter.com/mikemetral)
-* [Networking Kubernetes Clusters on CoreOS with Weave](http://www.weave.works/guides/networking-kubernetes-clusters-on-coreos-with-weave/) by [Weaveworks](https://twitter.com/weaveworks)
 * [CoreOS + Kubernetes Step By Step](https://coreos.com/kubernetes/docs/latest/getting-started.html) by [Coreos](https://twitter.com/coreoslinux)
 * [Deploying to Kubernetes with Panamax](http://www.ctl.io/developers/blog/post/deploying-to-kubernetes-with-panamax/) by [Brian DeHamer](https://twitter.com/bdehamer)
 * [Deploy Kubernetes with a Single Command Using Atomicapp](http://www.projectatomic.io/blog/2015/08/fun-with-kubenetes-and-atomicapp/) by [Jason Brooks](https://twitter.com/jasonbrooks)
 * [Deploying a Bare Metal Kubernetes Cluster](http://blog.jameskyle.org/2014/08/deploying-baremetal-kubernetes-cluster/) by [James Kyle](https://twitter.com/jameskyle75)
-* [AWS Advent 2014 - CoreOS and Kubernetes on AWS](http://awsadvent.tumblr.com/post/104260597799/aws-advent-2014-coreos-and-kubernetes-on-aws) by [Tim Dsyinger](https://twitter.com/dysinger)
-* [Kubernetes and AWS VPC Peering](http://ben.straub.cc/2015/08/19/kubernetes-aws-vpc-peering/) by [Ben Straub](https://twitter.com/benstraub)
-* [Deploy a Kubernetes development cluster with Juju!](http://insights.ubuntu.com/2015/07/23/deploy-a-kubernetes-development-cluster-with-juju-2/) by [Matt Bruzek](https://twitter.com/mattatcanonical)
 * [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/) by [Christoph Hartmann](https://twitter.com/chri_hartmann)
 * [Keycloak on Kubernetes with OpenShift 3](http://blog.keycloak.org/2015/04/keycloak-on-kubernetes-with-openshift-3.html) by [Marko Strukelj](https://twitter.com/mstruk2000)
 * [Kubernetes clusters with Oh-My-Vagrant](http://ttboj.wordpress.com/2015/05/02/kubernetes-clusters-with-oh-my-vagrant/) by [James](https://twitter.com/#!/purpleidea)
 * [Fleet Unit Files for Kubernetes on CoreOS](http://blog.michaelhamrah.com/2015/06/fleet-unit-files-for-kubernetes-on-coreos/) by [Michael Hamrah](https://twitter.com/mhamrah)
-* [Kubernetes on AWS](http://coreos.com/kubernetes/docs/latest/kubernetes-on-aws.html) by [CoreOS](https://twitter.com/coreoslinux)
-* [Testing Kubernetes on AWS](http://alanwill.me/Testing-Kubernetes-on-AWS/) by [Alan Will](https://twitter.com/alanwill)
-* [Kubernetes: First steps on Amazon AWS](http://blog.dutchcoders.io/kubernetes-first-steps-on-amazon-aws/) by [Remco](http://blog.dutchcoders.io/author/remco/)
 * [Kubernetes Container Orchestration through Java APIs](http://keithtenzer.com/2015/05/04/kubernetes-container-orchestration-through-java-apis/) by [Keith Tenzer](https://twitter.com/keithtenzer)
-* [Containers at Scale with Kubernetes on OpenStack](http://keithtenzer.com/2015/04/15/containers-at-scale-with-kubernetes-on-openstack/) by [Keith Tenzer](https://twitter.com/keithtenzer)
-* [Installing cAdvisor and Heapster on bare metal Kubernetes](http://www.dasblinkenlichten.com/installing-cadvisor-and-heapster-on-bare-metal-kubernetes/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 * [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
 * [Comparison of Networking Solutions for Kubernetes](http://machinezone.github.io/research/networking-solutions-for-kubernetes/)
 * [Why Docker and Google Kubernetes Are Like PaaS Done Right](http://www.sdxcentral.com/articles/news/why-docker-and-google-kubernetes-are-like-paas-done-right/2015/08/)
 * [Kubernetes Authentication plugins and kubeconfig](http://www.dasblinkenlichten.com/kubernetes-authentication-plugins-and-kubeconfig/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 * [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 * [Kubernetes Authentication - OpenID Connect](http://www.devoperandi.com/kubernetes-authentication-openid-connect/) by [Michael Ward](https://twitter.com/DevoperandI)
-* [How to Monitor Kubernetes: A 4-Part Series](http://sysdig.com/blog/monitoring-kubernetes-with-sysdig-cloud/)
-* [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by [Michael Ward](https://twitter.com/DevoperandI)
-* [Achieving CI/CD with Kubernetes](http://theremotelab.com/blog/achieving-ci-cd-with-k8s/) by [Ramit Surana](https://twitter.com/ramitsurana)
-* [Kubernetes Monitoring Guide](http://www.datadoghq.com/blog/monitoring-kubernetes-era/) by [JM Saponaro](http://github.com/JayJayM)
 * [Deploying Kubernetes with Ansible and Terraform](http://solinea.com/blog/deploying-kubernetes-ansible-terraform)
 * [Cluster Consul using Kubernetes API](http://www.devoperandi.com/cluster-consul-using-kubernetes-api/)
-* [Continuous Deployment with Google Container Engine and Kubernetes](http://semaphoreci.com/community/tutorials/continuous-deployment-with-google-container-engine-and-kubernetes)
-* [Handling Sensitive Data In A Docker Application with Kubernetes Secrets](http://scotch.io/tutorials/google-cloud-platform-iii-handling-sensitive-data-in-a-docker-application-with-kubernetes-secrets) by [John Kariuki ](https://twitter.com/_kar_is)
-* [How to Create and Use Kubernetes Secrets](http://linoxide.com/containers/create-use-kubernetes-secrets/) by [Mohamed Ez Ez](http://linoxide.com/author/mohamedez/)
-* [Microservice Monitoring in Kubernetes with Netsil](http://netsil.com/microservices-monitoring-kubernetes/) by [Matt Baldwin](https://twitter.com/baldwinmathew)
 * [Automate deep learning training with Kubernetes GPU-cluster](https://github.com/Langhalsdino/Kubernetes-GPU-Guide)
 * [Kubernetes Production Patterns (and Anti-Patterns)](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
-* [Manage Kubernetes Clusters on AWS Using Kops](https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/)
 * [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/)
 * [Introducing Kubic Project](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/)
 * [Three post learn k8s](http://blog.alexellis.io/tag/learn-k8s/)
 * [Kubernetes tips & tricks](http://opsnotice.xyz/kubernetes-tips-tricks/)
-* [Jenkins declarative pipelines with Kubernetes](http://radu-matei.com/blog/kubernetes-jenkins-azure/)
-* [Kubernetes with OpenStack Cloud Provider: Current state and upcoming changes (part 1 of 2)](http://medium.com/@arthur.souzamiranda/kubernetes-with-openstack-cloud-provider-current-state-and-upcoming-changes-part-1-of-2-48b161ea449a)
-* [Choosing a CNI Provider for Kubernetes](http://chrislovecnm.com/kuberentes/cni/choosing-a-cni-provider/?1234) by [Chris Love](https://twitter.com/chrislovecnm)
-* [Enable IPv6 on Kubernetes with Project Calico](https://www.projectcalico.org/enable-ipv6-on-kubernetes-with-project-calico/) by [Valentin Ouvrard](https://twitter.com/Valentin_NC)
-* [Kubernetes in IPV6-only](https://opsnotice.xyz/kubernetes-ipv6-only/) by [Valentin Ouvrard](https://twitter.com/Valentin_NC)
-* [Kubernetes and everything else - Introduction to Kubernetes and it's context](https://rinormaloku.com/introduction-application-architecture/) by [Rinor Maloku](https://twitter.com/rinormaloku)
+* [Running Flask on Kubernetes](https://testdriven.io/running-flask-on-kubernetes)
 
 Managed Kubernetes
 =======================================================================
 
   - [Platform9](http://platform9.com)
-  - [Gravitational](http://gravitational.com/)
   - [OpenShift Online](http://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](http://stackpoint.io/)
-  - [Kubermatic](http://www.loodse.com//)
   - [Hasura](https://hasura.io/)
-  - [Rancher](https://rancher.com/)
 
+
+  ### [Cluster Managers](#cluster-manager)
+  - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
+  - [Gardener](https://github.com/gardener/gardener) - AWS, Azure, GCP, and OpenStack cluster manager
+  - [Kubermatic](http://www.loodse.com/)
+  - [Rancher](https://rancher.com/)
+  - [PKS](https://pivotal.io/platform/pivotal-container-service) - Cluster manager by Pivotal, VMWare and Google
+  - [Telekube](https://gravitational.com/telekube/)
+  - [Kqueen](https://github.com/Mirantis/kqueen)
 
   ### [Developer Platform](#developer-platform)
 
   - [Fabric8](http://fabric8.io)
-   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
+  - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [Mantl](https://github.com/mantl/mantl)
   - [goPaddle](http://www.gopaddle.io)
   - [VAMP](http://vamp.io)
-
+  - [Draft](https://draft.sh) - a tool for developers to create cloud native applications with Kubernetes
+  - [Knative](https://github.com/knative/) - Platform to build, deploy, and manage modern serverless workloads
+  - [DevSpace](https://github.com/covexo/devspace) - Build, test and run code directly inside any Kubernetes cluster
+  
 
   ### [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
 
@@ -307,31 +340,33 @@ Managed Kubernetes
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
   - [Kubermatic](http://www.loodse.com/)
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
+  - [IBM Cloud Private](https://www.ibm.com/cloud/private)
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 
-   - [GCE](https://cloud.google.com/compute/) - Google Compute Engine [default]
    - [GKE](https://cloud.google.com/container-engine/) - Google Kubernetes Engine
-   - [AWS](http://aws.amazon.com/ec2) - Amazon EC2
-   - [Azure](https://azure.microsoft.com/en-in/) - Microsoft Azure
-   - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) - Azure Container Service
+   - [AWS EKS](https://aws.amazon.com/eks/) - Amazon Elastic Container Service
+   - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) - Azure Kubernetes Service
    - [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
    - [Rackspace](https://www.rackspace.com/en-in) - Rackspace
+   - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) - Alibaba Cloud Container Service for Kubernetes
+   - [IKS](https://www.ibm.com/cloud/container-service) - IBM Cloud Kubernetes Service
+   - [Docker EE](https://www.docker.com/enterprise-edition) - Docker Enterprise Edition 2.0
 
-  ### [Paas](#paas)
+  ### [PaaS](#paas)
 
    *Kubernetes Platform as a Service providers*
 
-  - [Deis Workflow](http://deis.com/) - [Deprecated Public Releases](http://deis.com/blog/2017/deis-workflow-final-release/)
   - [Kel](http://www.kelproject.com)
   - [WSO2](http://wso2.com)
-  - [Kumoru](http://medium.com/@kumoru_io) - [Deprecated](https://www.youtube.com/watch?v=_5XQmE7rx9o) - Not Official
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
-  - [OpenShift Origin](http://www.openshift.org/)
+  - [OpenShift Origin (OKD)](http://www.okd.io)
+  - [OpenShift Online/Dedicated/Container Platform](https://www.openshift.com/)
   - [Eldarion Cloud](http://eldarion.cloud)
-  - [IBM Bluemix Container Service](http://www.ibm.com/cloud-computing/bluemix/containers)
+  - [Alauda Container Platform](http://www.alauda.cn/?lang=EN)
   - [Hasura](http://www.hasura.io)
-
+  - [teresa](https://github.com/luizalabs/teresa) - Simple PAAS that runs on top of Kubernetes.
+  - [Containerum](https://containerum.io)
 
 Interactive Learning Environments
 =======================================================================
@@ -339,9 +374,9 @@ Interactive Learning Environments
 *Learn Kubernetes using an interactive environment without requiring downloads or configuration*
 
 * [Katacoda](http://www.katacoda.com/courses/kubernetes)
-* [Play with Kubernetes][http://labs.play-with-k8s.com/] - Temporarily Down
+* [Play with Kubernetes](http://labs.play-with-k8s.com/)
 * [Kubernetes Bootcamp](http://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
-
+* [Magic Sandbox](https://magicsandbox.com/)
 
 MOOC Courses / Tutorials
 =======================================================================
@@ -375,7 +410,7 @@ Case Studies
 Persistent Volume Providers
 =======================================================================
 
-*List of some Persistent Volume Providers for Kubernetes.Check out [Persistent Volume Providers](https://github.com/kubernetes/kubernetes/tree/master/examples/persistent-volume-provisioning) for more info*
+*List of some Persistent Volume Providers for Kubernetes.Check out [Persistent Volume Providers](https://github.com/kubernetes/examples/tree/master/staging/persistent-volume-provisioning) for more info*
 
 * [GCE](https://cloud.google.com/compute/)
 * [AWS](http://aws.amazon.com)
@@ -386,6 +421,7 @@ Persistent Volume Providers
 * [QuoByte](http://www.quobyte.com/)
 * [Kube-Aliyun](https://github.com/kubeup/kube-aliyun)
 * [Portworx](http://portworx.com/)
+* [Rancher Longhorn](https://github.com/rancher/longhorn)
 * [Stork](https://github.com/libopenstorage/stork)
 * [OpenEBS](http://github.com/openebs/openebs/)
 * [StorageOS](http://storageos.com)
@@ -431,28 +467,31 @@ Projects
 
 ## Package Managers
 
-* [Helm](http://helm.sh)
+* [Helm](http://helm.sh) - For further information, please check out - [Awesome Helm](https://github.com/cdwv/awesome-helm).
 
 ## Monitoring Services
 
 *To maintain regular surveillance over kubernetes*
 
-* [Console](https://github.com/kubernetes/dashboard)
+* [Console](http://github.com/kubernetes/dashboard)
 * [Datadog](http://www.datadoghq.com/)
 * [eventrouter](https://github.com/heptiolabs/eventrouter) - simple introspective kubernetes service that forwards events to a specified sink.
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
 * [Heapster](https://github.com/kubernetes/heapster)
+* [Instana](https://instana.com)
 * [Kubebox](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes
 * [Kubedash](https://github.com/kubernetes/kubedash)
 * [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - read-only system dashboard for multiple K8s clusters
 * [Kubetail](https://github.com/johanhaleby/kubetail)
 * [Kubewatch](https://github.com/skippbox/kubewatch)
 * [Netsil](https://github.com/netsil/manifests)
+* [Outcold Solutions](https://www.outcoldsolutions.com) - monitoring Kubernetes, OpenShift and Docker in Splunk Enterprise and Splunk Cloud (metrics and log forwarding)
 * [Prometheus](http://prometheus.io)
 * [Sysdig Monitoring](https://www.sysdig.com/)
 * [Sysdig Open Source](http://www.sysdig.org/)
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
 * [Searchlight](https://github.com/appscode/searchlight)
+* [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) - A Kubernetes Controller to watch your ingresses and create liveness alerts for your endpoints
 
 ## Testing
 
@@ -463,6 +502,9 @@ Projects
 * [Test-Infra](https://github.com/kubernetes/test-infra)
 * [Sonobuoy](https://github.com/heptio/sonobuoy) - Diagnostic tool that runs Kubernetes conformance tests
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - kills targeted pods and machines to test your software reliability
+* [Litmus](https://github.com/openebs/litmus) - Chaos engineering for stateful workloads on Kubernetes
+* [Kubeadm-dind-cluster](https://github.com/kubernetes-sigs/kubeadm-dind-cluster) - multi-node test cluster based on kubeadm
+* [kind](https://github.com/bsycorp/kind) - A single node cluster to run your CI tests against thats ready in 30 seconds
 
 ## Continuous Delivery
 
@@ -487,11 +529,14 @@ Projects
 * [Vili](https://github.com/airware/vili)
 * [Keel](https://keel.sh/)
 * [Apollo](https://github.com/logzio/apollo) - Open Source application providing teams with self service UI for creating and deploying their services to Kubernetes.
+* [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
+* [Codefresh](https://codefresh.io/) - Kubernetes CI/CD platform (with private Docker and Helm Chart repositories)
 
 ## Serverless Implementations
 
 * [Funktion](https://github.com/fabric8io/funktion)
 * [Fission](https://github.com/platform9/fission)
+* [Kubeapps](https://github.com/kubeapps/kubeapps) - set of tools (application dashboard, Serverless framework, and Secret generator) to build FaaS apps on top of Kubernetes
 * [Kubeless](https://github.com/skippbox/kubeless)
 * [OpenWhisk](https://github.com/openwhisk)
 * [Iron.io](http://iron.io)
@@ -507,17 +552,23 @@ Projects
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
 * [K8s Operator Workshop](https://github.com/lukebond/cc-au-k8s-operators-workshop)
 * [Cert Operator](https://github.com/giantswarm/cert-operator)
-* [Cert manager](https://github.com/kelseyhightower/kube-cert-manager)
+* [Cert manager](https://github.com/kelseyhightower/kube-cert-manager) by @kelseyhightower
+* [cert-manager](https://github.com/jetstack/cert-manager) by @jetstack
 * [Operator Kit](https://github.com/rook/operator-kit)
 * [Container Linux Update Operator](https://github.com/coreos/container-linux-update-operator)
 * [DB Operator](https://github.com/k8sdb/operator)
 * [etcd](https://github.com/coreos/etcd-operator)
 * [Elasticsearch](https://github.com/upmc-enterprises/elasticsearch-operator)
 * [Memcached](https://github.com/kbst/memcached)
+* [MySQL](https://github.com/oracle/mysql-operator)
 * [MongoDB](https://github.com/kbst/mongodb)
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni).
+* [Couchbase](https://blog.couchbase.com/introducing-couchbase-operator/)
 * [Kafka](https://github.com/krallistic/kafka-operator)
+* [KubeVirt](https://github.com/kubevirt)
+* [Operator SDK](https://github.com/operator-framework/operator-sdk)
+* [kooper](https://github.com/spotahome/kooper) - Simple Go library to create Kubernetes operators and controllers
 
 ## Custom Schedulers
 
@@ -556,7 +607,7 @@ Projects
 
 ## Networking
 
-* [WeaveWorks](http://www.weave.works/)
+* [Weave Net](http://www.weave.works/docs/net/latest/kubernetes/kube-addon/)
 * [Canal](https://github.com/tigera/canal) by [Tigera](https://github.com/tigera)
 * [OpenContrail](https://github.com/Juniper/contrail-kubernetes)
 * [Nuage](https://github.com/nuagenetworks/nuage-kubernetes)
@@ -574,13 +625,16 @@ Projects
 * [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 * [Multus-cni](https://github.com/Intel-Corp/multus-cni) - Multi-homed pod cni
+* [Network-Controller](https://github.com/linkernetworks/network-controller) - Open vSwitch, Multiple network interfaces that associate with Kubernetes pods
+* [AWS VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin using Elastic Network Interfaces
+* [NSX-T](https://www.vmware.com/products/nsx/cloud-native-apps.html) - CNI plugin supporting load balancing and distributed firewalls.
 
 ## Service mesh
 
 * [Envoy](http://lyft.github.io/envoy/)
 * [Amalgam8](http://github.com/amalgam8) - Acquired by [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
-* [WeaveWorks](http://www.weave.works/weave-for-kubernetes/)
+* [Weave Mesh](https://github.com/weaveworks/mesh)
 * [Conduit](http://conduit.io/)
 
 ## RPC
@@ -591,12 +645,15 @@ Projects
 
 ## Secret generation and management
 
+* [CyberArk Conjur Kubernetes Authenticator](https://developer.conjur.net/reference/integrations/kubernetesopenshift.html) - Secure your Kubernetes-deployed applications with CyberArk Conjur
 * [Vault auth plugin backend: Kubernetes](http://www.vaultproject.io/docs/auth/kubernetes.html)
 * [Vault controller](https://github.com/kelseyhightower/vault-controller)
 * [kube-lego](https://github.com/jetstack/kube-lego)
 * [k8sec](https://github.com/dtan4/k8sec)
 * [kubernetes-vault](https://github.com/Boostport/kubernetes-vault)
 * [kubesec](https://github.com/shyiko/kubesec) - Secure Secret management
+* [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets)
+* [Secure GitOps Using Weave Cloud Deploy And Bitnami's Sealed Secrets](https://engineering.bitnami.com/articles/secure-gitops.html)
 
 ## Web applications
 
@@ -613,6 +670,7 @@ Projects
 
 ## API/CLI adaptors
 
+* [click](https://github.com/databricks/click) - A CLI focused REPL for quickly interacting with Kubernetes objects.
 * [kube-prompt](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt.
 * [Kube-shell](https://github.com/cloudnativelabs/kube-shell) - Integrated shell for working with the Kubernetes CLI
 * [Kubebot](https://github.com/harbur/kubebot)
@@ -626,15 +684,16 @@ Projects
 * [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) - Aliases for Kubectl
 * [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
 * [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh.
+* [kube-tmux](https://github.com/jonmosco/kube-tmux) - Kubernetes tmux plugin to display the current context and namespace
 * [kubensx](https://github.com/shyiko/kubensx) - Simpler Cluster/User/Namespace switching for Kubernetes (featuring interactive mode and wildcard/fuzzy matching).
 * [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins) - A collection of kubectl plugins handling everything from easy context switches to exec'ing into a container as any user (root included). Slightly tailored towards GKE users.
 * [stern](https://github.com/wercker/stern) - Multi pod and container log tailing
+* [kubeplay](https://github.com/errordeveloper/kubeplay)
 
 ## Application deployment orchestration
 
 * [ElasticKube](https://elasticbox.com/kubernetes)
 * [AppController](https://github.com/Mirantis/k8s-AppController)
-* [Broadway](https://github.com/namely/broadway)
 * [Kb8or](https://github.com/UKHomeOffice/kb8or)
 * [IBM UrbanCode](https://developer.ibm.com/urbancode/plugin/kubernetes/)
 * [Nulecule](https://github.com/projectatomic/nulecule)
@@ -648,42 +707,56 @@ Projects
 
 * [Kompose](https://github.com/kubernetes/kompose)
 * [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
-* Spread - Acquired by [CoreOS](https://coreos.com/blog/coreos-welcomes-redspread.html)
 * [K8comp](https://github.com/cststack/k8comp)
 * [Ktmpl](https://github.com/InQuicker/ktmpl)
 * [Konfd](https://github.com/kelseyhightower/konfd)
 * [kenv](https://github.com/thisendout/kenv)
 * [kubediff](https://github.com/weaveworks/kubediff)
+* [thesus](https://github.com/heptiolabs/theseus) - A command-line utility and importable package for comparing sets of Kubernetes objects
 * [Habitat](http://www.habitat.sh/docs/best-practices/#kubernetes)
 * [Puppet](http://forge.puppet.com/garethr/kubernetes/readme)
-* [Ansible](http://docs.ansible.com/ansible/kubernetes_module.html)
+* [Ansible](http://docs.ansible.com/ansible/latest/modules/k8s_raw_module.html)
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
 * [Chef](http://supermarket.chef.io/cookbooks/kubernetes)
+* [kubegen](https://github.com/errordeveloper/kubegen)
+* [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization using partial specs
+* [kapitan](https://github.com/deepmind/kapitan) - Manage complex deployments using jsonnet and jinja2
 
 ## Security
 
-* [Trireme](http://github.com/aporeto-inc/trireme-kubernetes)
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
-* [Twistlock](http://www.twistlock.com/)
+* [Authenticator](https://github.com/heptio/authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster
+* [Dex](https://github.com/coreos/dex) - OpenID and OAuth for Kubernetes
+* [Guard](https://github.com/appscode/guard) - Authenticaton webhook server with support for Github, Gitlab, Google, Azure and LDAP (AD) as identity providers.
+* [kiam](https://github.com/uswitch/kiam) -  Allows cluster users to associate AWS IAM roles to Pods.
+* [kube2iam](https://github.com/jtblin/kube2iam) - Provides different AWS IAM roles for pods running on Kubernetes
+* [Kubesec.io](http://kubesec.io/)
 * [Sysdig Falco](http://www.sysdig.org/falco/)
 * [Sysdig Secure](http://www.sysdig.com/product/secure)
-* [Kubesec.io](http://kubesec.io/)
-
+* [Trireme](http://github.com/aporeto-inc/trireme-kubernetes)
+* [Twistlock](http://www.twistlock.com/)
 
 ## Load balancing
 
-* [Nginx Plus](http://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
-* [Traefik](http://traefik.io/)
-* [MetalLB](https://metallb.universe.tf/) - load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols.
-* [AppsCode Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager)
-* [NGINX Ingress Controller](https://github.com/kubernetes/ingress-nginx)
+* [Avi Networks - Software Load Balancer | Intelligent WAF | Elastic Service Mesh](https://avinetworks.com/)
+* [AWS ALB Ingress Controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller)
+* [Cloudflare Warp Ingress](https://github.com/cloudflare/cloudflare-ingress-controller)
+* [Contour](https://github.com/heptio/contour) - Kubernetes ingress controller for Lyft's Envoy proxy
 * [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr)
+* [Gimbal](https://github.com/heptio/gimbal) - Platform capable of routing traffic to multiple Kubernetes and OpenStack clusters
+* [Gloo - Envoy-based API gateway and ingress controller](https://github.com/solo-io/gloo)
 * [HAProxy Ingress](https://github.com/jcmoraisjr/haproxy-ingress)
+* [MetalLB](https://metallb.universe.tf/) - load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols.
+* [NGINX Ingress Controller](https://github.com/kubernetes/ingress-nginx)
+* [Nginx Plus](http://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
+* [Skipper](https://github.com/zalando/skipper) - HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
+* [Traefik](http://traefik.io/)
+* [Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager)
 
 ## Big Data
 
 * [Kube-Yarn](https://github.com/Comcast/kube-yarn)
-* [Spark](https://github.com/kubernetes/kubernetes/tree/master/examples/spark)
+* [Spark](https://github.com/kubernetes/examples/tree/master/staging/spark)
 
 ## Machine Learning
 
@@ -691,6 +764,9 @@ Projects
 * [mxnet-operator](https://github.com/deepinsight/mxnet-operator) - Tools for ML/MXNet on Kubernetes.
 * [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes.
 * [seldon-core](https://github.com/SeldonIO/seldon-core) - Open source framework for deploying machine learning models on Kubernetes
+* [FfDL](https://github.com/IBM/FfDL) - Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes
+* [Polyaxon](https://github.com/polyaxon/polyaxon) - An open source platform for reproducible machine learning and deep learning on kubernetes
+* [MLT](https://github.com/IntelAI/mlt) - Machine Learning Container Templates: easy to use container and kubernetes object templates.
 
 ## Service Discovery
 
@@ -703,12 +779,14 @@ Projects
 * [CoreOS](http://coreos.com)
 * [Kurma](https://github.com/apcera/kurma)
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
+* [LinuxKit](https://github.com/linuxkit/kubernetes)
 
 ## YAML/JSON Config
 
-* [Kube.libsonnet](https://github.com/heptio/kube.libsonnet) - Currently Unstable
+* [Kube.libsonnet](https://github.com/heptio/kube.libsonnet)
 * [kompose](https://github.com/kubernetes/kompose)
 * [kubeval](https://github.com/garethr/kubeval)
+* [kubegen](https://github.com/errordeveloper/kubegen)
 
 ## Tuning
 
@@ -717,6 +795,8 @@ Projects
 ## Backup and Disaster Recovery
 
 * [Ark](https://github.com/heptio/ark) - Utility for managing backup and restore of Kubernetes clusters.
+* [burry.sh](https://github.com/mhausenblas/burry.sh) - Cloud Native backup and recovery for etcd, zookeeper and consul
+* [kube-backup](https://github.com/pieterlange/kube-backup) - Sync kubernetes state to git.
 
 Raspberry Pi
 =======================================================================
@@ -745,6 +825,8 @@ us with information*
 * [The DevOps 2.3 Toolkit: Kubernetes](https://leanpub.com/the-devops-2-3-toolkit) by [Viktor Farcic](https://twitter.com/vfarcic)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) (OpenSource Book in Chinese) by [Jimmy Song](https://github.com/rootsongjc)
 * [DevOps with Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes) by Hideto Saito, Hui-Chuan Chloe Lee, Cheng-Yang Wu
+* [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) by Matthew Palmer
+* [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) by Jeff Nickoloff and Stephen Kuenzli
 
 Slide Presentations
 =======================================================================
@@ -760,7 +842,6 @@ Slide Presentations
 * [A brief study on Kubernetes and its components](http://www.slideshare.net/ramitsurana/a-brief-study-on-kubernetes-and-its-components) by [Ramit Surana](https://www.twitter.com/ramitsurana)
 * [Moving to Kubernetes - Tales from SoundCloud](http://www.slideshare.net/dagrobie/moving-to-kubernetes-tales-from-soundcloud) by [Tobias Schmidt](https://twitter.com/dagrobie)
 * [Kubernetes Scaling SIG (K8Scale)](http://www.slideshare.net/kubecon/kubernetes-scaling-sig-k8scale) by [Bob Wise](https://twitter.com/countspongebob)
-* [Network oriented Kubernetes intro](http://www.slideshare.net/salv_orlando/network-oriented-kubernetes-intro) by [Salv Orlando](https://twitter.com/taturiello)
 * [Zero downtime-java-deployments-with-docker-and-kubernetes](http://www.slideshare.net/ArjanSchaaf/zero-downtimejavadeploymentswithdockerandkubernetes) by [Arjan Schaaf](https://www.linkedin.com/in/arjanschaaf)
 * [Kubernetes and CoreOS @ Athens Docker meetup](http://www.slideshare.net/mistio/kubernetes-and-coreos-athens-docker-meetup) by [Mist.io](https://twitter.com/mist_io)
 * [Achieving CI/CD with Kubernetes](http://www.slideshare.net/ramitsurana/achieving-cicd-with-kubernetes) by [Ramit Surana](https://twitter.com/ramitsurana)
@@ -816,6 +897,7 @@ Interesting Twitter Accounts
 
 Amazing People
 =======================================================================
+
 * [Ahmet Alp Balkan](https://twitter.com/ahmetb),  Software Engineer at Google & Google Kubernetes Engine
 * [Aparna Sinha](https://twitter.com/apbhatnagar), Group Product Manager - Kubernetes at Google
 * [Arun Gupta](https://twitter.com/arungupta), Principal Open Source Technologist at Amazon Web Services
@@ -841,19 +923,23 @@ Meetup Groups
 
 *An awesome way to connect with kubernauts around the globe*
 
+* [Amsterdam](https://www.meetup.com/Amsterdam-Kubernetes-Meetup/)
+* [Amsterdam #2](https://www.meetup.com/Kubernetes-Addicts-Support-Group)
+* [Atlanta](https://www.meetup.com/Kubernetes-Atlanta-Meetup/)
+* [Bangalore](https://www.meetup.com/Bangalore-Kubernetes-Meetup)
 * [Berlin](https://twitter.com/kubernetesber)
+* [Boston](https://www.meetup.com/Boston-Kubernetes-Meetup)
+* [Hamburg](https://www.meetup.com/Hamburg-Kubernetes-Meetup/)
+* [Hong Kong](https://www.meetup.com/Kubernetes-Hong-Kong/)
+* [London](https://www.meetup.com/Kubernetes-London/)
+* [Munich](https://www.meetup.com/Munchen-Kubernetes-Meetup/)
 * [New York](https://twitter.com/kubernetesnyc)
 * [Paris](https://twitter.com/kubernetesparis)
-* [San Fransico](https://twitter.com/kubernetesSF)
-* [Bangalore](https://www.meetup.com/Bangalore-Kubernetes-Meetup)
+* [Pittsburgh](https://www.meetup.com/Pittsburgh-Kubernetes-Meetup)
 * [Pune](https://www.meetup.com/Kubernetes-Pune/)
-* [London](https://www.meetup.com/Kubernetes-London/)
-* [Hong Kong](https://www.meetup.com/Kubernetes-Hong-Kong/)
-* [Worldwide](https://www.meetup.com/kubernauts/)
-* [Amsterdam](https://www.meetup.com/de-DE/Amsterdam-Kubernetes-Meetup/)
-* [Munich](https://www.meetup.com/de-DE/Munchen-Kubernetes-Meetup/)
-* [Hamburg](https://www.meetup.com/de-DE/Hamburg-Kubernetes-Meetup/)
+* [San Francisco](https://twitter.com/kubernetesSF)
 * [Seattle](https://www.meetup.com/Seattle-Kubernetes-Meetup/)
+* [Worldwide](https://www.meetup.com/kubernauts/)
 
 
 Connecting with Kubernetes
@@ -867,9 +953,9 @@ Connecting with Kubernetes
 * [Slack](http://slack.k8s.io/)
 * [Mailing List (user discussion and Q&A)](https://groups.google.com/forum/#!forum/kubernetes-users)
 * [Mailing List (developer/contributor discussion)](https://groups.google.com/forum/#!forum/kubernetes-dev)
-* [Newsletter](http://kube.news/)
 * [Reddit](https://www.reddit.com/r/kubernetes/)
 * [Community](https://github.com/kubernetes/community)
+* [Community Q&A – The Office Hours](https://github.com/kubernetes/community/blob/master/events/office-hours.md)
 
 Conferences
 =======================================================================

@@ -492,6 +492,7 @@ Projects
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
 * [Searchlight](https://github.com/appscode/searchlight)
 * [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) - A Kubernetes Controller to watch your ingresses and create liveness alerts for your endpoints
+* [Kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 
 ## Testing
 

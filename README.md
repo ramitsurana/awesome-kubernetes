@@ -689,7 +689,7 @@ Projects
 * [kubensx](https://github.com/shyiko/kubensx) - Simpler Cluster/User/Namespace switching for Kubernetes (featuring interactive mode and wildcard/fuzzy matching).
 * [stern](https://github.com/wercker/stern) - Multi pod and container log tailing
 * [kubeplay](https://github.com/errordeveloper/kubeplay)
-* [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins) - A collection of kubectl plugins handling everything from easy context switches to exec'ing into a container as any user (root included). Slightly tailored towards GKE users.
+* [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins) - A collection of kubectl plugins handling everything from easy context switches to connecting to a container as any user (root included) via exec. Slightly tailored towards GKE users.
 
 ## Application deployment orchestration
 

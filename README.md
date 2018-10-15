@@ -180,6 +180,7 @@ Installers
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) - Run Kubernetes and Docker locally on your Windows PC (Edge Channel)
 * [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) - Run Kubernetes and Docker locally on your MAC (Edge Channel)
 * [MetalK8s](https://github.com/scality/metalk8s) - CentOS - On-Prem - Cloud Agnostique - [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
+* [k8s-tew](https://github.com/darxkies/k8s-tew) - k8s-tew is a CLI tool to install a Kubernetes Cluster (local, single-node, multi-node or HA-cluster) on Bare Metal
 
 Main Resources
 =======================================================================

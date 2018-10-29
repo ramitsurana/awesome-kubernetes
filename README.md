@@ -352,6 +352,7 @@ Managed Kubernetes
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) - Alibaba Cloud Container Service for Kubernetes
    - [IKS](https://www.ibm.com/cloud/container-service) - IBM Cloud Kubernetes Service
    - [Docker EE](https://www.docker.com/enterprise-edition) - Docker Enterprise Edition 2.0
+   - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) - DigitalOcean Kubernetes
 
   ### [PaaS](#paas)
 

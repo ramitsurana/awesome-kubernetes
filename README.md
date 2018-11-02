@@ -167,6 +167,7 @@ Installers
 * [Juju](https://jujucharms.com/canonical-kubernetes) - Ubuntu - Cloud Agnostique
 * [Terraform](https://github.com/kz8s/tack) - CoreOS - AWS
 * [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique
+* [sealos](https://github.com/fanus/sealos) - Simple kubernetes HA installer
 * [Archon](https://github.com/kubeup/archon) - OS Agnostique - Cloud Agnostique
 * [KubeNow](https://github.com/kubenow/KubeNow) - Ubuntu - Cloud Agnostique
 * [Kubicorn](https://github.com/kubicorn/kubicorn) - OS Agnostique - Cloud Agnostique

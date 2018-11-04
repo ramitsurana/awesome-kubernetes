@@ -367,7 +367,7 @@ Managed Kubernetes
   - [Alauda Container Platform](http://www.alauda.cn/?lang=EN)
   - [Hasura](http://www.hasura.io)
   - [teresa](https://github.com/luizalabs/teresa) - Simple PAAS that runs on top of Kubernetes.
-  - [Containerum](https://containerum.io)
+  - [Containerum](https://containerum.com)
 
 Interactive Learning Environments
 =======================================================================

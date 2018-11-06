@@ -460,6 +460,7 @@ Projects
 * [Kubernetes Cluster Federation (previously Ubernetes)](https://kubernetes.io/docs/concepts/cluster-administration/federation/)
 * [kmachine](https://github.com/skippbox/kmachine)
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
+* [Kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 * [KubeSpray](https://github.com/kubespray)
 * [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
 * [Kubeform](http://capgemini.github.io/kubeform/)

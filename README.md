@@ -358,6 +358,7 @@ Managed Kubernetes
    - [IKS](https://www.ibm.com/cloud/container-service) - IBM Cloud Kubernetes Service
    - [Docker EE](https://www.docker.com/enterprise-edition) - Docker Enterprise Edition 2.0
    - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) - DigitalOcean Kubernetes
+   - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) - Oracle Kubernetes Engine
 
   ### [PaaS](#paas)
 

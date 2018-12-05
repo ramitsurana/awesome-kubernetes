@@ -732,6 +732,7 @@ Projects
 * [kubegen](https://github.com/errordeveloper/kubegen)
 * [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization using partial specs
 * [kapitan](https://github.com/deepmind/kapitan) - Manage complex deployments using jsonnet and jinja2
+* [kubecfg](https://github.com/ksonnet/kubecfg) - Combines jsonnet and kubectl to let you declare systems in an easy to override way
 
 ## Security
 

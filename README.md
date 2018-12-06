@@ -797,7 +797,7 @@ Projects
 
 ## YAML/JSON Config
 
-* [Kube.libsonnet](https://github.com/heptio/kube.libsonnet)
+* [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib)
 * [kompose](https://github.com/kubernetes/kompose)
 * [kubeval](https://github.com/garethr/kubeval)
 * [kubegen](https://github.com/errordeveloper/kubegen)

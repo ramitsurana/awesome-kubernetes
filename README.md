@@ -843,6 +843,7 @@ us with information*
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) by Matthew Palmer
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) by Jeff Nickoloff and Stephen Kuenzli
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) by [Onur Yilmaz](https://github.com/onuryilmaz)
+* [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) by [Nebrass Lamouchi](https://fr.linkedin.com/in/nebrass)
 
 Slide Presentations
 =======================================================================

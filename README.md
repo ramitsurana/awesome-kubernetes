@@ -473,6 +473,7 @@ Projects
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
 * [Ambassador](http://www.getambassador.io) - API Gateway built on the Envoy Proxy
+* [Bitnami Kubernetes Production Runtime](https://kubeprod.io) - Installer of a curated collection of popular services to enable logging, monitoring, certificate management, automatic discovery of Kubernetes resources via public DNS servers and other common infrastructure needs.
 
 ## Package Managers
 

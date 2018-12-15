@@ -542,6 +542,7 @@ Projects
 * [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
 * [Codefresh](https://codefresh.io/) - Kubernetes CI/CD platform (with private Docker and Helm Chart repositories)
 * [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) - Framework to easily deploy Kubernetes applications via GitLab.
+* [Buildkite](https://www.buildkite.com/) - Buildkite is a platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure.
 
 ## Serverless Implementations
 

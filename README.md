@@ -434,6 +434,36 @@ Persistent Volume Providers
 * [OpenEBS](http://github.com/openebs/openebs/)
 * [StorageOS](http://storageos.com)
 
+Container Storage Interface Plugins
+=======================================================================
+
+*List of some Container Storage Interface plugins for Kubernetes. Check out [Kubernetes-CSI](https://kubernetes-csi.github.io/docs/) for more info*
+
+* [AWS EBS](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
+* [Ceph](https://github.com/ceph/ceph-csi)
+* [Cloudscale](https://github.com/cloudscale-ch/csi-cloudscale)
+* [DigitalOcean](https://github.com/digitalocean/csi-digitalocean)
+* [DriveScale](https://github.com/DriveScale/k8s-plugins)
+* [Ember](https://ember-csi.io)
+* [Gluster](https://github.com/gluster/gluster-csi-driver)
+* [Google Compute Engine Persistent Disk](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver)
+* [Hostpath](https://github.com/kubernetes-csi/drivers/tree/master/pkg/hostpath)
+* [Inmemory](https://github.com/kubernetes-csi/csi-test/tree/master/mock/service)
+* [Intel PMEM-CSI](https://github.com/intel/pmem-CSI)
+* [MooseFs](https://github.com/moosefs/moosefs-csi)
+* [Mesos](http://mesos.apache.org/documentation/latest/csi)
+* [NetApp Trident](https://github.com/NetApp/trident)
+* [Nexenta](https://nexentaedge.io/docs/kubernetes-csi.html)
+* [NFS](https://github.com/kubernetes-csi/drivers/tree/master/pkg/nfs)
+* [Nutanix](https://portal.nutanix.com/#/page/docs/details?targetId=CSI-Volume-Driver:CSI-Volume-Driver)
+* [OpenSDS](https://github.com/opensds/nbp/tree/master/csi)
+* [OpenStack Cinder](https://github.com/kubernetes/cloud-provider-openstack/tree/master/pkg/csi/cinder)
+* [Portworx](https://github.com/libopenstorage/openstorage/tree/master/csi)
+* [Quobyte](https://github.com/quobyte/quobyte-csi)
+* [ScaleIO](https://github.com/thecodeteam/csi-scaleio)
+* [Virtual Filesystem](https://github.com/rexray/csi-vfs)
+* [VMware vSphere](https://github.com/thecodeteam/csi-vsphere)
+
 Developer Libraries/ Scripts
 =======================================================================
 

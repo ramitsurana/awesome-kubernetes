@@ -433,6 +433,11 @@ Persistent Volume Providers
 * [Stork](https://github.com/libopenstorage/stork)
 * [OpenEBS](http://github.com/openebs/openebs/)
 * [StorageOS](http://storageos.com)
+* [NetApp Trident](https://github.com/NetApp/trident)
+* [HPE](https://github.com/hpe-storage/dory)
+* [Hitachi](https://knowledge.hitachivantara.com/Documents/Adapters_and_Drivers/Storage_Adapters_and_Drivers/Containers/1.0/Storage_Plug-in_for_Containers_Quick_Reference_Guide_v1.0.0)
+* [Pure Storage](https://hub.docker.com/r/purestorage/k8s/)
+* [Microsoft](https://github.com/Microsoft/K8s-Storage-Plugins)
 
 Container Storage Interface Plugins
 =======================================================================

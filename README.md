@@ -329,7 +329,9 @@ Managed Kubernetes
 
   ### [Developer Platform](#developer-platform)
 
-  - [Fabric8](http://fabric8.io)
+  - [Fabric8](http://fabric8.io) - integrated development platform with CD features
+  - [Eclipse Che] (https://github.com/eclipse/che) - cloud development workspaces with SSH and multi-user support
+  - [OpenShift.io](https://openshift.io) - hosted Fabric8 with Che and Jenkins CI integration
   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [Mantl](https://github.com/mantl/mantl)
   - [goPaddle](http://www.gopaddle.io)

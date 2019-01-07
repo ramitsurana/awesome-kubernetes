@@ -758,7 +758,7 @@ Projects
 * [Kompose](https://github.com/kubernetes/kompose)
 * [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
 * [K8comp](https://github.com/cststack/k8comp)
-* [Ktmpl](https://github.com/InQuicker/ktmpl)
+* [Ktmpl](https://github.com/jimmycuadra/ktmpl)
 * [Konfd](https://github.com/kelseyhightower/konfd)
 * [kenv](https://github.com/thisendout/kenv)
 * [kubediff](https://github.com/weaveworks/kubediff)

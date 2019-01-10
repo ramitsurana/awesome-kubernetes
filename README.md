@@ -568,6 +568,7 @@ Projects
    * [On-demand Jenkins slaves with Kubernetes and the Google Container Engine](http://www.cloudbees.com/blog/demand-jenkins-slaves-kubernetes-and-google-container-engine)
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
+   * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/VirtusLab/jenkins-operator)
 * [Jenkins X](http://jenkins-x.io/) - CI/CD for Kubernetes using Jenkins
 * [kb8or](https://github.com/UKHomeOffice/kb8or)
 * [Wercker](http://blog.wercker.com/topic/kubernetes)

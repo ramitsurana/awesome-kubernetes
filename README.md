@@ -505,7 +505,7 @@ Projects
 * [Kubeform](http://capgemini.github.io/kubeform/)
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
 * [Archon](https://github.com/kubeup/archon)
-* [Client Libraries](https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md)
+* [Client Libraries](https://github.com/kubernetes/website/blob/master/content/en/docs/reference/using-api/client-libraries.md)
 * [Kubic-Project](https://github.com/kubic-project)
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition

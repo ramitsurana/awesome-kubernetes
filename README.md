@@ -705,6 +705,7 @@ Projects
 * [kubesec](https://github.com/shyiko/kubesec) - Secure Secret management
 * [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets)
 * [Secure GitOps Using Weave Cloud Deploy And Bitnami's Sealed Secrets](https://engineering.bitnami.com/articles/secure-gitops.html)
+* [Kamus](https://github.com/Soluto/kamus) - A GitOps, zero-trust solution for secrets encryption/decryption solution.
 
 ## Web applications
 

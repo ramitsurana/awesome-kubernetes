@@ -145,7 +145,7 @@ Starting Point
 * [The ‘kubectl run’ command](http://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
 * [Docker Kubernetes Lab Handbook](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
 * [Curated Resources for Kubernetes](https://hackr.io/tutorials/learn-kubernetes)
-* [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) by [Google Cloud Plaatform](https://cloud.google.com/)
+* [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) by [Google Cloud Platform](https://cloud.google.com/)
 * [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16) by [Dan Sanche](https://medium.com/@sanche)
 * [An Introduction to Kubernetes](http://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes) by [Justin Ellingwood](https://twitter.com/jmellingwood)
 * [Kubernetes and everything else - Introduction to Kubernetes and it's context](https://rinormaloku.com/introduction-application-architecture/) by [Rinor Maloku](https://twitter.com/rinormaloku)
@@ -167,13 +167,14 @@ Installers
 * [Juju](https://jujucharms.com/canonical-kubernetes) - Ubuntu - Cloud Agnostique
 * [Terraform](https://github.com/kz8s/tack) - CoreOS - AWS
 * [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique
+* [sealos](https://github.com/fanux/sealos) - Simple kubernetes HA installer
 * [Archon](https://github.com/kubeup/archon) - OS Agnostique - Cloud Agnostique
 * [KubeNow](https://github.com/kubenow/KubeNow) - Ubuntu - Cloud Agnostique
 * [Kubicorn](https://github.com/kubicorn/kubicorn) - OS Agnostique - Cloud Agnostique
 * [Simplekube](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostique
 * [Conjure-up](https://github.com/conjure-up/conjure-up) - Ubuntu - Cloud Agnostique
 * [Kube-ansible](https://github.com/kairen/kube-ansible) - OS Agnostique - Cloud Agnostique
-* [Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - `systemD` OS - Cloud Agnostique
+* [Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - `systemd` OS - Cloud Agnostique
 * [matchbox](https://github.com/coreos/matchbox) - CoreOS - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
 * [RKE](https://github.com/rancher/rke) - OS Agnostique - Cloud Agnostique
 * [Typhoon](https://typhoon.psdn.io/) - Container Linux - Cloud Agnostique
@@ -195,6 +196,7 @@ Release Notes
 
 *Official release notes from the Kubernetes team on Stable Kubernetes Releases*
 
+* [Kubernetes-1.13](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.13.md)
 * [Kubernetes-1.12](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.12.md)
 * [Kubernetes-1.11](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.11.md)
 * [Kubernetes-1.10](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.10.md)
@@ -328,7 +330,9 @@ Managed Kubernetes
 
   ### [Developer Platform](#developer-platform)
 
-  - [Fabric8](http://fabric8.io)
+  - [Fabric8](http://fabric8.io) - integrated development platform with CD features
+  - [Eclipse Che](https://github.com/eclipse/che) - cloud development workspaces with SSH and multi-user support
+  - [OpenShift.io](https://openshift.io) - hosted Fabric8 with Che and Jenkins CI integration
   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [Mantl](https://github.com/mantl/mantl)
   - [goPaddle](http://www.gopaddle.io)
@@ -432,6 +436,41 @@ Persistent Volume Providers
 * [Stork](https://github.com/libopenstorage/stork)
 * [OpenEBS](http://github.com/openebs/openebs/)
 * [StorageOS](http://storageos.com)
+* [NetApp Trident](https://github.com/NetApp/trident)
+* [HPE](https://github.com/hpe-storage/dory)
+* [Hitachi](https://knowledge.hitachivantara.com/Documents/Adapters_and_Drivers/Storage_Adapters_and_Drivers/Containers/1.0/Storage_Plug-in_for_Containers_Quick_Reference_Guide_v1.0.0)
+* [Pure Storage](https://hub.docker.com/r/purestorage/k8s/)
+* [Microsoft](https://github.com/Microsoft/K8s-Storage-Plugins)
+
+Container Storage Interface Plugins
+=======================================================================
+
+*List of some Container Storage Interface plugins for Kubernetes. Check out [Kubernetes-CSI](https://kubernetes-csi.github.io/docs/) for more info*
+
+* [AWS EBS](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
+* [Ceph](https://github.com/ceph/ceph-csi)
+* [Cloudscale](https://github.com/cloudscale-ch/csi-cloudscale)
+* [DigitalOcean](https://github.com/digitalocean/csi-digitalocean)
+* [DriveScale](https://github.com/DriveScale/k8s-plugins)
+* [Ember](https://ember-csi.io)
+* [Gluster](https://github.com/gluster/gluster-csi-driver)
+* [Google Compute Engine Persistent Disk](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver)
+* [Hostpath](https://github.com/kubernetes-csi/drivers/tree/master/pkg/hostpath)
+* [Inmemory](https://github.com/kubernetes-csi/csi-test/tree/master/mock/service)
+* [Intel PMEM-CSI](https://github.com/intel/pmem-CSI)
+* [MooseFs](https://github.com/moosefs/moosefs-csi)
+* [Mesos](http://mesos.apache.org/documentation/latest/csi)
+* [NetApp Trident](https://github.com/NetApp/trident)
+* [Nexenta](https://nexentaedge.io/docs/kubernetes-csi.html)
+* [NFS](https://github.com/kubernetes-csi/drivers/tree/master/pkg/nfs)
+* [Nutanix](https://portal.nutanix.com/#/page/docs/details?targetId=CSI-Volume-Driver:CSI-Volume-Driver)
+* [OpenSDS](https://github.com/opensds/nbp/tree/master/csi)
+* [OpenStack Cinder](https://github.com/kubernetes/cloud-provider-openstack/tree/master/pkg/csi/cinder)
+* [Portworx](https://github.com/libopenstorage/openstorage/tree/master/csi)
+* [Quobyte](https://github.com/quobyte/quobyte-csi)
+* [ScaleIO](https://github.com/thecodeteam/csi-scaleio)
+* [Virtual Filesystem](https://github.com/rexray/csi-vfs)
+* [VMware vSphere](https://github.com/thecodeteam/csi-vsphere)
 
 Developer Libraries/ Scripts
 =======================================================================
@@ -460,6 +499,7 @@ Projects
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
 * [Kubernetes Cluster Federation (previously Ubernetes)](https://kubernetes.io/docs/concepts/cluster-administration/federation/)
 * [kmachine](https://github.com/skippbox/kmachine)
+* [kube-fledged](https://github.com/senthilrch/kube-fledged) - A K8S add-on for creating and managing a cache of container images directly on cluster worker nodes
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [Kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 * [KubeSpray](https://github.com/kubespray)
@@ -467,11 +507,12 @@ Projects
 * [Kubeform](http://capgemini.github.io/kubeform/)
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
 * [Archon](https://github.com/kubeup/archon)
-* [Client Libraries](https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md)
+* [Client Libraries](https://github.com/kubernetes/website/blob/master/content/en/docs/reference/using-api/client-libraries.md)
 * [Kubic-Project](https://github.com/kubic-project)
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
 * [Ambassador](http://www.getambassador.io) - API Gateway built on the Envoy Proxy
+* [Bitnami Kubernetes Production Runtime](https://kubeprod.io) - Installer of a curated collection of popular services to enable logging, monitoring, certificate management, automatic discovery of Kubernetes resources via public DNS servers and other common infrastructure needs.
 
 ## Package Managers
 
@@ -501,6 +542,7 @@ Projects
 * [Searchlight](https://github.com/appscode/searchlight)
 * [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) - A Kubernetes Controller to watch your ingresses and create liveness alerts for your endpoints
 * [Kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
+* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
 
 ## Testing
 
@@ -637,6 +679,7 @@ Projects
 * [Network-Controller](https://github.com/linkernetworks/network-controller) - Open vSwitch, Multiple network interfaces that associate with Kubernetes pods
 * [AWS VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin using Elastic Network Interfaces
 * [NSX-T](https://www.vmware.com/products/nsx/cloud-native-apps.html) - CNI plugin supporting load balancing and distributed firewalls.
+* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
 
 ## Service mesh
 
@@ -699,6 +742,7 @@ Projects
 * [stern](https://github.com/wercker/stern) - Multi pod and container log tailing
 * [kubeplay](https://github.com/errordeveloper/kubeplay)
 * [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins) - A collection of kubectl plugins handling everything from easy context switches to connecting to a container as any user (root included) via exec. Slightly tailored towards GKE users.
+* [kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using this kubectl plugin
 
 ## Application deployment orchestration
 
@@ -796,7 +840,8 @@ Projects
 
 ## YAML/JSON Config
 
-* [Kube.libsonnet](https://github.com/heptio/kube.libsonnet)
+* [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib)
+* [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet) - Generic library of Kubernetes objects for Jsonnet/Kubecfg with object to array mapping for painless overrides.
 * [kompose](https://github.com/kubernetes/kompose)
 * [kubeval](https://github.com/garethr/kubeval)
 * [kubegen](https://github.com/errordeveloper/kubegen)
@@ -842,6 +887,7 @@ us with information*
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) by Matthew Palmer
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) by Jeff Nickoloff and Stephen Kuenzli
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) by [Onur Yilmaz](https://github.com/onuryilmaz)
+* [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) by [Nebrass Lamouchi](https://fr.linkedin.com/in/nebrass)
 
 Slide Presentations
 =======================================================================

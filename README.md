@@ -785,6 +785,7 @@ Projects
 
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
 * [Authenticator](https://github.com/heptio/authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster
+* [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) - Widely adopted open source implementation unifying Kubernetes Network Policy and Istio Application Policy.
 * [Dex](https://github.com/coreos/dex) - OpenID and OAuth for Kubernetes
 * [Guard](https://github.com/appscode/guard) - Authenticaton webhook server with support for Github, Gitlab, Google, Azure and LDAP (AD) as identity providers.
 * [kiam](https://github.com/uswitch/kiam) -  Allows cluster users to associate AWS IAM roles to Pods.
@@ -794,6 +795,8 @@ Projects
 * [Kubesec.io](http://kubesec.io/)
 * [Sysdig Falco](http://www.sysdig.org/falco/)
 * [Sysdig Secure](http://www.sysdig.com/product/secure)
+* [Tigera Secure Cloud Edition](https://www.tigera.io/tigera-secure-ce/)
+* [Tigera Secure Enterprise Edition](https://www.tigera.io/tigera-secure-ee/)
 * [Trireme](http://github.com/aporeto-inc/trireme-kubernetes)
 * [Twistlock](http://www.twistlock.com/)
 

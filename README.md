@@ -785,6 +785,7 @@ Projects
 
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
 * [Authenticator](https://github.com/heptio/authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster
+* [Calico Network Policy (from Tigera)](https://www.tigera.io/tigera-calico/) - Widely adopted open source implementation unifying Kubernetes Network Policy and Istio Application Policy, and integrated as the default Network Policy solution in AWS [EKS](https://docs.aws.amazon.com/eks/latest/userguide/calico.html), Azure [AKS](https://www.tigera.io/blog/tigera-calico-coming-to-azure-kubernetes-service-aks/), Google [GKE](https://cloud.google.com/kubernetes-engine/docs/how-to/network-policy), IBM Cloud [Kubernetes Service](https://console.bluemix.net/docs/containers/cs_network_policy.html), [Windows Containers](https://cloudblogs.microsoft.com/windowsserver/2017/12/07/securing-modernized-apps-and-simplified-networking-on-windows-with-calico/) and major Kubernetes distributions.
 * [Dex](https://github.com/coreos/dex) - OpenID and OAuth for Kubernetes
 * [Guard](https://github.com/appscode/guard) - Authenticaton webhook server with support for Github, Gitlab, Google, Azure and LDAP (AD) as identity providers.
 * [kiam](https://github.com/uswitch/kiam) -  Allows cluster users to associate AWS IAM roles to Pods.
@@ -794,6 +795,8 @@ Projects
 * [Kubesec.io](http://kubesec.io/)
 * [Sysdig Falco](http://www.sysdig.org/falco/)
 * [Sysdig Secure](http://www.sysdig.com/product/secure)
+* [Tigera Secure Cloud Edition](https://www.tigera.io/tigera-secure-ce/) - Security and Compliance for Kubernetes on AWS, including Security Group integration, visibility and Compliance leveraging native Kubernetes constructs such as Network Policy.
+* [Tigera Secure Enterprise Edition](https://www.tigera.io/tigera-secure-ee/) - Zero Trust Network Security for Kubernetes and Istio, with detailed visibility, flow log visualization, Compliance reporting and defence in depth for hybrid and multi-cloud deployments.
 * [Trireme](http://github.com/aporeto-inc/trireme-kubernetes)
 * [Twistlock](http://www.twistlock.com/)
 

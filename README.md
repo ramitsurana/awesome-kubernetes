@@ -51,7 +51,7 @@ Kubernetes celebrates its birthday every year on 21st July. Kubernetes 1.0 was r
 ## Roadmap
 
 The awesome-kubernetes will now soon be available in the form of different releases and package bundles, It means that you can
-download the awesome kubernetes release up to a certain period of time, The release for awesome kubernetes 2015 bundle is released.Checkout the releases column for more info.Stay tuned for more updates.
+download the awesome kubernetes release up to a certain period of time, The release for awesome kubernetes 2015 bundle is released.Checkout the releases column for more info.
 
 -----------------------------------------------------------------------
 
@@ -514,7 +514,7 @@ Projects
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
 * [Ambassador](http://www.getambassador.io) - API Gateway built on the Envoy Proxy
-* [Bitnami Kubernetes Production Runtime](https://kubeprod.io) - Installer of a curated collection of popular services to enable logging, monitoring, certificate management, automatic discovery of Kubernetes resources via public DNS servers and other common infrastructure needs.
+* [Bitnami Kubernetes Production Runtime](https://kubeprod.io)
 
 ## Package Managers
 
@@ -608,8 +608,8 @@ Projects
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
 * [K8s Operator Workshop](https://github.com/lukebond/cc-au-k8s-operators-workshop)
 * [Cert Operator](https://github.com/giantswarm/cert-operator)
-* [Cert manager](https://github.com/kelseyhightower/kube-cert-manager) by @kelseyhightower
-* [cert-manager](https://github.com/jetstack/cert-manager) by @jetstack
+* [Cert manager](https://github.com/kelseyhightower/kube-cert-manager)
+* [cert-manager](https://github.com/jetstack/cert-manager)
 * [Operator Kit](https://github.com/rook/operator-kit)
 * [Container Linux Update Operator](https://github.com/coreos/container-linux-update-operator)
 * [DB Operator](https://github.com/k8sdb/operator)

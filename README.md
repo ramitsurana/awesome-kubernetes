@@ -182,6 +182,7 @@ Installers
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) - Run Kubernetes and Docker locally on your Windows PC (Edge Channel)
 * [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) - Run Kubernetes and Docker locally on your MAC (Edge Channel)
 * [MetalK8s](https://github.com/scality/metalk8s) - CentOS - On-Prem - Cloud Agnostique - [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
+* [Linode](https://developers.linode.com/kubernetes/) - CoreOS - Linode
 
 Main Resources
 =======================================================================
@@ -426,6 +427,7 @@ Persistent Volume Providers
 
 * [GCE](https://cloud.google.com/compute/)
 * [AWS](http://aws.amazon.com)
+* [Linode](https://www.linode.com/blockstorage)
 * [Rook](http://rook.io/)
 * [Glusterfs](http://www.gluster.org/)
 * [OpenStack Cinder](http://wiki.openstack.org/cinder)
@@ -449,6 +451,7 @@ Container Storage Interface Plugins
 *List of some Container Storage Interface plugins for Kubernetes. Check out [Kubernetes-CSI](https://kubernetes-csi.github.io/docs/) for more info*
 
 * [AWS EBS](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
+* [Linode Block Storage](https://github.com/linode/linode-blockstorage-csi-driver)
 * [Ceph](https://github.com/ceph/ceph-csi)
 * [Cloudscale](https://github.com/cloudscale-ch/csi-cloudscale)
 * [DigitalOcean](https://github.com/digitalocean/csi-digitalocean)
@@ -802,6 +805,7 @@ Projects
 * [Avi Networks - Software Load Balancer | Intelligent WAF | Elastic Service Mesh](https://avinetworks.com/)
 * [AWS ALB Ingress Controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller)
 * [Cloudflare Warp Ingress](https://github.com/cloudflare/cloudflare-ingress-controller)
+* [Linode NodeBalancer Ingress](https://github.com/linode/linode-cloud-controller-manager)
 * [Contour](https://github.com/heptio/contour) - Kubernetes ingress controller for Lyft's Envoy proxy
 * [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr)
 * [Gimbal](https://github.com/heptio/gimbal) - Platform capable of routing traffic to multiple Kubernetes and OpenStack clusters

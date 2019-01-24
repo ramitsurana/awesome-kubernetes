@@ -587,7 +587,6 @@ Projects
 * [Codefresh](https://codefresh.io/) - Kubernetes CI/CD platform (with private Docker and Helm Chart repositories)
 * [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) - Framework to easily deploy Kubernetes applications via GitLab.
 * [Argo CD](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. 
-* [Argo CI](https://github.com/argoproj/argo-ci) - Continuous integration and delivery for Kubernetes powered by Argo workflows.
 
 ## Serverless Implementations
 

@@ -270,7 +270,7 @@ Useful Articles
 - [GitOps: High-Velocity CI/CD for Kubernetes](http://dzone.com/articles/gitops-high-velocity-cicd-for-kubernetes)
 - [Achieving CI/CD with Kubernetes](http://ramitsurana.github.io/myblog/achieving-ci-cd-with-kubernetes) by [Ramit Surana](https://twitter.com/ramitsurana)
 - [Jenkins declarative pipelines with Kubernetes](http://radu-matei.com/blog/kubernetes-jenkins-azure/)
-
+- [Automating CI/CD on Kubernetes with Jenkins X](https://jenkins-x.io/demos/devoxx-uk-2018/) by [James Strachan](https://twitter.com/jstrachan) using [Jenkins X](https://jenkins-x.io/)
 
 ### [Deep Learning](#deep-learning)
 

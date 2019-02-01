@@ -712,6 +712,8 @@ Projects
 * [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets)
 * [Secure GitOps Using Weave Cloud Deploy And Bitnami's Sealed Secrets](https://engineering.bitnami.com/articles/secure-gitops.html)
 * [Kamus](https://github.com/Soluto/kamus) - A GitOps, zero-trust solution for secrets encryption/decryption solution.
+* [aws-ssm](https://github.com/cmattoon/aws-ssm) - Populates Kubernetes Secrets with values from AWS SSM/Parameter Store
+
 
 ## Web applications
 

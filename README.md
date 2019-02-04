@@ -174,7 +174,6 @@ Installers
 * [Kubespray](https://github.com/kubernetes-incubator/kubespray) - OS Agnostique - Cloud Agnostique
 * [Bootkube](https://github.com/kubernetes-incubator/bootkube) - CoreOS - Cloud Agnostique
 * [Kube-aws](https://github.com/coreos/kube-aws) - CoreOS - AWS
-* [Kismatic](https://github.com/apprenda/kismatic) - CentOS - Cloud Agnostique
 * [Juju](https://jujucharms.com/canonical-kubernetes) - Ubuntu - Cloud Agnostique
 * [Terraform](https://github.com/kz8s/tack) - CoreOS - AWS
 * [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique

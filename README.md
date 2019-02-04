@@ -711,6 +711,7 @@ Projects
 * [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)
+* [Consul](https://www.consul.io/docs/platform/k8s/index.html)
 
 ## RPC
 

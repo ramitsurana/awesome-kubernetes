@@ -348,7 +348,6 @@ Managed Kubernetes
 
   - [OpenShift - Container Platform](http://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
-  - [Kubermatic](http://www.loodse.com/)
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
   - [IBM Cloud Private](https://www.ibm.com/cloud/private)
 

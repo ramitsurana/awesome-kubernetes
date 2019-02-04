@@ -369,7 +369,7 @@ Managed Kubernetes
    - [GKE](https://cloud.google.com/container-engine/) - Google Kubernetes Engine
    - [AWS EKS](https://aws.amazon.com/eks/) - Amazon Elastic Container Service
    - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) - Azure Kubernetes Service
-   - [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
+   - [VMware Cloud PKS](https://cloud.vmware.com/vmware-cloud-pks)
    - [Rackspace](https://www.rackspace.com/en-in) - Rackspace
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) - Alibaba Cloud Container Service for Kubernetes
    - [IKS](https://www.ibm.com/cloud/container-service) - IBM Cloud Kubernetes Service

@@ -340,7 +340,7 @@ Managed Kubernetes
   - [Kubermatic](http://www.loodse.com/)
   - [Rancher](https://rancher.com/)
   - [PKS](https://pivotal.io/platform/pivotal-container-service) - Cluster manager by Pivotal, VMWare and Google
-  - [Telekube](https://gravitational.com/telekube/)
+  - [Gravity](https://gravitational.com/gravity) - Formerly Telekube
   - [Kqueen](https://github.com/Mirantis/kqueen)
 
   ### [Developer Platform](#developer-platform)

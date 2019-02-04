@@ -690,7 +690,7 @@ Projects
 ## Service mesh
 
 * [Envoy](http://lyft.github.io/envoy/)
-* [Amalgam8](http://github.com/amalgam8) - Acquired by [Istio](http://istio.io/)
+* [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)
 

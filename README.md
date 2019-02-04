@@ -350,6 +350,7 @@ Managed Kubernetes
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
   - [IBM Cloud Private](https://www.ibm.com/cloud/private)
+  - [Docker EE](https://www.docker.com/enterprise-edition) - Docker Enterprise Edition 2.0
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 
@@ -360,7 +361,6 @@ Managed Kubernetes
    - [Rackspace](https://www.rackspace.com/en-in) - Rackspace
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) - Alibaba Cloud Container Service for Kubernetes
    - [IKS](https://www.ibm.com/cloud/container-service) - IBM Cloud Kubernetes Service
-   - [Docker EE](https://www.docker.com/enterprise-edition) - Docker Enterprise Edition 2.0
    - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) - DigitalOcean Kubernetes
    - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) - Oracle Kubernetes Engine
 

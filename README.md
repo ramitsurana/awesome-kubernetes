@@ -346,7 +346,6 @@ Managed Kubernetes
 
   ### [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
 
-  - [CoreOS Tectonic](http://tectonic.com)
   - [OpenShift - Container Platform](http://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
   - [Kubermatic](http://www.loodse.com/)

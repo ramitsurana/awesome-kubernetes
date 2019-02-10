@@ -51,7 +51,7 @@ Kubernetes celebrates its birthday every year on 21st July. Kubernetes 1.0 was r
 ## Roadmap
 
 The awesome-kubernetes will now soon be available in the form of different releases and package bundles, It means that you can
-download the awesome kubernetes release up to a certain period of time, The release for awesome kubernetes 2015 bundle is released.Checkout the releases column for more info.Stay tuned for more updates.
+download the awesome kubernetes release up to a certain period of time, The release for awesome kubernetes 2015 bundle is released.Checkout the releases column for more info.
 
 -----------------------------------------------------------------------
 
@@ -145,12 +145,13 @@ Starting Point
 * [The ‘kubectl run’ command](http://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
 * [Docker Kubernetes Lab Handbook](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
 * [Curated Resources for Kubernetes](https://hackr.io/tutorials/learn-kubernetes)
-* [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) by [Google Cloud Plaatform](https://cloud.google.com/)
+* [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) by [Google Cloud Platform](https://cloud.google.com/)
 * [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16) by [Dan Sanche](https://medium.com/@sanche)
 * [An Introduction to Kubernetes](http://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes) by [Justin Ellingwood](https://twitter.com/jmellingwood)
 * [Kubernetes and everything else - Introduction to Kubernetes and it's context](https://rinormaloku.com/introduction-application-architecture/) by [Rinor Maloku](https://twitter.com/rinormaloku)
 * [Installation on Centos 7](http://severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services)
 * [Setting Up a Kubernetes Cluster on Ubuntu 18.04](https://mherman.org/blog/2018/08/20/setting-up-a-kubernetes-cluster-on-ubuntu/)
+* [Cloud Native Landscape](https://landscape.cncf.io/)
 
 Installers
 =======================================================================
@@ -167,6 +168,7 @@ Installers
 * [Juju](https://jujucharms.com/canonical-kubernetes) - Ubuntu - Cloud Agnostique
 * [Terraform](https://github.com/kz8s/tack) - CoreOS - AWS
 * [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique
+* [sealos](https://github.com/fanux/sealos) - Simple kubernetes HA installer
 * [Archon](https://github.com/kubeup/archon) - OS Agnostique - Cloud Agnostique
 * [KubeNow](https://github.com/kubenow/KubeNow) - Ubuntu - Cloud Agnostique
 * [Kubicorn](https://github.com/kubicorn/kubicorn) - OS Agnostique - Cloud Agnostique
@@ -268,7 +270,8 @@ Useful Articles
 - [GitOps: High-Velocity CI/CD for Kubernetes](http://dzone.com/articles/gitops-high-velocity-cicd-for-kubernetes)
 - [Achieving CI/CD with Kubernetes](http://ramitsurana.github.io/myblog/achieving-ci-cd-with-kubernetes) by [Ramit Surana](https://twitter.com/ramitsurana)
 - [Jenkins declarative pipelines with Kubernetes](http://radu-matei.com/blog/kubernetes-jenkins-azure/)
-
+- [Adding CI/CD to your Spring Boot app with Jenkins X and Kubernetes](https://developer.okta.com/blog/2018/07/11/ci-cd-spring-boot-jenkins-x-kubernetes) by [Matt Raible](https://twitter.com/mraible) using [Jenkins X](https://jenkins-x.io/)
+- [Continuous Delivery with Amazon EKS and Jenkins X](https://aws.amazon.com/blogs/opensource/continuous-delivery-eks-jenkins-x/) by [Henryk Konsek](https://twitter.com/hekonsek) using [Jenkins X](https://jenkins-x.io/)
 
 ### [Deep Learning](#deep-learning)
 
@@ -329,7 +332,9 @@ Managed Kubernetes
 
   ### [Developer Platform](#developer-platform)
 
-  - [Fabric8](http://fabric8.io)
+  - [Fabric8](http://fabric8.io) - integrated development platform with CD features
+  - [Eclipse Che](https://github.com/eclipse/che) - cloud development workspaces with SSH and multi-user support
+  - [OpenShift.io](https://openshift.io) - hosted Fabric8 with Che and Jenkins CI integration
   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [Mantl](https://github.com/mantl/mantl)
   - [goPaddle](http://www.gopaddle.io)
@@ -433,6 +438,41 @@ Persistent Volume Providers
 * [Stork](https://github.com/libopenstorage/stork)
 * [OpenEBS](http://github.com/openebs/openebs/)
 * [StorageOS](http://storageos.com)
+* [NetApp Trident](https://github.com/NetApp/trident)
+* [HPE](https://github.com/hpe-storage/dory)
+* [Hitachi](https://knowledge.hitachivantara.com/Documents/Adapters_and_Drivers/Storage_Adapters_and_Drivers/Containers/1.0/Storage_Plug-in_for_Containers_Quick_Reference_Guide_v1.0.0)
+* [Pure Storage](https://hub.docker.com/r/purestorage/k8s/)
+* [Microsoft](https://github.com/Microsoft/K8s-Storage-Plugins)
+
+Container Storage Interface Plugins
+=======================================================================
+
+*List of some Container Storage Interface plugins for Kubernetes. Check out [Kubernetes-CSI](https://kubernetes-csi.github.io/docs/) for more info*
+
+* [AWS EBS](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
+* [Ceph](https://github.com/ceph/ceph-csi)
+* [Cloudscale](https://github.com/cloudscale-ch/csi-cloudscale)
+* [DigitalOcean](https://github.com/digitalocean/csi-digitalocean)
+* [DriveScale](https://github.com/DriveScale/k8s-plugins)
+* [Ember](https://ember-csi.io)
+* [Gluster](https://github.com/gluster/gluster-csi-driver)
+* [Google Compute Engine Persistent Disk](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver)
+* [Hostpath](https://github.com/kubernetes-csi/drivers/tree/master/pkg/hostpath)
+* [Inmemory](https://github.com/kubernetes-csi/csi-test/tree/master/mock/service)
+* [Intel PMEM-CSI](https://github.com/intel/pmem-CSI)
+* [MooseFs](https://github.com/moosefs/moosefs-csi)
+* [Mesos](http://mesos.apache.org/documentation/latest/csi)
+* [NetApp Trident](https://github.com/NetApp/trident)
+* [Nexenta](https://nexentaedge.io/docs/kubernetes-csi.html)
+* [NFS](https://github.com/kubernetes-csi/drivers/tree/master/pkg/nfs)
+* [Nutanix](https://portal.nutanix.com/#/page/docs/details?targetId=CSI-Volume-Driver:CSI-Volume-Driver)
+* [OpenSDS](https://github.com/opensds/nbp/tree/master/csi)
+* [OpenStack Cinder](https://github.com/kubernetes/cloud-provider-openstack/tree/master/pkg/csi/cinder)
+* [Portworx](https://github.com/libopenstorage/openstorage/tree/master/csi)
+* [Quobyte](https://github.com/quobyte/quobyte-csi)
+* [ScaleIO](https://github.com/thecodeteam/csi-scaleio)
+* [Virtual Filesystem](https://github.com/rexray/csi-vfs)
+* [VMware vSphere](https://github.com/thecodeteam/csi-vsphere)
 
 Developer Libraries/ Scripts
 =======================================================================
@@ -461,6 +501,7 @@ Projects
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
 * [Kubernetes Cluster Federation (previously Ubernetes)](https://kubernetes.io/docs/concepts/cluster-administration/federation/)
 * [kmachine](https://github.com/skippbox/kmachine)
+* [kube-fledged](https://github.com/senthilrch/kube-fledged) - A K8S add-on for creating and managing a cache of container images directly on cluster worker nodes
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [Kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 * [KubeSpray](https://github.com/kubespray)
@@ -468,11 +509,12 @@ Projects
 * [Kubeform](http://capgemini.github.io/kubeform/)
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
 * [Archon](https://github.com/kubeup/archon)
-* [Client Libraries](https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md)
+* [Client Libraries](https://github.com/kubernetes/website/blob/master/content/en/docs/reference/using-api/client-libraries.md)
 * [Kubic-Project](https://github.com/kubic-project)
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
 * [Ambassador](http://www.getambassador.io) - API Gateway built on the Envoy Proxy
+* [Bitnami Kubernetes Production Runtime](https://kubeprod.io)
 
 ## Package Managers
 
@@ -494,6 +536,7 @@ Projects
 * [Kubetail](https://github.com/johanhaleby/kubetail)
 * [Kubewatch](https://github.com/skippbox/kubewatch)
 * [Netsil](https://github.com/netsil/manifests)
+* [New Relic](https://newrelic.com/platform/kubernetes) - Kubernetes monitoring and visualization service.  
 * [Outcold Solutions](https://www.outcoldsolutions.com) - monitoring Kubernetes, OpenShift and Docker in Splunk Enterprise and Splunk Cloud (metrics and log forwarding)
 * [Prometheus](http://prometheus.io)
 * [Sysdig Monitoring](https://www.sysdig.com/)
@@ -502,6 +545,7 @@ Projects
 * [Searchlight](https://github.com/appscode/searchlight)
 * [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) - A Kubernetes Controller to watch your ingresses and create liveness alerts for your endpoints
 * [Kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
+* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
 
 ## Testing
 
@@ -526,7 +570,8 @@ Projects
    * [On-demand Jenkins slaves with Kubernetes and the Google Container Engine](http://www.cloudbees.com/blog/demand-jenkins-slaves-kubernetes-and-google-container-engine)
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
-* [Jenkins X](http://jenkins-x.io/) - CI/CD for Kubernetes using Jenkins
+   * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/VirtusLab/jenkins-operator)
+* [Jenkins X](http://jenkins-x.io/) - automated CI/CD for Kubernetes with GitOps Promotion and Preview Environments on Pull Requests using best of breed OSS tools like: Jenkins, Helm, Skaffold, Kaniko, Knative Build, Knative Pipeline and Prow
 * [kb8or](https://github.com/UKHomeOffice/kb8or)
 * [Wercker](http://blog.wercker.com/topic/kubernetes)
 * [Shippable](http://blog.shippable.com/topic/kubernetes)
@@ -543,6 +588,7 @@ Projects
 * [Codefresh](https://codefresh.io/) - Kubernetes CI/CD platform (with private Docker and Helm Chart repositories)
 * [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) - Framework to easily deploy Kubernetes applications via GitLab.
 * [Buildkite](https://www.buildkite.com/) - Buildkite is a platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure.
+* [Argo CD](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. 
 
 ## Serverless Implementations
 
@@ -563,8 +609,8 @@ Projects
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
 * [K8s Operator Workshop](https://github.com/lukebond/cc-au-k8s-operators-workshop)
 * [Cert Operator](https://github.com/giantswarm/cert-operator)
-* [Cert manager](https://github.com/kelseyhightower/kube-cert-manager) by @kelseyhightower
-* [cert-manager](https://github.com/jetstack/cert-manager) by @jetstack
+* [Cert manager](https://github.com/kelseyhightower/kube-cert-manager)
+* [cert-manager](https://github.com/jetstack/cert-manager)
 * [Operator Kit](https://github.com/rook/operator-kit)
 * [Container Linux Update Operator](https://github.com/coreos/container-linux-update-operator)
 * [DB Operator](https://github.com/k8sdb/operator)
@@ -639,6 +685,7 @@ Projects
 * [Network-Controller](https://github.com/linkernetworks/network-controller) - Open vSwitch, Multiple network interfaces that associate with Kubernetes pods
 * [AWS VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin using Elastic Network Interfaces
 * [NSX-T](https://www.vmware.com/products/nsx/cloud-native-apps.html) - CNI plugin supporting load balancing and distributed firewalls.
+* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
 
 ## Service mesh
 
@@ -665,6 +712,7 @@ Projects
 * [kubesec](https://github.com/shyiko/kubesec) - Secure Secret management
 * [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets)
 * [Secure GitOps Using Weave Cloud Deploy And Bitnami's Sealed Secrets](https://engineering.bitnami.com/articles/secure-gitops.html)
+* [Kamus](https://github.com/Soluto/kamus) - A GitOps, zero-trust solution for secrets encryption/decryption solution.
 
 ## Web applications
 
@@ -701,6 +749,7 @@ Projects
 * [stern](https://github.com/wercker/stern) - Multi pod and container log tailing
 * [kubeplay](https://github.com/errordeveloper/kubeplay)
 * [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins) - A collection of kubectl plugins handling everything from easy context switches to connecting to a container as any user (root included) via exec. Slightly tailored towards GKE users.
+* [kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using this kubectl plugin
 
 ## Application deployment orchestration
 
@@ -720,7 +769,7 @@ Projects
 * [Kompose](https://github.com/kubernetes/kompose)
 * [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
 * [K8comp](https://github.com/cststack/k8comp)
-* [Ktmpl](https://github.com/InQuicker/ktmpl)
+* [Ktmpl](https://github.com/jimmycuadra/ktmpl)
 * [Konfd](https://github.com/kelseyhightower/konfd)
 * [kenv](https://github.com/thisendout/kenv)
 * [kubediff](https://github.com/weaveworks/kubediff)
@@ -739,6 +788,7 @@ Projects
 
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
 * [Authenticator](https://github.com/heptio/authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster
+* [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) - Widely adopted open source implementation unifying Kubernetes Network Policy and Istio Application Policy.
 * [Dex](https://github.com/coreos/dex) - OpenID and OAuth for Kubernetes
 * [Guard](https://github.com/appscode/guard) - Authenticaton webhook server with support for Github, Gitlab, Google, Azure and LDAP (AD) as identity providers.
 * [kiam](https://github.com/uswitch/kiam) -  Allows cluster users to associate AWS IAM roles to Pods.
@@ -748,6 +798,8 @@ Projects
 * [Kubesec.io](http://kubesec.io/)
 * [Sysdig Falco](http://www.sysdig.org/falco/)
 * [Sysdig Secure](http://www.sysdig.com/product/secure)
+* [Tigera Secure Cloud Edition](https://www.tigera.io/tigera-secure-ce/)
+* [Tigera Secure Enterprise Edition](https://www.tigera.io/tigera-secure-ee/)
 * [Trireme](http://github.com/aporeto-inc/trireme-kubernetes)
 * [Twistlock](http://www.twistlock.com/)
 
@@ -799,6 +851,7 @@ Projects
 ## YAML/JSON Config
 
 * [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib)
+* [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet) - Generic library of Kubernetes objects for Jsonnet/Kubecfg with object to array mapping for painless overrides.
 * [kompose](https://github.com/kubernetes/kompose)
 * [kubeval](https://github.com/garethr/kubeval)
 * [kubegen](https://github.com/errordeveloper/kubegen)
@@ -844,6 +897,7 @@ us with information*
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) by Matthew Palmer
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) by Jeff Nickoloff and Stephen Kuenzli
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) by [Onur Yilmaz](https://github.com/onuryilmaz)
+* [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) by [Nebrass Lamouchi](https://fr.linkedin.com/in/nebrass)
 
 Slide Presentations
 =======================================================================
@@ -891,6 +945,11 @@ Videos
 * [Kubernetes-Defined Monitoring](https://www.youtube.com/watch?v=ncSn3_9bfIQ)
 * [Testing Distributed Software on Kubernetes with PowerfulSeal at Kubecon 2017 Austin](https://youtu.be/00BMn0UjsG4) by [Mikolaj Pawlikowski](https://twitter.com/mikopawlikowski)
 * [Shanghai '18: KubeCon + CloudNativeCon](https://www.youtube.com/playlist?list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)
+
+
+### CI/CD Videos
+
+- [Automating CI/CD on Kubernetes with Jenkins X](https://www.youtube.com/watch?v=BF3MhFjvBTU) by [James Strachan](https://twitter.com/jstrachan) using [Jenkins X](https://jenkins-x.io/) with [these slides](https://docs.google.com/presentation/d/1hwt2lFh3cCeFdP4xoT_stMPs0nh2xVZUtze6o79WfXc/edit#slide=id.p)
 
 
 Interesting Twitter Accounts

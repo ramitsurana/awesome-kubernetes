@@ -526,6 +526,7 @@ Projects
 
 * [Console](http://github.com/kubernetes/dashboard)
 * [Datadog](http://www.datadoghq.com/)
+* [The Elastic Stack](https://www.elastic.co/docker-kubernetes-container-monitoring) - An open-source solution for monitoring and visualising K8s metrics, logs, application traces and more.
 * [eventrouter](https://github.com/heptiolabs/eventrouter) - simple introspective kubernetes service that forwards events to a specified sink.
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
 * [Heapster](https://github.com/kubernetes/heapster)
@@ -587,7 +588,7 @@ Projects
 * [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
 * [Codefresh](https://codefresh.io/) - Kubernetes CI/CD platform (with private Docker and Helm Chart repositories)
 * [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) - Framework to easily deploy Kubernetes applications via GitLab.
-* [Argo CD](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. 
+* [Argo CD](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 
 ## Serverless Implementations
 

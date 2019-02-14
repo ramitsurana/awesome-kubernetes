@@ -310,6 +310,7 @@ Useful Articles
 * [Three post learn k8s](http://blog.alexellis.io/tag/learn-k8s/)
 * [Kubernetes tips & tricks](http://opsnotice.xyz/kubernetes-tips-tricks/)
 * [Running Flask on Kubernetes](https://testdriven.io/running-flask-on-kubernetes)
+* [Deploying Node Apps the "Right" Way](https://kubesail.com/blog/deploying-node-apps-the-right-way) by [Dan Pastusek](https://twitter.com/pastudan)
 
 Managed Kubernetes
 =======================================================================
@@ -370,6 +371,7 @@ Managed Kubernetes
 
    *Kubernetes Platform as a Service providers*
 
+  - [KubeSail](https://kubesail.com) - An easy, free way to try Kubernetes
   - [Kel](http://www.kelproject.com)
   - [WSO2](http://wso2.com)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
@@ -486,6 +488,10 @@ Developer Libraries/ Scripts
   ### [Jenkins](#jenkins)
 
    - [Jenkinsfile with Helm, Go, Docker, Kubectl, JNLP](https://github.com/lachie83/croc-hunter/blob/master/Jenkinsfile)
+   
+  ### [JavaScript](#javascript)
+  
+   - [deploy-to-kube](https://github.com/kubesail/deploy-to-kube) - Deploy your node.js app to Kubernetes with a single command. No config required.
 
 Projects
 =======================================================================

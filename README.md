@@ -488,10 +488,6 @@ Developer Libraries/ Scripts
   ### [Jenkins](#jenkins)
 
    - [Jenkinsfile with Helm, Go, Docker, Kubectl, JNLP](https://github.com/lachie83/croc-hunter/blob/master/Jenkinsfile)
-   
-  ### [JavaScript](#javascript)
-  
-   - [deploy-to-kube](https://github.com/kubesail/deploy-to-kube) - Deploy your node.js app to Kubernetes with a single command. No config required.
 
 Projects
 =======================================================================

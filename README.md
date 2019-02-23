@@ -336,7 +336,7 @@ Managed Kubernetes
 
   ### [Cluster Managers](#cluster-manager)
   - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
-  - [Gardener](https://github.com/gardener/gardener) - AWS, Azure, GCP, and OpenStack cluster manager
+  - [Gardener](https://github.com/gardener/gardener) - Alibaba, AWS, Azure, GCP, and OpenStack cluster manager
   - [Kubermatic](http://www.loodse.com/)
   - [Rancher](https://rancher.com/)
   - [PKS](https://pivotal.io/platform/pivotal-container-service) - Cluster manager by Pivotal, VMWare and Google

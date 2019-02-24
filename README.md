@@ -1030,6 +1030,7 @@ Meetup Groups
 * [Pune](https://www.meetup.com/Kubernetes-Pune/)
 * [San Francisco](https://twitter.com/kubernetesSF)
 * [Seattle](https://www.meetup.com/Seattle-Kubernetes-Meetup/)
+* [Tunisia](https://www.meetup.com/Kubernetes-Cloud-Native-Tunisia/)
 * [Worldwide](https://www.meetup.com/kubernauts/)
 
 

@@ -1,4 +1,4 @@
-Thank You for creating a Pull Request. We appreciate your efforts towards contributing the awesome-kuberntes list.
+Thank You for creating a Pull Request. We appreciate your efforts towards contributing the awesome-kubernetes list.
 
 As a part of our practice, we would like to select the projects based on the below criteria. Please ensure that your submission is fulfilling the below requirements. Thanks
 

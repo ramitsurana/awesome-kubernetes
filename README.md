@@ -637,6 +637,7 @@ Projects
 * [KubeVirt](https://github.com/kubevirt)
 * [Operator SDK](https://github.com/operator-framework/operator-sdk)
 * [kooper](https://github.com/spotahome/kooper) - Simple Go library to create Kubernetes operators and controllers
+* [Istio](https://github.com/banzaicloud/istio-operator)
 
 ## Custom Schedulers
 

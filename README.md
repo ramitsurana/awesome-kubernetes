@@ -374,6 +374,7 @@ Managed Kubernetes
    - [IKS](https://www.ibm.com/cloud/container-service) - IBM Cloud Kubernetes Service
    - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) - DigitalOcean Kubernetes
    - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) - Oracle Kubernetes Engine
+   - [OVH Managed Kubernetes](https://www.ovh.co.uk/kubernetes/) - OVH Managed Kubernetes
 
   ### [PaaS](#paas)
 

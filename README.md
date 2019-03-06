@@ -191,6 +191,7 @@ Installers
 * [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) - Run Kubernetes and Docker locally on your MAC (Edge Channel)
 * [MetalK8s](https://github.com/scality/metalk8s) - CentOS - On-Prem - Cloud Agnostique - [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
 * [Linode](https://developers.linode.com/kubernetes/) - CoreOS - Linode
+* [Kublr](https://docs.kublr.com/quickstart/kublr-in-a-box/) - OS Agnostique - On-Prem - Cloud Agnostique
 
 Main Resources
 =======================================================================
@@ -340,6 +341,7 @@ Managed Kubernetes
   - [PKS](https://pivotal.io/platform/pivotal-container-service) - Cluster manager by Pivotal, VMWare and Google
   - [Gravity](https://gravitational.com/gravity) - Formerly Telekube
   - [Kqueen](https://github.com/Mirantis/kqueen)
+  - [Kublr](https://kublr.com/how-it-works/) - AWS, Azure, GCP, vSphere, vCloud Director, and On-Prem cluster manager
 
   ### [Developer Platform](#developer-platform)
 
@@ -362,6 +364,7 @@ Managed Kubernetes
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
   - [IBM Cloud Private](https://www.ibm.com/cloud/private)
   - [Docker EE](https://www.docker.com/enterprise-edition) - Docker Enterprise Edition 2.0
+  - [Kublr](https://kublr.com/) - Kubernetes for the Enterprise - multi-cloud and on-prem Kubernetes operations center
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 

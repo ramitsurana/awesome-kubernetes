@@ -914,7 +914,7 @@ us with information*
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) by Jeff Nickoloff and Stephen Kuenzli
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) by [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) by [Nebrass Lamouchi](https://fr.linkedin.com/in/nebrass)
-* [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) by Ian Miell and Aidan Hobson Sayers.
+* [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) by [Ian Miell](https://twitter.com/ianmiell) & [Aidan Hobson Sayers](https://twitter.com/aidanhs)
 
 Slide Presentations
 =======================================================================

@@ -191,6 +191,7 @@ Installers
 * [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) - Run Kubernetes and Docker locally on your MAC (Edge Channel)
 * [MetalK8s](https://github.com/scality/metalk8s) - CentOS - On-Prem - Cloud Agnostique - [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
 * [Linode](https://developers.linode.com/kubernetes/) - CoreOS - Linode
+* [Proxmox/TKS](https://github.com/zimmertr/Bootstrap-Kubernetes-with-QEMU) - (Proxmox/Ansible/QEMU) - Declaratively provision a cluster on Proxmox.
 
 Main Resources
 =======================================================================

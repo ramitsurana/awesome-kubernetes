@@ -639,6 +639,7 @@ Projects
 * [Operator SDK](https://github.com/operator-framework/operator-sdk)
 * [kooper](https://github.com/spotahome/kooper) - Simple Go library to create Kubernetes operators and controllers
 * [Istio](https://github.com/banzaicloud/istio-operator)
+* [Kured](https://github.com/weaveworks/kured) - Kured (Kubernetes Reboot Daemon) is a Kubernetes daemonset that performs safe automatic node reboots
 
 ## Custom Schedulers
 

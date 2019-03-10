@@ -618,6 +618,7 @@ Projects
 
 ## Operators
 
+* [OperatorHub.io](https://www.operatorhub.io)
 * [Prometheus](https://github.com/coreos/prometheus-operator)
 * [Kong API](https://github.com/upmc-enterprises/kong-operator)
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)

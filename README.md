@@ -51,7 +51,7 @@ Kubernetes celebrates its birthday every year on 21st July. Kubernetes 1.0 was r
 ## Roadmap
 
 The awesome-kubernetes will now soon be available in the form of different releases and package bundles, It means that you can
-download the awesome kubernetes release up to a certain period of time, The release for awesome kubernetes 2015 bundle is released.Checkout the releases column for more info.
+download the awesome kubernetes release up to a certain period of time, The release for awesome kubernetes 2015 bundle is released. Checkout the releases column for more info.
 
 -----------------------------------------------------------------------
 

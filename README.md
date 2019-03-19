@@ -988,6 +988,7 @@ Interesting Twitter Accounts
 * [KubeFacts](https://twitter.com/kubefacts)
 * [Skippbox](https://twitter.com/skippbox) - Acquired by [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
+* [Learnk8s](https://twitter.com/learnk8s)
 
 
 Amazing People

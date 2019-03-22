@@ -120,7 +120,7 @@ Menu
   - [Backup and Disaster Recovery](#backup-and-disaster-recovery)
 - [Raspberry Pi](#raspberry-pi)
 - [Books](#books)
-- [Certifications](#certifications)
+- [Certifications](#certifications-1)
 - [Slide Presentations](#slide-presentations)
 - [Videos](#videos)
     - [Main Account](#main-account)

@@ -340,6 +340,7 @@ Managed Kubernetes
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](http://stackpoint.io/)
   - [Hasura](https://hasura.io/)
+  - [ELASTX](https://www.elastx.se/)
 
 
   ### [Cluster Managers](#cluster-manager)

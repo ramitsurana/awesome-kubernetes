@@ -878,7 +878,7 @@ Projects
 * [Kurma](https://github.com/apcera/kurma)
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
 * [LinuxKit](https://github.com/linuxkit/kubernetes)
-* [Talos](https://github.com/autonomy/talos)
+* [Talos](https://github.com/talos-systems/talos)
 
 ## YAML/JSON Config
 

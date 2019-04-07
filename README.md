@@ -760,6 +760,7 @@ Projects
 ## API/CLI adaptors
 
 * [click](https://github.com/databricks/click) - A CLI focused REPL for quickly interacting with Kubernetes objects.
+* [kube-capacity](https://github.com/robscott/kube-capacity) - A CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
 * [kube-prompt](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt.
 * [Kube-shell](https://github.com/cloudnativelabs/kube-shell) - Integrated shell for working with the Kubernetes CLI
 * [Kubebot](https://github.com/harbur/kubebot)

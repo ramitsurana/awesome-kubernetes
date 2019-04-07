@@ -474,6 +474,8 @@ Container Storage Interface Plugins
 *List of some Container Storage Interface plugins for Kubernetes. Check out [Kubernetes-CSI](https://kubernetes-csi.github.io/docs/) for more info*
 
 * [AWS EBS](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
+* [AWS EFS](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
+* [AWS FSx for Lustre](https://github.com/kubernetes-sigs/aws-fsx-csi-driver)
 * [Linode Block Storage](https://github.com/linode/linode-blockstorage-csi-driver)
 * [Ceph](https://github.com/ceph/ceph-csi)
 * [Cloudscale](https://github.com/cloudscale-ch/csi-cloudscale)

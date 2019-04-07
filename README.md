@@ -287,6 +287,7 @@ Useful Articles
 - [Adding CI/CD to your Spring Boot app with Jenkins X and Kubernetes](https://developer.okta.com/blog/2018/07/11/ci-cd-spring-boot-jenkins-x-kubernetes) by [Matt Raible](https://twitter.com/mraible) using [Jenkins X](https://jenkins-x.io/)
 - [Continuous Delivery with Amazon EKS and Jenkins X](https://aws.amazon.com/blogs/opensource/continuous-delivery-eks-jenkins-x/) by [Henryk Konsek](https://twitter.com/hekonsek) using [Jenkins X](https://jenkins-x.io/)
 - [CI/CD for Microservices on DigitalOcean Kubernetes](https://semaphoreci.com/blog/cicd-microservices-digitalocean-kubernetes) using [Semaphore](https://semaphoreci.com)
+* [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
 
 ### [Deep Learning](#deep-learning)
 
@@ -597,23 +598,23 @@ Projects
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/VirtusLab/jenkins-operator)
 * [Jenkins X](http://jenkins-x.io/) - automated CI/CD for Kubernetes with GitOps Promotion and Preview Environments on Pull Requests using best of breed OSS tools like: Jenkins, Helm, Skaffold, Kaniko, Knative Build, Knative Pipeline and Prow
-* [kb8or](https://github.com/UKHomeOffice/kb8or)
-* [Wercker](http://blog.wercker.com/topic/kubernetes)
-* [Shippable](http://blog.shippable.com/topic/kubernetes)
-* [GitLab](http://blog.lwolf.org/post/how-to-easily-deploy-gitlab-on-kubernetes/)
-* [Kontinuous](https://github.com/AcalephStorage/kontinuous)
-* [Kit](http://invisionapp.github.io/kit/)
-* [Spinnaker](http://www.spinnaker.io/blog/deploy-to-kubernetes-using-spinnaker)
-* [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
-* [KubeCI](https://www.kubeci.io/)
-* [Vili](https://github.com/airware/vili)
-* [Keel](https://keel.sh/)
 * [Apollo](https://github.com/logzio/apollo) - Open Source application providing teams with self service UI for creating and deploying their services to Kubernetes.
-* [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
-* [Codefresh](https://codefresh.io/) - Kubernetes CI/CD platform (with private Docker and Helm Chart repositories)
-* [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) - Framework to easily deploy Kubernetes applications via GitLab.
 * [Argo CD](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 * [Buildkite](https://github.com/buildkite/charts) - Lean CI/CD cloud hosted control plane with agents on your infrastructure.
+* [Codefresh](https://codefresh.io/) - Kubernetes CI/CD platform (with private Docker and Helm Chart repositories)
+* [GitLab](http://blog.lwolf.org/post/how-to-easily-deploy-gitlab-on-kubernetes/)
+* [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) - Framework to easily deploy Kubernetes applications via GitLab.
+* [kb8or](https://github.com/UKHomeOffice/kb8or)
+* [Keel](https://keel.sh/)
+* [Kit](http://invisionapp.github.io/kit/)
+* [Kontinuous](https://github.com/AcalephStorage/kontinuous)
+* [KubeCI](https://www.kubeci.io/)
+* [Shippable](http://blog.shippable.com/topic/kubernetes)
+* [Shipper](https://github.com/bookingcom/shipper) - Kubernetes native multi-cluster canary or blue-green rollouts using Helm.
+* [Spinnaker](http://www.spinnaker.io/blog/deploy-to-kubernetes-using-spinnaker)
+* [Vili](https://github.com/airware/vili)
+* [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
+* [Wercker](http://blog.wercker.com/topic/kubernetes)
 
 ## Serverless Implementations
 

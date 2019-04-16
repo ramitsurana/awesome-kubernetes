@@ -721,7 +721,7 @@ Projects
 
 ## Service mesh
 
-* [Envoy](http://lyft.github.io/envoy/)
+* [Envoy](https://www.envoyproxy.io/)
 * [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)

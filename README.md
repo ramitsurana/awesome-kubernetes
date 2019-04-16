@@ -816,6 +816,7 @@ Projects
 * [kapitan](https://github.com/deepmind/kapitan) - Manage complex deployments using jsonnet and jinja2
 * [kubecfg](https://github.com/bitnami/kubecfg) - Combines jsonnet and kubectl to let you declare systems in an easy to override way
 * [Pulumi](https://www.pulumi.com/kubernetes/) - Provides a SDK for k8s deployments targeting on-premises clusters and major cloud vendors' managed services.
+* [Cue](https://cue.googlesource.com/cue) - A data constraint language which aims to simplify tasks involving defining and using data. Cue is a superset of JSON
 
 ## Security
 

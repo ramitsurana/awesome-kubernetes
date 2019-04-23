@@ -589,6 +589,7 @@ Projects
 * [Litmus](https://github.com/openebs/litmus) - Chaos engineering for stateful workloads on Kubernetes
 * [Kubeadm-dind-cluster](https://github.com/kubernetes-sigs/kubeadm-dind-cluster) - multi-node test cluster based on kubeadm
 * [kind](https://github.com/bsycorp/kind) - A single node cluster to run your CI tests against thats ready in 30 seconds
+* [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) - Gamfied Chaos engineering tool for Kubernetes Clusters
 
 ## Continuous Delivery
 

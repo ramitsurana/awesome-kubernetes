@@ -195,6 +195,9 @@ Installers
 * [MetalK8s](https://github.com/scality/metalk8s) - CentOS - On-Prem - Cloud Agnostique - [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
 * [Linode](https://developers.linode.com/kubernetes/) - CoreOS - Linode
 * [Kublr](https://docs.kublr.com/quickstart/kublr-in-a-box/) - OS Agnostique - On-Prem - Cloud Agnostique
+* [MicroK8s](https://github.com/ubuntu/microk8s) - A single package of k8s that installs on 42 flavours of Linux
+* [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb
+
 
 Main Resources
 =======================================================================

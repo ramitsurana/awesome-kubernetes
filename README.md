@@ -887,6 +887,7 @@ Projects
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
 * [LinuxKit](https://github.com/linuxkit/kubernetes)
 * [Talos](https://github.com/talos-systems/talos)
+* [k3OS](https://github.com/rancher/k3os)
 
 ## YAML/JSON Config
 

@@ -362,6 +362,7 @@ Managed Kubernetes
   - [Eclipse Che](https://github.com/eclipse/che) - cloud development workspaces with SSH and multi-user support
   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [Mantl](https://github.com/mantl/mantl)
+  - [Garden](https://garden.io) - Orchestrates your development workflows to make developing microservices faster and easier.
   - [goPaddle](http://www.gopaddle.io)
   - [VAMP](http://vamp.io)
   - [Draft](https://draft.sh) - a tool for developers to create cloud native applications with Kubernetes

@@ -376,6 +376,7 @@ Managed Kubernetes
   - [Docker EE](https://www.docker.com/enterprise-edition) - Docker Enterprise Edition 2.0
   - [IBM Cloud Private](https://www.ibm.com/cloud/private)
   - [Kublr](https://kublr.com/) - Kubernetes for the Enterprise - multi-cloud and on-prem Kubernetes operations center
+  - [NetApp Kubernetes Service](https://cloud.netapp.com/kubernetes-service)
   - [OpenShift - Container Platform](http://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
 

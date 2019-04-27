@@ -668,6 +668,7 @@ Projects
 
 * [bashScheduler](https://github.com/rothgar/bashScheduler) - Written in bash
 * [escheduler](https://github.com/agonzalezro/escheduler) - Written in elixir
+* [firmament](https://github.com/camsas/firmament)
 * [ksched](https://github.com/coreos/ksched) - Experimental flow based scheduler
 * [Scheduler](https://github.com/kelseyhightower/scheduler) - Cost based scheduler
 * [Sticky Node Scheduler](https://github.com/philipn/kubernetes-sticky-node-scheduler)

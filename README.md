@@ -118,6 +118,7 @@ Menu
   - [YAML/JSON Config](#yamljson-config)
   - [Tuning](#tuning)
   - [Backup and Disaster Recovery](#backup-and-disaster-recovery)
+  - [Plugins](#plugins)
 - [Raspberry Pi](#raspberry-pi)
 - [Books](#books)
 - [Certifications](#certifications-1)
@@ -915,6 +916,11 @@ Projects
 * [Velero](https://github.com/heptio/velero) - Utility for managing backup and restore of Kubernetes clusters. Formerly Heptio Ark.
 * [burry.sh](https://github.com/mhausenblas/burry.sh) - Cloud Native backup and recovery for etcd, zookeeper and consul
 * [kube-backup](https://github.com/pieterlange/kube-backup) - Sync kubernetes state to git.
+
+
+## Plugins
+
+* [Plugin Manager](https://github.com/kubernetes-sigs/krew/)
 
 Raspberry Pi
 =======================================================================

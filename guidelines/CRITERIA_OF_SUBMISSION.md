@@ -6,7 +6,7 @@ As a part of our practice, we would like to select the projects based on the bel
 
 
   - Minimum of 25 GitHub Stars
-  - Minimum of 5+ contributors
+  - Minimum of 3+ contributors
   - Proper documentation of the project and its goals
 
 #### Exceptions

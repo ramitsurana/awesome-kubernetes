@@ -432,7 +432,7 @@ MOOC Courses / Tutorials
   - [Kubernetes Tutorials by Kubernetes Team](http://kubernetes.io/docs/tutorials/)
   - [Kubernetes By Example by OpenShift Team](http://kubernetesbyexample.com)
   - [Kubernetes Tutorial by Tutorialspoint](http://www.tutorialspoint.com/kubernetes/)
-  - [Imperative vs. Declarative — a Kubernetes Tutorial, by Adrien Trouillaud](https://medium.com/payscale-tech/imperative-vs-declarative-a-kubernetes-tutorial-4be66c5d8914)
+  - [Imperative vs. Declarative — a Kubernetes Tutorial](https://medium.com/payscale-tech/imperative-vs-declarative-a-kubernetes-tutorial-4be66c5d8914)
 
 Case Studies
 =======================================================================

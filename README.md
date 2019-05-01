@@ -826,6 +826,7 @@ Projects
 * [Puppet](http://forge.puppet.com/garethr/kubernetes/readme)
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
 * [thesus](https://github.com/heptiolabs/theseus) - A command-line utility and importable package for comparing sets of Kubernetes objects
+* [Cue](https://cue.googlesource.com/cue/+/HEAD/doc/tutorial/kubernetes/README.md) - A data constraint language which aims to simplify tasks involving defining and using data. Cue is a superset of JSON
 
 ## Security
 

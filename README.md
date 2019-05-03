@@ -911,7 +911,7 @@ Projects
 
 ## Plugins
 
-* [Plugin Manager](https://github.com/kubernetes-sigs/krew/)
+* [Krew - Plugin Manager](https://github.com/kubernetes-sigs/krew/)
 
 Raspberry Pi
 =======================================================================

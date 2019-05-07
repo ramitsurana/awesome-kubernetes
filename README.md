@@ -548,7 +548,10 @@ Projects
 * [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
 * [Kubic-Project](https://github.com/kubic-project)
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
+* [Reloader](https://github.com/stakater/Reloader) - Auto-load updates of ConfigMaps and Secrets into pods for Deployments, StatefulSets and DaemonSets
 * [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) - Watches ingress endpoints and automatically registers liveness alerts on the configured uptime checker
+* [Forecastle](https://github.com/stakater/Forecastle) - A dashboard which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes
+* [Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) - A proxy to let webhooks reach running services behind a firewall
 
 ## Package Managers
 

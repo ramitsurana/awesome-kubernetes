@@ -539,6 +539,7 @@ Projects
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
 * [kmachine](https://github.com/skippbox/kmachine)
+* [KEDA](https://github.com/kedacore/keda) - Kubernetes-based Event Driven Autoscaling
 * [kube-fledged](https://github.com/senthilrch/kube-fledged) - A K8S add-on for creating and managing a cache of container images directly on cluster worker nodes
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
 * [Kubeform](http://capgemini.github.io/kubeform/)

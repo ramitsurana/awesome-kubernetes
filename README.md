@@ -542,6 +542,7 @@ Projects
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
 * [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) - Watches ingress endpoints and automatically registers liveness alerts on the configured uptime checker
 * [kmachine](https://github.com/skippbox/kmachine)
+* [KEDA](https://github.com/kedacore/keda) - Kubernetes-based Event Driven Autoscaling
 * [kube-fledged](https://github.com/senthilrch/kube-fledged) - A K8S add-on for creating and managing a cache of container images directly on cluster worker nodes
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
 * [Kubeform](http://capgemini.github.io/kubeform/)

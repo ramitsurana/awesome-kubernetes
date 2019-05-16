@@ -767,6 +767,7 @@ Projects
 
 * [Kubernator](https://github.com/smpio/kubernator)
 * [Kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
+* [Polaris](https://github.com/reactiveops/polaris) - An open source dashbord for Kubernetes best practices
 
 ## Desktop applications
 

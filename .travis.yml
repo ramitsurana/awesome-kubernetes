@@ -1,5 +1,14 @@
 sudo: required
 language: ruby
+cache: bundler
+
+notifications:
+  email:
+    recipients:
+      - ramitsurana@gmail.com
+    on_success: never # default: change
+    on_failure: always # default: always
+
 rvm:
   - 2.2
 before_script:

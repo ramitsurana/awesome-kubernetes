@@ -1,6 +1,5 @@
 sudo: required
 language: ruby
-cache: bundler
 
 notifications:
   email:

@@ -200,6 +200,7 @@ Installers
 * [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique
 * [Terraform](https://github.com/kz8s/tack) - CoreOS - AWS
 * [Typhoon](https://typhoon.psdn.io/) - Container Linux - Cloud Agnostique
+* [Breeze](https://github.com/wise2c-devops/breeze) - CentOS - Cloud Agnostique
 
 
 Main Resources

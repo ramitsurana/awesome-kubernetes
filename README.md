@@ -173,6 +173,7 @@ Installers
 
 
 * [Bootkube](https://github.com/kubernetes-incubator/bootkube) - CoreOS - Cloud Agnostique
+* [Breeze](https://github.com/wise2c-devops/breeze) - CentOS - Cloud Agnostique
 * [Conjure-up](https://github.com/conjure-up/conjure-up) - Ubuntu - Cloud Agnostique
 * [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) - Run Kubernetes and Docker locally on your MAC (Edge Channel)
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) - Run Kubernetes and Docker locally on your Windows PC (Edge Channel)
@@ -200,7 +201,7 @@ Installers
 * [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique
 * [Terraform](https://github.com/kz8s/tack) - CoreOS - AWS
 * [Typhoon](https://typhoon.psdn.io/) - Container Linux - Cloud Agnostique
-* [Breeze](https://github.com/wise2c-devops/breeze) - CentOS - Cloud Agnostique
+
 
 
 Main Resources

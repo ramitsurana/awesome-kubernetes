@@ -74,6 +74,7 @@ Menu
     - [Cloud Providers](#cloud-providers)
     - [Logging](#logging)
     - [Monitoring](#monitoring)
+    - [Autoscaling] (#autoscaling)
     - [Security](#security)
     - [Authentication](#authentication)
     - [Networking](#networking)
@@ -261,9 +262,13 @@ Useful Articles
 
 ### [Monitoring](#monitoring)
 
+- [Kubernetes mointoring 101 - Core pipeline & Services Pipeline] (https://www.magalix.com/blog/kubernetes-monitoring-101-core-pipeline-services-pipeline)
 - [Kubernetes Monitoring Guide](http://www.datadoghq.com/blog/monitoring-kubernetes-era/) by [JM Saponaro](http://github.com/JayJayM)
 - [Installing cAdvisor and Heapster on bare metal Kubernetes](http://www.dasblinkenlichten.com/installing-cadvisor-and-heapster-on-bare-metal-kubernetes/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 - [How to Monitor Kubernetes: A 4-Part Series](http://sysdig.com/blog/monitoring-kubernetes-with-sysdig-cloud/)
+
+### [Autoscaling](#autocaling)
+- [Kubernetes Autoscaling 101: Cluster Autoscaler, Horizontal Pod Autoscaler, and Vertical Pod Autoscaler] (https://medium.com/magalix/kubernetes-autoscaling-101-cluster-autoscaler-horizontal-pod-autoscaler-and-vertical-pod-2a441d9ad231)
 
 ### [Security](#security)
 
@@ -569,6 +574,7 @@ Projects
 
 * [Console](http://github.com/kubernetes/dashboard)
 * [BotKube](https://github.com/infracloudio/botkube) - App that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for the standard practices
+* [Magalix](http://www.magalix.com/) - a free agent that provides containers/pods performance, utilization, and cost optimization metrics. 
 * [Datadog](http://www.datadoghq.com/)
 * [eventrouter](https://github.com/heptiolabs/eventrouter) - simple introspective kubernetes service that forwards events to a specified sink.
 * [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity

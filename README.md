@@ -189,7 +189,7 @@ Installers
 * [Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - `systemd` OS - Cloud Agnostique
 * [Kubespray](https://github.com/kubernetes-incubator/kubespray) - OS Agnostique - Cloud Agnostique
 * [Kubicorn](https://github.com/kubicorn/kubicorn) - OS Agnostique - Cloud Agnostique
-* [Kublr](https://docs.kublr.com/quickstart/kublr-in-a-box/) - OS Agnostique - On-Prem - Cloud Agnostique
+* [Kublr](https://docs.kublr.com/quickstart/) - OS Agnostique - On-Prem - Cloud Agnostique
 * [Linode](https://developers.linode.com/kubernetes/) - CoreOS - Linode
 * [matchbox](https://github.com/coreos/matchbox) - CoreOS - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
 * [MetalK8s](https://github.com/scality/metalk8s) - CentOS - On-Prem - Cloud Agnostique - [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)

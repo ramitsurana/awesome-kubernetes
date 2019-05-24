@@ -74,7 +74,7 @@ Menu
     - [Cloud Providers](#cloud-providers)
     - [Logging](#logging)
     - [Monitoring](#monitoring)
-    - [Autoscaling] (#autoscaling)
+    - [Autoscaling](#autoscaling)
     - [Security](#security)
     - [Authentication](#authentication)
     - [Networking](#networking)

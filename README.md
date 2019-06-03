@@ -850,7 +850,6 @@ Projects
 * [kube-bench](https://github.com/aquasecurity/kube-bench) - The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices.
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters.
 * [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) - Help building an adaptive and fine-grained pod security policy.
-* [kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security
 * [kube2iam](https://github.com/jtblin/kube2iam) - Provides different AWS IAM roles for pods running on Kubernetes
 * [Kubesec.io](http://kubesec.io/)
 * [Pomerium](http://www.pomerium.io/) - a zero-trust identity-aware access proxy inspired by BeyondCorp.
@@ -917,6 +916,11 @@ Projects
 * [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet) - Generic library of Kubernetes objects for Jsonnet/Kubecfg with object to array mapping for painless overrides.
 * [kubegen](https://github.com/errordeveloper/kubegen)
 * [kubeval](https://github.com/garethr/kubeval)
+
+## Static Analysis
+
+* [kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security
+* [popeye](https://github.com/derailed/popeye) - Kubernetes cluster resource sanitzer
 
 ## Tuning
 

@@ -702,6 +702,7 @@ Projects
 * [Hyper.sh/frakti](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime
 * [virtlet](https://github.com/Mirantis/virtlet) - Kubernetes CRI implementation for running VM workloads
 * [infranetes](https://github.com/apporbit/infranetes)
+* [Kata Containers](https://katacontainers.io)
 
 ## Database
 

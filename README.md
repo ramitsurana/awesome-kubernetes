@@ -881,6 +881,7 @@ Projects
 * [Skipper](https://github.com/zalando/skipper) - HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
 * [Traefik](http://traefik.io/)
 * [Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager)
+* [Yggdrasil - Envoy Control Plane for Kubernetes Multi-cluster Ingress](https://github.com/uswitch/yggdrasil)
 
 ## Big Data
 

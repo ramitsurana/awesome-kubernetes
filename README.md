@@ -780,6 +780,7 @@ Projects
 ## Desktop applications
 
 * [Kubernetic](https://kubernetic.com/)
+* [Kube Forwarder](http://kube-forwarder.pixelpoint.io) – An open source Kubernetes port forwarding manager
 
 ## Mobile applications
 

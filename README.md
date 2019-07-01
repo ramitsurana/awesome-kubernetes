@@ -200,7 +200,7 @@ Installers
 * [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique
 * [Terraform](https://github.com/kz8s/tack) - CoreOS - AWS
 * [Typhoon](https://typhoon.psdn.io/) - Container Linux - Cloud Agnostique
-
+* [aks-engine](https://github.com/Azure/aks-engine) - AKS Engine is the easiest way to provision a self-managed Kubernetes cluster on Azure.
 
 
 Main Resources
@@ -594,6 +594,8 @@ Projects
 * [The Elastic Stack](https://www.elastic.co/docker-kubernetes-container-monitoring) - An open-source solution for monitoring and visualising K8s metrics, logs, application traces and more.
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
 * [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Simple service that listens to the Kubernetes API server and generates metrics about the state of the objects.
+* [loki](https://github.com/grafana/loki) - Loki is a horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
+* [Loghouse](https://github.com/flant/loghouse) - Efficiently store big amounts of your logs (in ClickHouse database), process them using a simple query language and monitor them online through web UI.
 
 ## Testing
 
@@ -641,6 +643,7 @@ Projects
 * [Vili](https://github.com/airware/vili)
 * [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
 * [Wercker](http://blog.wercker.com/topic/kubernetes)
+* [Werf](https://github.com/flant/werf) - Werf simplifies development of build scripts, reduces commit build time and automates deployment.
 
 ## Serverless Implementations
 
@@ -681,6 +684,8 @@ Projects
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
+* [Addon-operator](https://github.com/flant/addon-operator) - adds hooks and values to helm charts in order to enhance the capabilities of helm and transform charts into smart modules that configure themselves and respond to changes in the cluster.
+* [Shell-operator](https://github.com/flant/shell-operator) - a tool for running event-driven scripts in a Kubernetes cluster.
 
 ## Custom Schedulers
 
@@ -822,6 +827,7 @@ Projects
 * [Nulecule](https://github.com/projectatomic/nulecule)
 * [Psykube](https://github.com/commercialtribe/psykube)
 * [Skaffold](https://github.com/GoogleCloudPlatform/skaffold) - Command line tool that facilitates continuous development for Kubernetes applications.
+* [kubedog](https://github.com/flant/kubedog) - Kubedog is a library and cli utility that allows watching and following kubernetes resources in CI/CD deploy pipelines.
 
 ## Configuration
 

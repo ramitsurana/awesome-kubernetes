@@ -351,6 +351,7 @@ Managed Kubernetes
   - [NetApp Kubernetes Service (formerly StackPoint Cloud)](https://cloud.netapp.com/kubernetes-service)
   - [Hasura](https://hasura.io/)
   - [ELASTX](https://www.elastx.se/)
+  - [Nirmata](https://www.nirmata.com/)
 
   ### [Cluster Managers](#cluster-manager)
 

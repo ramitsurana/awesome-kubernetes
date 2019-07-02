@@ -10,8 +10,7 @@ Awesome-Kubernetes
 [![Documentation Status](https://readthedocs.org/projects/awesome-kubernetes-by-ramitsurana/badge/?version=latest)](https://awesome-kubernetes-by-ramitsurana.readthedocs.io/en/latest/?badge=latest)
 
 
-A curated list for awesome kubernetes sources
-Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
+A curated list for awesome kubernetes sources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 
 ![final-k8s](https://cloud.githubusercontent.com/assets/8342133/26794201/62c1a006-4a3e-11e7-8bf9-4449814648f2.png)
 

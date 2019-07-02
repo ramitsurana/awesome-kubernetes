@@ -22,7 +22,7 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 Without the help from these [amazing contributors](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
 building this awesome-repo would never has been possible. Thank You very much guys !!
 
-**Thanks to Gitbook.This awesome list can now be downloaded and read in the form of a book.Check it out -->  https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/ .Keep Learning Keep Sharing !!**
+**Thanks to Gitbook.This awesome list can now be downloaded and read in the form of a book. Check it out -->  https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/ .Keep Learning Keep Sharing !!**
 
 **If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!**
 

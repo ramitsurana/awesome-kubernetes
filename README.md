@@ -579,7 +579,7 @@ Projects
 * [Instana](https://instana.com)
 * [kail](https://github.com/boz/kail) - Kubernetes Log Viewer. Streams logs from all containers of all matching pods.
 * [Kubebox](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes
-* [Kubedash](https://github.com/kubernetes/kubedash)
+* [Kubedash](https://github.com/kubernetes/kubedash) - **Deprecated** repository is archived and read-only
 * [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - read-only system dashboard for multiple K8s clusters
 * [Kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 * [Kubetail](https://github.com/johanhaleby/kubetail)

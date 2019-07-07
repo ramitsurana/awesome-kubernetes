@@ -380,7 +380,7 @@ Managed Kubernetes
   - [NetApp Kubernetes Service](https://cloud.netapp.com/kubernetes-service)
   - [OpenShift - Container Platform](http://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
-  - [WorldSibu-Forma](https://worldsibu.tech/forma//) - Multi-cloud Remote Blockchain Infrastructure Orchestrator with Kubernetes
+  - [WorldSibu-Forma](https://worldsibu.tech/forma/) - Multi-cloud Remote Blockchain Infrastructure Orchestrator with Kubernetes
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 

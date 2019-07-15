@@ -120,6 +120,7 @@ Menu
   - [Tuning](#tuning)
   - [Backup and Disaster Recovery](#backup-and-disaster-recovery)
   - [Plugins](#plugins)
+  - [Policy Management](#policy-management)
 - [Raspberry Pi](#raspberry-pi)
 - [Books](#books)
 - [Certifications](#certifications-1)

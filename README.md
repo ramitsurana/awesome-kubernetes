@@ -120,6 +120,7 @@ Menu
   - [Backup and Disaster Recovery](#backup-and-disaster-recovery)
   - [Plugins](#plugins)
   - [Policy Management](#policy-management)
+  - [Debug](#debug)
 - [Raspberry Pi](#raspberry-pi)
 - [Books](#books)
 - [Certifications](#certifications-1)
@@ -950,11 +951,17 @@ Projects
 * [kube-backup](https://github.com/pieterlange/kube-backup) - Sync kubernetes state to git.
 
 ## Policy Management
+
 * [Kyverno](https://github.com/nirmata/kyverno) - Kubernetes Native Policy Management
 
 ## Plugins
 
 * [Krew - Plugin Manager](https://github.com/kubernetes-sigs/krew/)
+* [Kboom](https://github.com/mhausenblas/kboom)
+
+## Debug
+
+* [Kubectl-Debug](https://github.com/aylei/kubectl-debug)
 
 Raspberry Pi
 =======================================================================

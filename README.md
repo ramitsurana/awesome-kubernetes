@@ -376,6 +376,7 @@ Managed Kubernetes
   - [Mantl](https://github.com/mantl/mantl)
   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [VAMP](http://vamp.io)
+  - [Tilt](https://github.com/windmilleng/tilt)
 
   ### [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
 

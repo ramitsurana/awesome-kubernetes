@@ -791,6 +791,7 @@ Projects
 
 * [Kubernetic](https://kubernetic.com/)
 * [Kube Forwarder](http://kube-forwarder.pixelpoint.io) – An open source Kubernetes port forwarding manager
+* [KubeContext](https://github.com/turkenh/KubeContext) - An open source Kubernetes context manager (UI) for MacOS
 
 ## Mobile applications
 

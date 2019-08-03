@@ -373,6 +373,7 @@ Managed Kubernetes
   - [Garden](https://garden.io) - Orchestrates your development workflows to make developing microservices faster and easier.
   - [goPaddle](http://www.gopaddle.io)
   - [Knative](https://github.com/knative/) - Platform to build, deploy, and manage modern serverless workloads
+  - [Okteto](https://github.com/okteto/okteto) - Develop directly in any Kubernetes cluster. No commit, build or push required.
   - [Mantl](https://github.com/mantl/mantl)
   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [VAMP](http://vamp.io)

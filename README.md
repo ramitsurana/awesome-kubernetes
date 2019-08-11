@@ -926,7 +926,6 @@ Projects
 * [CoreOS](http://coreos.com)
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
 * [k3OS](https://github.com/rancher/k3os)
-* [Kurma][https://github.com/apcera/kurma] - DEPRECATED
 * [LinuxKit](https://github.com/linuxkit/kubernetes)
 * [Talos](https://github.com/talos-systems/talos)
 

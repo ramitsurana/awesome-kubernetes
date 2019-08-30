@@ -841,7 +841,7 @@ Projects
 
 ## Configuration
 
-* [Ansible](http://docs.ansible.com/ansible/latest/modules/k8s_raw_module.html)
+* [Ansible](https://docs.ansible.com/ansible/latest/modules/k8s_module.html)
 * [Chef](http://supermarket.chef.io/cookbooks/kubernetes)
 * [Habitat](http://www.habitat.sh/docs/best-practices/#kubernetes)
 * [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)

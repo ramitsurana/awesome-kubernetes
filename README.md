@@ -967,6 +967,7 @@ Projects
 
 * [Krew - Plugin Manager](https://github.com/kubernetes-sigs/krew/)
 * [Kboom](https://github.com/mhausenblas/kboom)
+* [View-utilization](https://github.com/etopeter/kubectl-view-utilization)
 
 ## Debug
 

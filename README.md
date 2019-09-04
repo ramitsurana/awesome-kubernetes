@@ -829,6 +829,7 @@ Projects
 * [stern](https://github.com/wercker/stern) - Multi pod and container log tailing
 * [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
 * [K9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
+* [tubectl](https://github.com/reconquest/tubekit) - Kubernetes CLI on steroids with pattern matching
 
 ## Application deployment orchestration
 

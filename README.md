@@ -461,7 +461,7 @@ Case Studies
 * [Monitoring Kubernetes at Wayblazer](http://sysdig.com/blog/monitoring-docker-kubernetes-wayblazer/)
 * [Major League Soccer Monolith to Kubernetes Transition](http://sysdig.com/blog/monoliths-kubernetes-monitoring-transitioning-docker-major-league-soccer/)
 * [Using Kubernetes on AWS](https://github.com/hjacobs/kubernetes-on-aws-users)
-* [Kubernetes at Github](http://githubengineering.com/kubernetes-at-github/)
+* [Kubernetes at Github](https://github.blog/2017-08-16-kubernetes-at-github/)
 * [Kubernetes the hard way (installation from scratch)](http://github.com/kelseyhightower/kubernetes-the-hard-way/)
 * [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
 
@@ -567,6 +567,7 @@ Projects
 * [Kubic-Project](https://github.com/kubic-project)
 * [Reloader](https://github.com/stakater/Reloader) - Auto-load updates of ConfigMaps and Secrets into pods for Deployments, StatefulSets and DaemonSets
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
+* [kubernetes-deploy](https://github.com/Shopify/kubernetes-deploy) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
 
 ## Package Managers
 

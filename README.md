@@ -9,7 +9,6 @@ Awesome-Kubernetes
 [![Slack Widget](https://img.shields.io/badge/Slack-Channel-blue.svg?style=flat-square)](https://kubernetes.slack.com/messages/awesome-kubernetes)
 [![Documentation Status](https://readthedocs.org/projects/awesome-kubernetes-by-ramitsurana/badge/?version=latest)](https://awesome-kubernetes-by-ramitsurana.readthedocs.io/en/latest/?badge=latest)
 
-
 A curated list for awesome kubernetes sources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 
 ![final-k8s](https://cloud.githubusercontent.com/assets/8342133/26794201/62c1a006-4a3e-11e7-8bf9-4449814648f2.png)
@@ -52,6 +51,10 @@ Kubernetes celebrates its birthday every year on 21st July. Kubernetes 1.0 was r
 
 The awesome-kubernetes will now soon be available in the form of different releases and package bundles, It means that you can
 download the awesome kubernetes release up to a certain period of time, The release for awesome kubernetes 2015 bundle is released. Checkout the releases column for more info.
+
+## Featured On
+
+- https://cloud.google.com/community/
 
 -----------------------------------------------------------------------
 

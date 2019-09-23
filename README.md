@@ -348,6 +348,7 @@ Useful Articles
 * [Kubernetes tips & tricks](http://opsnotice.xyz/kubernetes-tips-tricks/)
 * [Running Flask on Kubernetes](https://testdriven.io/running-flask-on-kubernetes)
 * [Deploying Node Apps the "Right" Way](https://kubesail.com/blog/deploying-node-apps-the-right-way) by [Dan Pastusek](https://twitter.com/pastudan)
+* [Simplify your research experiments with Kubernetes](https://www.ovh.com/blog/simplify-your-research-experiments-with-kubernetes/) by [Parmentier Laurent](https://www.linkedin.com/in/laurent-parmentier-33187948/)
 
 Managed Kubernetes
 =======================================================================

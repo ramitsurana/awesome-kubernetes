@@ -32,7 +32,7 @@ It groups containers that make up an application into logical units for easy man
 _Source:_ [What is Kubernetes](http://kubernetes.io/)
 
 
-## History:
+## History
 
 **Kubernetes is known to be a descendant of Google's system BORG**
 
@@ -43,7 +43,7 @@ batch jobs; both predated Linux control groups.
 
 _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 
-## Date of Birth:
+## Date of Birth
 
 Kubernetes celebrates its birthday every year on 21st July. Kubernetes 1.0 was released on July 21 2015, after being first announced to the public at [Dockercon in June 2014](https://www.youtube.com/watch?v=YrxnVKZeqK8).
 
@@ -64,8 +64,8 @@ Menu
 
 - [Awesome-Kubernetes](#awesome-kubernetes)
   - [What is Kubernetes? :ship:](#what-is-kubernetes-ship)
-  - [History:](#history)
-  - [Date of Birth:](#date-of-birth)
+  - [History](#history)
+  - [Date of Birth](#date-of-birth)
   - [Roadmap](#roadmap)
 - [Menu](#menu)
 - [Starting Point](#starting-point)

@@ -181,6 +181,7 @@ Installers
 * [Conjure-up](https://github.com/conjure-up/conjure-up) - Ubuntu - Cloud Agnostique
 * [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) - Run Kubernetes and Docker locally on your MAC (Edge Channel)
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) - Run Kubernetes and Docker locally on your Windows PC (Edge Channel)
+* [eksctl](https://eksctl.io/) - The official CLI for Amazon EKS
 * [Juju](https://jujucharms.com/canonical-kubernetes) - Ubuntu - Cloud Agnostique
 * [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb
 * [kind](https://kind.sigs.k8s.io) -  A tool for running local Kubernetes clusters using Docker container “nodes”
@@ -1027,6 +1028,7 @@ Certifications
 *A list of some credible certifications to certify yourself as Kubernetes expert*
 
 * [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
+* [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
 
 Slide Presentations
 =======================================================================

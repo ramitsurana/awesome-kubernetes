@@ -665,7 +665,7 @@ Projects
 * [Vili](https://github.com/airware/vili)
 * [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
 * [Wercker](http://blog.wercker.com/topic/kubernetes)
-* [Werf](https://github.com/flant/werf) - Werf simplifies development of build scripts, reduces commit build time and automates deployment.
+* [Werf](https://werf.io) - GitOps tool with advanced features to build images and deploy them to Kubernetes. Integrates with any existing CI system.
 
 ## Serverless Implementations
 

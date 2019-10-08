@@ -771,6 +771,7 @@ Projects
 * [OpenVSwitch](http://openvswitch.org/)
 * [Romana](http://romana.io/)
 * [Weave Net](http://www.weave.works/docs/net/latest/kubernetes/kube-addon/)
+* [Submariner: Cross-Cluster Network Connectivity for Kubernetes](https://submariner.io) - Submariner enables direct networking between pods in different Kubernetes clusters on prem or in the cloud.
 
 ## Service mesh
 

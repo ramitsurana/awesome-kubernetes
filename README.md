@@ -1092,7 +1092,7 @@ Interesting Twitter Accounts
 * [Engine Yard](https://twitter.com/engineyard)
 * [Google Cloud Platform](https://twitter.com/googlecloud)
 * [Kismatic](https://twitter.com/kismatic)
-* [Kube Con](https://twitter.com/kubeconio)
+* [Kube Con](https://twitter.com/kubecon_)
 * [KubeFacts](https://twitter.com/kubefacts)
 * [Kubernetes](https://twitter.com/kubernetesio)
 * [KubeWeekly](https://twitter.com/kubeweekly)

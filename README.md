@@ -1157,7 +1157,6 @@ Connecting with Kubernetes
 * [Community Q&A – The Office Hours](https://github.com/kubernetes/community/blob/master/events/office-hours.md)
 * [Community](https://github.com/kubernetes/community)
 * [Freenode](http://webchat.freenode.net/?channels=google-containers)
-* [Google +](https://plus.google.com/u/0/b/116512812300813784482/116512812300813784482)
 * [Mailing List (developer/contributor discussion)](https://groups.google.com/forum/#!forum/kubernetes-dev)
 * [Mailing List (user discussion and Q&A)](https://groups.google.com/forum/#!forum/kubernetes-users)
 * [Reddit](https://www.reddit.com/r/kubernetes/)

@@ -603,6 +603,7 @@ Projects
 * [Kubernetes Web View](https://codeberg.org/hjacobs/kube-web-view) - list and view all Kubernetes resources (incl. CRDs) with permalink-friendly URLs in a plain-HTML frontend
 * [Kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 * [Kubetail](https://github.com/johanhaleby/kubetail)
+* [Botkube](https://github.com/infracloudio/botkube) - App that helps you monitor and debug critical deployments & gives recommendations for standard practices
 * [Kubewatch](https://github.com/skippbox/kubewatch)
 * [Netsil](https://github.com/netsil/manifests)
 * [New Relic](https://newrelic.com/platform/kubernetes) - Kubernetes monitoring and visualization service.

@@ -810,6 +810,7 @@ Projects
 * [Kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 * [Polaris](https://github.com/reactiveops/polaris) - An open source dashboard for Kubernetes best practices
 * [Octant](https://github.com/vmware/octant) - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+* [Kontena Lens](https://github.com/kontena/lens) - The Ultimate Dashboard For Kubernetes.
 
 ## Desktop applications
 

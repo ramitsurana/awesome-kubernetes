@@ -846,6 +846,7 @@ Projects
 * [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
 * [K9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
 * [tubectl](https://github.com/reconquest/tubekit) - Kubernetes CLI on steroids with pattern matching
+* [webkubectl](https://github.com/webkubectl/webkubectl) - A web based tool helps you to manage kubernetes credentials and run kubectl command in web browser.
 
 ## Application deployment orchestration
 

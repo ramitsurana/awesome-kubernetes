@@ -763,6 +763,7 @@ Projects
 * [illuminatio](https://github.com/inovex/illuminatio) is a tool for automatically testing kubernetes network policies
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
+* [KubeIP](http://github.com/doitintl/kubeip) Set static ip for nodes on GKE (useful for whitelisting ips)
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 * [Kuryr](https://github.com/openstack/kuryr-kubernetes)
 * [Linen](https://github.com/John-Lin/linen-cni)

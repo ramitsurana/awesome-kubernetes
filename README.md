@@ -424,6 +424,7 @@ Managed Kubernetes
   - [Kel](http://www.kelproject.com)
   - [KubeSail](https://kubesail.com) - An easy, free way to try Kubernetes
   - [KubeSphere](https://kubesphere.io/en)
+  - [Kyma](https://kyma-project.io/) - A platform for extending apps with serverless functions. It provides a selection of cloud-native projects glued together to simplify the creation and management of services.
   - [OpenShift Online/Dedicated/Container Platform](https://www.openshift.com/)
   - [OpenShift Origin (OKD)](http://www.okd.io)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)

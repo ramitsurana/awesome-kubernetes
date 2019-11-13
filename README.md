@@ -1149,6 +1149,7 @@ Meetup Groups
 * [London](https://www.meetup.com/Kubernetes-London/)
 * [Munich](https://www.meetup.com/Munchen-Kubernetes-Meetup/)
 * [New York](https://twitter.com/kubernetesnyc)
+* [Nuremberg](https://www.meetup.com/Kubernetes-Nurnberg/)
 * [Paris](https://twitter.com/kubernetesparis)
 * [Pittsburgh](https://www.meetup.com/Pittsburgh-Kubernetes-Meetup)
 * [Pune](https://www.meetup.com/Kubernetes-Pune/)

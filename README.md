@@ -182,6 +182,7 @@ Installers
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) - Run Kubernetes and Docker locally on your Windows PC (Edge Channel)
 * [eksctl](https://eksctl.io/) - The official CLI for Amazon EKS
 * [Juju](https://jujucharms.com/canonical-kubernetes) - Ubuntu - Cloud Agnostic
+* [KubeSphere](https://github.com/kubesphere/kubesphere) - Install Kubernetes and KubeSphere in multiple instances in an easy way, including full-stack cloud-native softwares, e.g. istio, ES, Prometheus, Fluent Bit, SonarQube, Jenkins.
 * [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb
 * [kind](https://kind.sigs.k8s.io) -  A tool for running local Kubernetes clusters using Docker container “nodes”
 * [Kops](https://github.com/kubernetes/kops) - OS Agnostic - AWS
@@ -206,6 +207,7 @@ Installers
 * [Terraform](https://github.com/kz8s/tack) - CoreOS - AWS
 * [Typhoon](https://typhoon.psdn.io/) - Container Linux - Cloud Agnostic
 * [aks-engine](https://github.com/Azure/aks-engine) - AKS Engine is the easiest way to provision a self-managed Kubernetes cluster on Azure.
+
 
 
 Main Resources
@@ -294,6 +296,7 @@ Useful Articles
 - [Kubernetes with OpenStack Cloud Provider: Current state and upcoming changes (part 1 of 2)](http://medium.com/@arthur.souzamiranda/kubernetes-with-openstack-cloud-provider-current-state-and-upcoming-changes-part-1-of-2-48b161ea449a)
 - [Comparison of Networking Solutions for Kubernetes](http://machinezone.github.io/research/networking-solutions-for-kubernetes/)
 
+
 ### [CI/CD](#ci/cd)
 
 - [GitOps: High-Velocity CI/CD for Kubernetes](http://dzone.com/articles/gitops-high-velocity-cicd-for-kubernetes)
@@ -367,7 +370,7 @@ Managed Kubernetes
   - [Gravity](https://gravitational.com/gravity) - Formerly Telekube
   - [Kqueen](https://github.com/Mirantis/kqueen)
   - [Kubermatic](http://www.loodse.com/)
-  - [Kubesphere](https://kubesphere.io/en)
+  - [KubeSphere](https://github.com/kubesphere/kubesphere) - Full-stack and easy-to-use container platform, with awesome user experience and wizard UI, supports installing on Linux and Kubernetes.
   - [Kublr](https://kublr.com/how-it-works/) - AWS, Azure, GCP, vSphere, vCloud Director, and On-Prem cluster manager
   - [PKS](https://pivotal.io/platform/pivotal-container-service) - Cluster manager by Pivotal, VMWare and Google
   - [Rancher](https://rancher.com/)
@@ -420,7 +423,7 @@ Managed Kubernetes
   - [Hasura](http://www.hasura.io)
   - [Kel](http://www.kelproject.com)
   - [KubeSail](https://kubesail.com) - An easy, free way to try Kubernetes
-  - [KubeSphere](https://kubesphere.io/en)
+  - [KubeSphere](https://github.com/kubesphere/kubesphere) - Full-stack and easy-to-use container platform, with awesome user experience and wizard UI.
   - [Kyma](https://kyma-project.io/) - A platform for extending apps with serverless functions. It provides a selection of cloud-native projects glued together to simplify the creation and management of services.
   - [OpenShift Online/Dedicated/Container Platform](https://www.openshift.com/)
   - [OpenShift Origin (OKD)](http://www.okd.io)
@@ -918,6 +921,7 @@ Projects
 * [HAProxy Ingress](https://github.com/jcmoraisjr/haproxy-ingress)
 * [Linode NodeBalancer Ingress](https://github.com/linode/linode-cloud-controller-manager)
 * [MetalLB](https://metallb.universe.tf/) - load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols.
+* [Porter](https://github.com/kubesphere/porter) - a load balancer which is designed for a bare metal Kubernetes cluster. It's implemented by physical switch, and uses BGP and ECMP to achieve optimal performance and HA.
 * [NGINX Ingress Controller](https://github.com/kubernetes/ingress-nginx)
 * [Nginx Plus](http://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
 * [Skipper](https://github.com/zalando/skipper) - HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress

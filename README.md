@@ -55,6 +55,7 @@ download the awesome kubernetes release up to a certain period of time, The rele
 ## Featured On
 
 - https://cloud.google.com/community/
+- https://www.freecodecamp.org/news/a-friendly-introduction-to-kubernetes-670c50ce4542/
 
 -----------------------------------------------------------------------
 

@@ -376,7 +376,7 @@ Managed Kubernetes
   ### [Developer Platform](#developer-platform)
 
   - [DevSpace](https://github.com/covexo/devspace) - Build, test and run code directly inside any Kubernetes cluster
-  - [Draft](https://draft.sh) - a tool for developers to create cloud native applications with Kubernetes
+  - [Draft](http://draft.sh) - a tool for developers to create cloud native applications with Kubernetes
   - [Eclipse Che](https://github.com/eclipse/che) - cloud development workspaces with SSH and multi-user support
   - [Garden](https://garden.io) - Orchestrates your development workflows to make developing microservices faster and easier.
   - [goPaddle](http://www.gopaddle.io)

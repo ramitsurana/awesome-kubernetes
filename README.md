@@ -880,6 +880,7 @@ Projects
 * [Psykube](https://github.com/commercialtribe/psykube)
 * [Skaffold](https://github.com/GoogleCloudPlatform/skaffold) - Command line tool that facilitates continuous development for Kubernetes applications.
 * [kubedog](https://github.com/flant/kubedog) - Kubedog is a library and cli utility that allows watching and following kubernetes resources in CI/CD deploy pipelines.
+* [kapp](https://github.com/k14s/kapp) - simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 
 ## Configuration
 

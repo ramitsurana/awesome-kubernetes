@@ -651,6 +651,7 @@ Projects
 * [Sonobuoy](https://github.com/heptio/sonobuoy) - Diagnostic tool that runs Kubernetes conformance tests
 * [Test-Infra](https://github.com/kubernetes/test-infra)
 * [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) - Gamified Chaos engineering tool for Kubernetes Clusters. It is like Space Invaders but alien ships are pods.
+* [predator](https://github.com/Zooz/predator) - Distributed performance testing platform for Kubernetes
 
 ## Continuous Delivery
 

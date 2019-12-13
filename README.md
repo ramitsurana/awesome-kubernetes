@@ -68,6 +68,7 @@ Menu
   - [History](#history)
   - [Date of Birth](#date-of-birth)
   - [Roadmap](#roadmap)
+  - [Featured On](#featured-on)
 - [Menu](#menu)
 - [Starting Point](#starting-point)
 - [Installers](#installers)
@@ -86,12 +87,21 @@ Menu
     - [Devops Tools](#devops-tools)
     - [Others](#others)
 - [Managed Kubernetes](#managed-kubernetes)
+    - [Cluster Managers](#cluster-managers)
+    - [Developer Platform](#developer-platform)
+    - [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
+    - [Public/Private Cloud](#publicprivate-cloud)
+    - [PaaS](#paas)
 - [Interactive Learning Environments](#interactive-learning-environments)
 - [MOOC Courses / Tutorials](#mooc-courses--tutorials)
+    - [Courses](#courses)
+    - [Tutorials](#tutorials)
 - [Case Studies](#case-studies)
 - [Persistent Volume Providers](#persistent-volume-providers)
 - [Container Storage Interface Plugins](#container-storage-interface-plugins)
 - [Developer Libraries/ Scripts](#developer-libraries-scripts)
+    - [Python](#python)
+    - [Jenkins](#jenkins)
 - [Projects](#projects)
   - [Related Software](#related-software)
   - [Package Managers](#package-managers)
@@ -120,10 +130,11 @@ Menu
   - [Service Discovery](#service-discovery)
   - [Operating System](#operating-system)
   - [YAML/JSON Config](#yamljson-config)
+  - [Static Analysis](#static-analysis)
   - [Tuning](#tuning)
   - [Backup and Disaster Recovery](#backup-and-disaster-recovery)
-  - [Plugins](#plugins)
   - [Policy Management](#policy-management)
+  - [Plugins](#plugins)
   - [Debug](#debug)
 - [Raspberry Pi](#raspberry-pi)
 - [Books](#books)
@@ -185,6 +196,7 @@ Installers
 * [Juju](https://jujucharms.com/canonical-kubernetes) - Ubuntu - Cloud Agnostic
 * [KubeSphere](https://github.com/kubesphere/kubesphere) - Install Kubernetes and KubeSphere in multiple instances in an easy way, including full-stack cloud-native softwares, e.g. istio, ES, Prometheus, Fluent Bit, SonarQube, Jenkins.
 * [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb
+* [k3d](https://github.com/rancher/k3d) - A tool for running k3s clusters in container nodes
 * [kind](https://kind.sigs.k8s.io) -  A tool for running local Kubernetes clusters using Docker container “nodes”
 * [Kops](https://github.com/kubernetes/kops) - OS Agnostic - AWS
 * [Kube-ansible](https://github.com/kairen/kube-ansible) - OS Agnostic - Cloud Agnostic
@@ -630,6 +642,7 @@ Projects
 * [k8s-testsuite](https://github.com/mrahbar/k8s-testsuite) - Helm chart for network and loadtesting of a Kubernetes cluster
 * [kboom](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester
 * [kind](https://github.com/bsycorp/kind) - A single node cluster to run your CI tests against thats ready in 30 seconds
+* [k3d](https://github.com/rancher/k3d) - Quickly create single- or multi-node k3s clusters in containerized nodes
 * [kube-monkey](https://github.com/asobti/kube-monkey) - Chaos Monkey for Kubernetes clusters
 * [Kubeadm-dind-cluster](https://github.com/kubernetes-sigs/kubeadm-dind-cluster) - multi-node test cluster based on kubeadm
 * [Litmus](https://github.com/openebs/litmus) - Chaos engineering for stateful workloads on Kubernetes

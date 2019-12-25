@@ -676,7 +676,7 @@ Projects
 * [Keel](https://keel.sh/)
 * [Kit](http://invisionapp.github.io/kit/)
 * [Kontinuous](https://github.com/AcalephStorage/kontinuous)
-* [KubeCI](https://www.kubeci.io/)
+* [KubeCI](https://github.com/kubeciio)
 * [Razee](https://github.com/razee-io/Razee)
 * [Shippable](http://blog.shippable.com/topic/kubernetes)
 * [Shipper](https://github.com/bookingcom/shipper) - Kubernetes native multi-cluster canary or blue-green rollouts using Helm.

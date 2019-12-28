@@ -432,7 +432,6 @@ Managed Kubernetes
    *Kubernetes Platform as a Service providers*
 
   - [Alauda Container Platform](http://www.alauda.cn/?lang=EN)
-  - [Containerum](https://containerum.com)
   - [Eldarion Cloud](http://eldarion.cloud)
   - [Hasura](http://www.hasura.io)
   - [Kel](http://www.kelproject.com)

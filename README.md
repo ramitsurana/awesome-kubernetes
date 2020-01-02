@@ -844,6 +844,7 @@ Projects
 
 ## API/CLI adaptors
 
+* [awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) - Curated list of kubectl plugins.
 * [click](https://github.com/databricks/click) - A CLI focused REPL for quickly interacting with Kubernetes objects.
 * [Ksql](https://github.com/brendandburns/ksql)
 * [kube-prompt](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt.

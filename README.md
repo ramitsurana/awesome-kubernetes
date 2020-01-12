@@ -518,35 +518,31 @@ Persistent Volume Providers
 Container Storage Interface Plugins
 =======================================================================
 
-*List of some Container Storage Interface plugins for Kubernetes. Check out [Kubernetes-CSI](https://kubernetes-csi.github.io/docs/) for more info*
+*List of some [Container Storage Interface](https://kubernetes-csi.github.io/docs/) plugins for Kubernetes. Check out [Kubernetes-CSI Drivers](https://kubernetes-csi.github.io/docs/drivers.html) for a complete list*
 
+* [Alibaba Cloud](https://github.com/kubernetes-sigs/alibaba-cloud-csi-driver)
 * [AWS EBS](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
 * [AWS EFS](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
 * [AWS FSx for Lustre](https://github.com/kubernetes-sigs/aws-fsx-csi-driver)
 * [Ceph](https://github.com/ceph/ceph-csi)
+* [Cinder](https://github.com/kubernetes/cloud-provider-openstack/tree/master/pkg/csi/cinder)
 * [Cloudscale](https://github.com/cloudscale-ch/csi-cloudscale)
 * [DigitalOcean](https://github.com/digitalocean/csi-digitalocean)
-* [DriveScale](https://github.com/DriveScale/k8s-plugins)
 * [Ember](https://ember-csi.io)
-* [Gluster](https://github.com/gluster/gluster-csi-driver)
 * [Google Compute Engine Persistent Disk](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver)
-* [Hostpath](https://github.com/kubernetes-csi/drivers/tree/master/pkg/hostpath)
-* [Inmemory](https://github.com/kubernetes-csi/csi-test/tree/master/mock/service)
 * [Intel PMEM-CSI](https://github.com/intel/pmem-CSI)
+* [KaDalu - Gluster](https://github.com/kadalu/kadalu)
 * [Linode Block Storage](https://github.com/linode/linode-blockstorage-csi-driver)
-* [Mesos](http://mesos.apache.org/documentation/latest/csi)
-* [MooseFs](https://github.com/moosefs/moosefs-csi)
+* [Longhorn](https://github.com/longhorn/longhorn)
 * [NetApp Trident](https://github.com/NetApp/trident)
 * [Nexenta](https://nexentaedge.io/docs/kubernetes-csi.html)
-* [NFS](https://github.com/kubernetes-csi/drivers/tree/master/pkg/nfs)
-* [Nutanix](https://portal.nutanix.com/#/page/docs/details?targetId=CSI-Volume-Driver:CSI-Volume-Driver)
 * [OpenSDS](https://github.com/opensds/nbp/tree/master/csi)
 * [OpenStack Cinder](https://github.com/kubernetes/cloud-provider-openstack/tree/master/pkg/csi/cinder)
 * [Portworx](https://github.com/libopenstorage/openstorage/tree/master/csi)
 * [Quobyte](https://github.com/quobyte/quobyte-csi)
-* [ScaleIO](https://github.com/thecodeteam/csi-scaleio)
-* [Virtual Filesystem](https://github.com/rexray/csi-vfs)
-* [VMware vSphere](https://github.com/thecodeteam/csi-vsphere)
+* [S3](https://github.com/ctrox/csi-s3)
+* [Vault](https://github.com/kubevault/csi-driver)
+* [VMware vSphere](https://github.com/kubernetes-sigs/vsphere-csi-driver)
 
 Cluster API Providers
 =======================================================================

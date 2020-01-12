@@ -99,6 +99,7 @@ Menu
 - [Case Studies](#case-studies)
 - [Persistent Volume Providers](#persistent-volume-providers)
 - [Container Storage Interface Plugins](#container-storage-interface-plugins)
+- [Cluster API Providers](#cluster-api-providers)
 - [Developer Libraries/ Scripts](#developer-libraries-scripts)
     - [Python](#python)
     - [Jenkins](#jenkins)
@@ -546,6 +547,26 @@ Container Storage Interface Plugins
 * [ScaleIO](https://github.com/thecodeteam/csi-scaleio)
 * [Virtual Filesystem](https://github.com/rexray/csi-vfs)
 * [VMware vSphere](https://github.com/thecodeteam/csi-vsphere)
+
+Cluster API Providers
+=======================================================================
+
+*List of some [Cluster API](https://github.com/kubernetes-sigs/cluster-api) providers for Kubernetes. Check out [Kubernetes-CAPI Providers](https://cluster-api.sigs.k8s.io/reference/providers.html) for more info*
+
+  ### Bootstrap
+
+   - [Kubeadm](https://github.com/kubernetes-sigs/cluster-api/tree/master/bootstrap/kubeadm)
+
+  ### Infrastructure
+
+   - [AWS](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+   - [Azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
+   - [Metal3-io](https://github.com/metal3-io/cluster-api-provider-baremetal)
+   - [DigitalOcean](https://github.com/kubernetes-sigs/cluster-api-provider-digitalocean)
+   - [GCP](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+   - [IBM Cloud](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud)
+   - [OpenStack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
+   - [VMware vSphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
 
 Developer Libraries/ Scripts
 =======================================================================

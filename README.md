@@ -611,6 +611,7 @@ Projects
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
 * [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
 * [ktunnel](https://github.com/omrikiei/ktunnel) - A command-line tool that establishes a reverse tunnel between Kubernetes and your cluster, use it to locally develop/debug services or integrate with local resources.
+* [k8s-platform-lcm](https://github.com/arminc/k8s-platform-lcm) - A faster and easier way to manage the lifecycle of applications and tools, running and living around your Kubernetes platform
 
 ## Package Managers
 

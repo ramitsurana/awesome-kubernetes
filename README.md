@@ -671,6 +671,7 @@ Projects
 * [Test-Infra](https://github.com/kubernetes/test-infra)
 * [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) - Gamified Chaos engineering tool for Kubernetes Clusters. It is like Space Invaders but alien ships are pods.
 * [predator](https://github.com/Zooz/predator) - Distributed performance testing platform for Kubernetes
+* [chaos-mesh](https://github.com/pingcap/chaos-mesh) - A Chaos Engineering Platform for Kubernetes
 
 ## Continuous Delivery
 

@@ -925,6 +925,7 @@ Projects
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
 * [Cue](https://cue.googlesource.com/cue/+/HEAD/doc/tutorial/kubernetes/README.md) - A data constraint language which aims to simplify tasks involving defining and using data. Cue is a superset of JSON
 * [ytt](https://github.com/k14s/ytt) - YAML templating tool that works on YAML structure allowing you to focus on your data instead of how to properly escape it.
+* [kosko](https://github.com/tommy351/kosko) - Write Kubernetes manifests in JavaScript and validate against Kubernetes OpenAPI definitions.
 
 ## Security
 

@@ -967,7 +967,7 @@ Projects
 * [NGINX Ingress Controller](https://github.com/kubernetes/ingress-nginx)
 * [Nginx Plus](http://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
 * [Skipper](https://github.com/zalando/skipper) - HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
-* [Traefik](http://traefik.io/)
+* [Traefik](https://containo.us/traefik/)
 * [Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager)
 * [Yggdrasil - Envoy Control Plane for Kubernetes Multi-cluster Ingress](https://github.com/uswitch/yggdrasil)
 

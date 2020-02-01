@@ -361,7 +361,7 @@ Useful Articles
 * [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
 * [Kubernetes Production Patterns (and Anti-Patterns)](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 * [Introducing Kubic Project](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/)
-* [Three post learn k8s](http://blog.alexellis.io/tag/learn-k8s/)
+* [Three post learn k8s](https://blog.alexellis.io/tag/learn-k8s/)
 * [Kubernetes tips & tricks](http://opsnotice.xyz/kubernetes-tips-tricks/)
 * [Running Flask on Kubernetes](https://testdriven.io/running-flask-on-kubernetes)
 * [Deploying Node Apps the "Right" Way](https://kubesail.com/blog/deploying-node-apps-the-right-way) by [Dan Pastusek](https://twitter.com/pastudan)

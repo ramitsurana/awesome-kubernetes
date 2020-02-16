@@ -397,7 +397,6 @@ Managed Kubernetes
   - [Draft](http://draft.sh) - A tool for developers to create cloud native applications with Kubernetes
   - [Eclipse Che](https://github.com/eclipse/che) - Cloud development workspaces with SSH and multi-user support
   - [Garden](https://garden.io) - Orchestrates your development workflows to make developing microservices faster and easier
-  - [goPaddle](http://www.gopaddle.io)
   - [Knative](https://github.com/knative/) - Platform to build, deploy, and manage modern serverless workloads
   - [Okteto](https://github.com/okteto/okteto) - Develop directly in any Kubernetes cluster. No commit, build or push required
   - [Mantl](https://github.com/mantl/mantl) - A modern platform for rapidly deploying globally distributed services

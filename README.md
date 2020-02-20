@@ -400,7 +400,7 @@ Managed Kubernetes
   - [Knative](https://github.com/knative/) - Platform to build, deploy, and manage modern serverless workloads
   - [Okteto](https://github.com/okteto/okteto) - Develop directly in any Kubernetes cluster. No commit, build or push required
   - [Mantl](https://github.com/mantl/mantl) - A modern platform for rapidly deploying globally distributed services
-  - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes) - Spring Cloud integration with Kubernetes
+  - [Spring Cloud Kubernetes](https://github.com/spring-cloud/spring-cloud-kubernetes) - Spring Cloud integration with Kubernetes
   - [VAMP](http://vamp.io) - Cloud-Native Release Management & Orchestration
   - [Tilt](https://github.com/windmilleng/tilt) - Manages local development instances for teams that deploy to Kubernetes
 

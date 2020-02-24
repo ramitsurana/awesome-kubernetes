@@ -786,6 +786,7 @@ Projects
 * [MongoDB](http://www.mongodb.com/blog/post/running-mongodb-as-a-microservice-with-docker-and-kubernetes)
 * [RDS](https://github.com/sorenmat/k8s-rds) - Provision RDS databases via CRD from Kubernetes
 * [Vitess](http://vitess.io/) - Horizontal scaling of MySql by Youtube
+* [YugabyteDB](https://docs.yugabyte.com/latest/deploy/kubernetes/) - Horizontally scalable, Postgres-compatible SQL database.
 
 ## Networking
 

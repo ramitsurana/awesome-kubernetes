@@ -647,6 +647,7 @@ Projects
 * [Outcold Solutions](https://www.outcoldsolutions.com) - monitoring Kubernetes, OpenShift and Docker in Splunk Enterprise and Splunk Cloud (metrics and log forwarding)
 * [Prometheus](http://prometheus.io)
 * [Searchlight](https://github.com/appscode/searchlight)
+* [StatusBay](https://github.com/similarweb/statusbay) - Kubernetes deployment visibility (inc. Slack notifications, metrics and checks enrichment, resources consolidation, etc)
 * [Sysdig Monitoring](https://www.sysdig.com/)
 * [Sysdig Open Source](http://www.sysdig.org/)
 * [The Elastic Stack](https://www.elastic.co/docker-kubernetes-container-monitoring) - An open-source solution for monitoring and visualising K8s metrics, logs, application traces and more.

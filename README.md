@@ -899,7 +899,7 @@ Projects
 * [Brigade](https://github.com/Azure/brigade) - Event Based Scripting using JavaScript
 * [Deployment manager](https://cloud.google.com/deployment-manager/)
 * [ElasticKube](https://elasticbox.com/kubernetes)
-* [Gitkube](https://gitkube.sh/) - Build and deploy docker images on Kubernetes using `git push`.
+* [Gitkube](https://github.com/hasura/gitkube/) - Build and deploy docker images on Kubernetes using `git push`.
 * [IBM UrbanCode](https://developer.ibm.com/urbancode/plugin/kubernetes/)
 * [Kb8or](https://github.com/UKHomeOffice/kb8or)
 * [Nulecule](https://github.com/projectatomic/nulecule)

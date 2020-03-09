@@ -886,6 +886,7 @@ Projects
 * [kubensx](https://github.com/shyiko/kubensx) - Simpler Cluster/User/Namespace switching for Kubernetes (featuring interactive mode and wildcard/fuzzy matching).
 * [kubeplay](https://github.com/errordeveloper/kubeplay)
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - Work around kubectl
+* [Kui](https://github.com/IBM/kui) - Hybrid CLI/GUI alternative to kubectl
 * [StackStorm](https://github.com/StackStorm/st2)
 * [stern](https://github.com/wercker/stern) - Multi pod and container log tailing
 * [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim

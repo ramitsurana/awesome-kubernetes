@@ -855,12 +855,12 @@ Projects
 * [Kubevious](https://github.com/kubevious/kubevious) - An open source UI to make Kubernetes configuration and state obvious and safe.
 * [Polaris](https://github.com/reactiveops/polaris) - An open source dashboard for Kubernetes best practices
 * [Octant](https://github.com/vmware/octant) - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
-* [Kontena Lens](https://github.com/kontena/lens) - The Ultimate Dashboard For Kubernetes.
 
 ## Desktop applications
 
 * [Kubernetic](https://kubernetic.com/)
 * [Kube Forwarder](http://kube-forwarder.pixelpoint.io) – An open source Kubernetes port forwarding manager
+* [Kontena Lens](https://github.com/kontena/lens) - The Ultimate Dashboard For Kubernetes.
 
 ## Mobile applications
 

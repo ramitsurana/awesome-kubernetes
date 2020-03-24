@@ -14,4 +14,4 @@ before_script:
   - gem install awesome_bot
 script:
   - "travis_wait 2" 
-  - travis_retry awesome_bot README.md --allow-redirect --white-list developer.ibm.com,linkedin.com,slideshare.net,research.google.com,twitter.com,img.shields.io,sdxcentral.com,dasblinkenlichten.com --allow-dupe
+  - travis_retry awesome_bot README.md --allow-redirect --white-list developer.ibm.com,linkedin.com,slideshare.net,research.google.com,twitter.com,img.shields.io,sdxcentral.com,dasblinkenlichten.com,github.com,creativecommons.org --allow-dupe

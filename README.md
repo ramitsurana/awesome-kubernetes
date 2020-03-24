@@ -137,6 +137,7 @@ Menu
   - [Policy Management](#policy-management)
   - [Plugins](#plugins)
   - [Debug](#debug)
+  - [Benchmark Tools](#benchmark-tools)
 - [Raspberry Pi](#raspberry-pi)
 - [Books](#books)
 - [Certifications](#certifications-1)
@@ -1042,6 +1043,10 @@ Projects
 ## Debug
 
 * [Kubectl-Debug](https://github.com/aylei/kubectl-debug)
+
+## Benchmark Tools
+
+* [Kubestone](https://github.com/xridge/kubestone/)
 
 Raspberry Pi
 =======================================================================

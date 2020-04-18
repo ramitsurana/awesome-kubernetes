@@ -1037,6 +1037,7 @@ Projects
 * [K8up](https://github.com/vshn/k8up) - Kubernetes and OpenShift Backup Operator based on restic
 * [burry.sh](https://github.com/mhausenblas/burry.sh) - Cloud Native backup and recovery for etcd, zookeeper and consul
 * [kube-backup](https://github.com/pieterlange/kube-backup) - Sync kubernetes state to git.
+* [Stash](https://github.com/stashed/stash) - Stash is a Kubernetes operator that uses restic or Kubernetes CSI Driver VolumeSnapshotter  to backup your volumes and kubernetes state.
 
 ## Policy Management
 

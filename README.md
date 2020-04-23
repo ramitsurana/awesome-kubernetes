@@ -1158,7 +1158,6 @@ Interesting Twitter Accounts
 *Twitter is quick, it’s easy to communicate on, and is a very valuable social channel for a brand or business if you use it to its full potential, By following these news aggregators, rolling news channels, and companies, you can get the inside scoop of a story long before it hits the mainstream news outlets.*
 
 
-* [Apcera](https://twitter.com/Apcera)
 * [CoreOS](https://twitter.com/coreoslinux)
 * [DevOps Summit](https://twitter.com/DevOpsSummit)
 * [Engine Yard](https://twitter.com/engineyard)

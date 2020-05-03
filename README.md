@@ -1142,7 +1142,7 @@ Videos
 
 ### Other Useful Videos
 
-* [Compromising Kubernetes Cluster by Exploiting RBAC Permissions](](https://www.youtube.com/watch?v=1LMo0CftVC4) ) by [Eviatar Gerzi](https://twitter.com/g3rzi)
+* [Compromising Kubernetes Cluster by Exploiting RBAC Permissions](https://www.youtube.com/watch?v=1LMo0CftVC4) by [Eviatar Gerzi](https://twitter.com/g3rzi)
 * [A Technical Overview of Kubernetes](https://www.youtube.com/watch?v=WwBdNXt6wO4) by [Bredan Burns](https://twitter.com/brendandburns)
 * [Alpaca Kubernetes on AWS](https://www.youtube.com/watch?v=jLk1pkc7kv4) by [Adrien Lemaire](https://twitter.com/fandekasp)
 * [Arun Gupta: Package your Java applications using Docker and Kubernetes](https://www.youtube.com/watch?v=R2nj1vRjLwE) by [Arun Gupta](https://twitter.com/arungupta)

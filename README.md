@@ -946,7 +946,7 @@ Projects
 
 ## Security
 * [kubiscan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky pods and RBAC permissions
-* [kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet with option to scan for vulnerable code and run one command on multiple pods
+* [kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet with advanced capabilities like scanning for pods vulnerable for RCE
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
 * [Authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster
 * [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) - Widely adopted open source implementation unifying Kubernetes Network Policy and Istio Application Policy.

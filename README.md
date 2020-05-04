@@ -284,6 +284,7 @@ Useful Articles
 ### [Logging](#logging)
 - [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by [Michael Ward](https://twitter.com/DevoperandI)
+- [The Complete Guide to Kubernetes Logging](https://sematext.com/guides/kubernetes-logging/) by [Adnan Rahić](https://twitter.com/adnanrahic)
 
 ### [Monitoring](#monitoring)
 
@@ -291,6 +292,8 @@ Useful Articles
 - [Installing cAdvisor and Heapster on bare metal Kubernetes](http://www.dasblinkenlichten.com/installing-cadvisor-and-heapster-on-bare-metal-kubernetes/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 - [How to Monitor Kubernetes: A 4-Part Series](http://sysdig.com/blog/monitoring-kubernetes-with-sysdig-cloud/)
 - [Kubernetes Web UIs in 2019](https://srcco.de/posts/kubernetes-web-uis-in-2019.html)
+- [The Complete Guide to Kubernetes Monitoring](https://sematext.com/guides/kubernetes-monitoring/) by [Adnan Rahić](https://twitter.com/adnanrahic)
+
 
 ### [Security](#security)
 
@@ -662,6 +665,7 @@ Projects
 * [Prometheus](http://prometheus.io)
 * [Replex.io](https://replex.io) - Kubernetes Governance & Cost Control.
 * [Searchlight](https://github.com/appscode/searchlight)
+* [Sematext](https://sematext.com/)
 * [StatusBay](https://github.com/similarweb/statusbay) - Kubernetes deployment visibility (inc. Slack notifications, metrics and checks enrichment, resources consolidation, etc)
 * [Sysdig Monitoring](https://www.sysdig.com/)
 * [Sysdig Open Source](http://www.sysdig.org/)

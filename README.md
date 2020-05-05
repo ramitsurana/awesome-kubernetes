@@ -736,6 +736,7 @@ Projects
 
 ## Operators
 
+* [Addon-operator](https://github.com/flant/addon-operator) - adds hooks and values to helm charts in order to enhance the capabilities of helm and transform charts into smart modules that configure themselves and respond to changes in the cluster.
 * [Cert manager](https://github.com/kelseyhightower/kube-cert-manager)
 * [Cert Operator](https://github.com/giantswarm/cert-operator)
 * [cert-manager](https://github.com/jetstack/cert-manager)
@@ -761,8 +762,8 @@ Projects
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
-* [Addon-operator](https://github.com/flant/addon-operator) - adds hooks and values to helm charts in order to enhance the capabilities of helm and transform charts into smart modules that configure themselves and respond to changes in the cluster.
 * [Shell-operator](https://github.com/flant/shell-operator) - a tool for running event-driven scripts in a Kubernetes cluster.
+* [TiDB Operator](https://github.com/pingcap/tidb-operator) - TiDB Operator manages TiDB clusters on Kubernetes and automates tasks related to operating a TiDB cluster.
 
 ## Custom Schedulers
 
@@ -799,6 +800,7 @@ Projects
 * [Minio](http://minio.io)
 * [MongoDB](http://www.mongodb.com/blog/post/running-mongodb-as-a-microservice-with-docker-and-kubernetes)
 * [RDS](https://github.com/sorenmat/k8s-rds) - Provision RDS databases via CRD from Kubernetes
+* [TiDB](https://github.com/pingcap/tidb) -  Distributed HTAP database compatible with the MySQL protocol 
 * [Vitess](http://vitess.io/) - Horizontal scaling of MySql by Youtube
 * [YugabyteDB](https://docs.yugabyte.com/latest/deploy/kubernetes/) - Horizontally scalable, Postgres-compatible SQL database.
 
@@ -1061,6 +1063,14 @@ Projects
 ## Benchmark Tools
 
 * [Kubestone](https://github.com/xridge/kubestone/)
+
+## Chaos Engineering
+
+* [Chaosblade](https://github.com/chaosblade-io/chaosblade): An easy to use and powerful chaos engineering experiment toolkit.
+* [Chaos Mesh](https://github.com/pingcap/chaos-mesh): A cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments. 
+* [chaoskube](https://github.com/linki/chaoskube): `chaoskube` periodically kills random pods in your Kubernetes cluster.
+* [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit): An Open API for Chaos Engineering
+* [Litmus](https://github.com/litmuschaos/litmus): A toolset to do chaos engineering in a kubernetes native way.
 
 Raspberry Pi
 =======================================================================

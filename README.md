@@ -794,6 +794,7 @@ Projects
 * [Apache Ignite](https://apacheignite.readme.io/docs/kubernetes-deployment) - Memory-centric distributed database, caching, processing platform
 * [Cassandra / DataStax](http://blog.kubernetes.io/2016/07/thousand-instances-of-cassandra-using-kubernetes-pet-set.html)
 * [CockroachDB](http://www.cockroachlabs.com/blog/running-cockroachdb-on-kubernetes/)
+* [Couchbase](https://docs.couchbase.com/operator/current/install-kubernetes.html)
 * [CrateDB](https://crate.io/docs/crate/guide/en/latest/deployment/containers/kubernetes.html)
 * [Hazelcast](http://ppires.wordpress.com/2014/12/24/clustering-hazelcast-on-kubernetes/)
 * [Minio](http://minio.io)

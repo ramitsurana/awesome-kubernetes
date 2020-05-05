@@ -1002,6 +1002,7 @@ Projects
 ## Machine Learning
 
 * [FfDL](https://github.com/IBM/FfDL) - Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes
+* [Fiber](https://github.com/uber/fiber) - Distributed computing library for AI on Kubernetes.
 * [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes.
 * [mxnet-operator](https://github.com/deepinsight/mxnet-operator) - Tools for ML/MXNet on Kubernetes.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - An open source platform for reproducible machine learning and deep learning on kubernetes

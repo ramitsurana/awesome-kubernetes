@@ -769,11 +769,13 @@ Projects
 * [Operator Kit](https://github.com/rook/operator-kit)
 * [Operator SDK](https://github.com/operator-framework/operator-sdk)
 * [OperatorHub.io](https://www.operatorhub.io) - A new home for the Kubernetes community to share Operators
+* [PlanetScaleDB Operator](https://docs.planetscale.com/psdb-operator/overview)
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
 * [Shell-operator](https://github.com/flant/shell-operator) - a tool for running event-driven scripts in a Kubernetes cluster.
 * [TiDB Operator](https://github.com/pingcap/tidb-operator) - TiDB Operator manages TiDB clusters on Kubernetes and automates tasks related to operating a TiDB cluster.
+* [Vitess Operator](https://github.com/planetscale/vitess-operator)
 
 ## Custom Schedulers
 
@@ -810,6 +812,7 @@ Projects
 * [Hazelcast](http://ppires.wordpress.com/2014/12/24/clustering-hazelcast-on-kubernetes/)
 * [Minio](http://minio.io)
 * [MongoDB](http://www.mongodb.com/blog/post/running-mongodb-as-a-microservice-with-docker-and-kubernetes)
+* [PlanetScaleDB](https://www.planetscale.com)
 * [RDS](https://github.com/sorenmat/k8s-rds) - Provision RDS databases via CRD from Kubernetes
 * [TiDB](https://github.com/pingcap/tidb) -  Distributed HTAP database compatible with the MySQL protocol 
 * [Vitess](http://vitess.io/) - Horizontal scaling of MySql by Youtube

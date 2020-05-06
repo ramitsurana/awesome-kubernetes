@@ -1128,6 +1128,11 @@ Slide Presentations
 * [The Top 5 Metrics to Monitor in Kubernetes](http://www.slideshare.net/Sysdig/the-top-5-kubernetes-metrics-to-monitor)
 * [Zero downtime-java-deployments-with-docker-and-kubernetes](http://www.slideshare.net/ArjanSchaaf/zero-downtimejavadeploymentswithdockerandkubernetes) by [Arjan Schaaf](https://www.linkedin.com/in/arjanschaaf)
 
+Podcasts
+=======================================================================
+
+* [Kubernetes Podcast from Google](https://kubernetespodcast.com/): A weekly news and interview show with insight from the Kubernetes community.
+
 Videos
 =======================================================================
 

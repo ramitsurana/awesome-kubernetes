@@ -1200,7 +1200,7 @@ Amazing People
 * [Ihor Dvoretskyi](https://twitter.com/idvoretskyi), Developer Advocate at Cloud Native Computing Foundation
 * [Jessie Frazzelle](https://github.com/jessfraz), Cloud Developer Advocate at Microsoft
 * [Joe Beda](https://twitter.com/jbeda), Principal Engineer at VMware. Former Founder and CTO at Heptio
-* [Joseph Jacks](https://twitter.com/asynchio), Entrepreneur In Residence at Quantum Corporation
+* [Joseph Jacks](https://twitter.com/asynchio), Founder of KubeCon, Kismatic (first enterprise Kubernetes company), currently founder of OSS Capital, Open Core Summit, COSS Media, COSS Accelerator
 * [Kelsey Hightower](https://twitter.com/kelseyhightower), Staff Developer Advocate at Google
 * [Kris Nova](https://github.com/kris-nova), Creator of Kubicorn
 * [Michelle Noorali](https://www.twitter.com/michellenoorali), Software Engineer at Microsoft

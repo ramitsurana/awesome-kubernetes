@@ -444,6 +444,7 @@ Managed Kubernetes
    *Kubernetes Platform as a Service providers*
 
   - [Alauda Container Platform](http://www.alauda.cn/?lang=EN)
+  - [Cloud Foundry](https://github.com/cloudfoundry/cf-for-k8s)
   - [Eldarion Cloud](http://eldarion.cloud)
   - [Hasura](http://www.hasura.io)
   - [Kel](http://www.kelproject.com)
@@ -643,6 +644,7 @@ Projects
 * [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
 * [Heapster](https://github.com/kubernetes/heapster)
+* [Instana](https://www.instana.com/) - Automatic Kubernetes Application Performance Monitoring
 * [kail](https://github.com/boz/kail) - Kubernetes Log Viewer. Streams logs from all containers of all matching pods.
 * [Kubebox](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes
 * [Kubecost](https://kubecost.com/) - monitor resources following their financial cost
@@ -659,6 +661,7 @@ Projects
 * [NexClipper](https://github.com/NexClipper/NexClipper) - An open source software for monitoring Kubernetes and containers.
 * [Outcold Solutions](https://www.outcoldsolutions.com) - monitoring Kubernetes, OpenShift and Docker in Splunk Enterprise and Splunk Cloud (metrics and log forwarding)
 * [Prometheus](http://prometheus.io)
+* [Replex.io](https://replex.io) - Kubernetes Governance & Cost Control.
 * [Searchlight](https://github.com/appscode/searchlight)
 * [StatusBay](https://github.com/similarweb/statusbay) - Kubernetes deployment visibility (inc. Slack notifications, metrics and checks enrichment, resources consolidation, etc)
 * [Sysdig Monitoring](https://www.sysdig.com/)
@@ -680,6 +683,7 @@ Projects
 * [k3d](https://github.com/rancher/k3d) - Quickly create single- or multi-node k3s clusters in containerized nodes
 * [kube-monkey](https://github.com/asobti/kube-monkey) - Chaos Monkey for Kubernetes clusters
 * [Kubeadm-dind-cluster](https://github.com/kubernetes-sigs/kubeadm-dind-cluster) - multi-node test cluster based on kubeadm
+* [KUTTL](https://kuttl.dev) - KUTTL (Kubernetes Test Tool) is a toolkit for testing Kubernetes Operators 
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - kills targeted pods and machines to test your software reliability
 * [Sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Diagnostic tool that runs Kubernetes conformance tests
 * [Test-Infra](https://github.com/kubernetes/test-infra)
@@ -750,6 +754,7 @@ Projects
 * [kooper](https://github.com/spotahome/kooper) - Simple Go library to create Kubernetes operators and controllers
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
 * [KubeVirt](https://github.com/kubevirt)
+* [KUDO](https://kudo.dev) - KUDO (Kubernetes Universal Declarative Operator) is a toolset for writing Kubernetes Operators
 * [Kured](https://github.com/weaveworks/kured) - Kured (Kubernetes Reboot Daemon) is a Kubernetes daemonset that performs safe automatic node reboots
 * [Memcached](https://github.com/kbst/memcached)
 * [MongoDB](https://github.com/kbst/mongodb)
@@ -793,6 +798,7 @@ Projects
 * [Apache Ignite](https://apacheignite.readme.io/docs/kubernetes-deployment) - Memory-centric distributed database, caching, processing platform
 * [Cassandra / DataStax](http://blog.kubernetes.io/2016/07/thousand-instances-of-cassandra-using-kubernetes-pet-set.html)
 * [CockroachDB](http://www.cockroachlabs.com/blog/running-cockroachdb-on-kubernetes/)
+* [Couchbase](https://docs.couchbase.com/operator/current/install-kubernetes.html)
 * [CrateDB](https://crate.io/docs/crate/guide/en/latest/deployment/containers/kubernetes.html)
 * [Hazelcast](http://ppires.wordpress.com/2014/12/24/clustering-hazelcast-on-kubernetes/)
 * [Minio](http://minio.io)
@@ -905,6 +911,7 @@ Projects
 * [K9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
 * [tubectl](https://github.com/reconquest/tubekit) - Kubernetes CLI on steroids with pattern matching
 * [webkubectl](https://github.com/webkubectl/webkubectl) - A web based tool helps you to manage kubernetes credentials and run kubectl command in web browser.
+* [kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kuberntes yaml and json output
 
 ## Application deployment orchestration
 
@@ -998,6 +1005,7 @@ Projects
 ## Machine Learning
 
 * [FfDL](https://github.com/IBM/FfDL) - Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes
+* [Fiber](https://github.com/uber/fiber) - Distributed computing library for AI on Kubernetes.
 * [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes.
 * [mxnet-operator](https://github.com/deepinsight/mxnet-operator) - Tools for ML/MXNet on Kubernetes.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - An open source platform for reproducible machine learning and deep learning on kubernetes
@@ -1080,6 +1088,7 @@ Raspberry Pi
 * [Setup Kubernetes on a Raspberry Pi Cluster easily the official way!](https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster/) by [Mathias Renner and Lucas Käldström](https://blog.hypriot.com/crew/)
 * [How to Build a Kubernetes Cluster with ARM Raspberry Pi then run .NET Core on OpenFaas](https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx) by [Scott Hanselman](https://twitter.com/shanselman)
 * [Building a microcloud with a few Raspberry Pis and Kubernetes](https://mirailabs.io/blog/building-a-microcloud/) by [Preetam D'Souza](https://preetam.io/)
+* [Anatomy of my Kubernetes Cluster](https://ttt.io/anatomy-of-my-kubernetes-cluster)
 
 Books
 =======================================================================
@@ -1136,6 +1145,12 @@ Slide Presentations
 * [Scaling Jenkins with Docker and Kubernetes](http://www.slideshare.net/carlossg/scaling-jenkins-with-docker-and-kubernetes) by [Carlos Sanchez](https://www.twitter.com/csanchez)
 * [The Top 5 Metrics to Monitor in Kubernetes](http://www.slideshare.net/Sysdig/the-top-5-kubernetes-metrics-to-monitor)
 * [Zero downtime-java-deployments-with-docker-and-kubernetes](http://www.slideshare.net/ArjanSchaaf/zero-downtimejavadeploymentswithdockerandkubernetes) by [Arjan Schaaf](https://www.linkedin.com/in/arjanschaaf)
+
+Podcasts
+=======================================================================
+
+* [Kubernetes Podcast from Google](https://kubernetespodcast.com/): A weekly news and interview show with insight from the Kubernetes community.
+* [Electro Monkeys](https://electro-monkeys.fr/): A weekly French podcast on Kubernetes and Cloud Native Technologies.
 
 Videos
 =======================================================================
@@ -1204,7 +1219,7 @@ Amazing People
 * [Ihor Dvoretskyi](https://twitter.com/idvoretskyi), Developer Advocate at Cloud Native Computing Foundation
 * [Jessie Frazzelle](https://github.com/jessfraz), Cloud Developer Advocate at Microsoft
 * [Joe Beda](https://twitter.com/jbeda), Principal Engineer at VMware. Former Founder and CTO at Heptio
-* [Joseph Jacks](https://twitter.com/asynchio), Entrepreneur In Residence at Quantum Corporation
+* [Joseph Jacks](https://twitter.com/asynchio), Founder of KubeCon, Kismatic (first enterprise Kubernetes company), currently founder of OSS Capital, Open Core Summit, COSS Media, COSS Accelerator
 * [Kelsey Hightower](https://twitter.com/kelseyhightower), Staff Developer Advocate at Google
 * [Kris Nova](https://github.com/kris-nova), Creator of Kubicorn
 * [Michelle Noorali](https://www.twitter.com/michellenoorali), Software Engineer at Microsoft

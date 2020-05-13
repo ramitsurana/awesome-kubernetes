@@ -935,6 +935,7 @@ Projects
 ## Configuration
 
 * [Ansible](https://docs.ansible.com/ansible/latest/modules/k8s_module.html)
+* [cdk8s](https://cdk8s.io) - Define Kubernetes apps and reusable components using familiar programming languages
 * [Chef](http://supermarket.chef.io/cookbooks/kubernetes)
 * [Habitat](http://www.habitat.sh/docs/best-practices/#kubernetes)
 * [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
@@ -1033,6 +1034,7 @@ Projects
 
 ## YAML/JSON Config
 
+* [cdk8s](https://cdk8s.io) - Define Kubernetes apps and reusable components using familiar programming languages
 * [kompose](https://github.com/kubernetes/kompose)
 * [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib)
 * [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet) - Generic library of Kubernetes objects for Jsonnet/Kubecfg with object to array mapping for painless overrides.

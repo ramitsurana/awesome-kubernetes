@@ -791,9 +791,6 @@ Projects
 *A list of linux containers supported by kubernetes.*
 
 * [Docker](http://docker.com)
-* [Rkt](http://coreos.com/rkt)
-  * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
-  * [rktlet](https://github.com/kubernetes-incubator/rktlet) - Rkt implementation of a Kubernetes
 * [containerd](https://github.com/containerd/containerd)
 * [cri-containerd](https://github.com/kubernetes-incubator/cri-containerd) - Containerd-based implementation of Kubernetes Container Runtime Interface
 * [CRI-O](https://github.com/kubernetes-incubator/cri-o)

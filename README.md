@@ -205,7 +205,7 @@ Installers
 * [Kops](https://github.com/kubernetes/kops) - OS Agnostic - AWS
 * [Konvoy](https://d2iq.com/solutions/ksphere/konvoy) - Easily deploy production-ready Kubernetes clusters, with all associated operational services
 * [Kube-ansible](https://github.com/kairen/kube-ansible) - OS Agnostic - Cloud Agnostic
-* [Kube-aws](https://github.com/coreos/kube-aws) - CoreOS - AWS
+* [Kube-aws](https://github.com/kubernetes-incubator/kube-aws) - Kubernetes on AWS
 * [Kube-deploy](https://github.com/kubernetes/kube-deploy)
 * [Kubeadm](http://kubernetes.io/docs/admin/kubeadm/) - OS Agnostic - Cloud Agnostic
 * [KubeNow](https://github.com/kubenow/KubeNow) - Ubuntu - Cloud Agnostic
@@ -214,7 +214,7 @@ Installers
 * [Kubicorn](https://github.com/kubicorn/kubicorn) - OS Agnostic - Cloud Agnostic
 * [Kublr](https://docs.kublr.com/quickstart/) - OS Agnostic - On-Prem - Cloud Agnostic
 * [Linode](https://developers.linode.com/kubernetes/) - CoreOS - Linode
-* [matchbox](https://github.com/coreos/matchbox) - CoreOS - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
+* [matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
 * [MetalK8s](https://github.com/scality/metalk8s) - CentOS - On-Prem - Cloud Agnostic - [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
 * [MicroK8s](https://github.com/ubuntu/microk8s) - A single package of k8s that installs on 42 flavours of Linux
 * [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -970,7 +970,7 @@ Projects
 * [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) - Widely adopted open source implementation unifying Kubernetes Network Policy and Istio Application Policy.
 * [Deepfence Enterprise](https://deepfence.io) - Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless.
 * [Deepfence Threat Mapper](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
-* [Dex](https://github.com/coreos/dex) - OpenID and OAuth for Kubernetes
+* [Dex](https://github.com/dexidp/dex) - OpenID and OAuth for Kubernetes
 * [Guard](https://github.com/appscode/guard) - Authenticaton webhook server with support for Github, Gitlab, Google, Azure and LDAP (AD) as identity providers.
 * [kiam](https://github.com/uswitch/kiam) -  Allows cluster users to associate AWS IAM roles to Pods.
 * [kube-bench](https://github.com/aquasecurity/kube-bench) - The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices.
@@ -1031,7 +1031,8 @@ Projects
 
 ## Operating System
 
-* [CoreOS](http://coreos.com)
+* [Fedora CoreOS](https://getfedora.org/en/coreos/)
+* [Flatcar Container Linux](https://www.flatcar-linux.org/)
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
 * [k3OS](https://github.com/rancher/k3os)
 * [LinuxKit](https://github.com/linuxkit/kubernetes)
@@ -1202,7 +1203,6 @@ Interesting Twitter Accounts
 *Twitter is quick, it’s easy to communicate on, and is a very valuable social channel for a brand or business if you use it to its full potential, By following these news aggregators, rolling news channels, and companies, you can get the inside scoop of a story long before it hits the mainstream news outlets.*
 
 
-* [CoreOS](https://twitter.com/coreoslinux)
 * [DevOps Summit](https://twitter.com/DevOpsSummit)
 * [Engine Yard](https://twitter.com/engineyard)
 * [Google Cloud Platform](https://twitter.com/googlecloud)

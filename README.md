@@ -1035,6 +1035,8 @@ us with information*
 * [Learn Azure in a Month of Lunches, Second Edition](https://www.manning.com/books/learn-azure-in-a-month-of-lunches-second-edition) by [Iain Foulds](https://twitter.com/fouldsy)
 * [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches) by [Elton Stoneman](https://twitter.com/EltonStoneman)
 * [Knative in Action](https://www.manning.com/books/knative-in-action) by [Jacques Chester]
+* [Getting Started with Kubernetes (With examples in Google Kubernetes Engine
+)](https://www.manning.com/books/getting-started-with-kubernetes) by [William Denniss]
 
 Certifications
 =======================================================================

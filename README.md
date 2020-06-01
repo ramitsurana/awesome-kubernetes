@@ -94,6 +94,7 @@ Menu
     - [Public/Private Cloud](#publicprivate-cloud)
     - [PaaS](#paas)
 - [Interactive Learning Environments](#interactive-learning-environments)
+- [Sample Applications](#sample-applications)
 - [MOOC Courses / Tutorials](#mooc-courses--tutorials)
     - [Courses](#courses)
     - [Tutorials](#tutorials)
@@ -155,7 +156,6 @@ Menu
 - [Conferences](#conferences)
 - [Contributing](#contributing)
 - [License](#license)
-
 
 -----------------------------------------------------------------------
 
@@ -471,6 +471,18 @@ Interactive Learning Environments
 * [Kubernetes Bootcamp](http://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
 * [Magic Sandbox](https://magicsandbox.com/)
 * [Play with Kubernetes](http://labs.play-with-k8s.com/)
+
+
+
+Sample Applications
+=======================================================================
+
+*Sample applications to install into your Kubernetes environment*
+
+* [Google samples](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples)
+* [Stan's Robot Shop](https://github.com/instana/robot-shop)
+* [Sock Shop](https://github.com/microservices-demo/microservices-demo)
+
 
 MOOC Courses / Tutorials
 =======================================================================

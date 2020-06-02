@@ -1109,6 +1109,7 @@ Books
 *A written or printed work consisting of pages glued or sewn together along one side and bound in covers that provide
 us with information*
 
+* [CI/CD with Docker and Kubernetes](https://semaphoreci.com/resources/cicd-docker-kubernetes) ([Open source book](https://github.com/semaphoreci/book-cicd-docker-kubernetes)) by Marko Anastasov, Jerome Petazzoni, Tomas Fernandez
 * [Cloud Native DevOps with Kubernetes](http://shop.oreilly.com/product/0636920175131.do) by [John Arundel](https://twitter.com/bitfield), [Justin Domingus](https://justindomingus.com/) ([blog](https://cloudnativedevopsblog.com))
 * [Cloud Native Infrastructure](http://cnibook.info) by [Justin Garrison](https://justingarrison.com) and [Kris Nòva](https://www.nivenly.com/)
 * [DevOps with Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes) by Hideto Saito, Hui-Chuan Chloe Lee, Cheng-Yang Wu

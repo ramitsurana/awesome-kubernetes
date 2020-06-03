@@ -429,6 +429,7 @@ Managed Kubernetes
   - [OpenShift - Container Platform](http://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
   - [WorldSibu-Forma](https://worldsibu.tech/forma/) - Multi-cloud Remote Blockchain Infrastructure Orchestrator with Kubernetes
+  - [VMware Tanzu Kubernetes Grid- TKG](https://tanzu.vmware.com/kubernetes-grid) Enterprise-ready multi-cloud Kubernetes runtime
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 

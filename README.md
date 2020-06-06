@@ -428,7 +428,9 @@ Managed Kubernetes
   - [NetApp Kubernetes Service](https://cloud.netapp.com/kubernetes-service)
   - [OpenShift - Container Platform](http://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
+  - [VMware Tanzu Kubernetes Grid (TKG)](https://tanzu.vmware.com/kubernetes-grid) - Enterprise-ready multi-cloud Kubernetes runtime
   - [WorldSibu-Forma](https://worldsibu.tech/forma/) - Multi-cloud Remote Blockchain Infrastructure Orchestrator with Kubernetes
+  
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 
@@ -818,6 +820,7 @@ Projects
 
 ## Networking
 
+* [Antrea](https://github.com/vmware-tanzu/antrea/) - A Kubernetes networking solution based on Open vSwitch
 * [AWS VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin using Elastic Network Interfaces
 * [Calico](http://www.projectcalico.org/)
 * [Canal](https://github.com/tigera/canal) by [Tigera](https://github.com/tigera)

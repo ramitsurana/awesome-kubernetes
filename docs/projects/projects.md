@@ -499,3 +499,90 @@ Projects
 * [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit): An Open API for Chaos Engineering.
 * [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) - Gamified Chaos engineering tool for Kubernetes Clusters. It is like Space Invaders but alien ships are pods.
 * [Litmus](https://github.com/litmuschaos/litmus): A toolset to do chaos engineering in a kubernetes native way.
+
+Persistent Volume Providers
+=======================================================================
+
+*List of some Persistent Volume Providers for Kubernetes.Check out [Persistent Volume Providers](https://github.com/kubernetes/examples/tree/master/staging/persistent-volume-provisioning) for more info*
+
+* [AWS](http://aws.amazon.com)
+* [CephRBD](http://ceph.com/ceph-storage/block-storage/)
+* [GCE](https://cloud.google.com/compute/)
+* [Glusterfs](http://www.gluster.org/)
+* [Hitachi](https://knowledge.hitachivantara.com/Documents/Adapters_and_Drivers/Storage_Adapters_and_Drivers/Containers/1.0/Storage_Plug-in_for_Containers_Quick_Reference_Guide_v1.0.0)
+* [HPE](https://github.com/hpe-storage/dory)
+* [Kube-Aliyun](https://github.com/kubeup/kube-aliyun)
+* [Linode](https://www.linode.com/blockstorage)
+* [Microsoft](https://github.com/Microsoft/K8s-Storage-Plugins)
+* [NetApp Trident](https://github.com/NetApp/trident)
+* [OpenEBS](http://github.com/openebs/openebs/)
+* [OpenStack Cinder](http://wiki.openstack.org/cinder)
+* [Portworx](http://portworx.com/)
+* [Pure Storage](https://hub.docker.com/r/purestorage/k8s/)
+* [QuoByte](http://www.quobyte.com/)
+* [Rancher Longhorn](https://github.com/rancher/longhorn)
+* [Rook](http://rook.io/)
+* [StorageOS](http://storageos.com)
+* [Stork](https://github.com/libopenstorage/stork)
+
+Container Storage Interface Plugins
+=======================================================================
+
+*List of some [Container Storage Interface](https://kubernetes-csi.github.io/docs/) plugins for Kubernetes. Check out [Kubernetes-CSI Drivers](https://kubernetes-csi.github.io/docs/drivers.html) for a complete list*
+
+* [Alibaba Cloud](https://github.com/kubernetes-sigs/alibaba-cloud-csi-driver)
+* [AWS EBS](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
+* [AWS EFS](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
+* [AWS FSx for Lustre](https://github.com/kubernetes-sigs/aws-fsx-csi-driver)
+* [Ceph](https://github.com/ceph/ceph-csi)
+* [Cinder](https://github.com/kubernetes/cloud-provider-openstack/tree/master/pkg/csi/cinder)
+* [Cloudscale](https://github.com/cloudscale-ch/csi-cloudscale)
+* [DigitalOcean](https://github.com/digitalocean/csi-digitalocean)
+* [Ember](https://ember-csi.io)
+* [Google Compute Engine Persistent Disk](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver)
+* [Intel PMEM-CSI](https://github.com/intel/pmem-CSI)
+* [KaDalu - Gluster](https://github.com/kadalu/kadalu)
+* [Linode Block Storage](https://github.com/linode/linode-blockstorage-csi-driver)
+* [Longhorn](https://github.com/longhorn/longhorn)
+* [NetApp Trident](https://github.com/NetApp/trident)
+* [Nexenta](https://nexentaedge.io/docs/kubernetes-csi.html)
+* [OpenSDS](https://github.com/opensds/nbp/tree/master/csi)
+* [OpenStack Cinder](https://github.com/kubernetes/cloud-provider-openstack/tree/master/pkg/csi/cinder)
+* [Portworx](https://github.com/libopenstorage/openstorage/tree/master/csi)
+* [Quobyte](https://github.com/quobyte/quobyte-csi)
+* [S3](https://github.com/ctrox/csi-s3)
+* [Vault](https://github.com/kubevault/csi-driver)
+* [VMware vSphere](https://github.com/kubernetes-sigs/vsphere-csi-driver)
+
+Cluster API Providers
+=======================================================================
+
+*List of some [Cluster API](https://github.com/kubernetes-sigs/cluster-api) providers for Kubernetes. Check out [Kubernetes-CAPI Providers](https://cluster-api.sigs.k8s.io/reference/providers.html) for more info*
+
+  ### Bootstrap
+
+   - [Kubeadm](https://github.com/kubernetes-sigs/cluster-api/tree/master/bootstrap/kubeadm)
+
+  ### Infrastructure
+
+   - [AWS](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+   - [Azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
+   - [Metal3-io](https://github.com/metal3-io/cluster-api-provider-baremetal)
+   - [DigitalOcean](https://github.com/kubernetes-sigs/cluster-api-provider-digitalocean)
+   - [GCP](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+   - [IBM Cloud](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud)
+   - [OpenStack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
+   - [VMware vSphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
+
+Developer Libraries/ Scripts
+=======================================================================
+
+*List of some libraries & scripts for executions and good referrals*
+
+  ### [Python](#python)
+
+   - [Pykube](https://github.com/hjacobs/pykube)
+
+  ### [Jenkins](#jenkins)
+
+   - [Jenkinsfile with Helm, Go, Docker, Kubectl, JNLP](https://github.com/lachie83/croc-hunter/blob/master/Jenkinsfile)

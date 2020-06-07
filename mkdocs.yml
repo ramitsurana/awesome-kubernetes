@@ -38,7 +38,7 @@ extra:
 
 # Google Analytics
 google_analytics:
-  - UA-XXXXXXXX-X
+  - UA-71344758-5
   - auto
 
 nav:
@@ -49,12 +49,21 @@ nav:
   - Releases: releases.md
   - Managed Kubernetes: managed-kubernetes/managed-kubernetes.md
   - Projects: projects/projects.md
+  - Case Studies: case-studies/case-studies.md
+  - Official Resources: official-resources/official-resources.md
   - Learning:
     - Books: learning-resources/books.md
     - Videos: learning-resources/videos.md
     - Podcasts: learning-resources/podcasts.md
     - Slides: learning-resources/slides.md
     - Certifications: learning-resources/certifications.md
+    - Interactive-Environments: learning-resources/interactive-environments.md
+  - Extras:
+    - Conferences: extras/conferences.md
+    - Amazing People: extras/amazing-people.md
+    - Meetups: extras/meetups.md
+    - Social Media: extras/social-media.md
+    - Raspberry Pi: extras/raspberry-pi.md
 
 # Extensions
 markdown_extensions:

@@ -9,7 +9,7 @@ Managed Kubernetes
   - [ELASTX](https://www.elastx.se/)
   - [Nirmata](https://www.nirmata.com/)
 
-  ### [Cluster Managers](#cluster-manager)
+### [Cluster Managers](#cluster-manager)
 
   - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
   - [Gardener](https://github.com/gardener/gardener) - Alibaba, AWS, Azure, GCP, and OpenStack cluster manager
@@ -22,7 +22,7 @@ Managed Kubernetes
   - [PKS](https://pivotal.io/platform/pivotal-container-service) - Cluster manager by Pivotal, VMWare and Google
   - [Rancher](https://rancher.com/)
 
-  ### [Developer Platform](#developer-platform)
+### [Developer Platform](#developer-platform)
 
   - [DevSpace](https://github.com/covexo/devspace) - Build, test and run code directly inside any Kubernetes cluster
   - [Draft](http://draft.sh) - A tool for developers to create cloud native applications with Kubernetes
@@ -36,7 +36,7 @@ Managed Kubernetes
   - [VAMP](http://vamp.io) - Cloud-Native Release Management & Orchestration
   - [Tilt](https://github.com/windmilleng/tilt) - Manages local development instances for teams that deploy to Kubernetes
 
-  ### [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
+### [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
 
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
   - [Docker EE](https://www.docker.com/enterprise-edition) - Docker Enterprise Edition 2.0
@@ -49,7 +49,7 @@ Managed Kubernetes
   - [WorldSibu-Forma](https://worldsibu.tech/forma/) - Multi-cloud Remote Blockchain Infrastructure Orchestrator with Kubernetes
   
 
-  ### [Public/Private Cloud](#publicprivate-cloud)
+### [Public/Private Cloud](#publicprivate-cloud)
 
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) - Alibaba Cloud Container Service for Kubernetes
    - [AWS EKS](https://aws.amazon.com/eks/) - Amazon Elastic Container Service
@@ -62,7 +62,7 @@ Managed Kubernetes
    - [Rackspace](https://www.rackspace.com/en-in) - Rackspace
    - [VMware Cloud PKS](https://cloud.vmware.com/vmware-cloud-pks)
 
-  ### [PaaS](#paas)
+### [PaaS](#paas)
 
    *Kubernetes Platform as a Service providers*
 

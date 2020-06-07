@@ -25,7 +25,7 @@ building this awesome-repo would never has been possible. Thank You very much gu
 
 **If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!**
 
-## What is Kubernetes? :ship:
+## What is Kubernetes?
 
 > Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
 It groups containers that make up an application into logical units for easy management and discovery.

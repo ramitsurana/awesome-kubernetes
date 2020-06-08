@@ -304,6 +304,7 @@ Projects
 
 * [awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) - Curated list of kubectl plugins.
 * [click](https://github.com/databricks/click) - A CLI focused REPL for quickly interacting with Kubernetes objects.
+* [kconf](https://github.com/particledecay/kconf) - Manage multiple kubeconfigs easily and switch between them
 * [Ksql](https://github.com/brendandburns/ksql)
 * [kube-prompt](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt.
 * [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh.

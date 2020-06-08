@@ -26,3 +26,4 @@ us with information*
 * [The DevOps 2.3 Toolkit: Kubernetes](https://leanpub.com/the-devops-2-3-toolkit) by [Viktor Farcic](https://twitter.com/vfarcic)
 * [Learn Azure in a Month of Lunches, Second Edition](https://www.manning.com/books/learn-azure-in-a-month-of-lunches-second-edition) by [Iain Foulds](https://twitter.com/fouldsy)
 * [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches) by [Elton Stoneman](https://twitter.com/EltonStoneman)
+* [CI/CD with Docker and Kubernetes](https://semaphoreci.com/resources/cicd-docker-kubernetes) ([Open source book](https://github.com/semaphoreci/book-cicd-docker-kubernetes)) by [Marko Anastasov](https://github.com/markoa), [Jerome Petazzoni](https://github.com/jpetazzo), [Tomas Fernandez](https://github.com/TomFern)

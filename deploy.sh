@@ -6,6 +6,7 @@ awesome_bot docs/*.md docs/articles/*.md docs/case-studies/*.md docs/extras/*.md
 branch1=$(git rev-parse --abbrev-ref HEAD)
 if [[ $branch1 == 'master' ]]; then
 echo "Found Master Branch"
+pip install -r requirements.txt
 mkdocs gh-deploy
 else
 echo "Not found master branch."

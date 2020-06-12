@@ -1,3 +1,2 @@
-mkdocs==0.17.2
 pymdown-extensions
 mkdocs-material

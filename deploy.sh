@@ -8,8 +8,8 @@ if [[ $branch1 == 'master' ]]; then
 echo "Found Master Branch"
 python3 -m pip install -r requirements.txt
 sudo apt-get update -y
-sudo apt-get install -y mkdocs
-mkdocs gh-deploy
+# sudo apt-get install -y mkdocs
+# mkdocs gh-deploy
 else
 echo "Not found master branch."
 fi

@@ -547,6 +547,7 @@ Container Storage Interface Plugins
 * [Longhorn](https://github.com/longhorn/longhorn)
 * [NetApp Trident](https://github.com/NetApp/trident)
 * [Nexenta](https://nexentaedge.io/docs/kubernetes-csi.html)
+* [OpenEBS](http://github.com/openebs/openebs/)
 * [OpenSDS](https://github.com/opensds/nbp/tree/master/csi)
 * [OpenStack Cinder](https://github.com/kubernetes/cloud-provider-openstack/tree/master/pkg/csi/cinder)
 * [Portworx](https://github.com/libopenstorage/openstorage/tree/master/csi)

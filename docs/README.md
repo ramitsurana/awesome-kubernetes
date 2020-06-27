@@ -20,7 +20,7 @@ A curated list for awesome kubernetes sources inspired by [@sindresorhus' awesom
 Without the help from these [amazing contributors](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
 building this awesome-repo would never has been possible. Thank You very much guys !!
 
-**Thanks to Gitbook.This awesome list can now be downloaded and read in the form of a book. Check it out -->  https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/ .Keep Learning Keep Sharing !!**
+**Thanks to Gitbook.This awesome list can now be downloaded and read in the form of a book. Check it out -->  https://ramitsurana.gitbook.io/awesome-kubernetes/docs .Keep Learning Keep Sharing !!**
 
 **If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!**
 
@@ -45,7 +45,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 
 ## Date of Birth
 
-Kubernetes celebrates its birthday every year on 21st July. Kubernetes 1.0 was released on July 21 2015, after being first announced to the public at [Dockercon in June 2014](https://www.youtube.com/watch?v=YrxnVKZeqK8).
+Kubernetes celebrates its birthday every year on 21st July. Kubernetes 1.0 was released on July 21 2015, after being first announced to the public at Dockercon in June 2014.
 
 ## Roadmap
 
@@ -54,8 +54,8 @@ download the awesome kubernetes release up to a certain period of time, The rele
 
 ## Featured On
 
-- https://cloud.google.com/community/
-- https://www.freecodecamp.org/news/a-friendly-introduction-to-kubernetes-670c50ce4542/
+- [Google Cloud](https://cloud.google.com/community/)
+- [Free Code Camp](https://www.freecodecamp.org/news/a-friendly-introduction-to-kubernetes-670c50ce4542/)
 
 -----------------------------------------------------------------------
 

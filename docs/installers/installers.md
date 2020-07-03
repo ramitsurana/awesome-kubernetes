@@ -24,6 +24,7 @@ Installers
 * [Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - `systemd` OS - Cloud Agnostic
 * [Kubespray](https://github.com/kubernetes-incubator/kubespray) - OS Agnostic - Cloud Agnostic
 * [Kubicorn](https://github.com/kubicorn/kubicorn) - OS Agnostic - Cloud Agnostic
+* [KubeOne] (https://github.com/kubermatic/kubeone) - OS Agnostic - Multiple Clouds
 * [Kublr](https://docs.kublr.com/quickstart/) - OS Agnostic - On-Prem - Cloud Agnostic
 * [Linode](https://developers.linode.com/kubernetes/) - CoreOS - Linode
 * [matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).

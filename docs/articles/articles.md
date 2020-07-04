@@ -117,4 +117,4 @@ Useful Articles
 * [Benchmarking 5 Popular Load Balancers: Nginx, HAProxy, Envoy, Traefik, and ALB](https://www.loggly.com/blog/benchmarking-5-popular-load-balancers-nginx-haproxy-envoy-traefik-and-alb/)
 * [Magento on Kubernetes](https://buddy.works/guides/magento-kubernetes)
 * [Wordpress in Docker with Kubernetes](https://buddy.works/guides/wordpress-docker-kubernetes-part-3)
-* [Kubernetes Operators Explained](https://pperzyna.com/blog/kubernetes-operators-explained/)
+* [Kubernetes Operators Explained](https://pperzyna.com/blog/kubernetes-operators-explained/) by [Piotr Perzyna](https://twitter.com/PiotrPerzyna)

@@ -81,7 +81,7 @@ Starting Point
 * [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16) by [Dan Sanche](https://medium.com/@sanche)
 * [An Introduction to Kubernetes](http://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes) by [Justin Ellingwood](https://twitter.com/jmellingwood)
 * [Kubernetes and everything else - Introduction to Kubernetes and it's context](https://rinormaloku.com/introduction-application-architecture/) by [Rinor Maloku](https://twitter.com/rinormaloku)
-* [One click fast installation of highly available kubernetes cluster by cloudnativer](https://github.com/cloudnativer/kube-install) by [CloudNativer](https://cloudnativer.github.io)
+* [One click fast installation of highly available kubernetes cluster](https://github.com/cloudnativer/kube-install) by [CloudNativer](https://cloudnativer.github.io)
 * [Installation on Centos 7](http://severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services)
 * [Setting Up a Kubernetes Cluster on Ubuntu 18.04](https://mherman.org/blog/2018/08/20/setting-up-a-kubernetes-cluster-on-ubuntu/)
 * [Cloud Native Landscape](https://landscape.cncf.io/)

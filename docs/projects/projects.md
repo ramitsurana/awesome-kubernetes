@@ -329,6 +329,7 @@ Projects
 * [webkubectl](https://github.com/webkubectl/webkubectl) - A web based tool helps you to manage kubernetes credentials and run kubectl command in web browser.
 * [kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kuberntes yaml and json output
 * [Kubie](https://github.com/sbstp/kubie) - An alternative to kubectx, kubens and the k on prompt modification script
+* [kube-shell](https://github.com/cloudnativelabs/kube-shell) - An integrated shell for working with the Kubernetes CLI
 
 ## Application deployment orchestration
 

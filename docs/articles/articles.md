@@ -24,6 +24,7 @@ Useful Articles
 - [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by [Michael Ward](https://twitter.com/DevoperandI)
 - [The Complete Guide to Kubernetes Logging](https://sematext.com/guides/kubernetes-logging/) by [Adnan Rahić](https://twitter.com/adnanrahic)
+- [Logs in Kubernetes: expectations vs reality](https://medium.com/flant-com/kubernetes-logging-challenges-aad3f45d8eed) by [Nikolay Bogdanov](https://github.com/gyrter)
 
 ### [Monitoring](#monitoring)
 
@@ -58,6 +59,7 @@ Useful Articles
 - [Kubernetes with OpenStack Cloud Provider: Current state and upcoming changes (part 1 of 2)](http://medium.com/@arthur.souzamiranda/kubernetes-with-openstack-cloud-provider-current-state-and-upcoming-changes-part-1-of-2-48b161ea449a)
 - [Comparison of Networking Solutions for Kubernetes](http://machinezone.github.io/research/networking-solutions-for-kubernetes/)
 - [IPVS-Based In-Cluster Load Balancing Deep Dive](https://kubernetes.io/blog/2018/07/09/ipvs-based-in-cluster-load-balancing-deep-dive/)
+- [Calico for Kubernetes networking: the basics & examples](https://medium.com/flant-com/calico-for-kubernetes-networking-792b41e19d69) by [Oleg Saprykin](https://github.com/xandr0s)
 
 ### [CI/CD](#ci/cd)
 
@@ -72,6 +74,7 @@ Useful Articles
 - [Build, Test & Deploy to Kubernetes](https://buddy.works/guides/how-optimize-kubernetes-workflow) by [Buddy](https://buddy.works)
 * [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
 - [Kubernetes Deployments: The Ultimate Guide](https://semaphoreci.com/blog/kubernetes-deployment) by [Jérôme Petazzoni](https://twitter.com/jpetazzo)
+- [Deploying your apps in Kubernetes via GitLab CI/CD integration in werf](https://werf.io/documentation/guides/gitlab_ci_cd_integration.html)
 
 ### [Deep Learning](#deep-learning)
 
@@ -118,3 +121,5 @@ Useful Articles
 * [Magento on Kubernetes](https://buddy.works/guides/magento-kubernetes)
 * [Wordpress in Docker with Kubernetes](https://buddy.works/guides/wordpress-docker-kubernetes-part-3)
 * [Kubernetes Operators Explained](https://pperzyna.com/blog/kubernetes-operators-explained/) by [Piotr Perzyna](https://twitter.com/PiotrPerzyna)
+* [Comparing Ingress controllers for Kubernetes](https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b) by [Andrey Radygin](https://github.com/andreyradygin)
+* [ConfigMaps in Kubernetes: how they work and what you should remember](https://medium.com/flant-com/configmaps-in-kubernetes-f9f6d0081dcb) by [Mikhail Nosov](https://github.com/drdeimos)

@@ -64,6 +64,7 @@ nav:
     - Slides: learning-resources/slides.md
     - Certifications: learning-resources/certifications.md
     - Interactive-Environments: learning-resources/interactive-environments.md
+    - Courses: learning-resources/courses.md
   - Extras:
     - Conferences: extras/conferences.md
     - Amazing People: extras/amazing-people.md
@@ -79,4 +80,3 @@ markdown_extensions:
 
 plugins:
   - search # necessary for search to work
-  - awesome-pages

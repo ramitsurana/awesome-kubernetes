@@ -48,15 +48,15 @@ google_analytics:
 
 nav:
   - Home: README.md
-  - Table of Contents: table_of_contents.md
   - Articles: articles/articles.md
   - Installers: installers/installers.md
   - Releases: releases.md
-  - Managed Kubernetes: managed-kubernetes/managed-kubernetes.md
-  - Projects: projects/projects.md
   - Case Studies: case-studies/case-studies.md
   - Official Resources: official-resources/official-resources.md
   - Applications: applications/applications.md
+  - Projects: 
+    - Projects: projects/projects.md
+    - Managed Kubernetes: managed-kubernetes/managed-kubernetes.md
   - Learning:
     - Books: learning-resources/books.md
     - Videos: learning-resources/videos.md

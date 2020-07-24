@@ -19,6 +19,7 @@ Useful Articles
 - [Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean)
 - [Deploy a Kubernetes development cluster with Juju!](http://insights.ubuntu.com/2015/07/23/deploy-a-kubernetes-development-cluster-with-juju-2/) by [Matt Bruzek](https://github.com/mbruzek)
 - [Containers at Scale with Kubernetes on OpenStack](http://keithtenzer.com/2015/04/15/containers-at-scale-with-kubernetes-on-openstack/) by [Keith Tenzer](https://twitter.com/keithtenzer)
+- [State of Managed Kubernetes 2020](https://medium.com/swlh/state-of-managed-kubernetes-2020-4be006643360) by [Yitaek Hwang](https://medium.com/@yitaek)
 
 ### [Logging](#logging)
 - [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) by [Jon Langemak](https://twitter.com/blinken_lichten)
@@ -33,7 +34,7 @@ Useful Articles
 - [How to Monitor Kubernetes: A 4-Part Series](http://sysdig.com/blog/monitoring-kubernetes-with-sysdig-cloud/)
 - [Kubernetes Web UIs in 2019](https://srcco.de/posts/kubernetes-web-uis-in-2019.html)
 - [The Complete Guide to Kubernetes Monitoring](https://sematext.com/guides/kubernetes-monitoring/) by [Adnan Rahić](https://twitter.com/adnanrahic)
-
+- [Practical Monitoring with Prometheus & Grafana: 4 Part Series](https://medium.com/@yitaek/practical-monitoring-with-prometheus-grafana-part-i-22d0f172f993) by [Yitaek Hwang](https://medium.com/@yitaek)
 
 ### [Security](#security)
 
@@ -83,6 +84,7 @@ Useful Articles
 ### [Certifications](#certifications)
 
 - [How to pass the Certified Kubernetes Administrator (CKA) exam on the first attempt](https://medium.com/devopslinks/how-to-pass-certified-kubernetes-administrator-cka-exam-on-first-attempt-36c0ceb4c9e)
+- [Getting Kubernetes Certified: The (mostly) Free Way](https://medium.com/@yitaek/getting-kubernetes-certified-the-mostly-free-way-41c8b68c8ed4) by [Yitaek Hwang](https://medium.com/@yitaek)
 
 ### [Devops Tools](#devops-tools)
 
@@ -123,3 +125,6 @@ Useful Articles
 * [Kubernetes Operators Explained](https://pperzyna.com/blog/kubernetes-operators-explained/) by [Piotr Perzyna](https://twitter.com/PiotrPerzyna)
 * [Comparing Ingress controllers for Kubernetes](https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b) by [Andrey Radygin](https://github.com/andreyradygin)
 * [ConfigMaps in Kubernetes: how they work and what you should remember](https://medium.com/flant-com/configmaps-in-kubernetes-f9f6d0081dcb) by [Mikhail Nosov](https://github.com/drdeimos)
+* [Kubernetes Ingress Controller Overview](https://medium.com/swlh/kubernetes-ingress-controller-overview-81abbaca19ec) by [Yitaek Hwang](https://medium.com/@yitaek)
+* [Production Checklist for Redis on Kubernetes](https://medium.com/swlh/production-checklist-for-redis-on-kubernetes-60173d5a5325) by [Yitaek Hwang](https://medium.com/@yitaek)
+* [Ultimate Kubernetes Resource Planning Guide](https://medium.com/dev-genius/ultimate-kubernetes-resource-planning-guide-449a4fddd1d6) by [Yitaek Hwang](https://medium.com/@yitaek)

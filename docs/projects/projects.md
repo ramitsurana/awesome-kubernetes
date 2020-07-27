@@ -180,9 +180,7 @@ Projects
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
-* [
-
--operator](https://github.com/flant/shell-operator) - a tool for running event-driven scripts in a Kubernetes cluster.
+* [-operator](https://github.com/flant/shell-operator) - a tool for running event-driven scripts in a Kubernetes cluster.
 * [TiDB Operator](https://github.com/pingcap/tidb-operator) - TiDB Operator manages TiDB clusters on Kubernetes and automates tasks related to operating a TiDB cluster.
 * [Vitess Operator](https://github.com/planetscale/vitess-operator)
 
@@ -310,7 +308,7 @@ Projects
 * [Ksql](https://github.com/brendandburns/ksql)
 * [kube-prompt](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt.
 * [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh.
-* [Kube-shell](https://github.com/cloudnativelabs/kube-shell) - Integrated shell for working with the Kubernetes CLI
+* [Kube-](https://github.com/cloudnativelabs/kube-shell) - Integrated shell for working with the Kubernetes CLI
 * [kube-tmux](https://github.com/jonmosco/kube-tmux) - Kubernetes tmux plugin to display the current context and namespace
 * [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) - Aliases for Kubectl
 * [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins) - A collection of kubectl plugins handling everything from easy context switches to connecting to a container as any user (root included) via exec. Slightly tailored towards GKE users.

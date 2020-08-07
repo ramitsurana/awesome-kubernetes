@@ -8,6 +8,7 @@ Managed Kubernetes
   - [Hasura](https://hasura.io/)
   - [ELASTX](https://www.elastx.se/)
   - [Nirmata](https://www.nirmata.com/)
+  - [Spectro Cloud](https://www.spectrocloud.com)
 
 ### [Cluster Managers](#cluster-manager)
 
@@ -21,6 +22,7 @@ Managed Kubernetes
   - [Kublr](https://kublr.com/how-it-works/) - AWS, Azure, GCP, vSphere, vCloud Director, and On-Prem cluster manager
   - [PKS](https://pivotal.io/platform/pivotal-container-service) - Cluster manager by Pivotal, VMWare and Google
   - [Rancher](https://rancher.com/)
+  - [Spectro Cloud](https://www.spectrocloud.com) - Enterprise Kubernetes Management at scale
 
 ### [Developer Platform](#developer-platform)
 
@@ -44,6 +46,7 @@ Managed Kubernetes
   - [Kublr](https://kublr.com/) - Kubernetes for the Enterprise - multi-cloud and on-prem Kubernetes operations center
   - [NetApp Kubernetes Service](https://cloud.netapp.com/kubernetes-service)
   - [OpenShift - Container Platform](http://www.openshift.com/container-platform/index.html)
+  - [Spectro Cloud](https://www.spectrocloud.com) - Enterprise Kubernetes Management at scale
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
   - [VMware Tanzu Kubernetes Grid (TKG)](https://tanzu.vmware.com/kubernetes-grid) - Enterprise-ready multi-cloud Kubernetes runtime
   - [WorldSibu-Forma](https://worldsibu.tech/forma/) - Multi-cloud Remote Blockchain Infrastructure Orchestrator with Kubernetes

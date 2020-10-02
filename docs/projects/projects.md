@@ -105,7 +105,6 @@ Projects
 * [Octopus](https://github.com/kyma-incubator/octopus) - Octopus is a testing framework that allows you to run integration tests defined as Docker images on a Kubernetes cluster.
 * [KubePug](https://github.com/rikatz/kubepug) - Kubernetes Pre-Upgrade Checker
 
-
 ## Continuous Delivery
 
 *Build-test-deploy automated workflow software designed to make production environments more stable and life better for engineers*

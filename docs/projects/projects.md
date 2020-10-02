@@ -293,7 +293,7 @@ Projects
 
 * [Kubernetic](https://kubernetic.com/)
 * [Kube Forwarder](http://kube-forwarder.pixelpoint.io) – An open source Kubernetes port forwarding manager
-* [Kontena Lens](https://github.com/kontena/lens) - The Ultimate Dashboard For Kubernetes.
+* [Lens](https://github.com/lensapp/lens) - The Ultimate Dashboard For Kubernetes.
 
 ## Mobile applications
 

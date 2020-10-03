@@ -261,6 +261,7 @@ Projects
 * [Weave Mesh](https://github.com/weaveworks/mesh)
 * [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) - Maesh is a straight-forward, easy to configure, and non-invasive service mesh that allows visibility and management of the traffic flows inside any Kubernetes cluster.
 * [Kuma: The Universal Service Mesh](https://github.com/kong/kuma) - Build, Secure and Observe your modern Service Mesh.
+* [Cilium](https://cilium.io/) - eBPF-based Networking, Observability, and Security
 
 ## RPC
 

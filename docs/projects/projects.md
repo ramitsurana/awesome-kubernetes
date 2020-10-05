@@ -372,6 +372,7 @@ Projects
 * [ytt](https://github.com/k14s/ytt) - YAML templating tool that works on YAML structure allowing you to focus on your data instead of how to properly escape it.
 * [kosko](https://github.com/tommy351/kosko) - Write Kubernetes manifests in JavaScript and validate against Kubernetes OpenAPI definitions.
 * [MicroConfig](https://microconfig.io) - Awesome tool for microservice configuration management. Works with app configs, helm values, kubernetes resources and more.
+* [Untrak](https://github.com/yanc0/untrak) - Finds untracked resources in Kubernetes cluster, garbage collect them.
 
 ## Security
 * [kubiscan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky pods and RBAC permissions

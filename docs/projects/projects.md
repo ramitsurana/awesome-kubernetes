@@ -103,6 +103,7 @@ Projects
 * [Test-Infra](https://github.com/kubernetes/test-infra)
 * [predator](https://github.com/Zooz/predator) - Distributed performance testing platform for Kubernetes
 * [Octopus](https://github.com/kyma-incubator/octopus) - Octopus is a testing framework that allows you to run integration tests defined as Docker images on a Kubernetes cluster.
+* [KubePug](https://github.com/rikatz/kubepug) - Kubernetes Pre-Upgrade Checker
 
 ## Continuous Delivery
 

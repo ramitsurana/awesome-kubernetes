@@ -139,6 +139,7 @@ Projects
 * [Wercker](http://blog.wercker.com/topic/kubernetes)
 * [Werf](https://werf.io) - GitOps tool with advanced features to build images and deploy them to Kubernetes. Integrates with any existing CI system.
 * [Buddy](https://buddy.works)
+* [PipeCD](https://pipecd.dev/) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
 
 ## Serverless Implementations
 

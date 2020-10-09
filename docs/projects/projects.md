@@ -289,7 +289,7 @@ Projects
 * [Kubernetes Resource Report](https://github.com/hjacobs/kube-resource-report) - report Kubernetes cluster and pod resource requests vs usage and generate static HTML
 * [Kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 * [Kubevious](https://github.com/kubevious/kubevious) - An open source UI to make Kubernetes configuration and state obvious and safe.
-* [Polaris](https://github.com/reactiveops/polaris) - An open source dashboard for Kubernetes best practices
+* [Fairwinds Polaris](https://github.com/reactiveops/polaris) - An open source dashboard for Kubernetes best practices
 * [Octant](https://github.com/vmware/octant) - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 
 ## Desktop applications
@@ -479,6 +479,7 @@ Projects
 * [burry.sh](https://github.com/mhausenblas/burry.sh) - Cloud Native backup and recovery for etcd, zookeeper and consul
 * [kube-backup](https://github.com/pieterlange/kube-backup) - Sync kubernetes state to git.
 * [Stash](https://github.com/stashed/stash) - Stash is a Kubernetes operator that uses restic or Kubernetes CSI Driver VolumeSnapshotter  to backup your volumes and kubernetes state.
+* [Fairwinds Gemini](https://github.com/FairwindsOps/gemini) - Create and retire VolumeSnapshot objects on a regular schedule
 
 ## Policy Management
 

@@ -340,7 +340,6 @@ Projects
 * [Gitkube](https://github.com/hasura/gitkube/) - Build and deploy docker images on Kubernetes using `git push`.
 * [IBM UrbanCode](https://developer.ibm.com/urbancode/plugin/kubernetes/)
 * [Kb8or](https://github.com/UKHomeOffice/kb8or)
-* [Nulecule](https://github.com/projectatomic/nulecule)
 * [Psykube](https://github.com/commercialtribe/psykube)
 * [Skaffold](https://github.com/GoogleCloudPlatform/skaffold) - Command line tool that facilitates continuous development for Kubernetes applications.
 * [kubedog](https://github.com/flant/kubedog) - Kubedog is a library and cli utility that allows watching and following kubernetes resources in CI/CD deploy pipelines.

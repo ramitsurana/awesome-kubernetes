@@ -38,3 +38,4 @@ Installers
 * [Terraform](https://github.com/kz8s/tack) - CoreOS - AWS
 * [Typhoon](https://typhoon.psdn.io/) - Container Linux - Cloud Agnostic
 * [aks-engine](https://github.com/Azure/aks-engine) - AKS Engine is the easiest way to provision a self-managed Kubernetes cluster on Azure.
+* [kainstall](https://github.com/lework/kainstall) - One-click deployment of kubernetes high-availability cluster.

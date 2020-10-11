@@ -6,6 +6,7 @@ us with information*
 
 * [Cloud Native DevOps with Kubernetes](http://shop.oreilly.com/product/0636920175131.do) by [John Arundel](https://twitter.com/bitfield), [Justin Domingus](https://justindomingus.com/) ([blog](https://cloudnativedevopsblog.com))
 * [Cloud Native Infrastructure](http://cnibook.info) by [Justin Garrison](https://justingarrison.com) and [Kris Nòva](https://www.nivenly.com/)
+* [Container platform for the Enterprise](https://leanpub.com/cpe) by [Armin Coralic](https://twitter.com/acoralic)
 * [DevOps with Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes) by Hideto Saito, Hui-Chuan Chloe Lee, Cheng-Yang Wu
 * [Docker and Kubernetes Under the Hood](http://item.jd.com/11757034.html) (Chinese) by [Harry Zhang](https://twitter.com/resouer), Jianbo Sun and ZJU SEL lab
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) by Jeff Nickoloff and Stephen Kuenzli

@@ -160,6 +160,7 @@ Projects
 * [Kube cert manager](https://github.com/kelseyhightower/kube-cert-manager)
 * [Cert Operator](https://github.com/giantswarm/cert-operator)
 * [cert-manager](https://github.com/jetstack/cert-manager)
+* [Couchbase](https://www.couchbase.com/products/cloud/kubernetes)
 * [Container Linux Update Operator](https://github.com/coreos/container-linux-update-operator)
 * [DB Operator](https://github.com/k8sdb/operator)
 * [Elasticsearch](https://github.com/upmc-enterprises/elasticsearch-operator)

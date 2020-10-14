@@ -61,7 +61,8 @@ Projects
 * [kail](https://github.com/boz/kail) - Kubernetes Log Viewer. Streams logs from all containers of all matching pods.
 * [Kubebox](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes
 * [Kubecost](https://kubecost.com/) - monitor resources following their financial cost
-* [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - read-only system dashboard for multiple K8s clusters
+* [Kubedash](https://github.com/kubernetes/kubedash) - **Deprecated** repository is archived and read-only
+* [Kubernetes Operational View](https://codeberg.org/hjacobs/kube-ops-view) - read-only system dashboard for multiple K8s clusters
 * [K8Dash](https://github.com/herbrandson/k8dash) - Realtime K8S alternative dashboard
 * [Kubernetes Web View](https://codeberg.org/hjacobs/kube-web-view) - list and view all Kubernetes resources (incl. CRDs) with permalink-friendly URLs in a plain-HTML frontend
 * [Kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
@@ -139,6 +140,7 @@ Projects
 * [Wercker](http://blog.wercker.com/topic/kubernetes)
 * [Werf](https://werf.io) - GitOps tool with advanced features to build images and deploy them to Kubernetes. Integrates with any existing CI system.
 * [Buddy](https://buddy.works)
+* [PipeCD](https://pipecd.dev/) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
 
 ## Serverless Implementations
 
@@ -284,7 +286,7 @@ Projects
 ## Web applications
 
 * [Kubernator](https://github.com/smpio/kubernator)
-* [Kubernetes Resource Report](https://github.com/hjacobs/kube-resource-report) - report Kubernetes cluster and pod resource requests vs usage and generate static HTML
+* [Kubernetes Resource Report](https://codeberg.org/hjacobs/kube-resource-report) - report Kubernetes cluster and pod resource requests vs usage and generate static HTML
 * [Kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 * [Kubevious](https://github.com/kubevious/kubevious) - An open source UI to make Kubernetes configuration and state obvious and safe.
 * [Octant](https://github.com/vmware-tanzu/octant) - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.

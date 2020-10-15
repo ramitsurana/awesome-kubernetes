@@ -13,6 +13,8 @@ Projects
 * [Bitnami Kubernetes Production Runtime](https://kubeprod.io)
 * [Client Libraries](https://github.com/kubernetes/website/blob/master/content/en/docs/reference/using-api/client-libraries.md)
 * [Escalator](https://github.com/atlassian/escalator) - A batch or job optimized horizontal autoscaler for Kubernetes
+* [Fairwinds Pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
+* [Fairwinds Polaris](https://github.com/reactiveops/polaris) - An open source dashboard for Kubernetes best practices
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
 * [Forecastle](https://github.com/stakater/Forecastle) - A dashboard which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes
 * [Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) - A proxy to let webhooks reach running services behind a firewall
@@ -35,7 +37,6 @@ Projects
 * [ktunnel](https://github.com/omrikiei/ktunnel) - A command-line tool that establishes a reverse tunnel between Kubernetes and your cluster, use it to locally develop/debug services or integrate with local resources.
 * [k8s-platform-lcm](https://github.com/arminc/k8s-platform-lcm) - A faster and easier way to manage the lifecycle of applications and tools, running and living around your Kubernetes platform
 * [Pixie](https://github.com/pixie-labs/pixie) - Live-debug multi-cluster K8s environments without changing code and moving data off-cluster.
-* [pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 * [KubeEdge](https://kubeedge.io) - An open platform to enable Edge computing
 
 ## Package Managers
@@ -150,17 +151,17 @@ Projects
 * [Kubeless](https://github.com/skippbox/kubeless)
 * [Nuclio](https://github.com/nuclio/nuclio)
 * [OpenFaaS](https://github.com/alexellis/faas)
-* [OpenWhisk](https://github.com/openwhisk)
+* [OpenWhisk](https://github.com/apache/openwhisk)
 * [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Allows nodes to be backed by other services and providers.
 
 ## Operators
 
 * [Addon-operator](https://github.com/flant/addon-operator) - adds hooks and values to helm charts in order to enhance the capabilities of helm and transform charts into smart modules that configure themselves and respond to changes in the cluster.
-* [Cert manager](https://github.com/kelseyhightower/kube-cert-manager)
+* [Kube cert manager](https://github.com/kelseyhightower/kube-cert-manager)
 * [Cert Operator](https://github.com/giantswarm/cert-operator)
 * [cert-manager](https://github.com/jetstack/cert-manager)
 * [Container Linux Update Operator](https://github.com/coreos/container-linux-update-operator)
-* [Couchbase](https://blog.couchbase.com/introducing-couchbase-operator/)
+* [Couchbase](https://www.couchbase.com/products/cloud/kubernetes)
 * [DB Operator](https://github.com/k8sdb/operator)
 * [Elasticsearch](https://github.com/upmc-enterprises/elasticsearch-operator)
 * [etcd](https://github.com/coreos/etcd-operator)
@@ -276,7 +277,6 @@ Projects
 * [CyberArk Conjur Kubernetes Authenticator](https://developer.conjur.net/reference/integrations/kubernetesopenshift.html) - Secure your Kubernetes-deployed applications with CyberArk Conjur
 * [k8sec](https://github.com/dtan4/k8sec)
 * [Kamus](https://github.com/Soluto/kamus) - A GitOps, zero-trust solution for secrets encryption/decryption solution.
-* [kube-lego](https://github.com/jetstack/kube-lego)
 * [kubernetes-vault](https://github.com/Boostport/kubernetes-vault)
 * [kubesec](https://github.com/shyiko/kubesec) - Secure Secret management
 * [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets)
@@ -290,8 +290,7 @@ Projects
 * [Kubernetes Resource Report](https://codeberg.org/hjacobs/kube-resource-report) - report Kubernetes cluster and pod resource requests vs usage and generate static HTML
 * [Kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 * [Kubevious](https://github.com/kubevious/kubevious) - An open source UI to make Kubernetes configuration and state obvious and safe.
-* [Polaris](https://github.com/reactiveops/polaris) - An open source dashboard for Kubernetes best practices
-* [Octant](https://github.com/vmware/octant) - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+* [Octant](https://github.com/vmware-tanzu/octant) - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 
 ## Desktop applications
 
@@ -344,7 +343,6 @@ Projects
 * [Gitkube](https://github.com/hasura/gitkube/) - Build and deploy docker images on Kubernetes using `git push`.
 * [IBM UrbanCode](https://developer.ibm.com/urbancode/plugin/kubernetes/)
 * [Kb8or](https://github.com/UKHomeOffice/kb8or)
-* [Nulecule](https://github.com/projectatomic/nulecule)
 * [Psykube](https://github.com/commercialtribe/psykube)
 * [Skaffold](https://github.com/GoogleCloudPlatform/skaffold) - Command line tool that facilitates continuous development for Kubernetes applications.
 * [kubedog](https://github.com/flant/kubedog) - Kubedog is a library and cli utility that allows watching and following kubernetes resources in CI/CD deploy pipelines.
@@ -385,6 +383,7 @@ Projects
 * [Deepfence Enterprise](https://deepfence.io) - Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless.
 * [Deepfence Threat Mapper](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 * [Dex](https://github.com/dexidp/dex) - OpenID and OAuth for Kubernetes
+* [Fairwinds Insights](https://fairwinds.com/insights) - Security policy and enforcement for Kubernetes
 * [Guard](https://github.com/appscode/guard) - Authenticaton webhook server with support for Github, Gitlab, Google, Azure and LDAP (AD) as identity providers.
 * [kiam](https://github.com/uswitch/kiam) -  Allows cluster users to associate AWS IAM roles to Pods.
 * [kube-bench](https://github.com/aquasecurity/kube-bench) - The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices.
@@ -479,6 +478,7 @@ Projects
 * [burry.sh](https://github.com/mhausenblas/burry.sh) - Cloud Native backup and recovery for etcd, zookeeper and consul
 * [kube-backup](https://github.com/pieterlange/kube-backup) - Sync kubernetes state to git.
 * [Stash](https://github.com/stashed/stash) - Stash is a Kubernetes operator that uses restic or Kubernetes CSI Driver VolumeSnapshotter  to backup your volumes and kubernetes state.
+* [Fairwinds Gemini](https://github.com/FairwindsOps/gemini) - Create and retire VolumeSnapshot objects on a regular schedule
 
 ## Policy Management
 

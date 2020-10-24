@@ -86,6 +86,10 @@ Starting Point
 * [Cloud Native Landscape](https://landscape.cncf.io/)
 * [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/) by [Farhan Hasin Chowdhury](https://twitter.com/frhnhsin)
 
+### Kubernetes Certification resources
+* [The ultimate **CKA** "Certfified Kuberenetes Administator" resource since exam inception](https://github.com/walidshaari/Kubernetes-Certified-Administrator) - An updated repo of offical resources to help you master the CKA exam as well some extra resources to consolidate your kubernetes administration knowledge.
+* [Certified Kubernetes security specialist **CKS** certification](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Kubernetes security material primarly from resources allowed during the exam, and extra optional items to help you advance your containers and kubernetes knowledge and security career.
+
 Contributing
 =======================================================================
 

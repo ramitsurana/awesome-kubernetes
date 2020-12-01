@@ -531,6 +531,7 @@ Persistent Volume Providers
 * [Rancher Longhorn](https://github.com/rancher/longhorn)
 * [Rook](http://rook.io/)
 * [StorageOS](http://storageos.com)
+* [Storidge](http://storidge.com)
 * [Stork](https://github.com/libopenstorage/stork)
 
 Container Storage Interface Plugins
@@ -560,6 +561,7 @@ Container Storage Interface Plugins
 * [Portworx](https://github.com/libopenstorage/openstorage/tree/master/csi)
 * [Quobyte](https://github.com/quobyte/quobyte-csi)
 * [S3](https://github.com/ctrox/csi-s3)
+* [Storidge](https://github.com/Storidge/csi-cio)
 * [Vault](https://github.com/kubevault/csi-driver)
 * [VMware vSphere](https://github.com/kubernetes-sigs/vsphere-csi-driver)
 

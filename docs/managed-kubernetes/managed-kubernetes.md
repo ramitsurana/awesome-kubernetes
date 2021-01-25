@@ -9,6 +9,8 @@ Managed Kubernetes
   - [ELASTX](https://www.elastx.se/)
   - [Nirmata](https://www.nirmata.com/)
   - [Spectro Cloud](https://www.spectrocloud.com)
+  - [Flant Managed Kubernetes](https://flant.com/services/managed-kubernetes-as-a-service)
+  - [Giant Swarm](https://www.giantswarm.io/)
 
 ### [Cluster Managers](#cluster-manager)
 

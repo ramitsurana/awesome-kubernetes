@@ -45,6 +45,7 @@ Useful Articles
 - [Running Vault and Consul on Kubernetes](https://testdriven.io/running-vault-and-consul-on-kubernetes) by [Michael Herman](https://mherman.org/)
 - [Securing Kubernetes Clusters by Eliminating Risky Permissions](https://www.cyberark.com/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions/) - by [Eviatar Gerzi](https://twitter.com/g3rzi)
 - [Eight Ways to Create a Pod](https://www.cyberark.com/threat-research-blog/eight-ways-to-create-a-pod/) - by [Eviatar Gerzi](https://twitter.com/g3rzi)
+- [Attacking Kubernetes clusters using the Kubelet API](https://eduardobaitello.medium.com/attacking-kubernetes-clusters-using-the-kubelet-api-abafc36126ca/) - by [Eduardo Baitello](https://twitter.com/EduardoBaitello)
 
 ### [Authentication](#authentication)
 

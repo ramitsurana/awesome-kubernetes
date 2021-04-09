@@ -130,3 +130,4 @@ Useful Articles
 * [Kubernetes Ingress Controller Overview](https://medium.com/swlh/kubernetes-ingress-controller-overview-81abbaca19ec) by [Yitaek Hwang](https://medium.com/@yitaek)
 * [Production Checklist for Redis on Kubernetes](https://medium.com/swlh/production-checklist-for-redis-on-kubernetes-60173d5a5325) by [Yitaek Hwang](https://medium.com/@yitaek)
 * [Ultimate Kubernetes Resource Planning Guide](https://medium.com/dev-genius/ultimate-kubernetes-resource-planning-guide-449a4fddd1d6) by [Yitaek Hwang](https://medium.com/@yitaek)
+* [Answers to 5 Kubernetes CKAD Practice Questions](https://thospfuller.com/2020/11/09/answers_to_five_kubernetes_ckad_practice_questions_2021/) by [Thomas P. Fuller](https://thospfuller.com/)

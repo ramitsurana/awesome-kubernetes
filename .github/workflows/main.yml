@@ -24,4 +24,8 @@ jobs:
       run: |
         sudo apt-get update -y
         sudo apt-get install -y mkdocs
+    - name: Deploy on gh-pages
+      run: |
+        git branch -D gh-pages
+        git fetch origin gh-pages:gh-pages
         mkdocs gh-deploy

@@ -14,7 +14,7 @@ on:
     branches: [ master ]
 
 jobs:
-  test:
+  docs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -29,4 +29,4 @@ jobs:
     - name: Install awesome Bot
       run: gem install awesome_bot
     - name: Check Docs Links
-      run: awesome_bot docs/*.md
+      run: awesome_bot docs/*.md applications/*.md articles/*.md case-studies/*.md extras/*md guidelines/*.md images/*.md installers/*.md learning-resources/*.md managed-kubernetes/*.md official-resources/*.md projects/*.md

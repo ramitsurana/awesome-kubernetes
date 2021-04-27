@@ -29,4 +29,4 @@ jobs:
     - name: Install awesome Bot
       run: gem install awesome_bot
     - name: Check Docs Links
-      run: awesome_bot docs/*.md applications/*.md articles/*.md case-studies/*.md extras/*md guidelines/*.md images/*.md installers/*.md learning-resources/*.md managed-kubernetes/*.md official-resources/*.md projects/*.md
+      run: awesome_bot docs/*.md docs/applications/*.md docs/articles/*.md docs/case-studies/*.md docs/extras/*md docs/guidelines/*.md docs/images/*.md docs/installers/*.md docs/learning-resources/*.md docs/managed-kubernetes/*.md docs/official-resources/*.md docs/projects/*.md

@@ -18,7 +18,7 @@ A curated list for awesome kubernetes sources inspired by [@sindresorhus' awesom
 > -- Michael Jordan
 
 Without the help from these [amazing contributors](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
-building this awesome-repo would never has been possible. Thank You very much guys !!
+building this awesome-repo would never has been possible. Thank You very much everyone !!
 
 **Thanks to Gitbook.This awesome list can now be downloaded and read in the form of a book. Check it out -->  https://ramitsurana.gitbook.io/awesome-kubernetes/docs .Keep Learning Keep Sharing !!**
 

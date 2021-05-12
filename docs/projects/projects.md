@@ -324,6 +324,7 @@ Projects
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [kubens](https://github.com/ahmetb/kubectx) - switch between namespaces on kubectl
 * [kubensx](https://github.com/shyiko/kubensx) - Simpler Cluster/User/Namespace switching for Kubernetes (featuring interactive mode and wildcard/fuzzy matching).
+* [kubent](https://github.com/doitintl/kube-no-trouble) - Easily check your cluster for use of deprecated APIs
 * [kubeplay](https://github.com/errordeveloper/kubeplay)
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - Work around kubectl
 * [Kui](https://github.com/IBM/kui) - Hybrid CLI/GUI alternative to kubectl

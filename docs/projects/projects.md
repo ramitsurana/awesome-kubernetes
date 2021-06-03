@@ -399,7 +399,7 @@ Projects
 * [Pomerium](http://www.pomerium.io/) - a zero-trust identity-aware access proxy inspired by BeyondCorp.
 * [Rakkess](https://github.com/corneliusweig/rakkess) - Kubectl plugin to show an access matrix for all available resources.
 * [Sysdig Falco](https://sysdig.com/opensource/falco/)
-* [Sysdig Secure](http://www.sysdig.com/product/secure)
+* [Sysdig Secure](http://www.sysdig.com/products/secure)
 * [Tigera Secure Cloud Edition](https://www.tigera.io/tigera-secure-ce/)
 * [Tigera Secure Enterprise Edition](https://www.tigera.io/tigera-secure-ee/)
 * [Trireme](http://github.com/aporeto-inc/trireme-kubernetes)

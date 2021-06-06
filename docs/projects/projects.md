@@ -463,7 +463,6 @@ Projects
 
 * [cdk8s](https://cdk8s.io) - Define Kubernetes apps and reusable components using familiar programming languages
 * [kompose](https://github.com/kubernetes/kompose) - Translates Docker Compose file into Kubernetes resources
-* [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) [archived] - An alternative to writing complex YAML for Kubernetes configurations with templating language (Jsonnet)
 * [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet) - Generic library of Kubernetes objects for Jsonnet/Kubecfg with object to array mapping for painless overrides.
 * [kubegen](https://github.com/errordeveloper/kubegen) - Reduces the verbosity of Kubernetes resource definitions, and adds macros for templating
 * [kubeval](https://github.com/garethr/kubeval) - CLI tool for validating a Kubernetes YAML or JSON configuration file

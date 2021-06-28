@@ -5,11 +5,9 @@ Useful Articles
 
 ### [Cloud Providers](#cloud-providers)
 
-- [Kubernetes on AWS](http://coreos.com/kubernetes/docs/latest/kubernetes-on-aws.html) by [CoreOS](https://twitter.com/coreoslinux)
 - [AWS Advent 2014 - CoreOS and Kubernetes on AWS](http://awsadvent.tumblr.com/post/104260597799/aws-advent-2014-coreos-and-kubernetes-on-aws) by [Tim Dsyinger](https://twitter.com/dysinger)
 - [Kubernetes and AWS VPC Peering](http://ben.straub.cc/2015/08/19/kubernetes-aws-vpc-peering/) by [Ben Straub](https://twitter.com/benstraub)
 - [Testing Kubernetes on AWS](http://alanwill.me/Testing-Kubernetes-on-AWS/) by [Alan Will](https://twitter.com/alanwill)
-- [Kubernetes: First steps on Amazon AWS](http://blog.dutchcoders.io/kubernetes-first-steps-on-amazon-aws/) by [Remco](http://blog.dutchcoders.io/author/remco/)
 - [Manage Kubernetes Clusters on AWS Using Kops](https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/)
 - [Production grade Kubernetes on AWS: Primer (Part 1)](https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-primer-5b83e71c024) by [Guy Maliar](https://github.com/gmaliar)
 - [Production grade Kubernetes on AWS: 4 tools that made our lives easier (Part 2)](https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-4-tools-that-made-our-lives-easier-29438e8b58ca) by [Guy Maliar](https://github.com/gmaliar)
@@ -18,12 +16,11 @@ Useful Articles
 - [Continuous Deployment with Google Container Engine and Kubernetes](http://semaphoreci.com/community/tutorials/continuous-deployment-with-google-container-engine-and-kubernetes)
 - [Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean)
 - [Deploy a Kubernetes development cluster with Juju!](http://insights.ubuntu.com/2015/07/23/deploy-a-kubernetes-development-cluster-with-juju-2/) by [Matt Bruzek](https://github.com/mbruzek)
-- [Containers at Scale with Kubernetes on OpenStack](http://keithtenzer.com/2015/04/15/containers-at-scale-with-kubernetes-on-openstack/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 - [State of Managed Kubernetes 2020](https://medium.com/swlh/state-of-managed-kubernetes-2020-4be006643360) by [Yitaek Hwang](https://medium.com/@yitaek)
 
 ### [Logging](#logging)
 - [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) by [Jon Langemak](https://twitter.com/blinken_lichten)
-- [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by [Michael Ward](https://twitter.com/DevoperandI)
+- [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by Michael Ward
 - [The Complete Guide to Kubernetes Logging](https://sematext.com/guides/kubernetes-logging/) by [Adnan Rahić](https://twitter.com/adnanrahic)
 - [Logs in Kubernetes: expectations vs reality](https://medium.com/flant-com/kubernetes-logging-challenges-aad3f45d8eed) by [Nikolay Bogdanov](https://github.com/gyrter)
 
@@ -67,7 +64,7 @@ Useful Articles
 ### [CI/CD](#ci/cd)
 
 - [GitOps: High-Velocity CI/CD for Kubernetes](http://dzone.com/articles/gitops-high-velocity-cicd-for-kubernetes)
-- [Achieving CI/CD with Kubernetes](https://ramitsurana.github.io/myblog/2016/08/01/achieving-ci/cd-with-kubernetes/) by [Ramit Surana](https://twitter.com/ramitsurana)
+- [Achieving CI/CD with Kubernetes](https://ramitsurana.github.io/achieving-ci-cd-with-kubernetes) by [Ramit Surana](https://twitter.com/ramitsurana)
 - [Jenkins declarative pipelines with Kubernetes](http://radu-matei.com/blog/kubernetes-jenkins-azure/)
 - [Adding CI/CD to your Spring Boot app with Jenkins X and Kubernetes](https://developer.okta.com/blog/2018/07/11/ci-cd-spring-boot-jenkins-x-kubernetes) by [Matt Raible](https://twitter.com/mraible) using [Jenkins X](https://jenkins-x.io/)
 - [DOCKER & KUBERNETES : JENKINS-X ON EKS](http://www.bogotobogo.com/DevOps/Docker/Docker_Kubernetes_Jenkins-X-EKS.php)
@@ -101,18 +98,16 @@ Useful Articles
 * [Packaging Multiple Resources together](https://planet.jboss.org/post/kubernetes_application_package_multiple_resources_together) by Arun Gupta
 * [Scaling Docker with Kubernetes](http://www.infoq.com/articles/scaling-docker-with-kubernetes) by [Carlos Sanchez](https://twitter.com/csanchez)
 * [Creating a Kubernetes Cluster to Run Docker Formatted Container Images](http://access.redhat.com/articles/1353773) by [Chris Negus](https://twitter.com/linuxcricket)
-* [Containerizing Docker on Kubernetes !!](http://www.linkedin.com/pulse/containerizing-docker-kubernetes-ramit-surana) by [Ramit Surana](https://twitter.com/ramitsurana)
+* [Containerizing Docker on Kubernetes](https://www.linkedin.com/pulse/containerizing-docker-kubernetes-ramit-surana/) by [Ramit Surana](https://twitter.com/ramitsurana)
 * [Quay: Introducing an Application Registry for Kubernetes](http://coreos.com/blog/quay-application-registry-for-kubernetes.html) by Antoine Legrand
 * [Play With Kubernetes Quickly Using Docker](http://zwischenzugs.wordpress.com/2015/04/06/play-with-kubernetes-quickly-using-docker/)
 * [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/) by [Kamal Marhubi](https://twitter.com/kamalmarhubi)
 * [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/) by [Kamal Marhubi](https://twitter.com/kamalmarhubi)
 * [CoreOS + Kubernetes Step By Step](http://coreos.com/tectonic/docs/latest/tutorials/kubernetes/getting-started.html) by [Coreos](https://twitter.com/coreoslinux)
 * [Deploying to Kubernetes with Panamax](http://www.ctl.io/developers/blog/post/deploying-to-kubernetes-with-panamax/) by [Brian DeHamer](https://twitter.com/bdehamer)
-* [Deploy Kubernetes with a Single Command Using Atomicapp](http://www.projectatomic.io/blog/2015/08/fun-with-kubenetes-and-atomicapp/) by [Jason Brooks](https://twitter.com/jasonbrooks)
 * [Deploying a Bare Metal Kubernetes Cluster](http://blog.jameskyle.org/2014/08/deploying-baremetal-kubernetes-cluster/) by [James Kyle](https://twitter.com/jameskyle75)
 * [Kubernetes clusters with Oh-My-Vagrant](http://ttboj.wordpress.com/2015/05/02/kubernetes-clusters-with-oh-my-vagrant/) by [James](https://twitter.com/#!/purpleidea)
 * [Fleet Unit Files for Kubernetes on CoreOS](http://blog.michaelhamrah.com/2015/06/fleet-unit-files-for-kubernetes-on-coreos/) by [Michael Hamrah](https://twitter.com/mhamrah)
-* [Kubernetes Container Orchestration through Java APIs](http://keithtenzer.com/2015/05/04/kubernetes-container-orchestration-through-java-apis/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 * [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
 * [Kubernetes Production Patterns (and Anti-Patterns)](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 * [Introducing Kubic Project](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/)

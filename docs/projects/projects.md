@@ -547,6 +547,7 @@ Container Storage Interface Plugins
 * [Ember](https://ember-csi.io)
 * [Google Compute Engine Persistent Disk](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver)
 * [Intel PMEM-CSI](https://github.com/intel/pmem-CSI)
+* [JuiceFS](https://github.com/juicedata/juicefs-csi-driver)
 * [KaDalu - Gluster](https://github.com/kadalu/kadalu)
 * [Linode Block Storage](https://github.com/linode/linode-blockstorage-csi-driver)
 * [Longhorn](https://github.com/longhorn/longhorn)

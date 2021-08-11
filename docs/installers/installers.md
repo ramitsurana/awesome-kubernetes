@@ -11,6 +11,7 @@ Installers
 * [Juju](https://jaas.ai/canonical-kubernetes) - Ubuntu - Cloud Agnostic
 * [Krucible](https://usekrucible.com/) - Create temporary Kubernetes clusters for testing and development (no account required)
 * [KubeSphere](https://github.com/kubesphere/kubesphere) - Install Kubernetes and KubeSphere in multiple instances in an easy way, including full-stack cloud-native softwares, e.g. istio, ES, Prometheus, Fluent Bit, SonarQube, Jenkins.
+* [k0s](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes
 * [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb
 * [k3d](https://github.com/rancher/k3d) - A tool for running k3s clusters in container nodes
 * [kind](https://kind.sigs.k8s.io) -  A tool for running local Kubernetes clusters using Docker container “nodes”

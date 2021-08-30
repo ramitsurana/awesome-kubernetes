@@ -2,8 +2,7 @@ Awesome-Kubernetes
 =======================================================================
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://semaphoreci.com/api/v1/ramitsurana/awesome-kubernetes/branches/master/badge.svg)](https://semaphoreci.com/ramitsurana/awesome-kubernetes)
-[![License](https://img.shields.io/badge/License-CC%204.0-brightgreen.svg?style=flat-square)](http://creativecommons.org/licenses/by-nc/4.0/)
+[![Links validator](https://github.com/ramitsurana/awesome-kubernetes/actions/workflows/links.yaml/badge.svg)](https://github.com/ramitsurana/awesome-kubernetes/actions/workflows/links.yaml)
 [![Python application](https://github.com/ramitsurana/awesome-kubernetes/actions/workflows/main.yml/badge.svg)](https://github.com/ramitsurana/awesome-kubernetes/actions/workflows/main.yml)
 [![Slack Widget](https://img.shields.io/badge/Slack-Channel-blue.svg?style=flat-square)](https://kubernetes.slack.com/messages/awesome-kubernetes)
 [![Documentation Status](https://readthedocs.org/projects/awesome-kubernetes-by-ramitsurana/badge/?version=latest)](https://awesome-kubernetes-by-ramitsurana.readthedocs.io/en/latest/?badge=latest)

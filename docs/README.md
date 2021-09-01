@@ -88,7 +88,7 @@ Starting Point
 * [Bootstrapping Microservices](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform) by [Ashley Davis](https://twitter.com/ashleydavis75)
 * [Kubernetes Native Microservices with Quarkus, and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile) by [John Clingan](https://twitter.com/jclingan) and [Ken Finnigan](https://twitter.com/kenfinnigan)
 * [How to Deploy a REST API in Kubernetes](https://www.loginradius.com/blog/async/rest-api-kubernetes/)
-* [Securing Kubernetes Secrets](https://www.manning.com/books/securing-kubernetes-secrets) by [Alex Soto Bueno and Andrew Block]
+* [Securing Kubernetes Secrets](https://www.manning.com/books/securing-kubernetes-secrets) by [Alex Soto Bueno and Andrew Block](https://github.com/lordofthejars)(https://github.com/sabre1041)
 
 Contributing
 =======================================================================

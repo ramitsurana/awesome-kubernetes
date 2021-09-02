@@ -89,6 +89,7 @@ Starting Point
 * [Kubernetes Native Microservices with Quarkus, and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile) by [John Clingan](https://twitter.com/jclingan) and [Ken Finnigan](https://twitter.com/kenfinnigan)
 * [How to Deploy a REST API in Kubernetes](https://www.loginradius.com/blog/async/rest-api-kubernetes/)
 * [Securing Kubernetes Secrets](https://www.manning.com/books/securing-kubernetes-secrets) by [Alex Soto Bueno and Andrew Block](https://github.com/lordofthejars)(https://github.com/sabre1041)
+* [Kubeflow in Action](https://www.manning.com/books/kubeflow-in-action) by [Juana Nakfour and Sanjay Arora](https://twitter.com/nak4red?lang=en)
 
 Contributing
 =======================================================================

@@ -134,7 +134,6 @@ Projects
 * [Kit](http://invisionapp.github.io/kit/)
 * [Kontinuous](https://github.com/AcalephStorage/kontinuous)
 * [Razee](https://github.com/razee-io/Razee)
-* [Shippable](http://blog.shippable.com/topic/kubernetes)
 * [Shipper](https://github.com/bookingcom/shipper) - Kubernetes native multi-cluster canary or blue-green rollouts using Helm.
 * [Vili](https://github.com/airware/vili)
 * [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
@@ -264,7 +263,6 @@ Projects
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)
 * [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) - Maesh is a straight-forward, easy to configure, and non-invasive service mesh that allows visibility and management of the traffic flows inside any Kubernetes cluster.
-* [Kuma: The Universal Service Mesh](https://github.com/kong/kuma) - Build, Secure and Observe your modern Service Mesh.
 * [Cilium](https://cilium.io/) - eBPF-based Networking, Observability, and Security
 
 ## RPC
@@ -397,9 +395,7 @@ Projects
 * [Rakkess](https://github.com/corneliusweig/rakkess) - Kubectl plugin to show an access matrix for all available resources.
 * [Sysdig Falco](https://sysdig.com/opensource/falco/)
 * [Sysdig Secure](http://www.sysdig.com/products/secure)
-* [Tigera Secure Cloud Edition](https://www.tigera.io/tigera-secure-ce/)
-* [Tigera Secure Enterprise Edition](https://www.tigera.io/tigera-secure-ee/)
-* [Trireme](http://github.com/aporeto-inc/trireme-kubernetes)
+* [Tigera Calico Enterprise Edition](https://www.tigera.io/tigera-products/calico-enterprise/)
 * [Twistlock](http://www.twistlock.com/)
 
 ## Load balancing

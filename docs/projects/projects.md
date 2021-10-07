@@ -297,6 +297,7 @@ Projects
 * [Kubernetic](https://kubernetic.com/)
 * [Kube Forwarder](http://kube-forwarder.pixelpoint.io) – An open source Kubernetes port forwarding manager
 * [Lens](https://github.com/lensapp/lens) - The Ultimate Dashboard For Kubernetes.
+* [Monokle](https://github.com/kubeshop/monokle/) - helps you create, edit and validate yaml manifests, visualize and validate resource links and dependencies, connect and compare resources to your clusters, debug the output of kustomize and helm, and more!
 
 ## Mobile applications
 

@@ -28,3 +28,5 @@ us with information*
 * [Learn Azure in a Month of Lunches, Second Edition](https://www.manning.com/books/learn-azure-in-a-month-of-lunches-second-edition) by [Iain Foulds](https://twitter.com/fouldsy)
 * [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches) by [Elton Stoneman](https://twitter.com/EltonStoneman)
 * [CI/CD with Docker and Kubernetes](https://semaphoreci.com/resources/cicd-docker-kubernetes) ([Open source book](https://github.com/semaphoreci/book-cicd-docker-kubernetes)) by [Marko Anastasov](https://github.com/markoa), [Jerome Petazzoni](https://github.com/jpetazzo), [Tomas Fernandez](https://github.com/TomFern)
+* [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) by [Marko Lukša](https://twitter.com/markoluksa?lang=en)
+* [Kubernetes for Developers](https://www.manning.com/books/kubernetes-for-developers) by [William Denniss](https://twitter.com/WilliamDenniss)

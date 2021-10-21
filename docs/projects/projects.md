@@ -381,7 +381,7 @@ Projects
 * [Anchore Engine](https://github.com/anchore/anchore-engine) - An open-source project that provides a centralized service for inspection, analysis, and certification of container images.
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
 * [Authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster
-* [Deepfence ThreatStryker](https://deepfence.io) - Full life cycle Cloud Native Security Observability Platform for kubernetes, virtual machines and serverless.
+* [Deepfence ThreatStryker](https://deepfence.io/threatstryker) - Full life cycle Cloud Native Security Observability Platform for kubernetes, virtual machines and serverless.
 * [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 * [Dex](https://github.com/dexidp/dex) - OpenID and OAuth for Kubernetes
 * [Fairwinds Insights](https://fairwinds.com/insights) - Security policy and enforcement for Kubernetes

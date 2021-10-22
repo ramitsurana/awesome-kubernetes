@@ -4,10 +4,10 @@ Installers
 
 * [Bootkube](https://github.com/kubernetes-incubator/bootkube) - CoreOS - Cloud Agnostic
 * [Breeze](https://github.com/wise2c-devops/breeze) - CentOS - Cloud Agnostic
-* [Conjure-up](https://github.com/conjure-up/conjure-up) - Ubuntu - Cloud Agnostic
 * [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) - Run Kubernetes and Docker locally on your MAC (Edge Channel)
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) - Run Kubernetes and Docker locally on your Windows PC (Edge Channel)
 * [eksctl](https://eksctl.io/) - The official CLI for Amazon EKS
+* [Harvester](https://github.com/harvester/harvester) - Easily deploy and manage Kubernete clusters across multiple nodes. Includes Rancher, Longhorn, and KubeVirt, built on-top of K3OS.
 * [Juju](https://jaas.ai/canonical-kubernetes) - Ubuntu - Cloud Agnostic
 * [Krucible](https://usekrucible.com/) - Create temporary Kubernetes clusters for testing and development (no account required)
 * [KubeSphere](https://github.com/kubesphere/kubesphere) - Install Kubernetes and KubeSphere in multiple instances in an easy way, including full-stack cloud-native softwares, e.g. istio, ES, Prometheus, Fluent Bit, SonarQube, Jenkins.

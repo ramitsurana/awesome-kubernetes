@@ -91,6 +91,7 @@ Starting Point
 * [Securing Kubernetes Secrets](https://www.manning.com/books/securing-kubernetes-secrets) by [Alex Soto Bueno](https://github.com/lordofthejars) and [Andrew Block](https://github.com/sabre1041)
 * [Kubeflow in Action](https://www.manning.com/books/kubeflow-in-action) by [Juana Nakfour](https://twitter.com/nak4red) and Sanjay Arora
 * [Kubernetes on Windows](https://www.manning.com/books/kubernetes-on-windows) by [Jay Vyas](https://twitter.com/jayunit100) and James Sturtevant
+* [Continuous Delivery for Kubernetes](https://www.manning.com/books/continuous-delivery-for-kubernetes) by [Mauricio Salatino](https://github.com/salaboy) 
 
 
 Contributing

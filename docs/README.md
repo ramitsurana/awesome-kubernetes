@@ -93,6 +93,7 @@ Starting Point
 * [Continuous Delivery for Kubernetes](https://www.manning.com/books/continuous-delivery-for-kubernetes) by [Mauricio Salatino](https://github.com/salaboy) 
 * [GitOps and Kubernetes](https://www.manning.com/books/gitops-and-kubernetes) by [Billy Yuen](https://github.com/billyy), [Alexander Matyushentsev] (https://github.com/alexmt), [Todd Ekenstam](https://github.com/tekenstam), [Jesse Suen](https://github.com/jessesuen)
 * [Knative in Action](https://www.manning.com/books/knative-in-action) by [Jacques Chester](https://github.com/jchester)
+* [Learn Kubernetes in a Month of Lunches](https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches) by [Elton Stoneman](https://github.com/sixeyed)
 
 Contributing
 =======================================================================

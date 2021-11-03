@@ -37,6 +37,7 @@ Projects
 * [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
 * [ktunnel](https://github.com/omrikiei/ktunnel) - A command-line tool that establishes a reverse tunnel between Kubernetes and your cluster, use it to locally develop/debug services or integrate with local resources.
 * [k8s-platform-lcm](https://github.com/arminc/k8s-platform-lcm) - A faster and easier way to manage the lifecycle of applications and tools, running and living around your Kubernetes platform
+* [Portainer](https://github.com/portainer/portainer) - Container Service Delivery Platform for Docker, Docker Swarm and Kubernetes environments.
 * [Pixie](https://github.com/pixie-labs/pixie) - Live-debug multi-cluster K8s environments without changing code and moving data off-cluster.
 * [KubeEdge](https://kubeedge.io) - An open platform to enable Edge computing
 * [k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically.
@@ -291,6 +292,7 @@ Projects
 * [Kubevious](https://github.com/kubevious/kubevious) - An open source UI to make Kubernetes configuration and state obvious and safe.
 * [Octant](https://github.com/vmware-tanzu/octant) - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 * [KubeHelper](https://github.com/KubeHelper/kubehelper) - KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.
+* [Portainer](https://github.com/portainer/portainer) - Containerized web-based UI for managing for Docker, Docker Swarm and Kubernetes environments.
 
 ## Desktop applications
 
@@ -334,6 +336,7 @@ Projects
 * [kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kuberntes yaml and json output
 * [Kubie](https://github.com/sbstp/kubie) - An alternative to kubectx, kubens and the k on prompt modification script
 * [kube-shell](https://github.com/cloudnativelabs/kube-shell) - An integrated shell for working with the Kubernetes CLI
+* [Portainer](https://github.com/portainer/portainer) - Secure REST API proxy to Kubernetes environments, enabling integrations with external tools.
 
 ## Application deployment orchestration
 

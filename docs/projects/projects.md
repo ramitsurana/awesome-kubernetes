@@ -128,7 +128,6 @@ Projects
 * [autoapply](https://github.com/autoapply/autoapply) - Automatically apply changes from a Git repository to a Kubernetes cluster
 * [Buildkite](https://github.com/buildkite/charts) - Lean CI/CD cloud hosted control plane with agents on your infrastructure.
 * [Codefresh](https://codefresh.io/) - Kubernetes CI/CD platform (with private Docker and Helm Chart repositories)
-* [Devtron Labs](https://github.com/devtron-labs/devtron) - An open source software delivery workflow for Kubernetes written in go
 * [Dispatch](https://d2iq.com/solutions/ksphere/dispatch) - Enterprise grade Kubernetes GitOps framework based on Tekton and Argo CD
 * [GitLab](http://blog.lwolf.org/post/how-to-easily-deploy-gitlab-on-kubernetes/)
 * [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) - Framework to easily deploy Kubernetes applications via GitLab.

@@ -95,6 +95,7 @@ Starting Point
 * [Knative in Action](https://www.manning.com/books/knative-in-action) by [Jacques Chester](https://github.com/jchester)
 * [Learn Kubernetes in a Month of Lunches](https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches) by [Elton Stoneman](https://github.com/sixeyed)
 * [Cloud Native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action) by [Thomas Vitale](https://github.com/ThomasVitale)
+* [Securing Cloud Applications](https://www.manning.com/books/securing-cloud-applications) by [Adib Saikali](https://github.com/asaikali)
 
 Contributing
 =======================================================================

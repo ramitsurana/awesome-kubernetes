@@ -291,6 +291,7 @@ Projects
 * [Kubevious](https://github.com/kubevious/kubevious) - An open source UI to make Kubernetes configuration and state obvious and safe.
 * [Octant](https://github.com/vmware-tanzu/octant) - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 * [KubeHelper](https://github.com/KubeHelper/kubehelper) - KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.
+* [Portainer](https://github.com/portainer/portainer) - Containerized web-based UI for managing for Docker, Docker Swarm and Kubernetes environments.
 
 ## Desktop applications
 
@@ -334,6 +335,7 @@ Projects
 * [kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kuberntes yaml and json output
 * [Kubie](https://github.com/sbstp/kubie) - An alternative to kubectx, kubens and the k on prompt modification script
 * [kube-shell](https://github.com/cloudnativelabs/kube-shell) - An integrated shell for working with the Kubernetes CLI
+* [Portainer](https://github.com/portainer/portainer) - Secure REST API proxy to Kubernetes environments, enabling integrations with external tools.
 
 ## Application deployment orchestration
 

@@ -17,6 +17,8 @@ Projects
 * [Fairwinds Pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 * [Fairwinds Polaris](https://github.com/reactiveops/polaris) - An open source dashboard for Kubernetes best practices
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
+* [Flagger](https://flagger.app/) - Progressive delivery (canary, blue/green) operator for Kubernetes
+* [Flux CD](https://fluxcd.io/) - GitOps continuous delivery for Kubernetes
 * [Forecastle](https://github.com/stakater/Forecastle) - A dashboard which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes
 * [Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) - A proxy to let webhooks reach running services behind a firewall
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
@@ -41,6 +43,7 @@ Projects
 * [KubeEdge](https://kubeedge.io) - An open platform to enable Edge computing
 * [k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically.
 * [configurator](https://github.com/gopaddle-io/configurator) - A version control and a sync service that keeps Kubernetes ConfigMaps and Secrets in sync with the deployment.
+* [Weave GitOps](https://weave.works/core/) - GitOps (built on Flux) Continuous delivery for Kubernetes
 
 ## Package Managers
 

@@ -93,6 +93,7 @@ Useful Articles
 - [Dynamic Kubernetes installation/configuration with SaltStack](http://www.dasblinkenlichten.com/dynamic-kubernetes-installationconfiguration-with-saltstack/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Deploying Kubernetes with SaltStack](http://www.dasblinkenlichten.com/deploying-kubernetes-with-saltstack/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Let's Learn Kubernetes](https://dev.to/pghildiyal/let-s-learn-kubernetes-basics-part-1-3of7) by [Prashant Ghildiyal](https://www.linkedin.com/in/pghildiyal/)
+- [How to Provision an AWS EKS Kubernetes Cluster with Terraform](https://spacelift.io/blog/how-to-provision-aws-eks-kubernetes-cluster-with-terraform) by [Jacob Martin](https://www.linkedin.com/in/jakubmartin/)
 
 ### [Others](#others)
 * [Packaging Multiple Resources together](https://planet.jboss.org/post/kubernetes_application_package_multiple_resources_together) by Arun Gupta

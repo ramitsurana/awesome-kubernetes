@@ -7,7 +7,7 @@ MOOC Courses / Tutorials
 
   - [Scalable Microservices with Kubernetes at Udacity](http://in.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
   - [Introduction to Kubernetes at edX](http://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x)
-  - [(Classpert) A list of free and paid Kubernetes courses from popular e-learning platforms](https://classpert.com/kubernetes)
+  - [(Classpert) A list of free and paid Kubernetes courses from popular e-learning platforms](https://classpert.com/search/kubernetes)
 
   ### [Tutorials](#tutorials)
 

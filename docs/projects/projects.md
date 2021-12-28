@@ -13,6 +13,7 @@ Projects
 * [Bitnami Kubernetes Production Runtime](https://kubeprod.io)
 * [Capact](https://github.com/capactio/capact) - A framework to manage applications and infrastructure in a unified way
 * [Client Libraries](https://github.com/kubernetes/website/blob/master/content/en/docs/reference/using-api/client-libraries.md)
+* [Clusterpedia](https://github.com/clusterpedia-io/clusterpedia) - Complex resource searches across multiple clusters, support simultaneous search of a single kind of resource or multiple kinds of resources existing in multiple clusters.
 * [Escalator](https://github.com/atlassian/escalator) - A batch or job optimized horizontal autoscaler for Kubernetes
 * [Fairwinds Pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 * [Fairwinds Polaris](https://github.com/reactiveops/polaris) - An open source dashboard for Kubernetes best practices

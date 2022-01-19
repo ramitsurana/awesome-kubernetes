@@ -72,6 +72,7 @@ Projects
 * [Kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 * [Kubetail](https://github.com/johanhaleby/kubetail)
 * [Kubewatch](https://github.com/skippbox/kubewatch)
+* [kwatch](https://github.com/abahmed/kwatch) - monitor & detect crashes in your Kubernetes(K8s) cluster instantly
 * [Mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices, multiprotocol support: HTTP1.1, HTTP/2, AMQP, Kafka, Redis. 
 * [Netdata](https://www.netdata.cloud) - Open-source Kubernetes monitoring. Deploy via a Netdata [Helm chart](https://github.com/netdata/helmchart).
 * [Netsil](https://github.com/netsil/manifests)
@@ -100,12 +101,12 @@ Projects
 * [DETIK](https://github.com/bats-core/bats-detik) - BATS extension for end-to-end tests of K8s applications
 * [k8s-testsuite](https://github.com/mrahbar/k8s-testsuite) - Helm chart for network and loadtesting of a Kubernetes cluster
 * [kboom](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester
-* [Krucible](https://usekrucible.com/) - Quickly create temporary Kubernetes clusters for testing 
+* [Krucible](https://usekrucible.com/) - Quickly create temporary Kubernetes clusters for testing
 * [kind](https://github.com/bsycorp/kind) - A single node cluster to run your CI tests against thats ready in 30 seconds
 * [k3d](https://github.com/rancher/k3d) - Quickly create single- or multi-node k3s clusters in containerized nodes
 * [kube-monkey](https://github.com/asobti/kube-monkey) - Chaos Monkey for Kubernetes clusters
 * [Kubeadm-dind-cluster](https://github.com/kubernetes-sigs/kubeadm-dind-cluster) - multi-node test cluster based on kubeadm
-* [KUTTL](https://kuttl.dev) - KUTTL (Kubernetes Test Tool) is a toolkit for testing Kubernetes Operators 
+* [KUTTL](https://kuttl.dev) - KUTTL (Kubernetes Test Tool) is a toolkit for testing Kubernetes Operators
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - kills targeted pods and machines to test your software reliability
 * [Sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Diagnostic tool that runs Kubernetes conformance tests
 * [Test-Infra](https://github.com/kubernetes/test-infra)
@@ -225,7 +226,7 @@ Projects
 * [MongoDB](http://www.mongodb.com/blog/post/running-mongodb-as-a-microservice-with-docker-and-kubernetes)
 * [PlanetScaleDB](https://www.planetscale.com)
 * [RDS](https://github.com/sorenmat/k8s-rds) - Provision RDS databases via CRD from Kubernetes
-* [TiDB](https://github.com/pingcap/tidb) -  Distributed HTAP database compatible with the MySQL protocol 
+* [TiDB](https://github.com/pingcap/tidb) -  Distributed HTAP database compatible with the MySQL protocol
 * [Vitess](http://vitess.io/) - Horizontal scaling of MySql by Youtube
 * [YugabyteDB](https://docs.yugabyte.com/latest/deploy/kubernetes/) - Horizontally scalable, Postgres-compatible SQL database.
 
@@ -505,7 +506,7 @@ Projects
 ## Chaos Engineering
 
 * [Chaosblade](https://github.com/chaosblade-io/chaosblade): An easy to use and powerful chaos engineering experiment toolkit.
-* [Chaos Mesh](https://github.com/pingcap/chaos-mesh): A cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments. 
+* [Chaos Mesh](https://github.com/pingcap/chaos-mesh): A cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
 * [chaoskube](https://github.com/linki/chaoskube): `chaoskube` periodically kills random pods in your Kubernetes cluster.
 * [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit): An Open API for Chaos Engineering.
 * [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) - Gamified Chaos engineering tool for Kubernetes Clusters. It is like Space Invaders but alien ships are pods.

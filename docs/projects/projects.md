@@ -466,6 +466,7 @@ Projects
 * [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet) - Generic library of Kubernetes objects for Jsonnet/Kubecfg with object to array mapping for painless overrides.
 * [kubegen](https://github.com/errordeveloper/kubegen) - Reduces the verbosity of Kubernetes resource definitions, and adds macros for templating
 * [kubeval](https://github.com/garethr/kubeval) - CLI tool for validating a Kubernetes YAML or JSON configuration file
+* [helmify](https://github.com/arttor/helmify) - CLI tool to convert K8s YAMLs into a Helm chart
 
 ## Static Analysis
 

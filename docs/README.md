@@ -96,6 +96,7 @@ Starting Point
 * [Learn Kubernetes in a Month of Lunches](https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches) by [Elton Stoneman](https://github.com/sixeyed)
 * [Cloud Native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action) by [Thomas Vitale](https://github.com/ThomasVitale)
 * [Securing Cloud Applications](https://www.manning.com/books/securing-cloud-applications) by [Adib Saikali](https://github.com/asaikali)
+* [Google Anthos in Action](https://www.manning.com/books/google-anthos-in-action) by [Antonio Gulli et al.](https://www.linkedin.com/in/searchguy/?originalSubdomain=uk)
 
 Contributing
 =======================================================================

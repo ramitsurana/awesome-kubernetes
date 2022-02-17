@@ -54,7 +54,7 @@ download the awesome kubernetes release up to a certain period of time, The rele
 ## Featured On
 
 - [Google Cloud](https://cloud.google.com/community/)
-- [Free Code Camp](https://www.freecodecamp.org/news/a-friendly-introduction-to-kubernetes-670c50ce4542/)
+- [freeCodeCamp](https://www.freecodecamp.org/news/a-friendly-introduction-to-kubernetes-670c50ce4542/)
 
 -----------------------------------------------------------------------
 
@@ -97,6 +97,7 @@ Starting Point
 * [Cloud Native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action) by [Thomas Vitale](https://github.com/ThomasVitale)
 * [Securing Cloud Applications](https://www.manning.com/books/securing-cloud-applications) by [Adib Saikali](https://github.com/asaikali)
 * [Google Anthos in Action](https://www.manning.com/books/google-anthos-in-action) by [Antonio Gulli et al.](https://www.linkedin.com/in/searchguy/?originalSubdomain=uk)
+* [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained)
 
 Contributing
 =======================================================================

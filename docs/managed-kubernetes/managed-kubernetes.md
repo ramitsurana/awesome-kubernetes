@@ -70,9 +70,9 @@ Managed Kubernetes
 
   - [Alauda Container Platform](http://www.alauda.cn/?lang=EN)
   - [Cloud Foundry](https://github.com/cloudfoundry/cf-for-k8s)
+  - [Devtron Labs](https://github.com/devtron-labs/devtron) - An open source software delivery workflow for Kubernetes written in go.
   - [Eldarion Cloud](http://eldarion.cloud)
   - [Hasura](http://www.hasura.io)
-  - [Kel](http://www.kelproject.com)
   - [KubeSail](https://kubesail.com) - An easy, free way to try Kubernetes
   - [KubeSphere](https://github.com/kubesphere/kubesphere) - Full-stack and easy-to-use container platform, with awesome user experience and wizard UI.
   - [Kyma](https://kyma-project.io/) - A platform for extending apps with serverless functions. It provides a selection of cloud-native projects glued together to simplify the creation and management of services.

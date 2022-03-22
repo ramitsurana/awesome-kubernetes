@@ -1,11 +1,9 @@
 name: Links validator
 
-on: 
-  push:
-    branches: [ master ]
-#  schedule:
-#    # At 09:00 on Monday: https://crontab.guru/#0_9_*_*_1
-#    - cron:  '0 9 * * 1'
+on:
+  schedule: 
+    # At 09:00 on Monday: https://crontab.guru/#0_9_*_*_1
+    - cron:  '0 9 * * 1'
 
 jobs:
   linkChecker:

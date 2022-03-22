@@ -18,7 +18,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          args: --verbose --no-progress --timeout 10 --max-concurrency 2 --exclude twitter.com '**/*.md'
+          args: --verbose --no-progress --timeout 10 --max-concurrency 2 --exclude 'twitter.com' -- './**/*.md'
           output: ./lychee/out.md
       
       - name: Get current date

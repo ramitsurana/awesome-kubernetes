@@ -13,6 +13,7 @@ us with information*
 * [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) by [Ian Miell](https://twitter.com/ianmiell) & [Aidan Hobson Sayers](https://twitter.com/aidanhs)
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) by Jonathan Baier
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) by Matthew Palmer
+* [Google Anthos in Action](https://www.manning.com/books/google-anthos-in-action) by Antonio Gulli et al.
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) (OpenSource Book) by Leverege Developers
 * [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) by [Onur Yilmaz](https://github.com/onuryilmaz)

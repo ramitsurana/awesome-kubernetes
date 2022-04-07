@@ -74,6 +74,7 @@ Useful Articles
 * [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
 - [Kubernetes Deployments: The Ultimate Guide](https://semaphoreci.com/blog/kubernetes-deployment) by [Jérôme Petazzoni](https://twitter.com/jpetazzo)
 - [Deploying your apps in Kubernetes via GitLab CI/CD integration in werf](https://werf.io/documentation/guides/gitlab_ci_cd_integration.html)
+- [ArgoCD Best Practices](https://datree.io/resources/argocd-best-practices-you-should-know)
 
 ### [Deep Learning](#deep-learning)
 

@@ -96,6 +96,7 @@ Starting Point
 * [Securing Cloud Applications](https://www.manning.com/books/securing-cloud-applications) by [Adib Saikali](https://github.com/asaikali)
 * [Google Anthos in Action](https://www.manning.com/books/google-anthos-in-action) by [Antonio Gulli et al.](https://www.linkedin.com/in/searchguy/?originalSubdomain=uk)
 * [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained)
+* [Cloud Observabillity in Action](https://www.manning.com/books/cloud-observability-in-action) by [Michael Hausenblas](https://github.com/mhausenblas)
 
 Contributing
 =======================================================================

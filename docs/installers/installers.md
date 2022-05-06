@@ -33,6 +33,7 @@ Installers
 * [MicroK8s](https://github.com/ubuntu/microk8s) - A single package of k8s that installs on 42 flavours of Linux
 * [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 * [RKE](https://github.com/rancher/rke) - OS Agnostic - Cloud Agnostic
+* [RKE2](https://docs.rke2.io/) - OS Agnostic - Cloud Agnostic
 * [sealos](https://github.com/fanux/sealos) - Simple kubernetes HA installer
 * [Simplekube](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostic
 * [Spectro Cloud](https://www.spectrocloud.com) - Enterprise Kubernetes Management at scale

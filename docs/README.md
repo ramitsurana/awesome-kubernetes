@@ -97,6 +97,7 @@ Starting Point
 * [Google Anthos in Action](https://www.manning.com/books/google-anthos-in-action) by [Antonio Gulli et al.](https://www.linkedin.com/in/searchguy/?originalSubdomain=uk)
 * [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained)
 * [Cloud Observabillity in Action](https://www.manning.com/books/cloud-observability-in-action) by [Michael Hausenblas](https://github.com/mhausenblas)
+* [Core Kubernetes](https://www.manning.com/books/core-kubernetes) by [Chris Love](https://github.com/chrislovecnm)
 
 Contributing
 =======================================================================

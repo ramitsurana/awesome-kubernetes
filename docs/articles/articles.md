@@ -59,6 +59,7 @@ Useful Articles
 - [Comparison of Networking Solutions for Kubernetes](http://machinezone.github.io/research/networking-solutions-for-kubernetes/)
 - [IPVS-Based In-Cluster Load Balancing Deep Dive](https://kubernetes.io/blog/2018/07/09/ipvs-based-in-cluster-load-balancing-deep-dive/)
 - [Calico for Kubernetes networking: the basics & examples](https://medium.com/flant-com/calico-for-kubernetes-networking-792b41e19d69) by [Oleg Saprykin](https://github.com/xandr0s)
+- [Load balancing gRPC in Kubernetes with a service mesh](https://www.useanvil.com/blog/engineering/load-balancing-grpc-in-kubernetes-with-istio) by [Inshaal Amjad](https://www.linkedin.com/in/inshaal-amjad/)
 
 ### [CI/CD](#ci/cd)
 

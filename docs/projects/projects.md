@@ -189,6 +189,7 @@ Projects
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
 * [Shell-operator](https://github.com/flant/shell-operator) - a tool for running event-driven scripts in a Kubernetes cluster.
+* [Terraform Controller](http://github.com/appvia/terraform-controller) - manages the lifecycle of terraform resources and leverages guardrails to provide an environment where developers to self-serve cloud resources
 * [TiDB Operator](https://github.com/pingcap/tidb-operator) - TiDB Operator manages TiDB clusters on Kubernetes and automates tasks related to operating a TiDB cluster.
 * [Vitess Operator](https://github.com/planetscale/vitess-operator)
 

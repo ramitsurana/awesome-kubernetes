@@ -114,6 +114,7 @@ Projects
 * [Octopus](https://github.com/kyma-incubator/octopus) - Octopus is a testing framework that allows you to run integration tests defined as Docker images on a Kubernetes cluster.
 * [KubePug](https://github.com/rikatz/kubepug) - Kubernetes Pre-Upgrade Checker
 * [KubeLibrary](https://github.com/devopsspiral/KubeLibrary) - RobotFramework library for testing Kubernetes cluster
+* [Speedscale](https://speedscale.com/kubernetes/) - Speedscale is a traffic replay framework that simulates production conditions, so you can validate changes quickly and easily.
 
 ## Continuous Delivery
 

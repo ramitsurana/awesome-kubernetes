@@ -483,6 +483,7 @@ Projects
 
 ## Backup and Disaster Recovery
 
+* [Kanister](https://github.com/kanisterio/kanister) - An extensible framework for application-level data management on Kubernetes.
 * [Velero](https://github.com/vmware-tanzu/velero) - Utility for managing backup and restore of Kubernetes clusters. Formerly Heptio Ark.
 * [K8up](https://github.com/vshn/k8up) - Kubernetes and OpenShift Backup Operator based on restic
 * [burry.sh](https://github.com/mhausenblas/burry.sh) - Cloud Native backup and recovery for etcd, zookeeper and consul

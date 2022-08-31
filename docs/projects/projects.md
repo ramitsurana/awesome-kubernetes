@@ -19,6 +19,8 @@ Projects
 * [Fairwinds Polaris](https://github.com/reactiveops/polaris) - An open source dashboard for Kubernetes best practices
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
 * [Forecastle](https://github.com/stakater/Forecastle) - A dashboard which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes
+* [Gefyra](https://github.com/gefyrahq/gefyra) - Connect Docker containers to any Kubernetes environment
+* [Getdeck](https://github.com/Getdeck/getdeck) - A CLI that creates reproducible Kubernetes environments for development and testing
 * [Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) - A proxy to let webhooks reach running services behind a firewall
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
 * [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) - Watches ingress endpoints and automatically registers liveness alerts on the configured uptime checker

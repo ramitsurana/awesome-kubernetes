@@ -82,3 +82,4 @@ Managed Kubernetes
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
   - [RIO](https://rio.io/) - Kubernetes based MicroPaaS
   - [teresa](https://github.com/luizalabs/teresa) - Simple PAAS that runs on top of Kubernetes.
+  - [gopaddle](https://gopaddle.io) - Simplest, fastest and cheapest way to modernize applications

@@ -503,6 +503,7 @@ Projects
 ## Debug
 
 * [Kubectl-Debug](https://github.com/aylei/kubectl-debug)
+* [mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your k8s cluster, letting you run local code in cloud conditions. 
 
 ## Benchmark Tools
 

@@ -24,7 +24,7 @@ Useful Articles
 - [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by Michael Ward
 - [The Complete Guide to Kubernetes Logging](https://sematext.com/guides/kubernetes-logging/) by [Adnan Rahić](https://twitter.com/adnanrahic)
-- [Logs in Kubernetes: expectations vs reality](https://medium.com/flant-com/kubernetes-logging-challenges-aad3f45d8eed) by [Nikolay Bogdanov](https://github.com/gyrter)
+- [Logs in Kubernetes: expectations vs reality](https://blog.palark.com/logs-in-kubernetes-expectations-vs-reality/) by [Nikolay Bogdanov](https://github.com/gyrter)
 
 ### [Monitoring](#monitoring)
 
@@ -60,7 +60,7 @@ Useful Articles
 - [Kubernetes with OpenStack Cloud Provider: Current state and upcoming changes (part 1 of 2)](http://medium.com/@arthur.souzamiranda/kubernetes-with-openstack-cloud-provider-current-state-and-upcoming-changes-part-1-of-2-48b161ea449a)
 - [Comparison of Networking Solutions for Kubernetes](http://machinezone.github.io/research/networking-solutions-for-kubernetes/)
 - [IPVS-Based In-Cluster Load Balancing Deep Dive](https://kubernetes.io/blog/2018/07/09/ipvs-based-in-cluster-load-balancing-deep-dive/)
-- [Calico for Kubernetes networking: the basics & examples](https://medium.com/flant-com/calico-for-kubernetes-networking-792b41e19d69) by [Oleg Saprykin](https://github.com/xandr0s)
+- [Calico for Kubernetes networking: the basics & examples](https://blog.palark.com/calico-for-kubernetes-networking-the-basics-examples/) by [Oleg Saprykin](https://github.com/xandr0s)
 - [Load balancing gRPC in Kubernetes with a service mesh](https://www.useanvil.com/blog/engineering/load-balancing-grpc-in-kubernetes-with-istio) by [Inshaal Amjad](https://www.linkedin.com/in/inshaal-amjad/)
 
 ### [CI/CD](#ci/cd)

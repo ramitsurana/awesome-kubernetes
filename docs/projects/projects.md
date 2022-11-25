@@ -306,6 +306,7 @@ Projects
 * [Kube Forwarder](http://kube-forwarder.pixelpoint.io) – An open source Kubernetes port forwarding manager
 * [Lens](https://github.com/lensapp/lens) - The Ultimate Dashboard For Kubernetes.
 * [Monokle](https://github.com/kubeshop/monokle/) - helps you create, edit and validate yaml manifests, visualize and validate resource links and dependencies, connect and compare resources to your clusters, debug the output of kustomize and helm, and more!
+* [Aptakube](https://aptakube.com) - A modern, lightweight and multi-cluster desktop client for Kubernetes. Connect to multiple clusters simultaneously, as if it was just one big cluster. View, edit and manage all your resources from your desktop.
 
 ## Mobile applications
 

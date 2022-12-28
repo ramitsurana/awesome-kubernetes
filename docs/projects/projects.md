@@ -174,6 +174,7 @@ Projects
 * [etcd](https://github.com/coreos/etcd-operator)
 * [Istio](https://github.com/banzaicloud/istio-operator)
 * [K8s Operator Workshop](https://github.com/lukebond/cc-au-k8s-operators-workshop)
+* [k8tz](https://github.com/k8tz/k8tz) - Kubernetes admission controller and a CLI tool to inject timezones into Pods and CronJobs
 * [Kafka](https://github.com/krallistic/kafka-operator)
 * [Kong API](https://github.com/upmc-enterprises/kong-operator)
 * [kooper](https://github.com/spotahome/kooper) - Simple Go library to create Kubernetes operators and controllers

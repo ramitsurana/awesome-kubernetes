@@ -1,6 +1,7 @@
 Managed Kubernetes
 =======================================================================
 
+  - [Claudie](https://github.com/berops/claudie) - Multi-cloud clusters with each nodepool in a different cloud provider.
   - [Platform9](http://platform9.com)
   - [OpenShift Online](https://www.openshift.com/products/online/)
   - [Eldarion Cloud](http://eldarion.cloud/)

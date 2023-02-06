@@ -27,6 +27,7 @@ Installers
 * [Kubicorn](https://github.com/kubicorn/kubicorn) - OS Agnostic - Cloud Agnostic
 * [KubeOne](https://github.com/kubermatic/kubeone) - OS Agnostic - Multiple Clouds
 * [Kublr](https://docs.kublr.com/quickstart/) - OS Agnostic - On-Prem - Cloud Agnostic
+* [libvirt-k8s-provisioner](https://github.com/kubealex/libvirt-k8s-provisioner) - Easily deploy clusters on any KVM host with Ansible and Terraform
 * [Linode](https://developers.linode.com/kubernetes/) - CoreOS - Linode
 * [matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
 * [MetalK8s](https://github.com/scality/metalk8s) - CentOS - On-Prem - Cloud Agnostic - [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)

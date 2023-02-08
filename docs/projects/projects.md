@@ -283,6 +283,7 @@ Projects
 ## Secret generation and management
 
 * [CyberArk Conjur Kubernetes Authenticator](https://developer.conjur.net/reference/integrations/kubernetesopenshift.html) - Secure your Kubernetes-deployed applications with CyberArk Conjur
+* [External Secrets Operator](https://github.com/external-secrets/external-secrets/)
 * [k8sec](https://github.com/dtan4/k8sec)
 * [Kamus](https://github.com/Soluto/kamus) - A GitOps, zero-trust solution for secrets encryption/decryption solution.
 * [kubernetes-vault](https://github.com/Boostport/kubernetes-vault)

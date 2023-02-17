@@ -414,6 +414,7 @@ Projects
 * [Sysdig Secure](http://www.sysdig.com/products/secure)
 * [Tigera Calico Enterprise Edition](https://www.tigera.io/tigera-products/calico-enterprise/)
 * [Twistlock](http://www.twistlock.com/)
+* [M9sweeper](https://github.com/m9sweeper/m9sweeper) - Free security platform that wraps trivy, kubesec, kube-bench, OPA Gatekeeper, Project Falco, and kube-hunter
 
 ## Load balancing
 

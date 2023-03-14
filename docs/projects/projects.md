@@ -468,6 +468,7 @@ Projects
 * [Fedora CoreOS](https://getfedora.org/en/coreos/)
 * [Flatcar Container Linux](https://www.flatcar-linux.org/)
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
+* [Kairos](https://github.com/kairos-io/kairos)
 * [k3OS](https://github.com/rancher/k3os)
 * [LinuxKit](https://github.com/linuxkit/kubernetes)
 * [Talos](https://github.com/talos-systems/talos)

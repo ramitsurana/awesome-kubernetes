@@ -36,6 +36,7 @@ Projects
 * [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
 * [Kubic-Project](https://github.com/kubic-project)
 * [Reloader](https://github.com/stakater/Reloader) - Auto-load updates of ConfigMaps and Secrets into pods for Deployments, StatefulSets and DaemonSets
+* [Sveltos](https://github.com/projectsveltos) - A project to deploy Kubernetes add-ons in tens of managed clusters.  
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
 * [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
 * [ktunnel](https://github.com/omrikiei/ktunnel) - A command-line tool that establishes a reverse tunnel between Kubernetes and your cluster, use it to locally develop/debug services or integrate with local resources.

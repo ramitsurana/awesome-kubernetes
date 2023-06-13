@@ -99,6 +99,7 @@ Starting Point
 * [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained)
 * [Cloud Observabillity in Action](https://www.manning.com/books/cloud-observability-in-action) by [Michael Hausenblas](https://github.com/mhausenblas)
 * [Core Kubernetes](https://www.manning.com/books/core-kubernetes) by [Chris Love](https://github.com/chrislovecnm)
+* [Road to Kubernetes](https://www.manning.com/books/road-to-kubernetes)) by [Justin Mitchel](https://github.com/jmitchel3)
 
 Contributing
 =======================================================================

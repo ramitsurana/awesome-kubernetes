@@ -1,6 +1,7 @@
 Managed Kubernetes
 =======================================================================
 
+  - [Avisi Cloud](https://avisi.cloud) - Managed Multi-cloud Kubernetes management platform
   - [Claudie](https://github.com/berops/claudie) - Multi-cloud clusters with each nodepool in a different cloud provider.
   - [Platform9](http://platform9.com)
   - [OpenShift Online](https://www.openshift.com/products/online/)
@@ -43,6 +44,7 @@ Managed Kubernetes
 
 ### [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
 
+  - [Avisi Cloud](https://avisi.cloud) - Managed Multi-cloud Kubernetes management platform
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
   - [IBM Cloud Private](https://www.ibm.com/cloud/private)
   - [Kublr](https://kublr.com/) - Kubernetes for the Enterprise - multi-cloud and on-prem Kubernetes operations center

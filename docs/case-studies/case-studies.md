@@ -11,3 +11,4 @@ Case Studies
 * [Kubernetes at Github](https://github.blog/2017-08-16-kubernetes-at-github/)
 * [Kubernetes the hard way (installation from scratch)](http://github.com/kelseyhightower/kubernetes-the-hard-way/)
 * [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
+* [Setup Microservices on Kubernetes — Write a Configuration File](https://betterprogramming.pub/set-up-microservice-on-kubernetes-write-config-file-8df7c2b07a4c)

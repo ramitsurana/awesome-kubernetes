@@ -89,7 +89,7 @@ Starting Point
 * [How to Deploy a REST API in Kubernetes](https://www.loginradius.com/blog/async/rest-api-kubernetes/)
 * [Securing Kubernetes Secrets](https://www.manning.com/books/securing-kubernetes-secrets) by [Alex Soto Bueno](https://github.com/lordofthejars) and [Andrew Block](https://github.com/sabre1041)
 * [Kubernetes on Windows](https://www.manning.com/books/kubernetes-on-windows) by [Jay Vyas](https://twitter.com/jayunit100) and James Sturtevant
-* [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained)
+* [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained-dde470707cb2)
 * [How to Manage Secrets in Kubernetes – A Complete Guide](https://spacelift.io/blog/kubernetes-secrets)
 
 Contributing

@@ -91,6 +91,7 @@ Starting Point
 * [Kubernetes on Windows](https://www.manning.com/books/kubernetes-on-windows) by [Jay Vyas](https://twitter.com/jayunit100) and James Sturtevant
 * [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained)
 * [How to Manage Secrets in Kubernetes – A Complete Guide](https://spacelift.io/blog/kubernetes-secrets)
+* [Kubernetes Concepts: Deep Dive](https://dev.to/idanref/kubernetes-concepts-deep-dive-50en) by [Idan Refaeli](https://www.linkedin.com/in/idan-refaeli-65082a175/)
 
 Contributing
 =======================================================================

@@ -15,7 +15,6 @@ Managed Kubernetes
 
 ### [Cluster Managers](#cluster-manager)
 
-  - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
   - [Gardener](https://github.com/gardener/gardener) - Alibaba, AWS, Azure, GCP, and OpenStack cluster manager
   - [Gravity](https://gravitational.com/gravity) - Formerly Telekube
   - [Kommander](https://d2iq.com/solutions/ksphere/kommander) - Federated management and governance for on-prem or cloud Kubernetes clusters

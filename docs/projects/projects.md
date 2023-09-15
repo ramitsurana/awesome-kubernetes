@@ -55,6 +55,7 @@ Projects
 
 *To maintain regular surveillance over kubernetes*
 
+* [Alaz](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring
 * [Console](http://github.com/kubernetes/dashboard)
 * [BotKube](https://github.com/infracloudio/botkube) - App that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for the standard practices
 * [Datadog](http://www.datadoghq.com/)

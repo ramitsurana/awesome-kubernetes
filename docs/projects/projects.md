@@ -616,6 +616,7 @@ Developer Libraries/ Scripts
   ### [Python](#python)
 
    - [Pykube](https://github.com/hjacobs/pykube)
+   - [kr8s](https://github.com/kr8s-org/kr8s)
 
   ### [Jenkins](#jenkins)
 

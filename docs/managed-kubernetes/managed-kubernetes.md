@@ -1,6 +1,8 @@
 Managed Kubernetes
 =======================================================================
 
+  - [Avisi Cloud](https://avisi.cloud) - Managed Multi-cloud Kubernetes management platform
+  - [Claudie](https://github.com/berops/claudie) - Multi-cloud clusters with each nodepool in a different cloud provider.
   - [Platform9](http://platform9.com)
   - [OpenShift Online](https://www.openshift.com/products/online/)
   - [Eldarion Cloud](http://eldarion.cloud/)
@@ -10,10 +12,10 @@ Managed Kubernetes
   - [Spectro Cloud](https://www.spectrocloud.com)
   - [Flant Managed Kubernetes](https://flant.com/services/managed-kubernetes-as-a-service)
   - [Giant Swarm](https://www.giantswarm.io/)
+  - [APPUiO Cloud](https://www.appuio.ch/offering/cloud/) - Shared multi-teant OpenShift cluster - Kubernetes Namespace as a Service
 
 ### [Cluster Managers](#cluster-manager)
 
-  - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
   - [Gardener](https://github.com/gardener/gardener) - Alibaba, AWS, Azure, GCP, and OpenStack cluster manager
   - [Gravity](https://gravitational.com/gravity) - Formerly Telekube
   - [Kommander](https://d2iq.com/solutions/ksphere/kommander) - Federated management and governance for on-prem or cloud Kubernetes clusters
@@ -41,6 +43,7 @@ Managed Kubernetes
 
 ### [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
 
+  - [Avisi Cloud](https://avisi.cloud) - Managed Multi-cloud Kubernetes management platform
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
   - [IBM Cloud Private](https://www.ibm.com/cloud/private)
   - [Kublr](https://kublr.com/) - Kubernetes for the Enterprise - multi-cloud and on-prem Kubernetes operations center
@@ -81,3 +84,4 @@ Managed Kubernetes
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
   - [RIO](https://rio.io/) - Kubernetes based MicroPaaS
   - [teresa](https://github.com/luizalabs/teresa) - Simple PAAS that runs on top of Kubernetes.
+  - [gopaddle](https://gopaddle.io) - Simplest, fastest and cheapest way to modernize applications

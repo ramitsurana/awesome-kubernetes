@@ -17,12 +17,14 @@ Useful Articles
 - [Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean)
 - [Deploy a Kubernetes development cluster with Juju!](http://insights.ubuntu.com/2015/07/23/deploy-a-kubernetes-development-cluster-with-juju-2/) by [Matt Bruzek](https://github.com/mbruzek)
 - [State of Managed Kubernetes 2020](https://medium.com/swlh/state-of-managed-kubernetes-2020-4be006643360) by [Yitaek Hwang](https://medium.com/@yitaek)
+- [Basics of autoscaling nodes and pods in Kubernetes](https://www.useanvil.com/blog/engineering/autoscaling-kubernetes-in-gke) by [Inshaal Amjad
+](https://www.linkedin.com/in/inshaal-amjad/)
 
 ### [Logging](#logging)
 - [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by Michael Ward
 - [The Complete Guide to Kubernetes Logging](https://sematext.com/guides/kubernetes-logging/) by [Adnan Rahić](https://twitter.com/adnanrahic)
-- [Logs in Kubernetes: expectations vs reality](https://medium.com/flant-com/kubernetes-logging-challenges-aad3f45d8eed) by [Nikolay Bogdanov](https://github.com/gyrter)
+- [Logs in Kubernetes: expectations vs reality](https://blog.palark.com/logs-in-kubernetes-expectations-vs-reality/) by [Nikolay Bogdanov](https://github.com/gyrter)
 
 ### [Monitoring](#monitoring)
 
@@ -33,6 +35,7 @@ Useful Articles
 - [The Complete Guide to Kubernetes Monitoring](https://sematext.com/guides/kubernetes-monitoring/) by [Adnan Rahić](https://twitter.com/adnanrahic)
 - [Practical Monitoring with Prometheus & Grafana: 4 Part Series](https://medium.com/@yitaek/practical-monitoring-with-prometheus-grafana-part-i-22d0f172f993) by [Yitaek Hwang](https://medium.com/@yitaek)
 - [Easy Kubernetes Metrics Server Install in minikube in Five Steps](https://thospfuller.com/2020/11/29/easy-kubernetes-metrics-server-install-in-minikube-in-five-steps/) by [Thomas P. Fuller](https://thospfuller.com/)
+- [Kubernetes Monitoring: A complete Guide](https://middleware.io/blog/kubernetes-monitoring/) by [Laduram Vishnoi](https://twitter.com/laduramvishnoi)
 
 ### [Security](#security)
 
@@ -58,7 +61,8 @@ Useful Articles
 - [Kubernetes with OpenStack Cloud Provider: Current state and upcoming changes (part 1 of 2)](http://medium.com/@arthur.souzamiranda/kubernetes-with-openstack-cloud-provider-current-state-and-upcoming-changes-part-1-of-2-48b161ea449a)
 - [Comparison of Networking Solutions for Kubernetes](http://machinezone.github.io/research/networking-solutions-for-kubernetes/)
 - [IPVS-Based In-Cluster Load Balancing Deep Dive](https://kubernetes.io/blog/2018/07/09/ipvs-based-in-cluster-load-balancing-deep-dive/)
-- [Calico for Kubernetes networking: the basics & examples](https://medium.com/flant-com/calico-for-kubernetes-networking-792b41e19d69) by [Oleg Saprykin](https://github.com/xandr0s)
+- [Calico for Kubernetes networking: the basics & examples](https://blog.palark.com/calico-for-kubernetes-networking-the-basics-examples/) by [Oleg Saprykin](https://github.com/xandr0s)
+- [Load balancing gRPC in Kubernetes with a service mesh](https://www.useanvil.com/blog/engineering/load-balancing-grpc-in-kubernetes-with-istio) by [Inshaal Amjad](https://www.linkedin.com/in/inshaal-amjad/)
 
 ### [CI/CD](#ci/cd)
 
@@ -74,6 +78,7 @@ Useful Articles
 * [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
 - [Kubernetes Deployments: The Ultimate Guide](https://semaphoreci.com/blog/kubernetes-deployment) by [Jérôme Petazzoni](https://twitter.com/jpetazzo)
 - [Deploying your apps in Kubernetes via GitLab CI/CD integration in werf](https://werf.io/documentation/guides/gitlab_ci_cd_integration.html)
+- [ArgoCD Best Practices](https://datree.io/resources/argocd-best-practices-you-should-know)
 
 ### [Deep Learning](#deep-learning)
 

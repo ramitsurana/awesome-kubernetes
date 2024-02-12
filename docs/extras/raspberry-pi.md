@@ -9,3 +9,4 @@ Raspberry Pi
 * [How to Build a Kubernetes Cluster with ARM Raspberry Pi then run .NET Core on OpenFaas](https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx) by [Scott Hanselman](https://twitter.com/shanselman)
 * [Building a microcloud with a few Raspberry Pis and Kubernetes](https://mirailabs.io/blog/building-a-microcloud/) by [Preetam D'Souza](https://preetam.io/)
 * [Anatomy of my Kubernetes Cluster](https://ttt.io/anatomy-of-my-kubernetes-cluster)
+* [Installing fully-fledged vanilla Kubernetes on Raspberry Pi](https://blog.palark.com/installing-fully-fledged-vanilla-kubernetes-on-raspberry-pi/) (includes deploying Ingress, Prometheus, Grafana, and cert-manager) by [Alexey Bobylev](https://github.com/alexeybobylev)

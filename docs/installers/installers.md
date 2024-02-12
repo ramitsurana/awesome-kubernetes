@@ -27,12 +27,14 @@ Installers
 * [Kubicorn](https://github.com/kubicorn/kubicorn) - OS Agnostic - Cloud Agnostic
 * [KubeOne](https://github.com/kubermatic/kubeone) - OS Agnostic - Multiple Clouds
 * [Kublr](https://docs.kublr.com/quickstart/) - OS Agnostic - On-Prem - Cloud Agnostic
+* [libvirt-k8s-provisioner](https://github.com/kubealex/libvirt-k8s-provisioner) - Easily deploy clusters on any KVM host with Ansible and Terraform
 * [Linode](https://developers.linode.com/kubernetes/) - CoreOS - Linode
 * [matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
 * [MetalK8s](https://github.com/scality/metalk8s) - CentOS - On-Prem - Cloud Agnostic - [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
 * [MicroK8s](https://github.com/ubuntu/microk8s) - A single package of k8s that installs on 42 flavours of Linux
 * [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 * [RKE](https://github.com/rancher/rke) - OS Agnostic - Cloud Agnostic
+* [RKE2](https://docs.rke2.io/) - OS Agnostic - Cloud Agnostic
 * [sealos](https://github.com/fanux/sealos) - Simple kubernetes HA installer
 * [Simplekube](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostic
 * [Spectro Cloud](https://www.spectrocloud.com) - Enterprise Kubernetes Management at scale

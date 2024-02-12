@@ -8,11 +8,13 @@ us with information*
 * [Cloud Native Infrastructure](http://cnibook.info) by [Justin Garrison](https://justingarrison.com) and [Kris Nòva](https://www.nivenly.com/)
 * [Container platform for the Enterprise](https://leanpub.com/cpe) by [Armin Coralic](https://twitter.com/acoralic)
 * [DevOps with Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes) by Hideto Saito, Hui-Chuan Chloe Lee, Cheng-Yang Wu
+* [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns) by [Yuan Tang](https://terrytangyuan.github.io/about/)
 * [Docker and Kubernetes Under the Hood](http://item.jd.com/11757034.html) (Chinese) by [Harry Zhang](https://twitter.com/resouer), Jianbo Sun and ZJU SEL lab
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) by Jeff Nickoloff and Stephen Kuenzli
 * [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) by [Ian Miell](https://twitter.com/ianmiell) & [Aidan Hobson Sayers](https://twitter.com/aidanhs)
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) by Jonathan Baier
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) by Matthew Palmer
+* [Google Anthos in Action](https://www.manning.com/books/google-anthos-in-action) by Antonio Gulli et al.
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) (OpenSource Book) by Leverege Developers
 * [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) by [Onur Yilmaz](https://github.com/onuryilmaz)

@@ -58,7 +58,7 @@ To be on the list, it would be nice if entries adhere to these quality standards
 
 ## Minimum Criteria of Submission
 
-If you planning to add a new project, please ensure that it covers the minimum criteria mentioned here ==> https://github.com/ramitsurana/awesome-kubernetes/blob/master/guidelines/CRITERIA_OF_SUBMISSION.md
+If you planning to add a new project, please ensure that it covers the minimum criteria mentioned here ==> https://github.com/ramitsurana/awesome-kubernetes/blob/master/docs/guidelines/CRITERIA_OF_SUBMISSION.md
 
 
 -----------------------------------------------------------------------

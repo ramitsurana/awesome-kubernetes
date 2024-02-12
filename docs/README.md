@@ -17,7 +17,7 @@ A curated list for awesome kubernetes sources inspired by [@sindresorhus' awesom
 > -- Michael Jordan
 
 Without the help from these [amazing contributors](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
-building this awesome-repo would never has been possible. Thank You very much everyone !!
+building this awesome-repo would never have been possible. Thank You very much everyone !!
 
 **Thanks to Gitbook.This awesome list can now be downloaded and read in the form of a book. Check it out -->  https://ramitsurana.gitbook.io/awesome-kubernetes/docs .Keep Learning Keep Sharing !!**
 
@@ -64,7 +64,7 @@ Starting Point
 *A place that marks the beginning of a journey*
 
 * [Kubernetes Community Overview and Contributions Guide](https://docs.google.com/presentation/d/1JqcALpsg07eH665ZXQrIvOcin6SzzsIUjMRRVivrZMg/edit?usp=sharing) by [Ihor Dvoretskyi](https://twitter.com/idvoretskyi/)
-* [Are you Ready to Manage your Infrastructure like Google?](http://blog.jetstack.io/blog/k8s-getting-started-part1/)
+* [Are you Ready to Manage your Infrastructure like Google?](https://www.linkedin.com/pulse/you-ready-manage-your-infrastructure-like-google-matthew-bates/)
 * [Google is years ahead when it comes to the cloud, but it's happy the world is catching up](http://www.businessinsider.in/Google-is-years-ahead-when-it-comes-to-the-cloud-but-its-happy-the-world-is-catching-up/articleshow/47793327.cms)
 * [An Intro to Google’s Kubernetes and How to Use It](http://www.ctl.io/developers/blog/post/what-is-kubernetes-and-how-to-use-it/) by [Laura Frank](https://twitter.com/rhein_wein)
 * [Kubernetes: The Future of Cloud Hosting](https://github.com/meteorhacks/meteorhacks.github.io/blob/master/_posts/2015-04-22-learn-kubernetes-the-future-of-the-cloud.md) by [Meteorhacks](https://twitter.com/meteorhacks)
@@ -99,7 +99,11 @@ Starting Point
 * [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained)
 * [Cloud Observabillity in Action](https://www.manning.com/books/cloud-observability-in-action) by [Michael Hausenblas](https://github.com/mhausenblas)
 * [Core Kubernetes](https://www.manning.com/books/core-kubernetes) by [Chris Love](https://github.com/chrislovecnm)
-* [Road to Kubernetes](https://www.manning.com/books/road-to-kubernetes)) by [Justin Mitchel](https://github.com/jmitchel3)
+* [Road to Kubernetes](https://www.manning.com/books/road-to-kubernetes) by [Justin Mitchel](https://github.com/jmitchel3)
+* [Kubernetes on Windows](https://www.manning.com/books/kubernetes-on-windows) by [Jay Vyas](https://twitter.com/jayunit100) and James Sturtevant
+* [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained-dde470707cb2)
+* [How to Manage Secrets in Kubernetes – A Complete Guide](https://spacelift.io/blog/kubernetes-secrets)
+* [Kubernetes Concepts: Deep Dive](https://dev.to/idanref/kubernetes-concepts-deep-dive-50en) by [Idan Refaeli](https://www.linkedin.com/in/idan-refaeli-65082a175/)
 
 Contributing
 =======================================================================

@@ -314,6 +314,7 @@ Projects
 * [Monokle](https://github.com/kubeshop/monokle/) - helps you create, edit and validate yaml manifests, visualize and validate resource links and dependencies, connect and compare resources to your clusters, debug the output of kustomize and helm, and more!
 * [Aptakube](https://aptakube.com) - A modern, lightweight and multi-cluster desktop client for Kubernetes. Connect to multiple clusters simultaneously, as if it was just one big cluster. View, edit and manage all your resources from your desktop.
 * [Kubernetes Insider for Docker Desktop](https://github.com/spurin/kubernetes-insider) - The Kubernetes Insider provides quick and easy access to Kubernetes Pods/Deployments and Services, running in Docker Desktop Kubernetes.
+* [K8Studio](https://github.com/guiqui/k8Studio) - K8Studio is a cross-platform client IDE to manage Kubernetes Clusters.
 
 ## Mobile applications
 

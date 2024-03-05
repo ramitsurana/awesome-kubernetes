@@ -131,3 +131,4 @@ Useful Articles
 * [Production Checklist for Redis on Kubernetes](https://medium.com/swlh/production-checklist-for-redis-on-kubernetes-60173d5a5325) by [Yitaek Hwang](https://medium.com/@yitaek)
 * [Ultimate Kubernetes Resource Planning Guide](https://medium.com/dev-genius/ultimate-kubernetes-resource-planning-guide-449a4fddd1d6) by [Yitaek Hwang](https://medium.com/@yitaek)
 * [Learn How to Mount a Local Drive in a Pod in minikube](https://thospfuller.com/2020/12/09/learn-how-to-mount-a-local-drive-in-a-pod-in-minikube-2021/) by [Thomas P. Fuller](https://thospfuller.com/)
+* [Kubernetes Deployments Demystified: A Guide to the Rolling Update Deployment Strategy](https://semaphoreci.com/blog/kubernetes-rolling-update-deployment) by [Mercy Bassey](https://www.linkedin.com/in/mercy-bassey-a18682192/)

@@ -561,6 +561,7 @@ Persistent Volume Providers
 * [Rook](http://rook.io/)
 * [StorageOS](http://storageos.com)
 * [Stork](https://github.com/libopenstorage/stork)
+* [simplyblock](https://simplyblock.io)
 
 Container Storage Interface Plugins
 =======================================================================

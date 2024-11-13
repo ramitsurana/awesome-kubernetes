@@ -258,7 +258,7 @@ Projects
 * [Kuryr](https://github.com/openstack/kuryr-kubernetes)
 * [Linen](https://github.com/John-Lin/linen-cni)
 * [LoxiLB](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer for any Kubernetes environments
-* [Multus-cni](https://github.com/Intel-Corp/multus-cni) - Multi-homed pod cni
+* [Multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - Multi-homed pod cni
 * [Network-Controller](https://github.com/linkernetworks/network-controller) - Open vSwitch, Multiple network interfaces that associate with Kubernetes pods
 * [NSX-T](https://www.vmware.com/products/nsx/cloud-native-apps.html) - CNI plugin supporting load balancing and distributed firewalls.
 * [Nuage](https://github.com/nuagenetworks/nuage-kubernetes)
@@ -345,7 +345,7 @@ Projects
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - Work around kubectl
 * [Kui](https://github.com/IBM/kui) - Hybrid CLI/GUI alternative to kubectl
 * [StackStorm](https://github.com/StackStorm/st2)
-* [stern](https://github.com/wercker/stern) - Multi pod and container log tailing
+* [stern](https://github.com/stern/stern) - Multi pod and container log tailing
 * [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
 * [K9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
 * [tubectl](https://github.com/reconquest/tubekit) - Kubernetes CLI on steroids with pattern matching

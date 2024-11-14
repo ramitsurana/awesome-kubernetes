@@ -106,7 +106,6 @@ Starting Point
 * [How to Manage Secrets in Kubernetes – A Complete Guide](https://spacelift.io/blog/kubernetes-secrets)
 * [Kubernetes Concepts: Deep Dive](https://dev.to/idanref/kubernetes-concepts-deep-dive-50en) by [Idan Refaeli](https://www.linkedin.com/in/idan-refaeli-65082a175/)
 * [Fluent Bit with Kubernetes](https://www.manning.com/books/fluent-bit-with-kubernetes) by [Phil Wilkins](https://www.linkedin.com/in/philwilkins/)
-* [Kubernetes Hands-on Labs](https://labex.io/tutorials/quick-start-with-kubernetes-free-tutorials-413796) by [LabEx](https://labex.io)
 
 Contributing
 =======================================================================

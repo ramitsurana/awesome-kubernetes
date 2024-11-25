@@ -260,7 +260,6 @@ Projects
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 * [Kuryr](https://github.com/openstack/kuryr-kubernetes)
 * [Linen](https://github.com/John-Lin/linen-cni)
-* [LoxiLB](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer for any Kubernetes environments
 * [Multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - Multi-homed pod cni
 * [Network-Controller](https://github.com/linkernetworks/network-controller) - Open vSwitch, Multiple network interfaces that associate with Kubernetes pods
 * [NSX-T](https://www.vmware.com/products/nsx/cloud-native-apps.html) - CNI plugin supporting load balancing and distributed firewalls.
@@ -440,6 +439,7 @@ Projects
 * [HAProxy Ingress](https://github.com/jcmoraisjr/haproxy-ingress)
 * [k8gb](https://www.k8gb.io/) - A cloud native Kubernetes Global Balancer
 * [Linode NodeBalancer Ingress](https://github.com/linode/linode-cloud-controller-manager)
+* [LoxiLB](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer for any Kubernetes environments.
 * [MetalLB](https://metallb.universe.tf/) - load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols.
 * [Porter](https://github.com/kubesphere/porter) - a load balancer which is designed for a bare metal Kubernetes cluster. It's implemented by physical switch, and uses BGP and ECMP to achieve optimal performance and HA.
 * [PureLB](http://purelb.io) - open-source load-balancer orchestrator for Kubernetes clusters. It uses standard Linux networking and routing protocols, and works with the operating system to announce service addresses.

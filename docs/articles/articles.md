@@ -36,6 +36,8 @@ Useful Articles
 - [Practical Monitoring with Prometheus & Grafana: 4 Part Series](https://medium.com/@yitaek/practical-monitoring-with-prometheus-grafana-part-i-22d0f172f993) by [Yitaek Hwang](https://medium.com/@yitaek)
 - [Easy Kubernetes Metrics Server Install in minikube in Five Steps](https://thospfuller.com/2020/11/29/easy-kubernetes-metrics-server-install-in-minikube-in-five-steps/) by [Thomas P. Fuller](https://thospfuller.com/)
 - [Kubernetes Monitoring: A complete Guide](https://middleware.io/blog/kubernetes-monitoring/) by [Laduram Vishnoi](https://twitter.com/laduramvishnoi)
+- [VictoriaMetrics: deploying a Kubernetes monitoring stack](https://rtfm.co.ua/en/victoriametrics-deploying-a-kubernetes-monitoring-stack/) by [Arseny Zinchenko](https://www.linkedin.com/in/setevoy/)
+- [Multi-site monitoring with HA and dynamic scale using VictoriaMetrics. A Practical guide](https://medium.com/israeli-tech-radar/all-at-once-monster-multi-site-monitoring-platform-with-victoriametrics-ebed75c3c5e) by [Amit Karni](https://www.linkedin.com/in/amit-karni/)
 
 ### [Security](#security)
 

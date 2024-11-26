@@ -17,14 +17,14 @@ Useful Articles
 - [Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean)
 - [Deploy a Kubernetes development cluster with Juju!](http://insights.ubuntu.com/2015/07/23/deploy-a-kubernetes-development-cluster-with-juju-2/) by [Matt Bruzek](https://github.com/mbruzek)
 - [State of Managed Kubernetes 2020](https://medium.com/swlh/state-of-managed-kubernetes-2020-4be006643360) by [Yitaek Hwang](https://medium.com/@yitaek)
-- [Basics of autoscaling nodes and pods in Kubernetes](https://www.useanvil.com/blog/engineering/autoscaling-kubernetes-in-gke) by [Inshaal Amjad
-](https://www.linkedin.com/in/inshaal-amjad/)
+- [Basics of autoscaling nodes and pods in Kubernetes](https://www.useanvil.com/blog/engineering/autoscaling-kubernetes-in-gke) by [Inshaal Amjad](https://www.linkedin.com/in/inshaal-amjad/)
 
 ### [Logging](#logging)
 - [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by Michael Ward
 - [The Complete Guide to Kubernetes Logging](https://sematext.com/guides/kubernetes-logging/) by [Adnan Rahić](https://twitter.com/adnanrahic)
 - [Logs in Kubernetes: expectations vs reality](https://blog.palark.com/logs-in-kubernetes-expectations-vs-reality/) by [Nikolay Bogdanov](https://github.com/gyrter)
+- [VictoriaLogs: an overview, run in Kubernetes, LogsQL, and Grafana](https://rtfm.co.ua/en/victorialogs-an-overview-run-in-kubernetes-logsql-and-grafana/)  by [Arseny Zinchenko](https://www.linkedin.com/in/setevoy/)
 
 ### [Monitoring](#monitoring)
 
@@ -36,6 +36,8 @@ Useful Articles
 - [Practical Monitoring with Prometheus & Grafana: 4 Part Series](https://medium.com/@yitaek/practical-monitoring-with-prometheus-grafana-part-i-22d0f172f993) by [Yitaek Hwang](https://medium.com/@yitaek)
 - [Easy Kubernetes Metrics Server Install in minikube in Five Steps](https://thospfuller.com/2020/11/29/easy-kubernetes-metrics-server-install-in-minikube-in-five-steps/) by [Thomas P. Fuller](https://thospfuller.com/)
 - [Kubernetes Monitoring: A complete Guide](https://middleware.io/blog/kubernetes-monitoring/) by [Laduram Vishnoi](https://twitter.com/laduramvishnoi)
+- [VictoriaMetrics: deploying a Kubernetes monitoring stack](https://rtfm.co.ua/en/victoriametrics-deploying-a-kubernetes-monitoring-stack/) by [Arseny Zinchenko](https://www.linkedin.com/in/setevoy/)
+- [Multi-site monitoring with HA and dynamic scale using VictoriaMetrics. A Practical guide](https://medium.com/israeli-tech-radar/all-at-once-monster-multi-site-monitoring-platform-with-victoriametrics-ebed75c3c5e) by [Amit Karni](https://www.linkedin.com/in/amit-karni/)
 
 ### [Security](#security)
 

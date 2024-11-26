@@ -441,6 +441,7 @@ Projects
 * [HAProxy Ingress](https://github.com/jcmoraisjr/haproxy-ingress)
 * [k8gb](https://www.k8gb.io/) - A cloud native Kubernetes Global Balancer
 * [Linode NodeBalancer Ingress](https://github.com/linode/linode-cloud-controller-manager)
+* [LoxiLB](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer for any Kubernetes environments.
 * [MetalLB](https://metallb.universe.tf/) - load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols.
 * [Porter](https://github.com/kubesphere/porter) - a load balancer which is designed for a bare metal Kubernetes cluster. It's implemented by physical switch, and uses BGP and ECMP to achieve optimal performance and HA.
 * [PureLB](http://purelb.io) - open-source load-balancer orchestrator for Kubernetes clusters. It uses standard Linux networking and routing protocols, and works with the operating system to announce service addresses.

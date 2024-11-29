@@ -103,6 +103,7 @@ Useful Articles
 - [How to Provision an AWS EKS Kubernetes Cluster with Terraform](https://spacelift.io/blog/how-to-provision-aws-eks-kubernetes-cluster-with-terraform) by [Jacob Martin](https://www.linkedin.com/in/jakubmartin/)
 
 ### [Others](#others)
+* [Rightsizing Your Kubernetes Cluster](https://www.perfectscale.io/blog/8-tips-for-rightsizing-your-kubernetes-cluster) by Idan Gazit
 * [Packaging Multiple Resources together](https://planet.jboss.org/post/kubernetes_application_package_multiple_resources_together) by Arun Gupta
 * [Scaling Docker with Kubernetes](http://www.infoq.com/articles/scaling-docker-with-kubernetes) by [Carlos Sanchez](https://twitter.com/csanchez)
 * [Creating a Kubernetes Cluster to Run Docker Formatted Container Images](http://access.redhat.com/articles/1353773) by [Chris Negus](https://twitter.com/linuxcricket)

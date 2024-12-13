@@ -1,4 +1,4 @@
-sudo: required
+  sudo: required
 language: ruby
 
 notifications:
@@ -11,7 +11,14 @@ notifications:
 rvm:
   - 2.2
 before_script:
+  # Install awesome_bot
   - gem install awesome_bot
+  # Install hub (GitHub CLI)
+  - curl -L https://github.com/github/hub/releases/download/v2.14.2/hub-linux-amd64-2.14.2.tgz | tar xz
+  - sudo ./hub-linux-amd64-2.14.2/install
+  # Verify installation
+  - git --version
+  - hub --version
 script:
   - "travis_wait 2" 
   - travis_retry awesome_bot README.md --allow-redirect --white-list developer.ibm.com,linkedin.com,slideshare.net,research.google.com,twitter.com,img.shields.io,sdxcentral.com,dasblinkenlichten.com,github.com,creativecommons.org --allow-dupe

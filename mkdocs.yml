@@ -1,4 +1,4 @@
-# Project information
+ # Project Information
 site_name: Awesome Kubernetes
 site_description: Resources for Awesome Kubernetes
 site_author: Ramit Surana
@@ -11,13 +11,15 @@ repo_url: https://github.com/ramitsurana/awesome-kubernetes
 # Copyright
 copyright: Copyright &copy; 2020 Ramit Surana
 
-# Configuration
+# Theme Configuration
 theme:
   name: material
   language: en
   features:
     - tabs
     - instant
+    - navigation.sections
+    - navigation.top
   palette:
     primary: indigo
     accent: indigo
@@ -40,12 +42,11 @@ extra:
       link: https://twitter.com/ramitsurana
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/ramitsurana
+  analytics:
+    provider: google
+    property: UA-71344758-5
 
-# Google Analytics
-google_analytics:
-  - UA-71344758-5
-  - auto
-
+# Navigation
 nav:
   - Home: README.md
   - Articles: articles/articles.md
@@ -54,29 +55,36 @@ nav:
   - Case Studies: case-studies/case-studies.md
   - Official Resources: official-resources/official-resources.md
   - Applications: applications/applications.md
-  - Projects: 
-    - Projects: projects/projects.md
-    - Managed Kubernetes: managed-kubernetes/managed-kubernetes.md
+  - Projects:
+      - Overview: projects/projects.md
+      - Managed Kubernetes: managed-kubernetes/managed-kubernetes.md
   - Learning:
-    - Books: learning-resources/books.md
-    - Videos: learning-resources/videos.md
-    - Podcasts: learning-resources/podcasts.md
-    - Slides: learning-resources/slides.md
-    - Certifications: learning-resources/certifications.md
-    - Interactive-Environments: learning-resources/interactive-environments.md
-    - Courses: learning-resources/courses.md
+      - Books: learning-resources/books.md
+      - Videos: learning-resources/videos.md
+      - Podcasts: learning-resources/podcasts.md
+      - Slides: learning-resources/slides.md
+      - Certifications: learning-resources/certifications.md
+      - Interactive Environments: learning-resources/interactive-environments.md
+      - Courses: learning-resources/courses.md
   - Extras:
-    - Conferences: extras/conferences.md
-    - Amazing People: extras/amazing-people.md
-    - Meetups: extras/meetups.md
-    - Social Media: extras/social-media.md
-    - Raspberry Pi: extras/raspberry-pi.md
+      - Conferences: extras/conferences.md
+      - Amazing People: extras/amazing-people.md
+      - Meetups: extras/meetups.md
+      - Social Media: extras/social-media.md
+      - Raspberry Pi: extras/raspberry-pi.md
 
 # Extensions
 markdown_extensions:
   - admonition
   - toc:
       permalink: true
+  - footnotes
+  - meta
+  - codehilite:
+      guess_lang: false
 
+# Plugins
 plugins:
-  - search # necessary for search to work
+  - search # Enables search functionality
+  - minify: # Improves page loading speed by minifying assets
+      html: true

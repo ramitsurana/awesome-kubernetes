@@ -7,3 +7,4 @@ Interactive Learning Environments
 * [Kubernetes Bootcamp](http://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
 * [Play with Kubernetes](http://labs.play-with-k8s.com/)
 * [Kubernetes Labs for practice](https://www.sharelearn.net/practice/k8slabs/)
+* [Meshery Playground](https://play.meshery.io/)

@@ -494,6 +494,7 @@ Projects
 * [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet) - Generic library of Kubernetes objects for Jsonnet/Kubecfg with object to array mapping for painless overrides.
 * [kubegen](https://github.com/errordeveloper/kubegen) - Reduces the verbosity of Kubernetes resource definitions, and adds macros for templating
 * [kubeval](https://github.com/garethr/kubeval) - CLI tool for validating a Kubernetes YAML or JSON configuration file
+* [KubeQ](https://kubeq.click) - A fast, simple, and powerful web-based Kubernetes manifest validator. No installation or config needed—just paste your manifest and get instant feedback on quality, security, and best practices. Powered by kubeval, kube-score, and kubeaudit. Great for pre-commit validation, reviewing charts, teaching, and CI/CD linting.
 * [helmify](https://github.com/arttor/helmify) - CLI tool to convert K8s YAMLs into a Helm chart
 
 ## Static Analysis

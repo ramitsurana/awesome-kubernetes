@@ -29,7 +29,9 @@ building this awesome-repo would never have been possible. Thank You very much e
 It groups containers that make up an application into logical units for easy management and discovery.
 
 _Source:_ [What is Kubernetes](http://kubernetes.io/)
-
+### Tutorials
+- [Kubernetes Workshop](https://www.kubernetesworkshop.io) – Hands-on Kubernetes workshop for beginners.
+- [Kubernetes Tutorial](https://www.tutorialspoint.com/kubernetes/index.htm)
 
 ## History
 

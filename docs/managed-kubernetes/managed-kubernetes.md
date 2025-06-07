@@ -13,6 +13,7 @@ Managed Kubernetes
   - [Flant Managed Kubernetes](https://flant.com/services/managed-kubernetes-as-a-service)
   - [Giant Swarm](https://www.giantswarm.io/)
   - [APPUiO Cloud](https://www.appuio.ch/offering/cloud/) - Shared multi-teant OpenShift cluster - Kubernetes Namespace as a Service
+  - [Thalassa Cloud](https://thalassa.cloud/products/compute/kubernetes/)
 
 ### [Cluster Managers](#cluster-manager)
 

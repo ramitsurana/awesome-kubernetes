@@ -19,7 +19,10 @@ Interesting Twitter Accounts
 * [Sysdig](https://twitter.com/sysdig)
 
 ## Other
-* [Learnk8s](https://twitter.com/learnk8s)
+* [LearnKube](https://x.com/learnk8s)
+* [Kube Architect](https://x.com/k8sarchitect)
+* [Kube Builders](https://x.com/kubebuilders)
+* [Kubesploit](https://x.com/kubesploit)
 
 Other Social Media Accounts
 =======================================================================

@@ -322,6 +322,7 @@ Projects
 * [Kubernetes Insider for Docker Desktop](https://github.com/spurin/kubernetes-insider) - The Kubernetes Insider provides quick and easy access to Kubernetes Pods/Deployments and Services, running in Docker Desktop Kubernetes.
 * [K8Studio](https://github.com/guiqui/k8Studio) - K8Studio is a cross-platform client IDE to manage Kubernetes Clusters.
 * [KFtray](https://github.com/hcavarsan/kftray) - Manage and run multiple kubectl port-forward configurations directly in the menu bar, syncing configurations with git repositories.
+* [Kunobi](https://kunobi.ninja) - Kubernetes desktop IDE with an embedded MCP server, providing visual oversight of AI-driven cluster operations. Supports FluxCD, ArgoCD, Helm, and expanding to infrastructure beyond Kubernetes.
 
 ## Mobile applications
 

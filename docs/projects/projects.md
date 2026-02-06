@@ -434,6 +434,7 @@ Projects
 * [Apache APISIX - Cloud-Native API gateway and ingress controller](https://github.com/apache/apisix)
 * [Avi Networks - Software Load Balancer | Intelligent WAF | Elastic Service Mesh](https://avinetworks.com/)
 * [AWS ALB Ingress Controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller)
+* [BunkerWeb](https://github.com/bunkerity/bunkerweb) - A next-generation, open-source Web Application Firewall (WAF) with an Ingress Controller and a Gateway API controller.
 * [Cloudflare Warp Ingress](https://github.com/cloudflare/cloudflare-ingress-controller)
 * [Contour](https://github.com/projectcontour/contour) - Kubernetes ingress controller for Lyft's Envoy proxy
 * [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr)

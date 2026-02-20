@@ -86,6 +86,7 @@ Projects
 * [New Relic](https://newrelic.com/platform/kubernetes) - Kubernetes monitoring and visualization service.
 * [NexClipper](https://github.com/NexClipper/NexClipper) - An open source software for monitoring Kubernetes and containers.
 * [Outcold Solutions](https://www.outcoldsolutions.com) - monitoring Kubernetes, OpenShift and Docker in Splunk Enterprise and Splunk Cloud (metrics and log forwarding)
+* [ReleaseRun K8s Badges](https://releaserun.com/badges/builder/) - Embeddable badges showing Kubernetes version health, CVE counts, EOL status, and EKS/GKE/AKS cloud provider support.
 * [Prometheus](http://prometheus.io)
 * [Replex.io](https://replex.io) - Kubernetes Governance & Cost Control.
 * [Robusta.dev](https://github.com/robusta-dev/robusta) - Better Prometheus Alerts for Kubernetes with ability to Enrich, Group, and Remediate your Alerts.

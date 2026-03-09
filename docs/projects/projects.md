@@ -507,6 +507,7 @@ Projects
 
 * [kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security
 * [popeye](https://github.com/derailed/popeye) - Kubernetes cluster resource sanitzer
+* [kroot](https://github.com/AnonJon/kroot) - Dependency-graph root cause analysis for Kubernetes failures
 
 ## Tuning
 

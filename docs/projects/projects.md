@@ -293,6 +293,7 @@ Projects
 
 ## Secret generation and management
 
+* [bitwarden-csi-provider](https://github.com/kvncrw/bitwarden-csi-provider) - Bitwarden Secrets Manager provider for the Kubernetes Secrets Store CSI Driver
 * [CyberArk Conjur Kubernetes Authenticator](https://developer.conjur.net/reference/integrations/kubernetesopenshift.html) - Secure your Kubernetes-deployed applications with CyberArk Conjur
 * [External Secrets Operator](https://github.com/external-secrets/external-secrets/)
 * [k8sec](https://github.com/dtan4/k8sec)

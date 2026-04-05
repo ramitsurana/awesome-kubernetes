@@ -191,6 +191,7 @@ Projects
 * [Kong API](https://github.com/upmc-enterprises/kong-operator)
 * [kooper](https://github.com/spotahome/kooper) - Simple Go library to create Kubernetes operators and controllers
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
+* [Kube Foundry](https://github.com/kube-foundry/kube-foundry) - Kubernetes operator that runs AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode) in sandboxed pods.
 * [KubeVirt](https://github.com/kubevirt)
 * [KUDO](https://kudo.dev) - KUDO (Kubernetes Universal Declarative Operator) is a toolset for writing Kubernetes Operators
 * [Kured](https://github.com/weaveworks/kured) - Kured (Kubernetes Reboot Daemon) is a Kubernetes daemonset that performs safe automatic node reboots

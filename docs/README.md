@@ -31,6 +31,7 @@ It groups containers that make up an application into logical units for easy man
 _Source:_ [What is Kubernetes](http://kubernetes.io/)
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for infrastructure monitoring, automated deployment orchestration, and container management. MIT licensed.
 ## History
 
 **Kubernetes is known to be a descendant of Google's system BORG**

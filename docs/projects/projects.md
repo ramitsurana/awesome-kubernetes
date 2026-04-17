@@ -426,6 +426,7 @@ Projects
 * [kubeaudit](https://github.com/Shopify/kubeaudit) - Helps you audit your Kubernetes clusters against common security controls
 * [Kubesec.io](http://kubesec.io/)
 * [Pomerium](http://www.pomerium.io/) - a zero-trust identity-aware access proxy inspired by BeyondCorp.
+* [procscope](https://github.com/Mutasem-mk4/procscope) - Process-scoped runtime investigator using eBPF, featuring a heuristics engine for automated threat detection.
 * [Rakkess](https://github.com/corneliusweig/rakkess) - Kubectl plugin to show an access matrix for all available resources.
 * [Sysdig Falco](https://sysdig.com/opensource/falco/)
 * [Sysdig Secure](http://www.sysdig.com/products/secure)

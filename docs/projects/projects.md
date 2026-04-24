@@ -314,6 +314,7 @@ Projects
 * [KubeHelper](https://github.com/KubeHelper/kubehelper) - KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.
 * [Portainer](https://github.com/portainer/portainer) - Containerized web-based UI for managing for Docker, Docker Swarm and Kubernetes environments.
 * [CyclopsUI](https://github.com/cyclops-ui/cyclops) - Dynamically rendered UI for Kubernetes resources based on Helm templating engine
+* [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard with CNCF project integrations, real-time observability, and guided install missions across edge and cloud clusters.
 
 ## Desktop applications
 

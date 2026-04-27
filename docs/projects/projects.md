@@ -69,6 +69,7 @@ Projects
 * [HolmesGPT](https://github.com/robusta-dev/holmesgpt) - On-Call/DevOps Assistant - Get a head start on fixing alerts with AI. Investigate Prometheus alerts, Jira/Pagerduty/Opsgenie tickets automatically.
 * [Instana](https://www.instana.com/) - Automatic Kubernetes Application Performance Monitoring
 * [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent for Kubernetes. Traces CUDA Runtime/Driver APIs and host kernel events with pod/namespace metadata enrichment. DaemonSet + Helm chart included.
+* [piqc](https://github.com/paralleliq/piqc) - Read-only Kubernetes scanner that detects GPU waste in AI inference deployments — idle GPUs, tier misplacement, and unallocated nodes. One command, nothing installed permanently.
 * [kite](https://github.com/zxh326/kite) - A modern, lightweight Kubernetes dashboard.
 * [kail](https://github.com/boz/kail) - Kubernetes Log Viewer. Streams logs from all containers of all matching pods.
 * [KRR](https://github.com/robusta-dev/krr) - Kubernetes CPU/Memory requests/limits recommendations based on existing data in Prometheus/Coralogix/Thanos/Mimir and more!

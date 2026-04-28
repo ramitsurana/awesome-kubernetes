@@ -384,6 +384,7 @@ Projects
 * [Skaffold](https://github.com/GoogleCloudPlatform/skaffold) - Command line tool that facilitates continuous development for Kubernetes applications.
 * [kubedog](https://github.com/flant/kubedog) - Kubedog is a library and cli utility that allows watching and following kubernetes resources in CI/CD deploy pipelines.
 * [kapp](https://github.com/k14s/kapp) - simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
+* [Ownkube](https://ownkube.io) - AI-enabled developer platform that runs in your own AWS account on k3s or EKS. Git push to deploy, managed Postgres, preview environments per PR, and AI error detection from day one.
 
 ## Configuration
 

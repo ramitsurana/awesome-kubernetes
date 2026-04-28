@@ -36,6 +36,7 @@ Projects
 * [Kubernetes Cluster Federation (previously Ubernetes)](https://github.com/kubernetes-sigs/kubefed)
 * [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
 * [Kubic-Project](https://github.com/kubic-project)
+* [Meshery](https://meshery.io) - Cloud native management plane for Kubernetes infrastructure and applications. CNCF Sandbox project.
 * [Reloader](https://github.com/stakater/Reloader) - Auto-load updates of ConfigMaps and Secrets into pods for Deployments, StatefulSets and DaemonSets
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
 * [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result

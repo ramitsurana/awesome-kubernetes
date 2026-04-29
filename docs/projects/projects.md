@@ -316,6 +316,7 @@ Projects
 * [Kubevious](https://github.com/kubevious/kubevious) - An open source UI to make Kubernetes configuration and state obvious and safe.
 * [Octant](https://github.com/vmware-tanzu/octant) - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 * [KubeHelper](https://github.com/KubeHelper/kubehelper) - KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.
+* [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard with real-time observability, 150+ cards, and 30+ CNCF integrations.
 * [Portainer](https://github.com/portainer/portainer) - Containerized web-based UI for managing for Docker, Docker Swarm and Kubernetes environments.
 * [CyclopsUI](https://github.com/cyclops-ui/cyclops) - Dynamically rendered UI for Kubernetes resources based on Helm templating engine
 * [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard with CNCF project integrations, real-time observability, and guided install missions across edge and cloud clusters.

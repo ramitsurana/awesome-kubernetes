@@ -18,6 +18,7 @@ Projects
 * [Fairwinds Pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 * [Fairwinds Polaris](https://github.com/reactiveops/polaris) - An open source dashboard for Kubernetes best practices
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
+* [Fortem](https://fortem.dev) - AI-native Internal Developer Platform for Kubernetes — self-hosted Helm chart install, NL-to-manifest generation, AIOps cost optimization, Kubernetes Operator architecture
 * [Forecastle](https://github.com/stakater/Forecastle) - A dashboard which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes
 * [Gefyra](https://github.com/gefyrahq/gefyra) - Connect Docker containers to any Kubernetes environment
 * [Getdeck](https://github.com/Getdeck/getdeck) - A CLI that creates reproducible Kubernetes environments for development and testing

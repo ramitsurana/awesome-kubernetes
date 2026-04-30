@@ -188,6 +188,7 @@ Projects
 * [Elasticsearch](https://github.com/upmc-enterprises/elasticsearch-operator)
 * [etcd](https://github.com/coreos/etcd-operator)
 * [Istio](https://github.com/banzaicloud/istio-operator)
+* [Jupyter Notebook Validator Operator](https://github.com/tosin2013/jupyter-notebook-validator-operator) - Kubernetes operator for validating Jupyter notebooks in MLOps workflows (Papermill, golden notebooks, model validation); published on [OperatorHub.io](https://operatorhub.io/operator/jupyter-notebook-validator-operator).
 * [K8s Operator Workshop](https://github.com/lukebond/cc-au-k8s-operators-workshop)
 * [k8s4claw](https://github.com/Prismer-AI/k8s4claw) - Kubernetes operator for managing heterogeneous AI agent runtimes with a single CRD — IPC bus, channel sidecars, auto-updates, and persistence.
 * [k8tz](https://github.com/k8tz/k8tz) - Kubernetes admission controller and a CLI tool to inject timezones into Pods and CronJobs

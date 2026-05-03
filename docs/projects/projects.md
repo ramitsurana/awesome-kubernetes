@@ -47,6 +47,7 @@ Projects
 * [k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically.
 * [configurator](https://github.com/gopaddle-io/configurator) - A version control and a sync service that keeps Kubernetes ConfigMaps and Secrets in sync with the deployment.
 * [KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - A command-line tool to generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state.
+* [Kzmlabs StateFun Actors](https://github.com/kzmlabs/flink-statefun) - Stateful actor framework deployable on Kubernetes via the Apache Flink Operator. Durable per-key state, exactly-once messaging, Kafka & Kinesis I/O. Continues Apache Stateful Functions on Flink 2.x + Java 21.
 
 ## Package Managers
 

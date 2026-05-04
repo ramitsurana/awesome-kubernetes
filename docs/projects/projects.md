@@ -73,6 +73,7 @@ Projects
 * [piqc](https://github.com/paralleliq/piqc) - Read-only Kubernetes scanner that detects GPU waste in AI inference deployments — idle GPUs, tier misplacement, and unallocated nodes. One command, nothing installed permanently.
 * [kite](https://github.com/zxh326/kite) - A modern, lightweight Kubernetes dashboard.
 * [kail](https://github.com/boz/kail) - Kubernetes Log Viewer. Streams logs from all containers of all matching pods.
+* [kpod-metrics](https://github.com/pjs7678/kpod-metrics) - eBPF-based pod-level kernel metrics collector that exports per-pod CPU, network, memory, syscall, and disk I/O metrics to Prometheus. Zero instrumentation required.
 * [KRR](https://github.com/robusta-dev/krr) - Kubernetes CPU/Memory requests/limits recommendations based on existing data in Prometheus/Coralogix/Thanos/Mimir and more!
 * [Kubebox](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes
 * [Kubecost](https://kubecost.com/) - monitor resources following their financial cost

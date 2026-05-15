@@ -22,7 +22,7 @@ Projects
 * [Gefyra](https://github.com/gefyrahq/gefyra) - Connect Docker containers to any Kubernetes environment
 * [Getdeck](https://github.com/Getdeck/getdeck) - A CLI that creates reproducible Kubernetes environments for development and testing
 * [Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) - A proxy to let webhooks reach running services behind a firewall
-* [GoKubeDownscaler](https://kube-downscaler.io) - A Kubernetes autoscaler that reduces non-production cluster costs by scaling workloads to zero during off-hours such as nights, weekends, and holidays.
+* [GoKubeDownscaler](https://kube-downscaler.io) - A Kubernetes autoscaler that reduces cluster costs by scaling workloads to zero during off-hours such as nights, weekends, and holidays.
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
 * [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) - Watches ingress endpoints and automatically registers liveness alerts on the configured uptime checker
 * [k8s-label-rules-webhook](https://github.com/circa10a/k8s-label-rules-webhook) - An admission webhook to enforce standards for labels of resources being created in your k8s cluster

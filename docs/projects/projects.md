@@ -28,6 +28,7 @@ Projects
 * [Kanvas](https://github.com/meshery-extensions/kanvas-site) - A collaborative visual designer for Kubernetes and multi-cloud infrastructure.
 * [kmachine](https://github.com/skippbox/kmachine)
 * [KEDA](https://github.com/kedacore/keda) - Kubernetes-based Event Driven Autoscaling
+* [keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler) - KEDA external scaler for GPU autoscaling via NVML, with built-in scaling profiles for vLLM and Triton inference
 * [kube-fledged](https://github.com/senthilrch/kube-fledged) - A K8S add-on for creating and managing a cache of container images directly on cluster worker nodes
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
 * [Kubeform](http://capgemini.github.io/kubeform/)
@@ -476,6 +477,7 @@ Projects
 ## Machine Learning
 
 * [nos](https://github.com/nebuly-ai/nos) - `nos` is an open-source platform to efficiently run AI workloads on Kubernetes, increasing GPU utilization and reducing infrastructure and operational costs.
+* [keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler) - KEDA external scaler that reads NVIDIA GPU metrics directly from NVML and autoscales inference workloads including scale-to-zero
 * [FfDL](https://github.com/IBM/FfDL) - Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes
 * [Fiber](https://github.com/uber/fiber) - Distributed computing library for AI on Kubernetes.
 * [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes.

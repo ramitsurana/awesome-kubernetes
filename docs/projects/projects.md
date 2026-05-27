@@ -373,6 +373,7 @@ Projects
 
 ## Application deployment orchestration
 
+* [Agyn](https://github.com/agynio/platform) - Kubernetes-native runtime for AI agents with sandbox for agents and MCP servers.
 * [AppController](https://github.com/Mirantis/k8s-AppController)
 * [Brigade](https://github.com/Azure/brigade) - Event Based Scripting using JavaScript
 * [Deployment manager](https://cloud.google.com/deployment-manager/)

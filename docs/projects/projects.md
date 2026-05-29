@@ -66,6 +66,7 @@ Projects
 * [eventrouter](https://github.com/heptiolabs/eventrouter) - simple introspective kubernetes service that forwards events to a specified sink.
 * [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
+* [groundcover](https://www.groundcover.com/) - eBPF-based observability platform for Kubernetes with logs, metrics, traces, and APM; deployed inside the user's own cloud (BYOC).
 * [Heapster](https://github.com/kubernetes/heapster)
 * [HolmesGPT](https://github.com/robusta-dev/holmesgpt) - On-Call/DevOps Assistant - Get a head start on fixing alerts with AI. Investigate Prometheus alerts, Jira/Pagerduty/Opsgenie tickets automatically.
 * [Instana](https://www.instana.com/) - Automatic Kubernetes Application Performance Monitoring

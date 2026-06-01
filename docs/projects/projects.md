@@ -71,6 +71,7 @@ Projects
 * [Instana](https://www.instana.com/) - Automatic Kubernetes Application Performance Monitoring
 * [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent for Kubernetes. Traces CUDA Runtime/Driver APIs and host kernel events with pod/namespace metadata enrichment. DaemonSet + Helm chart included.
 * [piqc](https://github.com/paralleliq/piqc) - Read-only Kubernetes scanner that detects GPU waste in AI inference deployments — idle GPUs, tier misplacement, and unallocated nodes. One command, nothing installed permanently.
+* [InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live visual map of pods, deployments, volumes, and statefulsets on any Linux server. Single binary, one-command install.
 * [kite](https://github.com/zxh326/kite) - A modern, lightweight Kubernetes dashboard.
 * [kail](https://github.com/boz/kail) - Kubernetes Log Viewer. Streams logs from all containers of all matching pods.
 * [KRR](https://github.com/robusta-dev/krr) - Kubernetes CPU/Memory requests/limits recommendations based on existing data in Prometheus/Coralogix/Thanos/Mimir and more!

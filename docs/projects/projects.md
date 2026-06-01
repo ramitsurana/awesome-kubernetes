@@ -479,6 +479,7 @@ Projects
 * [FfDL](https://github.com/IBM/FfDL) - Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes
 * [Fiber](https://github.com/uber/fiber) - Distributed computing library for AI on Kubernetes.
 * [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes.
+* [kube-llmops](https://github.com/GaeaRuiW/kube-llmops) - Kubernetes-native LLMOps Platform. Deploy, manage, monitor, and optimize your entire LLM infrastructure on Kubernetes with one Helm Chart. Includes vLLM, llama.cpp, LiteLLM gateway, Grafana dashboards, Langfuse tracing, Keycloak SSO, KEDA autoscaling, RAG with Dify, fine-tuning with LLaMA-Factory.
 * [mxnet-operator](https://github.com/deepinsight/mxnet-operator) - Tools for ML/MXNet on Kubernetes.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - An open source platform for reproducible machine learning and deep learning on kubernetes
 * [seldon-core](https://github.com/SeldonIO/seldon-core) - Open source framework for deploying machine learning models on Kubernetes

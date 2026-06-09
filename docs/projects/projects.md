@@ -107,6 +107,7 @@ Projects
 * [kube-eventer](https://github.com/AliyunContainerService/kube-eventer) - kube-eventer emit kubernetes events to sinks (kafka, slack, webhook, etc)
 * [VictoriaMetrics](https://docs.victoriametrics.com/) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database.
 * [VictoriaLogs](https://docs.victoriametrics.com/victorialogs/) - VictoriaLogs is a fast and easy-to-use, open source logs solution. Highly scalable on cloud, kubernetes or on-premise setups.
+* [ZopNight](https://zopnight.com/) - Kubernetes-native FinOps autopilot for AWS, GCP, Azure. Namespace-level scheduling, scale-to-zero, idle resource detection.
 
 ## Testing
 

@@ -398,7 +398,7 @@ Projects
 * [Habitat](http://www.habitat.sh/docs/best-practices/#kubernetes)
 * [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
 * [K8comp](https://github.com/cststack/k8comp)
-* [kapitan](https://github.com/deepmind/kapitan) - Manage complex deployments using jsonnet and jinja2
+* [Kapitan](https://github.com/kapicorp/kapitan) - Inventory-driven configuration management for Kubernetes and infrastructure, with Jsonnet, Jinja2, Kadet, Helm, Kustomize, and CUE inputs
 * [kenv](https://github.com/thisendout/kenv)
 * [Kompose](https://github.com/kubernetes/kompose)
 * [Konfd](https://github.com/kelseyhightower/konfd)

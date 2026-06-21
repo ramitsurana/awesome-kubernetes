@@ -91,6 +91,7 @@ Projects
 * [NexClipper](https://github.com/NexClipper/NexClipper) - An open source software for monitoring Kubernetes and containers.
 * [Outcold Solutions](https://www.outcoldsolutions.com) - monitoring Kubernetes, OpenShift and Docker in Splunk Enterprise and Splunk Cloud (metrics and log forwarding)
 * [Prometheus](http://prometheus.io)
+* [Radar](https://github.com/skyhook-io/radar) - Local-first Kubernetes visibility with topology, event timeline, service traffic, resource browsing, Helm management, GitOps workflows, and built-in MCP for AI assistants.
 * [Replex.io](https://replex.io) - Kubernetes Governance & Cost Control.
 * [Robusta.dev](https://github.com/robusta-dev/robusta) - Better Prometheus Alerts for Kubernetes with ability to Enrich, Group, and Remediate your Alerts.
 * [Searchlight](https://github.com/appscode/searchlight)

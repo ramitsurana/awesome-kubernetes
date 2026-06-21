@@ -107,6 +107,7 @@ Starting Point
 * [Kubernetes Concepts: Deep Dive](https://dev.to/idanref/kubernetes-concepts-deep-dive-50en) by [Idan Refaeli](https://www.linkedin.com/in/idan-refaeli-65082a175/)
 * [Fluent Bit with Kubernetes](https://www.manning.com/books/fluent-bit-with-kubernetes) by [Phil Wilkins](https://www.linkedin.com/in/philwilkins/)
 * [Kubernetes from scratch](https://medium.com/@ghumare64/kubernetes-from-scratch-part-1-4b40cb6c1aba) by [Rohit Ghumare](https://www.linkedin.com/in/rohit-ghumare/)
+* [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) by [Marko Lukša](https://www.manning.com/authors/marko-luksa) and [Kevin Conner](https://www.manning.com/authors/kevin-conner)
 
 Contributing
 =======================================================================

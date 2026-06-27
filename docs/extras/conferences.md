@@ -10,3 +10,4 @@ Conferences
 * [Docker Con](http://dockercon.com)
 * [GCP Next](http://cloudnext.withgoogle.com/)
 * [Kubecon](http://events.linuxfoundation.org/events/kubecon)
+* [PlatformCon](https://platformcon.com) (the world's largest platform engineering conference)

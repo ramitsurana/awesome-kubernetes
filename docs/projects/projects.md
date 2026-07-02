@@ -158,6 +158,7 @@ Projects
 * [Kit](http://invisionapp.github.io/kit/)
 * [Kontinuous](https://github.com/AcalephStorage/kontinuous)
 * [Razee](https://github.com/razee-io/Razee)
+* [Renovate Operator](https://github.com/mogenius/renovate-operator) - Run Renovate as an operator on your cluster with auto-discovery, parallelism, and a built-in dashboard for monitoring.
 * [Shipper](https://github.com/bookingcom/shipper) - Kubernetes native multi-cluster canary or blue-green rollouts using Helm.
 * [Vili](https://github.com/airware/vili)
 * [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)

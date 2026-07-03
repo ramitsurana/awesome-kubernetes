@@ -321,6 +321,7 @@ Projects
 * [Portainer](https://github.com/portainer/portainer) - Containerized web-based UI for managing for Docker, Docker Swarm and Kubernetes environments.
 * [CyclopsUI](https://github.com/cyclops-ui/cyclops) - Dynamically rendered UI for Kubernetes resources based on Helm templating engine
 * [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard with CNCF project integrations, real-time observability, and guided install missions across edge and cloud clusters.
+* [Radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI. A single Go binary that runs on your laptop or in-cluster, with live resource views, timeline rewind for incident debugging, and 24 integrations. Apache 2.0.
 
 ## Desktop applications
 

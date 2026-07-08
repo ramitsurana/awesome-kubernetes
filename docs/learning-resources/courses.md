@@ -18,3 +18,4 @@ MOOC Courses / Tutorials
   - [Imperative vs. Declarative — a Kubernetes Tutorial](https://medium.com/payscale-tech/imperative-vs-declarative-a-kubernetes-tutorial-4be66c5d8914) by [Adrien Trouillaud](https://github.com/adrienjt/)
   - [Learning Kubernetes, The Chinese Taoist Way](https://github.com/caicloud/kube-ladder)
   - [Hands-on tutorials on cloud and cloud native technologies](https://docs.meshery.io/guides/tutorials)
+  - [DevOps Mastery Curriculum - Kubernetes Module](https://github.com/Kuldeep2822k/devops-mastery-curriculum) - Production-grade, local-first Kubernetes module with break/fix labs (ImagePullBackOff, OOMKilled, probe failures), debugging playbooks, troubleshooting scenarios, runbooks, and ADR templates. Part of a 25-module zero-to-staff-engineer curriculum.

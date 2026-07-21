@@ -370,7 +370,7 @@ Projects
 * [Portainer](https://github.com/portainer/portainer) - Secure REST API proxy to Kubernetes environments, enabling integrations with external tools.
 * [kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Kubernetes client for Emacs
 * [lfk](https://github.com/janosmiko/lfk) - Yazi-inspired, vim-like keyboard focused Lightning Fast Kubernetes navigator.
-* [kbu](https://github.com/vulcanshen/kbu) - A lightweight terminal UI for Kubernetes management with vim-style navigation, CRD support, and log streaming.
+* [kbu](https://github.com/vulcanshen/kbu) - A single-pane Kubernetes TUI driven by Tab / Space / Enter / Esc — Relatives navigation, side-by-side YAML compare, and an embedded persistent shell, with zero hotkey memorization.
 
 ## Application deployment orchestration
 

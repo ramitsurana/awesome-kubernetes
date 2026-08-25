@@ -373,6 +373,7 @@ Projects
 * [Portainer](https://github.com/portainer/portainer) - Secure REST API proxy to Kubernetes environments, enabling integrations with external tools.
 * [kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Kubernetes client for Emacs
 * [lfk](https://github.com/janosmiko/lfk) - Yazi-inspired, vim-like keyboard focused Lightning Fast Kubernetes navigator.
+* [kubectl-plus](https://github.com/fabiocicerchia/kubectl-plus) - Drop-in kubectl wrapper: multi-cluster shortcuts, alias management, common operational one-liners.
 
 ## Application deployment orchestration
 

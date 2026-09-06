@@ -431,6 +431,7 @@ Projects
 * [kiam](https://github.com/uswitch/kiam) -  Allows cluster users to associate AWS IAM roles to Pods.
 * [Kubernetes Deprecation Checker](https://releaserun.com/tools/k8s-deprecation-checker/) - Free browser-based tool that scans Kubernetes YAML manifests for deprecated and removed API versions, with migration paths and fix suggestions.
 * [kube-bench](https://github.com/aquasecurity/kube-bench) - The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPLv3) autonomous penetration testing platform: 50 specialist agents over MCP driving 50+ offensive tools across web, API, Active Directory, Kubernetes and cloud, with proof of exploitation and a privacy gateway that keeps real values off the model.
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters.
 * [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) - Help building an adaptive and fine-grained pod security policy.
 * [kube2iam](https://github.com/jtblin/kube2iam) - Provides different AWS IAM roles for pods running on Kubernetes

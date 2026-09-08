@@ -133,7 +133,8 @@ Projects
 * [KubePug](https://github.com/rikatz/kubepug) - Kubernetes Pre-Upgrade Checker
 * [KubeLibrary](https://github.com/devopsspiral/KubeLibrary) - RobotFramework library for testing Kubernetes cluster
 * [Speedscale](https://speedscale.com/kubernetes/) - Speedscale is a traffic replay framework that simulates production conditions, so you can validate changes quickly and easily.
-* [Stoat](https://docs.stoat.dev/) - Stoat helps you access and browse logs for Kubernetes tests run on GitHub actions 
+* [Stoat](https://docs.stoat.dev/) - Stoat helps you access and browse logs for Kubernetes tests run on GitHub actions
+* [selenosis](https://github.com/alcounit/selenosis) - Stateless Kubernetes-native hub that routes Selenium, Playwright, and MCP sessions to on-demand browser pods via custom resources.
 
 ## Continuous Delivery
 

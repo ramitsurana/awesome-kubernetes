@@ -346,6 +346,7 @@ Projects
 * [kconf](https://github.com/particledecay/kconf) - Manage multiple kubeconfigs easily and switch between them
 * [Ksql](https://github.com/brendandburns/ksql)
 * [kube-prompt](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt.
+* [kprompt](https://github.com/kprompt/kprompt) - AI Kubernetes CLI: natural language → reviewable plan → approve → apply (BYOK, CI JSON).
 * [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh.
 * [Kube-shell](https://github.com/cloudnativelabs/kube-shell) - Integrated shell for working with the Kubernetes CLI
 * [kube-tmux](https://github.com/jonmosco/kube-tmux) - Kubernetes tmux plugin to display the current context and namespace

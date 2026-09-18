@@ -514,6 +514,7 @@ Projects
 * [KubeQ](https://kubeq.click) - A fast, simple, and powerful web-based Kubernetes manifest validator. No installation or config needed—just paste your manifest and get instant feedback on quality, security, and best practices. Powered by kubeval, kube-score, and kubeaudit. Great for pre-commit validation, reviewing charts, teaching, and CI/CD linting.
 * [YAML Validator](https://yamlvalidator.dev), [(chrome extension)](https://chromewebstore.google.com/detail/yaml-validator/gjgbohnlhijomhfiflapnlnmcpckgigg) - Online YAML validator, formatter and viewer with built-in Kubernetes JSON Schema validation. The Chrome extension also adds YAML code folding on GitHub.
 * [helmify](https://github.com/arttor/helmify) - CLI tool to convert K8s YAMLs into a Helm chart
+* [DevOpsLesson Kubernetes YAML Generator](https://devopslesson.com/tools/kubernetes-yaml-generator) - Generate Deployment, Service, Ingress, ConfigMap, Secret, StatefulSet, CronJob, PVC and HPA manifests in the browser, with production defaults for probes, resource requests and a non-root security context, and every field explained.
 
 ## Static Analysis
 

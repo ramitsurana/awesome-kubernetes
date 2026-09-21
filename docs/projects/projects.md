@@ -334,6 +334,7 @@ Projects
 * [KFtray](https://github.com/hcavarsan/kftray) - Manage and run multiple kubectl port-forward configurations directly in the menu bar, syncing configurations with git repositories.
 * [Kunobi](https://kunobi.ninja) - Kubernetes desktop IDE with an embedded MCP server, providing visual oversight of AI-driven cluster operations. Supports FluxCD, ArgoCD, Helm, and expanding to infrastructure beyond Kubernetes.
 * [Klustr](https://github.com/SametKUM/klustr) - A native (non-Electron) cross-platform Kubernetes desktop client driven purely by your kubeconfig. Multi-context live resource views, logs, exec, port-forwarding, full RBAC, CRDs, Helm, Argo CD, Flux CD and Gateway API support, with nothing installed in the cluster.
+* [Loupe](https://github.com/kryptonhq/loupe) - An Apache-2.0 licensed desktop client for Kubernetes, built with Rust and Tauri. Reads the same kubeconfig as kubectl, browses any resource including CRDs and Helm releases, streams logs, opens shells and port forwards, and can mark a context read-only so writes to production are refused.
 
 ## Mobile applications
 

@@ -443,6 +443,7 @@ Projects
 * [Tigera Calico Enterprise Edition](https://www.tigera.io/tigera-products/calico-enterprise/)
 * [Twistlock](http://www.twistlock.com/)
 * [M9sweeper](https://github.com/m9sweeper/m9sweeper) - Free security platform that wraps trivy, kubesec, kube-bench, OPA Gatekeeper, Project Falco, and kube-hunter
+* [rbac-auditor](https://github.com/fabiocicerchia/rbac-auditor) - Dumps and diffs Kubernetes RBAC: wildcard grants, cluster-admin bindings, unused SAs, who-can queries.
 
 ## Load balancing
 

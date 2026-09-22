@@ -548,6 +548,7 @@ Projects
 
 * [Kubectl-Debug](https://github.com/aylei/kubectl-debug)
 * [mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your k8s cluster, letting you run local code in cloud conditions. 
+* [cluster-info-collector](https://github.com/fabiocicerchia/cluster-info-collector) - One-shot Kubernetes snapshot collector: nodes, workloads, events, logs into a single tarball.
 
 ## Benchmark Tools
 

@@ -312,6 +312,7 @@ Projects
 
 ## Web applications
 
+* [abcdesktop.io](https://github.com/abcdesktopio) - Open source Kubernetes-native virtual desktop platform (VDI/DaaS). Delivers full Linux desktops and remote applications from any HTML5 browser — no client installation required.
 * [Kubernator](https://github.com/smpio/kubernator)
 * [Kubernetes Resource Report](https://codeberg.org/hjacobs/kube-resource-report) - report Kubernetes cluster and pod resource requests vs usage and generate static HTML
 * [Kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters

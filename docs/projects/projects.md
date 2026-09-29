@@ -117,6 +117,7 @@ Projects
 * [Chainsaw](https://github.com/kyverno/chainsaw) - The ultimate end to end testing tool for Kubernetes operators
 * [chaoskube](https://github.com/linki/chaoskube) - periodically kills random pods in your Kubernetes cluster
 * [DETIK](https://github.com/bats-core/bats-detik) - BATS extension for end-to-end tests of K8s applications
+* [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - A hardware-in-the-loop testing framework for cloud-native CI/CD pipelines
 * [k8s-testsuite](https://github.com/mrahbar/k8s-testsuite) - Helm chart for network and loadtesting of a Kubernetes cluster
 * [kboom](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester
 * [Krucible](https://usekrucible.com/) - Quickly create temporary Kubernetes clusters for testing

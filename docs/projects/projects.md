@@ -200,6 +200,7 @@ Projects
 * [KubeVirt](https://github.com/kubevirt)
 * [KUDO](https://kudo.dev) - KUDO (Kubernetes Universal Declarative Operator) is a toolset for writing Kubernetes Operators
 * [Kured](https://github.com/weaveworks/kured) - Kured (Kubernetes Reboot Daemon) is a Kubernetes daemonset that performs safe automatic node reboots
+* [LibreDB Studio Operator](https://github.com/libredb/libredb-studio/tree/main/operator) - Kubernetes operator that installs and manages LibreDB Studio, an open source web-based database editor. Also on [OperatorHub.io](https://operatorhub.io/operator/libredb-studio-operator).
 * [Memcached](https://github.com/kbst/memcached)
 * [MongoDB](https://github.com/kbst/mongodb)
 * [MySQL](https://github.com/oracle/mysql-operator)

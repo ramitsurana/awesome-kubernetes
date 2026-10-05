@@ -184,6 +184,7 @@ Projects
 * [Kube cert manager](https://github.com/kelseyhightower/kube-cert-manager)
 * [Cert Operator](https://github.com/giantswarm/cert-operator)
 * [cert-manager](https://github.com/jetstack/cert-manager)
+* [cloudctl-operator](https://github.com/Ningendo7/cloudctl-operator) - Kubernetes operator for everyday AWS application dependencies (SQS, SNS, DynamoDB, S3, KMS) with derived least-privilege IAM and safe deletion semantics.
 * [Container Linux Update Operator](https://github.com/coreos/container-linux-update-operator)
 * [Couchbase](https://www.couchbase.com/products/cloud/kubernetes)
 * [DB Operator](https://github.com/k8sdb/operator)

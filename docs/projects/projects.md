@@ -10,6 +10,7 @@ Projects
 
 * [Ambassador](http://www.getambassador.io) - API Gateway built on the Envoy Proxy
 * [Argo](https://github.com/argoproj/argo) - The Workflow Engine for Kubernetes
+* [Attune](https://github.com/attune-io/attune) - Kubernetes operator for safe, in-place pod resource right-sizing using real Prometheus metrics. VPA replacement.
 * [Bitnami Kubernetes Production Runtime](https://kubeprod.io)
 * [Capact](https://github.com/capactio/capact) - A framework to manage applications and infrastructure in a unified way
 * [Client Libraries](https://github.com/kubernetes/website/blob/master/content/en/docs/reference/using-api/client-libraries.md)

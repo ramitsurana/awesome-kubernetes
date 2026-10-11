@@ -77,6 +77,7 @@ Projects
 * [KRR](https://github.com/robusta-dev/krr) - Kubernetes CPU/Memory requests/limits recommendations based on existing data in Prometheus/Coralogix/Thanos/Mimir and more!
 * [Kubebox](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes
 * [Kubecost](https://kubecost.com/) - monitor resources following their financial cost
+* [Burn](https://github.com/tanrikuluozlem/burn) - CLI tool for Kubernetes cost analysis with per-namespace breakdown, real cloud pricing, and AI-powered recommendations  
 * [Kubedash](https://github.com/kubernetes/kubedash) - **Deprecated** repository is archived and read-only
 * [Kubernetes Operational View](https://codeberg.org/hjacobs/kube-ops-view) - read-only system dashboard for multiple K8s clusters
 * [K8Dash](https://github.com/herbrandson/k8dash) - Realtime K8S alternative dashboard

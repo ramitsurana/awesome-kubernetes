@@ -352,6 +352,7 @@ Projects
 * [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) - Aliases for Kubectl
 * [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins) - A collection of kubectl plugins handling everything from easy context switches to connecting to a container as any user (root included) via exec. Slightly tailored towards GKE users.
 * [kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using this kubectl plugin
+* [kubectl-tripwire](https://github.com/Dasmat13/kubectl-tripwire) - Admission webhook failure-chain and runtime dependency analyzer for Kubernetes
 * [kubectld](https://github.com/rancher/kubectld)
 * [kubectx](https://github.com/ahmetb/kubectx) - switch between clusters on kubectl
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)

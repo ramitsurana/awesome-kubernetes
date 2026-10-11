@@ -38,6 +38,7 @@ Useful Articles
 - [Kubernetes Monitoring: A complete Guide](https://middleware.io/blog/kubernetes-monitoring/) by [Laduram Vishnoi](https://twitter.com/laduramvishnoi)
 - [VictoriaMetrics: deploying a Kubernetes monitoring stack](https://rtfm.co.ua/en/victoriametrics-deploying-a-kubernetes-monitoring-stack/) by [Arseny Zinchenko](https://www.linkedin.com/in/setevoy/)
 - [Multi-site monitoring with HA and dynamic scale using VictoriaMetrics. A Practical guide](https://medium.com/israeli-tech-radar/all-at-once-monster-multi-site-monitoring-platform-with-victoriametrics-ebed75c3c5e) by [Amit Karni](https://www.linkedin.com/in/amit-karni/)
+- [Monitoring Container Resource Usage with Docker Stats](https://www.dash0.com/guides/docker-stats) by [Ayooluwa Isaiah](https://github.com/ayoisaiah)
 
 ### [Security](#security)
 
@@ -135,3 +136,4 @@ Useful Articles
 * [Ultimate Kubernetes Resource Planning Guide](https://medium.com/dev-genius/ultimate-kubernetes-resource-planning-guide-449a4fddd1d6) by [Yitaek Hwang](https://medium.com/@yitaek)
 * [Learn How to Mount a Local Drive in a Pod in minikube](https://thospfuller.com/2020/12/09/learn-how-to-mount-a-local-drive-in-a-pod-in-minikube-2021/) by [Thomas P. Fuller](https://thospfuller.com/)
 * [Kubernetes Deployments Demystified: A Guide to the Rolling Update Deployment Strategy](https://semaphoreci.com/blog/kubernetes-rolling-update-deployment) by [Mercy Bassey](https://www.linkedin.com/in/mercy-bassey-a18682192/)
+* [Kubernetes Exit Code 143: A Practical Guide](https://www.dash0.com/guides/kubernetes-exit-code-143-a-practical-guide) by [Erez Berkner](https://www.linkedin.com/in/erezbe/)

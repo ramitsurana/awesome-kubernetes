@@ -486,6 +486,7 @@ Projects
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - An open source platform for reproducible machine learning and deep learning on kubernetes
 * [seldon-core](https://github.com/SeldonIO/seldon-core) - Open source framework for deploying machine learning models on Kubernetes
 * [TensorFlow k8s](https://github.com/tensorflow/k8s)
+* [control-layer](https://github.com/doublewordai/control-layer) - Open source high-performance AI model gateway for routing, managing, and securing inference across model providers, deployable on Kubernetes via its Helm chart.
 
 ## Service Discovery
 

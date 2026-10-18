@@ -398,6 +398,7 @@ Projects
 * [Habitat](http://www.habitat.sh/docs/best-practices/#kubernetes)
 * [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
 * [K8comp](https://github.com/cststack/k8comp)
+* [kadet-hub](https://kadet-hub.org) - Registry of Kapitan generators for Kubernetes and Terraform, published to ghcr.io as OCI artifacts with provenance and an SBOM
 * [Kapitan](https://github.com/kapicorp/kapitan) - Inventory-driven configuration management for Kubernetes and infrastructure, with Jsonnet, Jinja2, Kadet, Helm, Kustomize, and CUE inputs
 * [kenv](https://github.com/thisendout/kenv)
 * [Kompose](https://github.com/kubernetes/kompose)

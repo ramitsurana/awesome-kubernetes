@@ -165,6 +165,7 @@ Projects
 * [Werf](https://werf.io) - GitOps tool with advanced features to build images and deploy them to Kubernetes. Integrates with any existing CI system.
 * [Buddy](https://buddy.works)
 * [PipeCD](https://pipecd.dev/) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
+* [OpenRun](https://github.com/openrundev/openrun) - Declarative app deployment platform for internal tools, on single-node or Kubernetes.
 
 ## Serverless Implementations
 

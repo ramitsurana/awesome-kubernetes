@@ -84,7 +84,7 @@ Projects
 * [Kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 * [Kubetail](https://github.com/johanhaleby/kubetail)
 * [Kubewatch](https://github.com/robusta-dev/kubewatch) - Kubernetes watcher that publishes k8s events and trigger handler notification to available collaboration hubs/notification channels.
-* [kwatch](https://github.com/abahmed/kwatch) - monitor & detect crashes in your Kubernetes(K8s) cluster instantly
+* [kwatch](https://kwatch.dev) - kwatch runs inside your Kubernetes cluster, traces every failure to its root cause, and sends one message: what broke, why, who changed it and what to do next.
 * [Kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys.
 * [Middleware](https://middleware.io/solutions/kubernetes-monitoring/) - Monitor your entire Kubernetes cluster, correlating metrics, traces and logs.
 * [Netdata](https://www.netdata.cloud) - Open-source Kubernetes monitoring. Deploy via a Netdata [Helm chart](https://github.com/netdata/helmchart).

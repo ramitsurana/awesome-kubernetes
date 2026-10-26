@@ -39,6 +39,7 @@ Projects
 * [Kubic-Project](https://github.com/kubic-project)
 * [Meshery](https://meshery.io) - Cloud native management plane for Kubernetes infrastructure and applications. CNCF Sandbox project.
 * [Reloader](https://github.com/stakater/Reloader) - Auto-load updates of ConfigMaps and Secrets into pods for Deployments, StatefulSets and DaemonSets
+* [Shoalcheck](https://shoalcheck.com) - Read-only Kubernetes audit and preflight from your laptop: which node will not drain, what blocks the next upgrade, and security, reliability and cost findings, each with the object it rests on. CLI and desktop app; preflight is free.
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
 * [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
 * [ktunnel](https://github.com/omrikiei/ktunnel) - A command-line tool that establishes a reverse tunnel between Kubernetes and your cluster, use it to locally develop/debug services or integrate with local resources.

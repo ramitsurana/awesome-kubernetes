@@ -9,6 +9,7 @@ MOOC Courses / Tutorials
   - [Introduction to Kubernetes at edX](http://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x)
   - [(Classpert) A list of free and paid Kubernetes courses from popular e-learning platforms](https://classpert.com/search/kubernetes)
   - [Complete Kubernetes Course in French (Free)](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/) - A free and complete Kubernetes course in French covering core concepts, advanced usage, and practical examples.
+  - [Kubernetes and Helm Hands-on Lab (Free)](https://georgesmomo.github.io/k8s-helm-lab/) - A free interactive course built on a kind-based lab ([source](https://github.com/georgesmomo/k8s-helm-lab)): deploy an app with plain YAML then Helm 4, debug ten failure scenarios, quizzes and a final exam.
 
   ### [Tutorials](#tutorials)
 

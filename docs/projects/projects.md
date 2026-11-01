@@ -534,6 +534,7 @@ Projects
 * [K8up](https://github.com/vshn/k8up) - Kubernetes and OpenShift Backup Operator based on restic
 * [burry.sh](https://github.com/mhausenblas/burry.sh) - Cloud Native backup and recovery for etcd, zookeeper and consul
 * [kube-backup](https://github.com/pieterlange/kube-backup) - Sync kubernetes state to git.
+* [Pickle](https://github.com/hatam-abolghasemi/Pickle) - Reverse-GitOps tool that watches Kubernetes objects and commits them to Git as clean, re-appliable YAML, so manual changes are never lost and configs can be restored.
 * [Stash](https://github.com/stashed/stash) - Stash is a Kubernetes operator that uses restic or Kubernetes CSI Driver VolumeSnapshotter  to backup your volumes and kubernetes state.
 * [Fairwinds Gemini](https://github.com/FairwindsOps/gemini) - Create and retire VolumeSnapshot objects on a regular schedule
 

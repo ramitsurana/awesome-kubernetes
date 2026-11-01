@@ -9,6 +9,7 @@ Projects
 *Projects built to make life with Kubernetes even better, more powerful, more scalable*
 
 * [Ambassador](http://www.getambassador.io) - API Gateway built on the Envoy Proxy
+* [Angry Duck](https://github.com/hatam-abolghasemi/Angry-Duck) - DaemonSet and controller that preheats container images onto every node, shares image blobs between nodes, and rescues ImagePullBackOff pods by fetching missing layers from neighbour nodes before the registry.
 * [Argo](https://github.com/argoproj/argo) - The Workflow Engine for Kubernetes
 * [Bitnami Kubernetes Production Runtime](https://kubeprod.io)
 * [Capact](https://github.com/capactio/capact) - A framework to manage applications and infrastructure in a unified way

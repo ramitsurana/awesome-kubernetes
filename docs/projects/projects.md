@@ -92,6 +92,7 @@ Projects
 * [Netsil](https://github.com/netsil/manifests)
 * [New Relic](https://newrelic.com/platform/kubernetes) - Kubernetes monitoring and visualization service.
 * [NexClipper](https://github.com/NexClipper/NexClipper) - An open source software for monitoring Kubernetes and containers.
+* [openresty-prometheus-exporter](https://github.com/hatam-abolghasemi/openresty-prometheus-exporter) - OpenResty sidecar that gives any pod L7 observability as Prometheus metrics (routes, status codes, latency, callers, outbound calls) without changing the app.
 * [Outcold Solutions](https://www.outcoldsolutions.com) - monitoring Kubernetes, OpenShift and Docker in Splunk Enterprise and Splunk Cloud (metrics and log forwarding)
 * [Prometheus](http://prometheus.io)
 * [Replex.io](https://replex.io) - Kubernetes Governance & Cost Control.

@@ -9,6 +9,7 @@ MOOC Courses / Tutorials
   - [Introduction to Kubernetes at edX](http://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x)
   - [(Classpert) A list of free and paid Kubernetes courses from popular e-learning platforms](https://classpert.com/search/kubernetes)
   - [Complete Kubernetes Course in French (Free)](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/) - A free and complete Kubernetes course in French covering core concepts, advanced usage, and practical examples.
+  - [Platform Engineering University](https://university.platformengineering.org) - Platform engineering courses and certifications
 
   ### [Tutorials](#tutorials)
 

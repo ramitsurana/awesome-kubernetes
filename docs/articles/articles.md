@@ -6,7 +6,7 @@ Useful Articles
 ### [Cloud Providers](#cloud-providers)
 
 - [AWS Advent 2014 - CoreOS and Kubernetes on AWS](http://awsadvent.tumblr.com/post/104260597799/aws-advent-2014-coreos-and-kubernetes-on-aws) by [Tim Dsyinger](https://twitter.com/dysinger)
-- [Kubernetes and AWS VPC Peering](http://ben.straub.cc/2015/08/19/kubernetes-aws-vpc-peering/) by [Ben Straub](https://twitter.com/benstraub)
+- [Kubernetes Node Pools and Networking](https://devtoolhub.com/kubernetes-node-pools-networking/) - Node pool sizing and taints across AWS, GCP, Azure, and DigitalOcean, plus how pod-to-pod networking actually works underneath.
 - [Testing Kubernetes on AWS](http://alanwill.me/Testing-Kubernetes-on-AWS/) by [Alan Will](https://twitter.com/alanwill)
 - [Manage Kubernetes Clusters on AWS Using Kops](https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/)
 - [Production grade Kubernetes on AWS: Primer (Part 1)](https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-primer-5b83e71c024) by [Guy Maliar](https://github.com/gmaliar)
@@ -90,7 +90,7 @@ Useful Articles
 
 - [How to pass the Certified Kubernetes Administrator (CKA) exam on the first attempt](https://medium.com/devopslinks/how-to-pass-certified-kubernetes-administrator-cka-exam-on-first-attempt-36c0ceb4c9e)
 - [Getting Kubernetes Certified: The (mostly) Free Way](https://medium.com/@yitaek/getting-kubernetes-certified-the-mostly-free-way-41c8b68c8ed4) by [Yitaek Hwang](https://medium.com/@yitaek)
-- [Answers to 5 Kubernetes CKAD Practice Questions](https://thospfuller.com/2020/11/09/answers_to_five_kubernetes_ckad_practice_questions_2021/) by [Thomas P. Fuller](https://thospfuller.com/)
+- [CKA vs CKAD vs CKS: Which Cert to Take First](https://devtoolhub.com/cka-vs-ckad-vs-cks/)
 
 ### [Devops Tools](#devops-tools)
 

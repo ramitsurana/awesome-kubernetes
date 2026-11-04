@@ -10,3 +10,4 @@ Interactive Learning Environments
 * [Meshery Playground](https://play.meshery.io/)
 * [YouBrokeProd](https://youbrokeprod.com) - Interactive game for debugging production incidents including Kubernetes CrashLoopBackOff scenarios
 * [SudoRank](https://sudorank.com) - Hands-on Kubernetes challenges on real Linux VMs covering pod debugging, service networking, RBAC, and cluster troubleshooting
+* [DevOpsLesson Kubernetes Playground](https://devopslesson.com/playground/kubernetes) - Free browser-based Kubernetes lab; run real kubectl commands in a simulated environment.

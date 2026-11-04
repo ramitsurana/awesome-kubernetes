@@ -18,6 +18,7 @@ Projects
 * [Fairwinds Pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 * [Fairwinds Polaris](https://github.com/reactiveops/polaris) - An open source dashboard for Kubernetes best practices
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
+* [Fortem](https://fortem.dev) - AI-native Internal Developer Platform for Kubernetes — self-hosted Helm chart install, NL-to-manifest generation, AIOps cost optimization, Kubernetes Operator architecture
 * [Forecastle](https://github.com/stakater/Forecastle) - A dashboard which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes
 * [Gefyra](https://github.com/gefyrahq/gefyra) - Connect Docker containers to any Kubernetes environment
 * [Getdeck](https://github.com/Getdeck/getdeck) - A CLI that creates reproducible Kubernetes environments for development and testing
@@ -72,6 +73,7 @@ Projects
 * [Instana](https://www.instana.com/) - Automatic Kubernetes Application Performance Monitoring
 * [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent for Kubernetes. Traces CUDA Runtime/Driver APIs and host kernel events with pod/namespace metadata enrichment. DaemonSet + Helm chart included.
 * [piqc](https://github.com/paralleliq/piqc) - Read-only Kubernetes scanner that detects GPU waste in AI inference deployments — idle GPUs, tier misplacement, and unallocated nodes. One command, nothing installed permanently.
+* [Kepler](https://github.com/sustainable-computing-io/kepler) - CNCF project that exports energy and power metrics for nodes, containers, pods, and VMs to Prometheus by reading hardware sensors such as Intel RAPL.
 * [kite](https://github.com/zxh326/kite) - A modern, lightweight Kubernetes dashboard.
 * [kail](https://github.com/boz/kail) - Kubernetes Log Viewer. Streams logs from all containers of all matching pods.
 * [KRR](https://github.com/robusta-dev/krr) - Kubernetes CPU/Memory requests/limits recommendations based on existing data in Prometheus/Coralogix/Thanos/Mimir and more!
@@ -85,7 +87,8 @@ Projects
 * [Kubetail](https://github.com/johanhaleby/kubetail)
 * [Kubewatch](https://github.com/robusta-dev/kubewatch) - Kubernetes watcher that publishes k8s events and trigger handler notification to available collaboration hubs/notification channels.
 * [kwatch](https://github.com/abahmed/kwatch) - monitor & detect crashes in your Kubernetes(K8s) cluster instantly
-* [Mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices, multiprotocol support: HTTP1.1, HTTP/2, AMQP, Kafka, Redis. 
+* [Kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys.
+* [Middleware](https://middleware.io/solutions/kubernetes-monitoring/) - Monitor your entire Kubernetes cluster, correlating metrics, traces and logs.
 * [Netdata](https://www.netdata.cloud) - Open-source Kubernetes monitoring. Deploy via a Netdata [Helm chart](https://github.com/netdata/helmchart).
 * [Netsil](https://github.com/netsil/manifests)
 * [New Relic](https://newrelic.com/platform/kubernetes) - Kubernetes monitoring and visualization service.
@@ -332,6 +335,9 @@ Projects
 * [K8Studio](https://github.com/guiqui/k8Studio) - K8Studio is a cross-platform client IDE to manage Kubernetes Clusters.
 * [KFtray](https://github.com/hcavarsan/kftray) - Manage and run multiple kubectl port-forward configurations directly in the menu bar, syncing configurations with git repositories.
 * [Kunobi](https://kunobi.ninja) - Kubernetes desktop IDE with an embedded MCP server, providing visual oversight of AI-driven cluster operations. Supports FluxCD, ArgoCD, Helm, and expanding to infrastructure beyond Kubernetes.
+* [Klustr](https://github.com/SametKUM/klustr) - A native (non-Electron) cross-platform Kubernetes desktop client driven purely by your kubeconfig. Multi-context live resource views, logs, exec, port-forwarding, full RBAC, CRDs, Helm, Argo CD, Flux CD and Gateway API support, with nothing installed in the cluster.
+* [JET Pilot](https://github.com/unxsist/jet-pilot) - Open-source Kubernetes desktop client focused on less clutter, speed and good looks. One place for every kubeconfig and cloud account (AWS, Google Cloud, Azure, DigitalOcean and more), multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal.
+* [KubeDrive](https://kubedrive.com) - A fast, native desktop client for Kubernetes on macOS, Windows and Linux, built for large clusters (50,000 pods open in seconds) and safe on production, with an MCP server that gives AI agents your clusters without a kubeconfig and asks you before every change.
 
 ## Mobile applications
 
@@ -385,7 +391,7 @@ Projects
 * [Skaffold](https://github.com/GoogleCloudPlatform/skaffold) - Command line tool that facilitates continuous development for Kubernetes applications.
 * [kubedog](https://github.com/flant/kubedog) - Kubedog is a library and cli utility that allows watching and following kubernetes resources in CI/CD deploy pipelines.
 * [kapp](https://github.com/k14s/kapp) - simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
-* [Ownkube](https://ownkube.io) - AI-enabled developer platform that runs in your own AWS account on k3s or EKS. Git push to deploy, managed Postgres, preview environments per PR, and AI error detection from day one.
+* [Ownkube](https://ownkube.io) - Developer platform that deploys apps, workers, jobs, managed Postgres and Valkey from your coding agent or GitHub, each app on its own HTTPS hostname. Ownkube runs the cluster for you.
 
 ## Configuration
 
@@ -396,7 +402,7 @@ Projects
 * [Habitat](http://www.habitat.sh/docs/best-practices/#kubernetes)
 * [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
 * [K8comp](https://github.com/cststack/k8comp)
-* [kapitan](https://github.com/deepmind/kapitan) - Manage complex deployments using jsonnet and jinja2
+* [Kapitan](https://github.com/kapicorp/kapitan) - Inventory-driven configuration management for Kubernetes and infrastructure, with Jsonnet, Jinja2, Kadet, Helm, Kustomize, and CUE inputs
 * [kenv](https://github.com/thisendout/kenv)
 * [Kompose](https://github.com/kubernetes/kompose)
 * [Konfd](https://github.com/kelseyhightower/konfd)

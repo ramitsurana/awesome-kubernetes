@@ -92,6 +92,7 @@ Projects
 * [Netsil](https://github.com/netsil/manifests)
 * [New Relic](https://newrelic.com/platform/kubernetes) - Kubernetes monitoring and visualization service.
 * [NexClipper](https://github.com/NexClipper/NexClipper) - An open source software for monitoring Kubernetes and containers.
+* [Nightingale](https://github.com/ccfos/nightingale) - Self-hosted alerting for metrics, logs, and databases, including Prometheus, with Helm-based deployment on Kubernetes
 * [Outcold Solutions](https://www.outcoldsolutions.com) - monitoring Kubernetes, OpenShift and Docker in Splunk Enterprise and Splunk Cloud (metrics and log forwarding)
 * [Prometheus](http://prometheus.io)
 * [Replex.io](https://replex.io) - Kubernetes Governance & Cost Control.

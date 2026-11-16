@@ -231,6 +231,7 @@ Projects
 
 * [Docker](http://docker.com)
 * [containerd](https://github.com/containerd/containerd)
+* [Brewlet](https://github.com/microsoft/brewlet) - Pre-GA containerd shim for running app-only OCI artifacts on platform-approved language runtimes managed on Kubernetes nodes.
 * [cri-containerd](https://github.com/kubernetes-incubator/cri-containerd) - Containerd-based implementation of Kubernetes Container Runtime Interface
 * [CRI-O](https://github.com/kubernetes-incubator/cri-o)
 * [Hyper.sh/frakti](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime

@@ -110,6 +110,7 @@ Projects
 * [kube-eventer](https://github.com/AliyunContainerService/kube-eventer) - kube-eventer emit kubernetes events to sinks (kafka, slack, webhook, etc)
 * [VictoriaMetrics](https://docs.victoriametrics.com/) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database.
 * [VictoriaLogs](https://docs.victoriametrics.com/victorialogs/) - VictoriaLogs is a fast and easy-to-use, open source logs solution. Highly scalable on cloud, kubernetes or on-premise setups.
+* [Aurora](https://github.com/Arvo-AI/aurora) - Open-source AI SRE. Takes an alert (PagerDuty, Datadog, Grafana, CloudWatch), runs kubectl and cloud CLIs in sandboxed pods to investigate across Kubernetes, AWS, Azure and GCP, and writes the root cause analysis. Self-hosted with Helm.
 
 ## Testing
 

@@ -9,6 +9,7 @@ Installers
 * [eksctl](https://eksctl.io/) - The official CLI for Amazon EKS
 * [Harvester](https://github.com/harvester/harvester) - Easily deploy and manage Kubernete clusters across multiple nodes. Includes Rancher, Longhorn, and KubeVirt, built on-top of K3OS.
 * [Juju](https://jaas.ai/canonical-kubernetes) - Ubuntu - Cloud Agnostic
+* [Kiri](https://github.com/libracoder/kiri) - Run a single-node Kubernetes cluster locally on macOS, Windows and Linux with one command (`kiri k8s start`), next to a Docker-compatible container runtime
 * [Krucible](https://usekrucible.com/) - Create temporary Kubernetes clusters for testing and development (no account required)
 * [KubeSphere](https://github.com/kubesphere/kubesphere) - Install Kubernetes and KubeSphere in multiple instances in an easy way, including full-stack cloud-native softwares, e.g. istio, ES, Prometheus, Fluent Bit, SonarQube, Jenkins.
 * [k0s](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes

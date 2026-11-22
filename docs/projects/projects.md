@@ -472,6 +472,7 @@ Projects
 * [Emissary Ingress](https://github.com/emissary-ingress/emissary): Emissary ingress built on top of Envoy
 * [Traefik](https://containo.us/traefik/)
 * [Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager)
+* [wxingress](https://github.com/wx-one/wxingress) - Drop-in successor to the retired ingress-nginx: its annotations, ConfigMap keys and defaults as they are, without Lua, with Gateway API support.
 * [Yggdrasil - Envoy Control Plane for Kubernetes Multi-cluster Ingress](https://github.com/uswitch/yggdrasil)
 
 ## Big Data

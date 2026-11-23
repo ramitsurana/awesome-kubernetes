@@ -25,6 +25,7 @@ building this awesome-repo would never have been possible. Thank You very much e
 
 ## What is Kubernetes?
 
+- [Akshay-G-Dev/skooner](https://github.com/Akshay-G-Dev/skooner) - A JavaScript Kubernetes dashboard for live cluster status, resource management, and health charts, based on skooner-k8s/skooner.
 > Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
 It groups containers that make up an application into logical units for easy management and discovery.
 

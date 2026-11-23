@@ -110,6 +110,7 @@ Projects
 * [kube-eventer](https://github.com/AliyunContainerService/kube-eventer) - kube-eventer emit kubernetes events to sinks (kafka, slack, webhook, etc)
 * [VictoriaMetrics](https://docs.victoriametrics.com/) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database.
 * [VictoriaLogs](https://docs.victoriametrics.com/victorialogs/) - VictoriaLogs is a fast and easy-to-use, open source logs solution. Highly scalable on cloud, kubernetes or on-premise setups.
+* [Akshay-G-Dev/skooner](https://github.com/Akshay-G-Dev/skooner) - A JavaScript Kubernetes dashboard for live cluster status, resource management, and health charts, based on skooner-k8s/skooner.
 
 ## Testing
 

@@ -337,6 +337,7 @@ Projects
 * [Klustr](https://github.com/SametKUM/klustr) - A native (non-Electron) cross-platform Kubernetes desktop client driven purely by your kubeconfig. Multi-context live resource views, logs, exec, port-forwarding, full RBAC, CRDs, Helm, Argo CD, Flux CD and Gateway API support, with nothing installed in the cluster.
 * [JET Pilot](https://github.com/unxsist/jet-pilot) - Open-source Kubernetes desktop client focused on less clutter, speed and good looks. One place for every kubeconfig and cloud account (AWS, Google Cloud, Azure, DigitalOcean and more), multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal.
 * [KubeDrive](https://kubedrive.com) - A fast, native desktop client for Kubernetes on macOS, Windows and Linux, built for large clusters (50,000 pods open in seconds) and safe on production, with an MCP server that gives AI agents your clusters without a kubeconfig and asks you before every change.
+* [k8sUI](https://github.com/akretrix/k8sUI) - Free, open-source native Kubernetes UI and desktop client built with Rust (`kube-rs`) and Tauri v2. Features multi-cluster AWS EKS Organization SSO, Azure AKS Entra ID, read-only guardrails with server-side dry-run diffs, live ANSI log streaming, and zero in-cluster footprint.
 
 ## Mobile applications
 

@@ -33,3 +33,4 @@ us with information*
 * [CI/CD with Docker and Kubernetes](https://semaphoreci.com/resources/cicd-docker-kubernetes) ([Open source book](https://github.com/semaphoreci/book-cicd-docker-kubernetes)) by [Marko Anastasov](https://github.com/markoa), [Jerome Petazzoni](https://github.com/jpetazzo), [Tomas Fernandez](https://github.com/TomFern)
 * [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) by [Marko Lukša](https://twitter.com/markoluksa?lang=en)
 * [Kubernetes for Developers](https://www.manning.com/books/kubernetes-for-developers) by [William Denniss](https://twitter.com/WilliamDenniss)
+* [Kubernetes: Once Upon A Time](https://leanpub.com/once-upon-a-time-kubernetes) by [Manuel Morejon](https://www.linkedin.com/in/manuelmorejon/)
